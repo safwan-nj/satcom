@@ -1,0 +1,204 @@
+#EXTINF:-1 tvg-logo="https://goo.gl/bi9htU" group-title="FRANCE",------- FRANCE --------
+http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
+http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/86x5hL",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/2u5uBf",fb.com/mr.safwan.alnajjar
+http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
+http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
+#EXTINF:0,Alsace 20
+#EXTVLCOPT:network-caching=1000
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:0,Bblack! Africa
+#EXTVLCOPT:network-caching=1000
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:0,Bblack! Caribbean
+#EXTVLCOPT:network-caching=1000
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:0,BFM Paris
+#EXTVLCOPT:network-caching=1000
+http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
+#EXTINF:0,BFM Business
+#EXTVLCOPT:network-caching=1000
+http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8
+#EXTINF:0,CGTN
+#EXTVLCOPT:network-caching=1000
+http://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:0,Chasse et Peche
+#EXTVLCOPT:network-caching=1000
+http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0,CNews
+#EXTVLCOPT:network-caching=1000
+http://stream-03.nyc.dailymotion.com/25/dm/3/x3b68jn/live-3.m3u8
+#EXTINF:0,DJing Animation
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:0,DJing Classics
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:0,DJing Dancefloor
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:0,DJing Electro Rock
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:0,DJing French Touch
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:0,DJing Hits
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:0,DJing Hot Hot Hot
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
+#EXTINF:0,DJing Karaoke
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:0,DJing Live
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/live.m3u8
+#EXTINF:0,DJing Summer Vibes
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:0,DJing Underground
+#EXTVLCOPT:network-caching=1000
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:0,Fashion TV (Opt-1)
+#EXTVLCOPT:network-caching=1000
+http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
+#EXTINF:0,Fashion TV (Opt-2)
+#EXTVLCOPT:network-caching=1000
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:0,Fashion TV (Opt-3)
+#EXTVLCOPT:network-caching=1000
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_f-men_ad_dbn_27047_fmen_104_hls.smil/playlist.m3u8
+#EXTINF:0,France 24 (Opt-1)
+#EXTVLCOPT:network-caching=1000
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:0,France 24 (Opt-2)
+#EXTVLCOPT:network-caching=1000
+http://61.58.60.230:9000/live/131.m3u8?fluxustv.m3u8
+#EXTINF:0,FranceInfo
+#EXTVLCOPT:network-caching=1000
+https://stream-02.nyc.dailymotion.com/39/dm/3/x4rdeu6/live-3.m3u8
+#EXTINF:0,Francophonie 24
+#EXTVLCOPT:network-caching=1000
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:0,Gong
+#EXTVLCOPT:network-caching=1000
+http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+#EXTINF:0,GONG MAX
+#EXTVLCOPT:network-caching=1000
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
+#EXTINF:0,La Chaine Normande
+#EXTVLCOPT:network-caching=1000
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:0,L'Equipe 21
+#EXTVLCOPT:network-caching=1000
+http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
+#EXTINF:0,RT
+#EXTVLCOPT:network-caching=1000
+http://secure-streams.akamaized.net/rt-fr/index2500.m3u8
+#EXTINF:0,TV5 Monde Asie
+#EXTVLCOPT:network-caching=1000
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226322/1.m3u8
+#EXTINF:0,TV5 Monde Info
+#EXTVLCOPT:network-caching=1000
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0,Trace Africa
+#EXTVLCOPT:network-caching=1000
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:0,Trace Gospel
+#EXTVLCOPT:network-caching=1000
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:0,Trace Kitoko
+#EXTVLCOPT:network-caching=1000
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:0,Trace Mziki
+#EXTVLCOPT:network-caching=1000
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:0,Trace Naija
+#EXTVLCOPT:network-caching=1000
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:0,Trace Tropical
+#EXTVLCOPT:network-caching=1000
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:0,TVPI
+#EXTVLCOPT:network-caching=1000
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+#EXTINF:0,~ Haiti TV ~
+#EXTVLCOPT:network-caching=1000
+http://www.lengua.com/anthems/Haiti.mp3
+#EXTINF:0,Radio TeleBoston (USA)
+#EXTVLCOPT:network-caching=1000
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:0,Ynet TV
+#EXTVLCOPT:network-caching=1000
+http://162.244.83.199:1935/ynettv/ynettv/playlist.m3u8
+#EXTINF:0,~ Cameroon TV ~
+#EXTVLCOPT:network-caching=1000
+http://www.lengua.com/anthems/Cameroon.mp3
+#EXTINF:0,Afrique Media
+#EXTVLCOPT:network-caching=1000
+http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/str_afm_afm/str_afm_afm_360p/playlist.m3u8
+#EXTINF:0,Vision 4
+#EXTVLCOPT:network-caching=1000
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:0,~ Ivory Coast TV ~
+#EXTVLCOPT:network-caching=1000
+http://www.lengua.com/anthems/IvoryCoast.mp3
+#EXTINF:0,RTI 1
+#EXTVLCOPT:network-caching=1000
+http://185.59.221.143:1935/edge/rti1/playlist.m3u8
+#EXTINF:0,RTI 2
+#EXTVLCOPT:network-caching=1000
+http://185.59.221.143:1935/edge/rti2/playlist.m3u8
+#EXTINF:0,~ Rwanda TV ~
+#EXTVLCOPT:network-caching=1000
+http://www.lengua.com/anthems/Rwanda.mp3
+#EXTINF:0,RTV
+#EXTVLCOPT:network-caching=1000
+http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
+#EXTINF:0,~ Switzerland TV ~
+#EXTVLCOPT:network-caching=1000
+http://www.lengua.com/anthems/Switzerland.mp3
+#EXTINF:0,Beatz TV
+#EXTVLCOPT:network-caching=1000
+http://beats.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8
+#EXTINF:0,Kanal9
+#EXTVLCOPT:network-caching=1000
+https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
+#EXTINF:0,LFM TV
+#EXTVLCOPT:network-caching=1000
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+#EXTINF:0,Radio Pilatus TV
+#EXTVLCOPT:network-caching=1000
+https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+#EXTINF:0,Tele M1
+#EXTVLCOPT:network-caching=1000
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+#EXTINF:0,TeleBarn (Opt-1)
+#EXTVLCOPT:network-caching=1000
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
+#EXTINF:0,TeleBarn (Opt-2)
+#EXTVLCOPT:network-caching=1000
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
+#EXTINF:0,Telebasel
+#EXTVLCOPT:network-caching=1000
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+#EXTINF:0,TeleTicino (Italian)
+#EXTVLCOPT:network-caching=1000
+http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8
+#EXTINF:0,TeleZuri (Opt-1)
+#EXTVLCOPT:network-caching=1000
+https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/sd/10000/t/AFb4DZ0W2ts1a8fV5xo1VQ/index-s32.m3u8
+#EXTINF:0,TeleZuri (Opt-2)
+#EXTVLCOPT:network-caching=1000
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/t/Bnhb6PI9GIjiKE7UgQC_qg/index-s32.m3u8
+#EXTINF:0,TVM 3
+#EXTVLCOPT:network-caching=1000
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",logo not exist
