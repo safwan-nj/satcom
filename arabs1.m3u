@@ -59,7 +59,7 @@ http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/7p4X8D",Aljadeed
 http://livecdnh3.tvanywhere.ae/hls/jadeed/03.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Ggp24v",MTV lebanon
-https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8
+http://95.170.215.124/live/disk1/MTV_Lebanon/anevia1/MTV_Lebanon.m3u8
 
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/lb/aliman-tv-95x95.gif",Al Iman
 https://svs.itworkscdn.net/alimanlive/imantv.smil/chunklist.m3u8
