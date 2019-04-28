@@ -113,7 +113,7 @@ http://109.236.92.216:9090/Bein-Movies3/mpegts
 http://109.236.92.216:9090/Bein-Movies4/mpegts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/p4BmQf" group-title="Melody",======Melody=======
-https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
+
 #EXTINF:-1 tvg-logo="https://goo.gl/BSf41c",Melody Aflam
 
 #EXTINF:-1 tvg-logo="https://goo.gl/n61Rn2",Melody drama
@@ -320,36 +320,49 @@ http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Samira_TV_logo.svg/2000px-Samira_TV_logo.svg.png", Samira Tv
-http://144.217.76.52:8080/SAMIRATV/tracks-v1a1/mono.m3u8
+http://41.111.166.173:8081/live/SAMIRA_TV/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BVjTCsFQ5Z0/WgGGZE1lesI/AAAAAAAAAWA/NCJ_fVbdACES4Qiwsgy4hpBlC3xUswCdACLcBGAs/s1600/index.jpg", El Balad Tv
 http://62.210.141.179:8000/live/ibrahim/123456/131.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BVjTCsFQ5Z0/WgGGZE1lesI/AAAAAAAAAWA/NCJ_fVbdACES4Qiwsgy4hpBlC3xUswCdACLcBGAs/s1600/index.jpg", El Balad Tv
+http://41.111.166.173:8081/live/EL_BILAD/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://dzairnewstv.com/tv/assets/front/images/logo.png", Dzair Tv
 http://mobi.oui9.com/hls/dzair/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://dzairnewstv.com/tv/assets/front/images/logo.png", Dzair Tv
+http://41.111.166.173:8081/live/dzairtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-25vD56GCzZo/WgSjzIYqiMI/AAAAAAAAJL8/nQU_VHvph1Yc8SWz7oBuxwCOPLvsZmzwACLcBGAs/s1600/unnamed.png", Canal Algerie
+http://41.111.166.173:8081/live/CanalAlgerie/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/59978/logo_beur%20tv.png", Beur TV
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/59978/logo_beur%20tv.png", Numedia
+http://41.111.166.173:8081/live/NUMIDIA/chunks.m3u8
+#EXTINF:-1 tvg-logo="",EL HAYAT TV
+http://41.111.166.173:8081/live/EL_HAYAT_TV/chunks.m3u8
+#EXTINF:-1 tvg-logo="", Ennahar
+http://41.111.166.173:8081/live/ennahartv/chunks.m3u8
+#EXTINF:-1 tvg-logo="", Al Anis
+http://m.live.net.sa:1935/live/alanis/chunklist_w1335827309.m3u8
+#EXTINF:-1 tvg-logo="",Magharibia
+http://185.59.222.165:8081/atnProvider/magharibia_480p/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Echourouk_TV_logo.svg/1200px-Echourouk_TV_logo.svg.png", Echourouk
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/ECHOUROUK-NEWS.png", Echourouk News
-
+http://41.111.166.173:8081/live/Echorouk_TV/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.arabe-media.com/tv/img141.jpg", Eptv Terrestre Tv Algerie
-
+http://41.111.166.173:8081/live/ENTV/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Alg%C3%A9rie3ThalithaTV.png", Algeria Tv 3
 http://mobi.oui9.com/hls/dz3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://android.volkatv.biz/logochanel/735.png", Algerie Tv 4
-
+http://41.111.166.173:8081/live/TV4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-6Cqw7rsEpsM/Vi50knLbdWI/AAAAAAAAAkk/Mod1sM7841M/s1600/ENTV_5_Coran.png", Algerie Tv 5
-
+http://41.111.166.173:8081/live/TV5/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www7.0zz0.com/2015/04/17/18/813683963.jpg", Berbere Music
@@ -359,7 +372,7 @@ http://mobi.oui9.com/hls/dz3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/BerbereTV.jpg", Berbere TV
 
 #EXTINF:-1 tvg-logo="http://ismiletv.com/wp-content/uploads/2017/04/Al-Heddaf-200x153.jpg", Al Haddaf
-
+http://41.111.166.173:8081/live/EL_HEDDAF_TV/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ismiletv.com/wp-content/uploads/2017/04/Al-Heddaf-200x153.jpg", Al Haddaf
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eldjazairiaone1234.png", El Djazairia One
