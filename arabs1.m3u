@@ -113,7 +113,7 @@ http://109.236.92.216:9090/Bein-Movies3/mpegts
 http://109.236.92.216:9090/Bein-Movies4/mpegts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/p4BmQf" group-title="Melody",======Melody=======
-
+https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 #EXTINF:-1 tvg-logo="https://goo.gl/BSf41c",Melody Aflam
 
 #EXTINF:-1 tvg-logo="https://goo.gl/n61Rn2",Melody drama
@@ -271,27 +271,30 @@ http://91.134.145.75/Dijlah/playlist.m3u8
 https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 
 #EXTINF:0 tvg-logo="https://goo.gl/oUB4Dz",Alwataniya 1
-
+http://199.66.90.27:8888/16254_TunisiaNat1/index.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/uUDT1H",Alwataniya 2
 
 #EXTINF:0 tvg-logo="https://goo.gl/LPVPmr",Nesma Live
-https://stream-01.dc3.dailymotion.com/sec(uK1M-ag2Z_MzR7ZEmmKyDQetlQJHAI_jXrxajM_S-7s)/dm/3/x6lt4lo/s/live-3.m3u8
+http://109.236.92.216:9090/nessma/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/vDQcuZ",Elhiwar Ettounsi
-
+https://skyfire.vimeocdn.com/1556482114-0x9f746d56bf0b92cc540694875c61cda8167ef806/332959217/video/1312041129/playlist.m3u8
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",M Tunisia
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/HhKJYK",Zaytouna
-
+http://109.236.92.216:9090/zaytoona/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/G91nAk",Jawhara Fm
 #EXTINF:0 tvg-logo="https://goo.gl/FaUDEs",Hannibal
-
+http://199.66.90.27:8888/16291_Hannibal/index.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/NAsNkw",Tunisia First TV
-
+#EXTINF:0 tvg-logo="",STV
+https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w535964053.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/G2Yje2",Ettasiaa
 
 #EXTINF:0 tvg-logo="https://goo.gl/vskFGU",Al Insen
 
+#EXTINF:0 tvg-logo="",Al Janoubia
+http://147.135.254.144:8081/livetv3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/YASYFB" group-title="MAROC",=====MAROC========
 https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 #EXTINF:-1 tvg-logo="https://goo.gl/Cpdiby",2M Monde
