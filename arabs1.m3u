@@ -21,7 +21,7 @@ http://82.137.248.16:1935/Nour/stream20112018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",SamaTV
 https://svs.itworkscdn.net/samatvlive/sama.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",SamaTV S2
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/7189
+http://109.236.92.216:9090/sama_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana Souria sd
 https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana Souria 
