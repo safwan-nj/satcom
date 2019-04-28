@@ -70,7 +70,7 @@ http://95.170.215.124/live/disk1/LDC/anevia1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/mVMJx4",OTV
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/qXKqRV",NBN
-https://cllive.itworkscdn.net/nbnlive/token=nva=1554600734~dirs=1~hash=04b097effae95e6022bc2/nbnhd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/swcwnE",Future TV
 http://streaming.i-sat.tv:8081/livestream/future/chunks.m3u8
 
