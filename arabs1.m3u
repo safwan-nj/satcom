@@ -86,6 +86,8 @@ http://185.27.116.54:8081/livestream/teleliban/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/jBWNeU" group-title="ROTANA",======ROTANA=======
 http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/BoM2KE",Rotana cinema
+http://95.170.215.124/live/disk1/Rotana-Cinema-KSA/anevia1/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/BoM2KE",Rotana cinema
 http://livecdnh3.tvanywhere.ae/hls/rotcinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/uuw9Fe",Rotana Aflam
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/index.m3u8
@@ -96,17 +98,8 @@ http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/jmqpbp",Rotana music
 http://livecdnh3.tvanywhere.ae/hls/rotmusic/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/BoM2KE",Rotana cinema
-http://95.170.215.124/live/disk1/Rotana-Cinema-KSA/anevia1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/uuw9Fe",Rotana Aflam
-http://185.27.116.54:8081/livestream/rotanaaflamm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/jmqpbp",Rotana music
-http://streaming.i-sat.tv:8081/livestream/rotanamusick/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/NZ3ZUa",Rotana clip
-http://streaming.i-sat.tv:1935/livestream/rtcp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/we1jqe",Rotana Drama
-#EXTINF:-1 tvg-logo="https://goo.gl/hAZ938",Rotana khalijia
-http://streaming.i-sat.tv:8081/livestream/rotanakhalejeh/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/be4Nzd" group-title="Bein Movies",======Bein Movies=======
 http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
