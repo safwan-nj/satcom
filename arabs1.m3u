@@ -72,7 +72,7 @@ https://svs.itworkscdn.net/otvlebanonlive/otv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/qXKqRV",NBN
 
 #EXTINF:-1 tvg-logo="https://goo.gl/swcwnE",Future TV
-http://streaming.i-sat.tv:8081/livestream/future/chunks.m3u8
+http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/F3xjPh" ,Al Mayadeen
 
