@@ -1,3 +1,39 @@
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD",======BeIn Sports SD =======
+http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
+#EXTINF: tvg-logo="https://goo.gl/KT6bko",Bein 1 SD
+
+http://45.77.68.138:8000/live/SatcomIptv/Gold/34.ts
+#EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEIN 2 SD
+
+http://45.77.68.138:8000/live/SatcomIptv/Gold/35.ts
+#EXTINF: tvg-logo="https://goo.gl/pE62z2",BEIN 3 SD
+
+http://45.77.68.138:8000/live/SatcomIptv/Gold/36.ts
+#EXTINF: tvg-logo="https://goo.gl/expt4F",BEIN 4 SD
+
+http://45.77.68.138:8000/live/SatcomIptv/Gold/37.ts
+#EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEIN 5 SD
+
+http://45.77.68.138:8000/live/SatcomIptv/Gold/38.ts
+#EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEIN 6 SD
+
+http://45.77.68.138:8000/live/SatcomIptv/Gold/39.ts
+#EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEIN 7 SD
+
+http://45.77.68.138:8000/live/SatcomIptv/Gold/40.ts
+#EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEIN 8 SD
+
+http://45.77.68.138:8000/live/SatcomIptv/Gold/41.ts
+#EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEIN 9 SD
+
+http://45.77.68.138:8000/live/SatcomIptv/Gold/42.ts
+#EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEIN 10 SD
+
+http://45.77.68.138:8000/live/SatcomIptv/Gold/43.ts
+
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD1",======BeIn Sports HD1 =======
 http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
@@ -10,27 +46,27 @@ http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
 http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
 
 #EXTINF:0,Bein-Sport-News HD
-http://45.77.68.138:8000/live/sUoTn0Pieo/zCJh587VyC/32.ts
+http://45.77.68.138:8000/live/SatcomIptv/Gold/32.ts
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1 HD
-http://45.77.68.138:8000/live/sUoTn0Pieo/zCJh587VyC/17.ts
+http://45.77.68.138:8000/live/SatcomIptv/Gold/17.ts
 #EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEINSPORTS-2 HD
-http://45.77.68.138:8000/live/sUoTn0Pieo/zCJh587VyC/18.ts
+http://45.77.68.138:8000/live/SatcomIptv/Gold/18.ts
 #EXTINF: tvg-logo="https://goo.gl/pE62z2",BEINSPORTS-3 HD
-http://45.77.68.138:8000/live/sUoTn0Pieo/zCJh587VyC/19.ts
+http://45.77.68.138:8000/live/SatcomIptv/Gold/19.ts
 #EXTINF: tvg-logo="https://goo.gl/expt4F",BEINSPORTS-4 HD
-http://45.77.68.138:8000/live/sUoTn0Pieo/zCJh587VyC/20.ts
+http://45.77.68.138:8000/live/SatcomIptv/Gold/20.ts
 #EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEINSPORTS-5 HD
-http://45.77.68.138:8000/live/sUoTn0Pieo/zCJh587VyC/21.ts
+http://45.77.68.138:8000/live/SatcomIptv/Gold/21.ts
 #EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEINSPORTS-6 HD
-http://45.77.68.138:8000/live/sUoTn0Pieo/zCJh587VyC/22.ts
+http://45.77.68.138:8000/live/SatcomIptv/Gold/22.ts
 #EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEINSPORTS-7 HD
-http://45.77.68.138:8000/live/sUoTn0Pieo/zCJh587VyC/23.ts
+http://45.77.68.138:8000/live/SatcomIptv/Gold/23.ts
 #EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEINSPORTS-8 HD
-http://45.77.68.138:8000/live/sUoTn0Pieo/zCJh587VyC/24.ts
+http://45.77.68.138:8000/live/SatcomIptv/Gold/24.ts
 #EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEINSPORTS-9 HD
-http://45.77.68.138:8000/live/sUoTn0Pieo/zCJh587VyC/25.ts
+http://45.77.68.138:8000/live/SatcomIptv/Gold/25.ts
 #EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEINSPORTS-10 HD
-http://45.77.68.138:8000/live/sUoTn0Pieo/zCJh587VyC/26.ts
+http://45.77.68.138:8000/live/SatcomIptv/Gold/26.ts
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 HD
 
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 HD
