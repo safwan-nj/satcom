@@ -1,6 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.news18.com/ibnlive/uploads/2019/03/Game-of-Thrones-2.jpg" group-title="Game of thrones S8",------- Game of thrones S8 -------
+https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Game of thrones S8 E1
+http://video.alfajertv.com:8081/vodAlfajer/series/game-of-thrones-s8/Game-Of-Thrones-S8-E001.mp4
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Game of thrones S8 E2
+http://video.alfajertv.com:8081/vodAlfajer/series/game-of-thrones-s8/Game-Of-Thrones-S8-E002.mp4
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Game of thrones S8 E3
+http://video.alfajertv.com:8081/vodAlfajer/series/game-of-thrones-s8/Game-Of-Thrones-S8-E003.mp4
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Game of thrones S8 E4
+http://video.alfajertv.com:8081/vodAlfajer/series/game-of-thrones-s8/Game-Of-Thrones-S8-E004.mp4
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Game of thrones S8 E5
+http://video.alfajertv.com:8081/vodAlfajer/series/game-of-thrones-s8/Game-Of-Thrones-S8-E005.mp4
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Game of thrones S8 E6
+http://video.alfajertv.com:8081/vodAlfajer/series/game-of-thrones-s8/Game-Of-Thrones-S8-E006.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/D-tv0GF6noQ/maxresdefault.jpg" group-title="Arab Movies",------- Arab Movies -------
-http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
+https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",Plan B
 http://vodo.janokoro.org/hls//Movie-A8000/Arabic/Plan-B/Plan-B.mp4/index.m3u8
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",Raghba Motawahisha
@@ -508,7 +523,7 @@ http://vodo.janokoro.org/hls/Movie-A8000/Arabic/woh/woh.mkv.mp4/index.m3u8
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",ON FIRE
 http://vodo.janokoro.org/hls/Movie-A8000/Arabic/onfire/onfire.mkv.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://pr24x7.files.wordpress.com/2013/06/movies-now-white-background.jpg" group-title="English Movies",------- English Movies -------
-http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
+https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",The House With A Clock In Its Walls 2018
 http://vodo.janokoro.org/hls//Movie-A8000/English/The-House-with-a-Clock-in-Its-Walls-2018/Final-Score-2018.mp4/index.m3u8
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",Crazy Rich Asians 2018
@@ -2118,7 +2133,7 @@ http://vodo.janokoro.org/hls/Movie-A8000/English/The-BFG-2016/The-BFG-2016.mkv.m
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",Arlo: The Burping Pig
 http://vodo.janokoro.org/hls/Movie-A8000/English/ATBP-2016/ATBP-2016.mkv.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://arhivurokov.ru/multiurok/html/2017/07/05/s_595d2d076a61c/img0.jpg" group-title="Deutsch Movies",------- Deutsch Movies -------
-http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
+https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",The Whistleblower
 http://vodo.janokoro.org/hls/Movie-A8000/Germany/thewhistleblower/thewhistleblower.mkv.mp4/index.m3u8
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",Hunter's Prayer
@@ -2184,7 +2199,7 @@ http://vodo.janokoro.org/hls/Movie-A8000/Germany/The-Dark-Valley-2014/The-Dark-V
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",Cub
 http://vodo.janokoro.org/hls/Movie-A8000/Germany/Welp-2014/Welp-2014.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.c7nema.net/galeria/albums/userpics/10001/8ea9e6f7-de08-446f-9217-58a6ac3a5763~0.jpg" group-title="Frensh Movies",------- Frensh Movies -------
-http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
+https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",The Wizzle War 2017
 http://vodo.janokoro.org/hls//Movie-A8000/France/The-Wizzle-War-2017/The-Wizzle-War-2017.mp4/index.m3u8
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",Coraline
