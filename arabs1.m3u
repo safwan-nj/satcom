@@ -22,10 +22,10 @@ http://82.137.248.16:1935/Nour/stream20112018/chunklist.m3u8
 https://svs.itworkscdn.net/samatvlive/sama.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",SamaTV S2
 http://109.236.92.216:9090/sama_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana Souria sd
+#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana SD
 https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana Souria 
-http://mtqtqloqdxtlive.mediatriple.net/mtqtqloqdxtlive/u_stream_5ae30a53230df_3/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana  HD
+https://svs.itworkscdn.net/lanatvlive/lana/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
 http://streaming.i-sat.tv:1935/livestream/alminbar/chunklist.m3u8
 
@@ -82,7 +82,7 @@ http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.akkarpress.com/wp-content/uploads/2014/08/IMG_9570.jpg" ,TL Lebanon
 http://185.27.116.54:8081/livestream/teleliban/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/97hudG",Arabica TV
-
+http://iqsite.dynv6.net/live/disk1/Arabica/anevia1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/jBWNeU" group-title="ROTANA",======ROTANA=======
 https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 #EXTINF:-1 tvg-logo="https://goo.gl/BoM2KE",Rotana cinema
@@ -166,6 +166,7 @@ http://95.170.215.124/live/disk1/Zee_Aflam/anevia1/Zee_Aflam.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/4vmvAX",Zee Alwan
 http://95.170.215.124/live/disk1/ZEE-ALWAN/anevia1/ZEE-ALWAN.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/oXGqeX",Wanasah
+http://livecdnh2.tvanywhere.ae/hls/wanasah/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/H6Vx6U" group-title="EGYPT",======EGYPT=======
 https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
@@ -185,17 +186,17 @@ http://38.99.146.36:7777/AlMasriyah_HD.m3u8?session=00bf13a4c3abcd3861c45a5178c7
 http://95.170.215.124/live/disk1/dmc/anevia1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ecD8Q9",dmc Drama
-
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/KvzaEC",cbc
-
+http://iqsite.dynv6.net/live/disk1/CBC/anevia1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/KvzaEC",cbc 2
 
 #EXTINF:-1 tvg-logo="https://goo.gl/RFtbdU",cbc drama
-
+http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/FoP5pB",cbc Sofra
-
+http://iptv.webredirect.org:8080/CBCSOFRA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vy1MgL",CBC Extra
 
@@ -205,11 +206,11 @@ http://95.170.215.124/live/disk1/dmc/anevia1/index.m3u8
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/LFSFG7",Nile Cinema
-
+http://androidv2.dynv6.net:9090/nile_cinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/RirPxG",Nile_drama
-
+http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/ixcrbF",Nile_comedy
-
+http://androidv2.dynv6.net:9090/nile_comedy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/vC2b3s",Nile Culture
 
 #EXTINF:-1 tvg-logo="https://goo.gl/rUVXhi",Nile Family
@@ -224,7 +225,7 @@ http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
 https://livestreaming5.onlinehorizons.net/hls-live/MehwarTVOnline/_definst_/liveevent/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ikqqeY",Alhayat 1
-
+http://livecdnh2.tvanywhere.ae/hls/hayat/03.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/rNdKYf",Al Hayat 2
 
 
@@ -232,14 +233,21 @@ https://livestreaming5.onlinehorizons.net/hls-live/MehwarTVOnline/_definst_/live
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/5zEe7i",Al Nahar
-
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/9bA5dd",Al Nahar Cinema
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/8oUGYt",Al Nahar Drama
-
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/04.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/899jEC",Al Nahar One
+#EXTINF:-1 tvg-logo="https://goo.gl/bi9htU",Sada Albalad
+http://orange.cdn.mangomolo.com/eg1/smil:eg1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/bi9htU",Sada Albalad S2
+oiptv.webredirect.org:8080/SADA_ELBALAD/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/bi9htU",Mazzika
+http://iqsite.dynv6.net/live/disk1/Mazzika/anevia1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/yXJFyG" group-title="IRAQ",=====IRAQ========
 https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
