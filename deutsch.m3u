@@ -1,15 +1,19 @@
-#EXTINF:-1 tvg-logo="https://goo.gl/GSd7Dn" group-title="DEUTSCH",======DEUTSCH=======
-http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GSd7Dn" group-title="Austria",======Austria=======
+https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 #EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
-http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/86x5hL",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
-http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
+https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
+#EXTINF:-1 tvg-logo="https://goo.gl/86x5hL",Join my facebook 
+https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 #EXTINF:-1 tvg-logo="https://goo.gl/2u5uBf",fb.com/mr.safwan.alnajjar
-http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
+https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
-http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
+https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 1 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 1 New
+http://51.159.3.34/e10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 2 New
+http://orf2.orfstg.cdn.ors.at/out/u/orf2/q8c/manifest_6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 1 Original
 https://orf1.cdn.ors.at/out/u/orf1/qxb/manifest_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 2 
 https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest_1.m3u8
@@ -17,6 +21,8 @@ https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest_1.m3u8
 https://orf3.cdn.ors.at/out/u/orf3/qxb/manifest_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF Sport 
 https://orfs.cdn.ors.at/out/u/orfs/qxb/manifest_1.m3u8
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fMS2Rnos2Ek/TigUPuIjEKI/AAAAAAAABw8/37aWVpMG2eQ/s1600/Kabel+Eins+icon+1990s.png",Kabel 1
+http://46.4.79.153/e5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/3n3CsA",Namsa At
 http://78.129.184.15:34546/streaming/stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://austria24.tv/wp-content/uploads/2014/01/A24_logo_big.png",Austria 24
@@ -46,6 +52,9 @@ https://58b42f6c8c9bf.streamlock.net:8080/live/TirolTV/chunklist.m3u8
 http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/1200px-3sat-Logo.svg.png",3Sat
 http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSd7Dn" group-title="DEUTSCHLAND",======DEUTSCHLAND=======
+https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alex_Offener_Kanal_Berlin_Logo.svg/2000px-Alex_Offener_Kanal_Berlin_Logo.svg.png",ALEX Berlin
 http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radioszene.de/wp-content/uploads/2016/12/allgaeu-tv-logo-fb-min.pnghttp://www.radioszene.de/wp-content/uploads/2016/12/allgaeu-tv-logo-fb-min.png",Allgau TV
