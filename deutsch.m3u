@@ -23,8 +23,6 @@ https://orf3.cdn.ors.at/out/u/orf3/qxb/manifest_1.m3u8
 https://orfs.cdn.ors.at/out/u/orfs/qxb/manifest_1.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fMS2Rnos2Ek/TigUPuIjEKI/AAAAAAAABw8/37aWVpMG2eQ/s1600/Kabel+Eins+icon+1990s.png",Kabel 1
 http://46.4.79.153/e5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/3n3CsA",Namsa At
-http://78.129.184.15:34546/streaming/stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://austria24.tv/wp-content/uploads/2014/01/A24_logo_big.png",Austria 24
 rtmp://streaming.austria24.tv/live//mp4:stream_720p
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/at/oe24-95x40.gif",Oe 24
