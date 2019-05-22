@@ -35,6 +35,8 @@ http://109.236.92.216:9090/Fatafeat/mpegts
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s88156/images/logoq.png" ,Sham FM
 http://shamfm.grtvstream.com:1984/live/shamfm_HD.m3u8
+#EXTINF:-1 tvg-logo="http://alkhabar-sy.com/wp-content/uploads/2017/04/LOGO.png" ,Al Khabar
+http://iqsite.dynv6.net/live/disk1/Al-Khabar/anevia1/Al-Khabar.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/krLqSL",Hawa Syria
 #EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ogarit
 http://82.137.248.16:1935/Ugarit/stream20112018/chunklist.m3u8
@@ -64,7 +66,7 @@ http://95.170.215.124/live/disk1/MTV_Lebanon/anevia1/MTV_Lebanon.m3u8
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/lb/aliman-tv-95x95.gif",Al Iman
 
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC
-http://95.170.215.124/live/disk1/LDC/anevia1/index.m3u8
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC
 http://95.170.215.124/live/disk1/LDC/anevia1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/mVMJx4",OTV
@@ -75,7 +77,7 @@ https://svs.itworkscdn.net/otvlebanonlive/otv.smil/chunklist.m3u8
 http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/F3xjPh" ,Al Mayadeen
-
+http://live.mdn.tv/almayadeen/smil:mayadeen.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/KWUb31" ,Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 
@@ -435,10 +437,12 @@ http://185.105.4.210:1935/nrt/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="KIDS",=====KIDS========
 https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 #EXTINF:-1 tvg-logo="https://goo.gl/FH6vuE",Space Toon
-http://streaming.i-sat.tv:8081/livestream/spacetooon/chunks.m3u8
+http://androidv2.dynv6.net:9090/spacetoon/index.m3u8
+
+http://androidv2.dynv6.net:9090/spacetoon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/3QsjeZ",Cartoon network
 http://95.170.215.124/live/disk1/CN_Arabia/anevia1/CN_Arabia-video=1279600-audio_AACL_eng_160000_34=160000.m3u8
-
+http://iqsite.dynv6.net/live/disk1/CN_Arabia/anevia1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/UxV1RC",majed kids 
 http://95.170.215.124/live/disk1/Majid_Kids/anevia1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/zaUKgm",taha 
