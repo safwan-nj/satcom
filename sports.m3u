@@ -1,28 +1,30 @@
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD",======BeIn Sports SD =======
-https://raw.githubusercontent.com/safwan-nj/satcom/master/Satcom_Ch.mp4
+
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",Bein 1 SD
-http://194.88.104.169:8081/freeee11sss11ss/beinsports1ar-576/playlist.m3u8
+http://iptvh.it/satcom1
 #EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEIN 2 SD
-http://194.88.104.169:8081/freeee11sss11ss/beinsports2ar-576/playlist.m3u8
+http://iptvh.it/satcom2
 #EXTINF: tvg-logo="https://goo.gl/pE62z2",BEIN 3 SD
-http://194.88.104.169:8081/freeee11sss11ss/beinsports3ar-576/playlist.m3u8
+http://iptvh.it/satcom3 
 #EXTINF: tvg-logo="https://goo.gl/expt4F",BEIN 4 SD
-http://194.88.104.169:8081/freeee11sss11ss/beinsports4ar-576/playlist.m3u8
+http://iptvh.it/satcom4 
 #EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEIN 5 SD
-http://194.88.104.169:8081/freeee11sss11ss/beinsports5ar-576/playlist.m3u8
+http://iptvh.it/satcom5 
 #EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEIN 6 SD
-http://194.88.104.169:8081/freeee11sss11ss/beinsports6ar-576/playlist.m3u8
+http://iptvh.it/satcom6 
 #EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEIN 7 SD
-http://194.88.104.169:8081/freeee11sss11ss/beinsports7ar-576/playlist.m3u8
+http://iptvh.it/satcom7
 #EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEIN 8 SD
-http://194.88.104.169:8081/freeee11sss11ss/beinsports8ar-576/playlist.m3u8
+http://iptvh.it/satcom8
 #EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEIN 9 SD
-http://194.88.104.169:8081/freeee11sss11ss/beinsports9ar-576/playlist.m3u8
+http://iptvh.it/satcom9
 #EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEIN 10 SD
-
-
-
+http://iptvh.it/satcom10
+#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 SD
+http://iptvh.it/satcom11 
+#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 SD
+http://iptvh.it/satcom12 
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD1",======BeIn Sports HD1 =======
