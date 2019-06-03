@@ -8,10 +8,14 @@ https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 
-#EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf",Syria
+#EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf",Syria SD
 http://82.137.248.16:1935/Sat/stream20112018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",SYRIA HD
+http://109.236.92.216:9090/Syria/mpegts
+#EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama SD
 http://82.137.248.16:1935/Drama/stream20112018/chunklist.m3u8
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",SYRIS DRAMA HD
+http://109.236.92.216:9090/syria_drama/mpegts
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama Server2
 http://95.170.215.124/live/disk1/Syria_Drama/anevia1/Syria_Drama-audio_20000=160000-video=1587600.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
@@ -20,6 +24,8 @@ http://82.137.248.16:1935/Snews/stream20112018/chunklist.m3u8
 http://82.137.248.16:1935/Nour/stream20112018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",SamaTV
 https://svs.itworkscdn.net/samatvlive/sama.smil/chunklist.m3u8
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",SAMA HD
+http://109.236.92.216:9090/sama_tv/mpegts
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",SamaTV S2
 http://109.236.92.216:9090/sama_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana SD
@@ -29,7 +35,10 @@ https://svs.itworkscdn.net/lanatvlive/lana/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
 http://streaming.i-sat.tv:1935/livestream/alminbar/chunklist.m3u8
 
-#EXTINF:-1,FATAFEAT 
+
+
+
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",FATAFEAT 
 http://109.236.92.216:9090/Fatafeat/mpegts
 
 
@@ -111,8 +120,10 @@ http://109.236.92.216:9090/Bein-Movies1/mpegts
 http://109.236.92.216:9090/Bein-Movies2/mpegts
 #EXTINF: tvg-logo="https://goo.gl/VXDGbA",Bein Movies 3 HD
 http://109.236.92.216:9090/Bein-Movies3/mpegts 
-#EXTINF:-1,BEIN FAMILY 
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",BEIN FAMILY 
 http://109.236.92.216:9090/Bein-Movies4/mpegts
+
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/p4BmQf" group-title="Melody",======Melody=======
 
@@ -169,14 +180,27 @@ http://95.170.215.124/live/disk1/Zee_Aflam/anevia1/Zee_Aflam.m3u8
 http://95.170.215.124/live/disk1/ZEE-ALWAN/anevia1/ZEE-ALWAN.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/oXGqeX",Wanasah
 http://livecdnh2.tvanywhere.ae/hls/wanasah/03.m3u8
-
 #EXTINF:-1 tvg-logo="https://goo.gl/H6Vx6U" group-title="EGYPT",======EGYPT=======
 https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
-
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",AL QAHERA
+http://109.236.92.216:9090/al_kahera_wal_nas/mpegts
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",NILE CINEMA
+http://109.236.92.216:9090/nile_cinema/mpegts
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",NILE COMEDY
+http://109.236.92.216:9090/nile_comedy/mpegts
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",FATAFEAT
+http://109.236.92.216:9090/Fatafeat/mpegts
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",CBC SOFRA
+http://109.236.92.216:9090/cbc_sofra/mpegts
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",PANORAMA DRAMA
+http://109.236.92.216:9090/panorama_drama/mpegts
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",PANORAMA FOOD
+http://109.236.92.216:9090/panorama_food/mpegts
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",Al Masriya
 http://38.99.146.36:7777/AlMasriyah_HD.m3u8?session=00bf13a4c3abcd3861c45a5178c78d01fcaa8847484d9a71559809f3b22806fd
 
 #EXTINF:-1 tvg-logo="https://goo.gl/we1jqe",Rotana Drama
+http://itats.dynv6.net:1935/livestream/rotanamasr/chunklist_w796473244.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/fz2euU",Dream 1
 
 #EXTINF:-1 tvg-logo="https://goo.gl/fz2euU",Dream 2
@@ -466,6 +490,10 @@ http://38.99.146.36:7777/Karameesh_HD.m3u8?session=00bf13a4c3abcd3861c45a5178c78
 https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 
 #EXTINF:-1 tvg-logo="https://goo.gl/fQkZGt",Nat Geo
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",NAT GEO PEOPLE
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.hala-tv.com/images/hala_logo.png",Hala TV
 http://wowza.panet.co.il:1935/live/smil:halaTV.smil/chunklist.m3u8
@@ -498,6 +526,15 @@ http://live.paltoday.tv:1935/paltv/live/chunklist.m3u8
 http://stream.joinvisions.net:1935/jorlive/jrtv/chunklist_w1319607465.m3u8
 #EXTINF:-1 tvg-logo="http://www.copts-united.com/ChannelsLogo/22.jpg",Alhurriya
 http://68.235.60.118:1935/alhorreya.tv/alhorreya.smil/chunklist.m3u8
+
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",FUNOON
+http://109.236.92.216:9090/funoon/mpegts
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",QUEST
+http://109.236.92.216:9090/Quest/mpegts
+
+
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/K2guvh",Dubai
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 tvg-logo="https://goo.gl/gPJMso",Sama Dubai
@@ -643,25 +680,25 @@ http://217.182.199.210:25461/live/AVAHD/HALOWTV/874.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="OSN",=====OSN========
 https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 
-#EXTINF:-1,FOX MOVIES
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",FOX MOVIES
 http://itats.dynv6.net:8081/livestream/fox/playlist.m3u8
-#EXTINF:1,ORBIT cinema 1 
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",ORBIT cinema 1 
 http://itats.dynv6.net:8081/livestream/osnm/playlist.m3u8
-#EXTINF:-1,CINEMA 1 HD
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",CINEMA 1 HD
 http://livecdnh1.tvanywhere.ae/hls/cin1/05.m3u8
-#EXTINF:-1,ORBIT cinema 1 CDN
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",ORBIT cinema 1 CDN
 http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
-#EXTINF:-1,Music Now HD
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Music Now HD
 http://livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8
-#EXTINF:-1,Music Now sd
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Music Now sd
 http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
-#EXTINF:-1,STAR MOVIES HD
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",STAR MOVIES HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1,Star Movies SD
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Star Movies SD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
-#EXTINF:-1,STAR WORLD HD
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",STAR WORLD HD
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1,Star World SD
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Star World SD
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
 
 
