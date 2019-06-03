@@ -14,7 +14,7 @@ http://82.137.248.16:1935/Sat/stream20112018/chunklist.m3u8
 http://109.236.92.216:9090/Syria/mpegts
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama SD
 http://82.137.248.16:1935/Drama/stream20112018/chunklist.m3u8
-#EXTINF: tvg-logo="https://goo.gl/bi9htU",SYRIS DRAMA HD
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Syria DRAMA HD
 http://109.236.92.216:9090/syria_drama/mpegts
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama Server2
 http://95.170.215.124/live/disk1/Syria_Drama/anevia1/Syria_Drama-audio_20000=160000-video=1587600.m3u8
