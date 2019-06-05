@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,intro
+https://raw.githubusercontent.com/safwan-nj/satcom/master/Satcom_Ch.mp4
+
+
+
+#EXTINF:-1,Arabic Channels
+https://raw.githubusercontent.com/safwan-nj/satcom/master/arabs1.m3u
+#EXTINF:-1,Sports
+https://raw.githubusercontent.com/safwan-nj/satcom/master/sports.m3u
+#EXTINF:-1,Deutsch
+https://raw.githubusercontent.com/safwan-nj/satcom/master/deutsch.m3u
+#EXTINF:-1,France
+https://raw.githubusercontent.com/safwan-nj/satcom/master/frances1.m3u
+#EXTINF:-1,Movies
+https://raw.githubusercontent.com/safwan-nj/satcom/master/movies.m3u
+#EXTINF:-1,Radio
+https://raw.githubusercontent.com/safwan-nj/satcom/master/Radio.m3u
+
+#EXTINF:-1,Macedonia
+https://raw.githubusercontent.com/mak-iptv/iptv/master/channels/mk.m3u
+#EXTINF:-1,Bulgaria
+https://raw.githubusercontent.com/mak-iptv/iptv/master/channels/bg.m3u
+#EXTINF:-1,Romania
+https://raw.githubusercontent.com/mak-iptv/iptv/master/channels/ro.m3u
+#EXTINF:-1,Turkey
+https://raw.githubusercontent.com/mak-iptv/iptv/master/channels/tr.m3u
+#EXTINF:-1,UK England
+https://raw.githubusercontent.com/mak-iptv/iptv/master/channels/uk.m3u
+#EXTINF:-1,Rusia
+https://raw.githubusercontent.com/mak-iptv/iptv/master/channels/rusia.m3u
+#EXTINF:-1,Animal
+https://raw.githubusercontent.com/mak-iptv/iptv/master/channels/animal.m3u
+#EXTINF:-1,Sports
+https://raw.githubusercontent.com/mak-iptv/iptv/master/channels/sport.m3u
+#EXTINF:-1,Music
+https://raw.githubusercontent.com/mak-iptv/iptv/master/channels/music.m3u
+#EXTINF:-1,Vood& Movies
+https://raw.githubusercontent.com/mak-iptv/iptv/master/channels/movies.m3u
+#EXTINF:-1,XXXX(18+)
+https://raw.githubusercontent.com/mak-iptv/iptv/master/channels/adult.m3u
