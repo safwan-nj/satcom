@@ -472,9 +472,15 @@ http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/541/index.m3u8
 http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/524/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.wasmenia.com/wp-content/uploads/2017/11/ajyal-tv-01-1024x1024.png",Ajyal
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://goo.gl/UxV1RC",ِAl Majd kids 
+http://109.236.92.216:9090/Almajdkids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/UxV1RC",Majed kids 
 http://95.170.215.124/live/disk1/Majid_Kids/anevia1/index.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-KlQVgXlGIn8/XHhD6ntD6YI/AAAAAAAAIKU/gbcwwPfix9cc2Y22i-XxLLpBPjH1FY6hgCK4BGAYYCw/s1600/logo%2Bjeem%2Btv.png",jeem HD
+http://livecdnh2.tvanywhere.ae/hls/jeem/04.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/BaraemEurope-1.png",Baraem
+http://livecdnh2.tvanywhere.ae/hls/baraeim/04.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/zaUKgm",taha 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/xDxDbp",Nour Alshabab
