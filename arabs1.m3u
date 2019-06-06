@@ -14,7 +14,7 @@ http://82.137.248.16:1935/Sat/stream20112018/chunklist.m3u8
 http://109.236.92.216:9090/Syria/mpegts
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama SD
 http://82.137.248.16:1935/Drama/stream20112018/chunklist.m3u8
-#EXTINF: tvg-logo="https://goo.gl/bi9htU",Syria DRAMA HD
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",SYRIS DRAMA HD
 http://109.236.92.216:9090/syria_drama/mpegts
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama Server2
 http://95.170.215.124/live/disk1/Syria_Drama/anevia1/Syria_Drama-audio_20000=160000-video=1587600.m3u8
@@ -462,25 +462,31 @@ http://185.105.4.210:1935/nrt/ngrp:livestream_all/playlist.m3u8
 https://docs.google.com/uc?export=download&id=0B9lJ-rQPUejrMmVwYzhRek5Eekk
 #EXTINF:-1 tvg-logo="https://goo.gl/FH6vuE",Space Toon
 http://androidv2.dynv6.net:9090/spacetoon/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://goo.gl/FH6vuE",Space Toon
 http://androidv2.dynv6.net:9090/spacetoon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/3QsjeZ",Cartoon network
-http://95.170.215.124/live/disk1/CN_Arabia/anevia1/CN_Arabia-video=1279600-audio_AACL_eng_160000_34=160000.m3u8
-http://iqsite.dynv6.net/live/disk1/CN_Arabia/anevia1/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/UxV1RC",majed kids 
+http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/143/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.kym-cdn.com/photos/images/original/001/099/188/818",Nickelodeon
+http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/541/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png",Disney
+http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/524/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.wasmenia.com/wp-content/uploads/2017/11/ajyal-tv-01-1024x1024.png",Ajyal
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/UxV1RC",Majed kids 
 http://95.170.215.124/live/disk1/Majid_Kids/anevia1/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/zaUKgm",taha 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/xDxDbp",Nour Alshabab
-
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/xDxDbp",Noursat Kids
 
 #EXTINF:-1 tvg-logo="https://goo.gl/5JgvNw",Semsem
 http://streaming.i-sat.tv:1935/livestream/sms/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/C1Nw29",Toyor Aljanah
-http://streaming.i-sat.tv:8081/livestream/toyourjanaa/chunks.m3u8 
+
 #EXTINF:0 tvg-logo="https://goo.gl/C1Nw29",Toyor Baby
-http://95.170.215.124/live/disk1/TOYOR-BABY/anevia1/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/f8v11K",Karameesh
