@@ -1,6 +1,6 @@
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD",======BeIn Sports SD =======
-
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD 1",======BeIn Sports SD 1 =======
+https://raw.githubusercontent.com/safwan-nj/satcom/master/Satcom_Ch.mp4
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",Bein 1 SD
 http://iptvh.it/satcom1
 #EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEIN 2 SD
@@ -26,6 +26,32 @@ http://iptvh.it/satcom11
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 SD
 http://iptvh.it/satcom12 
 
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD 2",======BeIn Sports SD 2 =======
+https://raw.githubusercontent.com/safwan-nj/satcom/master/Satcom_Ch.mp4
+#EXTINF: tvg-logo="https://goo.gl/KT6bko",Bein 1 SD
+Created: http://iptvh.it/satcom-bs1 
+#EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEIN 2 SD
+Created: http://iptvh.it/satcom-bs2
+#EXTINF: tvg-logo="https://goo.gl/pE62z2",BEIN 3 SD
+Created: http://iptvh.it/satcom-bs3
+#EXTINF: tvg-logo="https://goo.gl/expt4F",BEIN 4 SD
+Created: http://iptvh.it/satcom-bs4 
+#EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEIN 5 SD
+Created: http://iptvh.it/satcom-bs5 
+#EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEIN 6 SD
+Created: http://iptvh.it/satcom-bs6
+#EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEIN 7 SD
+Created: http://iptvh.it/satcom-bs7
+#EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEIN 8 SD
+Created: http://iptvh.it/satcom-bs8
+#EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEIN 9 SD
+Created: http://iptvh.it/satcom-bs9
+#EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEIN 10 SD
+Created: http://iptvh.it/satcom-bs10
+#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 SD
+Created: http://iptvh.it/satcom-bs11
+#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 SD
+Created: http://iptvh.it/satcom-bs12
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD1",======BeIn Sports HD1 =======
 http://www.satcom.ml:8000/movie/Satcom/mr.safwan.alnajjar/2000.mp4
@@ -97,14 +123,17 @@ http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",BAHRAIN SPORTS
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/140.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/ZYV8Bm",Dubai Sports
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/13.m3u8
+
 #EXTINF:0 tvg-logo="https://goo.gl/C1Nw29",Dubai Sport 2
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/14.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/jd3vHw",Dubai Sports 3
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/TBJpxh",Dubai Sports 4
+#EXTINF:-1, ON Sport HD
+http://162.210.198.17:8080/ONSportHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/BLTSHm",Dubai Racing
+http://162.210.195.121:8080/dubiracing2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/9dyaVx",Nile Sport
 rtmp://livestreaming5.onlinehorizons.net/NTNNileSport/livestream
