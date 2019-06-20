@@ -1,57 +1,69 @@
+#EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png" group-title="BeOut Sports",======BeOut Sports =======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+#EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 1 HD 
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/198003
+#EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 2 HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/198002
+#EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 3 HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/198004
 
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",beIN Sports Max 3 HD [COPA CUP]
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/220211
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",beIN Sports Max 4 HD [COPA CUP]
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/220218
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD 1",======BeIn Sports SD 1 =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",Bein 1 SD
-http://iptvh.it/satcom1
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/51918.m3u8
 #EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEIN 2 SD
-http://iptvh.it/satcom2
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/51917.m3u8
 #EXTINF: tvg-logo="https://goo.gl/pE62z2",BEIN 3 SD
-http://iptvh.it/satcom3 
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/51916.m3u8
 #EXTINF: tvg-logo="https://goo.gl/expt4F",BEIN 4 SD
-http://iptvh.it/satcom4 
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/51915.m3u8
 #EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEIN 5 SD
-http://iptvh.it/satcom5 
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/51914.m3u8
 #EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEIN 6 SD
-http://iptvh.it/satcom6 
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/51913.m3u8
 #EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEIN 7 SD
-http://iptvh.it/satcom7
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/51912.m3u8
 #EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEIN 8 SD
-http://iptvh.it/satcom8
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/51911.m3u8
 #EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEIN 9 SD
-http://iptvh.it/satcom9
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/51910.m3u8
 #EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEIN 10 SD
-http://iptvh.it/satcom10
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/51909.m3u8
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 SD
-http://iptvh.it/satcom11 
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/51908.m3u8
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 SD
-http://iptvh.it/satcom12 
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/51907.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD 2",======BeIn Sports SD 2 =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",Bein 1 SD
-http://iptvh.it/satcom-bs1 
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15664.m3u8
 #EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEIN 2 SD
-http://iptvh.it/satcom-bs2
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15663.m3u8
 #EXTINF: tvg-logo="https://goo.gl/pE62z2",BEIN 3 SD
-http://iptvh.it/satcom-bs3
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15662.m3u8
 #EXTINF: tvg-logo="https://goo.gl/expt4F",BEIN 4 SD
-http://iptvh.it/satcom-bs4 
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15661.m3u8
 #EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEIN 5 SD
-http://iptvh.it/satcom-bs5 
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15660.m3u8
 #EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEIN 6 SD
-http://iptvh.it/satcom-bs6
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15659.m3u8
 #EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEIN 7 SD
-http://iptvh.it/satcom-bs7
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15658.m3u8
 #EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEIN 8 SD
-http://iptvh.it/satcom-bs8
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15657.m3u8
 #EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEIN 9 SD
-http://iptvh.it/satcom-bs9
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15656.m3u8
 #EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEIN 10 SD
-http://iptvh.it/satcom-bs10
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15655.m3u8
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 SD
-http://iptvh.it/satcom-bs11
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15654.m3u8
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 SD
-http://iptvh.it/satcom-bs12
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15653.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD1",======BeIn Sports HD1 =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
@@ -67,25 +79,25 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:0,Bein-Sport-News HD
 http://45.77.68.138:8000/live/SatcomIptv/mr.safwan.alnajjar/32.ts
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1 HD
-http://45.77.68.138:8000/live/SatcomIptv/mr.safwan.alnajjar/17.ts
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/8074.m3u8
 #EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEINSPORTS-2 HD
-http://45.77.68.138:8000/live/SatcomIptv/mr.safwan.alnajjar/18.ts
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/8076.m3u8
 #EXTINF: tvg-logo="https://goo.gl/pE62z2",BEINSPORTS-3 HD
-http://45.77.68.138:8000/live/SatcomIptv/mr.safwan.alnajjar/19.ts
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/8078.m3u8
 #EXTINF: tvg-logo="https://goo.gl/expt4F",BEINSPORTS-4 HD
-http://45.77.68.138:8000/live/SatcomIptv/mr.safwan.alnajjar/20.ts
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/8080.m3u8
 #EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEINSPORTS-5 HD
-http://45.77.68.138:8000/live/SatcomIptv/mr.safwan.alnajjar/21.ts
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/8082.m3u8
 #EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEINSPORTS-6 HD
-http://45.77.68.138:8000/live/SatcomIptv/mr.safwan.alnajjar/22.ts
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/8084.m3u8
 #EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEINSPORTS-7 HD
-http://45.77.68.138:8000/live/SatcomIptv/mr.safwan.alnajjar/23.ts
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/8086.m3u8
 #EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEINSPORTS-8 HD
-http://45.77.68.138:8000/live/SatcomIptv/mr.safwan.alnajjar/24.ts
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/8088.m3u8
 #EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEINSPORTS-9 HD
-http://45.77.68.138:8000/live/SatcomIptv/mr.safwan.alnajjar/25.ts
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/8090.m3u8
 #EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEINSPORTS-10 HD
-http://45.77.68.138:8000/live/SatcomIptv/mr.safwan.alnajjar/26.ts
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/8185.m3u8
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 HD
 
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 HD
