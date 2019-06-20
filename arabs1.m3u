@@ -302,8 +302,24 @@ http://iqsite.dynv6.net/live/disk1/Mazzika/anevia1/index.m3u8
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://staticmbc-a.akamaihd.net/image/upload/v1548672000/2019/01/28/g4g8zjtjiecrv3m7iolt.jpg",MBC Iraq
 http://95.170.215.124/live/disk1/MBC-IRAQ/anevia1/index.m3u8
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Arrafideen
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Samrra
+http://212.18.231.213:1935/samarra/ngrp:samarra_all/chunklist.m3u8
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Al Qanat
+https://5baddb02ef445.streamlock.net/qanat/alqanat9/chunklist.m3u8
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Addyar
+http://82.212.74.99:8000/live/hls/8166.m3u8
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Al Musilya
+http://95.170.215.124/live/disk1/Al_Mawsleya/anevia1/Al_Mawsleya-audio_20000=160000-video=1587600.m3u8
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Al Itijah
+http://212.18.231.213:1935/aletejahtv/aletejahtv/chunklist.m3u8
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Al Masar 1
+http://212.18.231.213:1935/almasar/ngrp:almasar_all/chunklist.m3u8
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Al Furat
+http://212.18.231.213:1935/7/ngrp:7_all/chunklist_w1014316018_b3279872.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/QHufyd",Sumaria
-
+https://cllive.itworkscdn.net/alsumariatvlive/token=nva=1561082994~dirs=1~hash=070ece8b19dfe91f73d6b/sumariamob.smil/chunklist_b800000.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/o1RcAe",Al Iraqiya
 
 #EXTINF:-1 tvg-logo="https://goo.gl/6pBhKT",AlSharqiya 1
@@ -311,17 +327,19 @@ http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/6pBhKT",AlSharqiya 2
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/1rff7M",Houna Baghdad
-
+http://38.99.146.36:7777/HonaBagdad_HD/HonaBagdad_HD.m3u8?user=tyty4&session=a0810cbc5e19199e0b86a7752ae5b95c0166483391f115bc779827b4563918a9a299017ce29bf1aa&hlsid=HTTP_ID_1&starttime=20190516T081451.290494
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",Al Anbar
 
 #EXTINF:-1 tvg-logo="https://goo.gl/s66rYF",Dejlah
 http://91.134.145.75/Dijlah/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/s66rYF",Dejlah
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/d4gkyy",AL Rasheed TV
-
+http://streamer11.elementssys.com:8080/alrashid/alrashid_650kbps/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LgfChV",Anb iraq
 
 #EXTINF:-1 tvg-logo="https://goo.gl/jqFtgf",Baghdad
-
+https://wowzaprod201-i.akamaihd.net/hls/live/790777/d8d29662_1_2728/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/e2U9ST",Al Taghier
 
 #EXTINF:-1 tvg-logo="https://goo.gl/zfXXBu" group-title="TUNISIA",=====TUNISIA========
