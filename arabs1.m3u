@@ -8,44 +8,39 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 
-#EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf",Syria SD
+#EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf",Syria
 http://82.137.248.16:1935/Sat/stream20112018/chunklist.m3u8
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",SYRIA HD
-http://109.236.92.216:9090/Syria/mpegts
-#EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama SD
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama
 http://82.137.248.16:1935/Drama/stream20112018/chunklist.m3u8
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",SYRIS DRAMA HD
-http://109.236.92.216:9090/syria_drama/mpegts
+
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama Server2
-http://95.170.215.124/live/disk1/Syria_Drama/anevia1/Syria_Drama-audio_20000=160000-video=1587600.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
 http://82.137.248.16:1935/Snews/stream20112018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/eDtLda",Noor Alsham HD
+#EXTINF:-1 tvg-logo="https://goo.gl/eDtLda",Noor Alsham
 http://82.137.248.16:1935/Nour/stream20112018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",SamaTV
 https://svs.itworkscdn.net/samatvlive/sama.smil/chunklist.m3u8
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",SAMA HD
-http://109.236.92.216:9090/sama_tv/mpegts
+
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",SamaTV S2
-http://109.236.92.216:9090/sama_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana SD
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana
 https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana  HD
-https://svs.itworkscdn.net/lanatvlive/lana/chunklist_DVR.m3u8
+
 #EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
 http://streaming.i-sat.tv:1935/livestream/alminbar/chunklist.m3u8
 
-
-
-
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",FATAFEAT 
-http://109.236.92.216:9090/Fatafeat/mpegts
-
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s88156/images/logoq.png" ,Sham FM
-http://shamfm.grtvstream.com:1984/live/shamfm_HD.m3u8
+
 #EXTINF:-1 tvg-logo="http://alkhabar-sy.com/wp-content/uploads/2017/04/LOGO.png" ,Al Khabar
-http://iqsite.dynv6.net/live/disk1/Al-Khabar/anevia1/Al-Khabar.m3u8
+
 #EXTINF:0 tvg-logo="https://goo.gl/krLqSL",Hawa Syria
 #EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ogarit
 http://82.137.248.16:1935/Ugarit/stream20112018/chunklist.m3u8
@@ -70,7 +65,7 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/7p4X8D",Aljadeed
 http://livecdnh3.tvanywhere.ae/hls/jadeed/03.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Ggp24v",MTV lebanon
-http://95.170.215.124/live/disk1/MTV_Lebanon/anevia1/MTV_Lebanon.m3u8
+http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/04.m3u8
 
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/lb/aliman-tv-95x95.gif",Al Iman
 
@@ -346,30 +341,31 @@ https://wowzaprod201-i.akamaihd.net/hls/live/790777/d8d29662_1_2728/chunklist.m3
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
 #EXTINF:0 tvg-logo="https://goo.gl/oUB4Dz",Alwataniya 1
-http://199.66.90.27:8888/16254_TunisiaNat1/index.m3u8
+rtmp://54.36.122.126/live//tunisie1?v=1494899160
 #EXTINF:0 tvg-logo="https://goo.gl/uUDT1H",Alwataniya 2
-
+rtmp://54.36.122.126/live//tunisie2?v=1494899160
 #EXTINF:0 tvg-logo="https://goo.gl/LPVPmr",Nesma Live
-http://109.236.92.216:9090/nessma/tracks-v1a1/mono.m3u8
+http://195.154.136.160:8080/hls/n.m3u8?v=1494899160
 #EXTINF:0 tvg-logo="https://goo.gl/vDQcuZ",Elhiwar Ettounsi
-https://skyfire.vimeocdn.com/1556482114-0x9f746d56bf0b92cc540694875c61cda8167ef806/332959217/video/1312041129/playlist.m3u8
+rtmp://www.teledunet.com/live?idu=1494899160//al_tunisia
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",M Tunisia
-
+https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/media_w125176409_644.ts
 
 #EXTINF:0 tvg-logo="https://goo.gl/HhKJYK",Zaytouna
-http://109.236.92.216:9090/zaytoona/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-logo="https://goo.gl/G91nAk",Jawhara Fm
 #EXTINF:0 tvg-logo="https://goo.gl/FaUDEs",Hannibal
-http://199.66.90.27:8888/16291_Hannibal/index.m3u8
+
 #EXTINF:0 tvg-logo="https://goo.gl/NAsNkw",Tunisia First TV
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/media_w1207867711_12019.ts
 #EXTINF:0 tvg-logo="",STV
 https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w535964053.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/G2Yje2",Ettasiaa
-
+http://195.154.77.84:8080/hls/attesiatv.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/vskFGU",Al Insen
 
 #EXTINF:0 tvg-logo="",Al Janoubia
-http://147.135.254.144:8081/livetv3/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/YASYFB" group-title="MAROC",=====MAROC========
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/Cpdiby",2M Monde
@@ -419,51 +415,31 @@ http://41.111.166.173:8081/live/ennahartv/chunks.m3u8
 http://m.live.net.sa:1935/live/alanis/chunklist_w1335827309.m3u8
 #EXTINF:-1 tvg-logo="",Magharibia
 http://185.59.222.165:8081/atnProvider/magharibia_480p/chunks.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Echourouk_TV_logo.svg/1200px-Echourouk_TV_logo.svg.png", Echourouk
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/ECHOUROUK-NEWS.png", Echourouk News
 http://41.111.166.173:8081/live/Echorouk_TV/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.arabe-media.com/tv/img141.jpg", Eptv Terrestre Tv Algerie
 http://41.111.166.173:8081/live/ENTV/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Alg%C3%A9rie3ThalithaTV.png", Algeria Tv 3
-http://mobi.oui9.com/hls/dz3/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://android.volkatv.biz/logochanel/735.png", Algerie Tv 4
 http://41.111.166.173:8081/live/TV4/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-6Cqw7rsEpsM/Vi50knLbdWI/AAAAAAAAAkk/Mod1sM7841M/s1600/ENTV_5_Coran.png", Algerie Tv 5
 http://41.111.166.173:8081/live/TV5/chunks.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://www7.0zz0.com/2015/04/17/18/813683963.jpg", Berbere Music
-
 #EXTINF:-1 tvg-logo="https://www.ariase.com/media/television/logo-132x99/bjeunesse.jpg", Berbere Jeunesse
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/BerbereTV.jpg", Berbere TV
-
 #EXTINF:-1 tvg-logo="http://ismiletv.com/wp-content/uploads/2017/04/Al-Heddaf-200x153.jpg", Al Haddaf
 http://41.111.166.173:8081/live/EL_HEDDAF_TV/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ismiletv.com/wp-content/uploads/2017/04/Al-Heddaf-200x153.jpg", Al Haddaf
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eldjazairiaone1234.png", El Djazairia One
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/RWFwhf" group-title="NEWS",=====NEWS========
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
-
 #EXTINF:-1 tvg-logo="https://goo.gl/FMuNVJ",Aljazeera
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/ApfiLZ",Al Jazeera Mubashir
 http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/1qk56w",Alarabiyia
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://goo.gl/HhuU7u",Alhadath
 http://av.alarabiya.net/alarabiapublish/alhadath.smil/oui9.m3u8
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",Al Alam 
@@ -472,27 +448,22 @@ http://live2.alalam.ir/live/Alalam_high/index.m3u8
 http://162.210.195.121:8080/alalam/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/YK24WH",RT Arabic
 https://rt-arab.secure.footprint.net/1104-inadv-qidx-1k_v3.m3u8
-
 #EXTINF: tvg-logo="https://goo.gl/fETVF3",france 24
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/A2JyoY",BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://goo.gl/3cD6iH",Skynews
 https://stream.skynewsarabia.com/hls/sna_480.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/3cD6iH",Skynews S2
 http://162.210.195.121:8080/skynewshd/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://goo.gl/2cbBPh",cnbc arabia
 https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/bcnD4P",Deutsche Welle
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/bcnD4P",DW Arabiya
 https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8
-
 #EXTINF:-1 tvg-logo="https://goo.gl/7gqvUF",TRT
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://goo.gl/rciY3d",Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/yHjvoP",alaraby
@@ -500,9 +471,7 @@ http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/iZjucR",NRT Arabiya
 http://185.105.4.210:1935/nrt/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/CVxXGN",Al Hiwar
-
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",Saudi News
-
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="KIDS",=====KIDS========
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/FH6vuE",Space Toon
