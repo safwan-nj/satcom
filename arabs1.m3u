@@ -72,7 +72,7 @@ http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/04.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC
-http://95.170.215.124/live/disk1/LDC/anevia1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/mVMJx4",OTV
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/qXKqRV",NBN
