@@ -1,13 +1,24 @@
 #EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png" group-title="BeOut Sports",======BeOut Sports =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
-#EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 1 HD 
-http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/198003
-#EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 2 HD
-http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/198002
-#EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 3 HD
-http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/198004
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Sports Max[COPA CUP]
+http://95.170.215.118/hls/m3u8/FT-Sport-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",beIN Sports Max 3 HD [COPA CUP]
+#EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 1 HD 
+http://configuration.tn:8000/123/123/7088
+#EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 2 HD
+http://configuration.tn:8000/123/123/7087
+#EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 3 HD
+http://configuration.tn:8000/123/123/7086
+#EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 4 HD
+http://configuration.tn:8000/123/123/7085
+#EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 5 HD
+http://configuration.tn:8000/123/123/7084
+#EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 6 HD
+http://configuration.tn:8000/123/123/7083
+#EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 7 HD
+http://configuration.tn:8000/123/123/7082
+
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",beIN Sports Max 4 HD [COPA CUP]
 
