@@ -4,17 +4,17 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 http://95.170.215.118/hls/m3u8/FT-Sport-1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 1 HD 
-http://configuration.tn:8000/123/123/7088
+http://crystaltv.xyz:8080/nabil/123456/154549
 #EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 2 HD
-http://configuration.tn:8000/123/123/7087
+http://crystaltv.xyz:8080/nabil/123456/120965
 #EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 3 HD
-http://configuration.tn:8000/123/123/7086
+http://crystaltv.xyz:8080/nabil/123456/131563
 #EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 4 HD
-http://configuration.tn:8000/123/123/7085
+http://crystaltv.xyz:8080/nabil/123456/131564
 #EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 5 HD
-http://configuration.tn:8000/123/123/7084
+http://crystaltv.xyz:8080/nabil/123456/131565
 #EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 6 HD
-http://configuration.tn:8000/123/123/7083
+http://crystaltv.xyz:8080/nabil/123456/131566
 #EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 7 HD
 http://configuration.tn:8000/123/123/7082
 
@@ -63,30 +63,42 @@ http://goaltivi.live:1881/cengiz/06082018/33284
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 1",======BeIn Sports HD 1 =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sports News
+http://cdnn.ryzas.tn/iptv/ch110?code=200128266968312&key=21790
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sport
+http://cdnn.ryzas.tn/iptv/ch400?code=200128266968312&key=17696
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn Max 1 HD
+http://cdnn.ryzas.tn/iptv/ch8111?code=200128266968312&key=56203
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn Max 2 HD
+http://cdnn.ryzas.tn/iptv/ch8112?code=200128266968312&key=23351
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn Max 3 HD
+http://cdnn.ryzas.tn/iptv/ch8113?code=200128266968312&key=10678
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn Max 4 HD
+http://cdnn.ryzas.tn/iptv/ch8114?code=200128266968312&key=29001
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",Bein 1 HD
-http://tre.tithis.com:2015/live/arabia/caJUz3pBKe/17261.m3u8
+http://cdnn.ryzas.tn/iptv/ch111?code=200128266968312&key=46006
 #EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEIN 2 HD
-http://tre.tithis.com:2015/live/arabia/caJUz3pBKe/17260.m3u8
+http://cdnn.ryzas.tn/iptv/ch112?code=200128266968312&key=16559
 #EXTINF: tvg-logo="https://goo.gl/pE62z2",BEIN 3 HD
-http://tre.tithis.com:2015/live/arabia/caJUz3pBKe/17259.m3u8
+http://cdnn.ryzas.tn/iptv/ch113?code=200128266968312&key=20001
 #EXTINF: tvg-logo="https://goo.gl/expt4F",BEIN 4 HD
-http://tre.tithis.com:2015/live/arabia/caJUz3pBKe/17258.m3u8
+http://cdnn.ryzas.tn/iptv/ch114?code=200128266968312&key=58109
 #EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEIN 5 HD
-http://tre.tithis.com:2015/live/arabia/caJUz3pBKe/17257.m3u8
+http://cdnn.ryzas.tn/iptv/ch115?code=200128266968312&key=17842
 #EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEIN 6 HD
-http://tre.tithis.com:2015/live/arabia/caJUz3pBKe/17256.m3u8
+http://cdnn.ryzas.tn/iptv/ch116?code=200128266968312&key=27926
 #EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEIN 7 HD
-http://tre.tithis.com:2015/live/arabia/caJUz3pBKe/17255.m3u8
+http://cdnn.ryzas.tn/iptv/ch117?code=200128266968312&key=32175
 #EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEIN 8 HD
-http://tre.tithis.com:2015/live/arabia/caJUz3pBKe/17254.m3u8
+http://cdnn.ryzas.tn/iptv/ch118?code=200128266968312&key=32494
 #EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEIN 9 HD
-http://tre.tithis.com:2015/live/arabia/caJUz3pBKe/17253.m3u8
+http://cdnn.ryzas.tn/iptv/ch510?code=200128266968312&key=15835
 #EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEIN 10 HD
-http://tre.tithis.com:2015/live/arabia/caJUz3pBKe/17252.m3u8
+http://cdnn.ryzas.tn/iptv/ch511?code=200128266968312&key=56751
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 HD
-http://tre.tithis.com:2015/live/arabia/caJUz3pBKe/17251.m3u8
+http://cdnn.ryzas.tn/iptv/ch512?code=200128266968312&key=45294
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 HD
-http://tre.tithis.com:2015/live/arabia/caJUz3pBKe/17250.m3u8
+http://cdnn.ryzas.tn/iptv/ch513?code=200128266968312&key=59353
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 2",======BeIn Sports HD 2 =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
