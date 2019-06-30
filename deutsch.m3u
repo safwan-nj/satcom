@@ -133,9 +133,9 @@ http://livestreams.br.de/i/bfssued_worldwide@119891/index_3776_av-p.m3u8
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist_w1737037020.m3u8
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/8/8d/RTL-Tele-Luxembourg.jpg",RTL
 http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/bi9htU",GO TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",GO TV
 http://nstream17.gotv.at:1938/live/gotvlive_360p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/bi9htU",Das Erste
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Das Erste
 https://daserstehdint-lh.akamaihd.net/i/daserstehd_int@629195/index_3776_av-b.m3u8
 
 
@@ -143,5 +143,6 @@ https://daserstehdint-lh.akamaihd.net/i/daserstehd_int@629195/index_3776_av-b.m3
 
 
 
-
-#EXTINF: tvg-logo="https://goo.gl/bi9htU",Satcom logo
+#EXTINF: tvg-logo="https://goo.gl/fETVF3",logo not exist
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Satcom Gold logo
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Satcom Red logo
