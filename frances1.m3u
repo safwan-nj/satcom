@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://goo.gl/bi9htU" group-title="FRANCE",------- FRANCE --------
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" group-title="FRANCE",------- FRANCE --------
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
@@ -201,4 +201,6 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/t/Bnhb6PI9GIjiK
 #EXTVLCOPT:network-caching=1000
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 
-#EXTINF: tvg-logo="https://goo.gl/bi9htU",logo not exist
+#EXTINF: tvg-logo="https://goo.gl/fETVF3",logo not exist
+#EXTINF: tvg-logo="https://goo.gl/bi9htU",Satcom Gold logo
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Satcom Red logo
