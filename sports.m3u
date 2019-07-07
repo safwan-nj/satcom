@@ -4,19 +4,19 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 http://95.170.215.118/hls/m3u8/FT-Sport-1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 1 HD 
-http://crystaltv.xyz:8080/nabil/123456/154549
+
 #EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 2 HD
-http://crystaltv.xyz:8080/nabil/123456/120965
+
 #EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 3 HD
-http://crystaltv.xyz:8080/nabil/123456/131563
+
 #EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 4 HD
-http://crystaltv.xyz:8080/nabil/123456/131564
+
 #EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 5 HD
-http://crystaltv.xyz:8080/nabil/123456/131565
+
 #EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 6 HD
-http://crystaltv.xyz:8080/nabil/123456/131566
+
 #EXTINF:-1 tvg-logo="http://www.stadenews.com/ar/wp-content/themes/ons/timthumb.php?src=http://www.stadenews.com/ar/wp-content/uploads/2018/07/net.beout_.belivetv.png",BeoutQ 7 HD
-http://configuration.tn:8000/123/123/7082
+
 
 
 
@@ -32,34 +32,38 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
-
-#EXTINF:0,Bein-Sport-News SD
-http://45.77.68.138:8000/live/SatcomIptv/mr.safwan.alnajjar/32.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn Max 1SD
+http://95.170.215.101/hls/Bein-Max-HD1-MCR.m3u8 
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn Max 4SD
+http://95.170.215.101/hls/Bein-Max-HD4-MCR.m3u8
+#EXTINF:0 tvg-logo="https://goo.gl/wLnk9L",Bein-Sport-News SD
+http://cdnn.ryzas.tn/iptv/ch110?code=160127665325473&key=12841
+#EXTINF:0 tvg-logo="https://goo.gl/wLnk9L",Bein Sport
+http://cdnn.ryzas.tn/iptv/ch400?code=160127665325473&key=62603
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1 SD
-http://goaltivi.live:1881/cengiz/06082018/33293
+http://cdnn.ryzas.tn/iptv/ch111?code=160127665325473&key=39187
 #EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEINSPORTS-2 SD
-http://goaltivi.live:1881/cengiz/06082018/33292
+http://cdnn.ryzas.tn/iptv/ch112?code=160127665325473&key=49300
 #EXTINF: tvg-logo="https://goo.gl/pE62z2",BEINSPORTS-3 SD
-http://goaltivi.live:1881/cengiz/06082018/33291
+http://cdnn.ryzas.tn/iptv/ch113?code=160127665325473&key=35158
 #EXTINF: tvg-logo="https://goo.gl/expt4F",BEINSPORTS-4 SD
-http://goaltivi.live:1881/cengiz/06082018/33290
+http://cdnn.ryzas.tn/iptv/ch114?code=160127665325473&key=64626
 #EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEINSPORTS-5 SD
-http://goaltivi.live:1881/cengiz/06082018/33289
+http://cdnn.ryzas.tn/iptv/ch115?code=160127665325473&key=26084
 #EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEINSPORTS-6 SD
-http://goaltivi.live:1881/cengiz/06082018/33288
+http://cdnn.ryzas.tn/iptv/ch116?code=160127665325473&key=28789
 #EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEINSPORTS-7 SD
-http://goaltivi.live:1881/cengiz/06082018/33287
+http://cdnn.ryzas.tn/iptv/ch117?code=160127665325473&key=63213
 #EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEINSPORTS-8 SD
-http://goaltivi.live:1881/cengiz/06082018/33286
+http://cdnn.ryzas.tn/iptv/ch118?code=160127665325473&key=14319
 #EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEINSPORTS-9 SD
-http://goaltivi.live:1881/cengiz/06082018/33285
+http://cdnn.ryzas.tn/iptv/ch510?code=160127665325473&key=26354
 #EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEINSPORTS-10 SD
-http://goaltivi.live:1881/cengiz/06082018/33284
-
+http://cdnn.ryzas.tn/iptv/ch511?code=160127665325473&key=28971
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 SD
-
+http://cdnn.ryzas.tn/iptv/ch512?code=160127665325473&key=34659
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 SD
-
+http://cdnn.ryzas.tn/iptv/ch513?code=160127665325473&key=46542
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 1",======BeIn Sports HD 1 =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
@@ -103,30 +107,54 @@ http://cdnn.ryzas.tn/iptv/ch513?code=200128266968312&key=59353
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 2",======BeIn Sports HD 2 =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",Bein 1 HD
-http://190.2.131.171:8080/live/ZOXzVkTPre/23gy643xmH/106188.m3u8
+http://163.172.117.134:80/live.ts?channelId=178&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
 #EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEIN 2 HD
-http://190.2.131.171:8080/live/ZOXzVkTPre/23gy643xmH/106187.m3u8
+http://163.172.117.134:80/live.ts?channelId=179&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
 #EXTINF: tvg-logo="https://goo.gl/pE62z2",BEIN 3 HD
-http://190.2.131.171:8080/live/ZOXzVkTPre/23gy643xmH/106186.m3u8
+http://163.172.117.134:80/live.ts?channelId=180&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
 #EXTINF: tvg-logo="https://goo.gl/expt4F",BEIN 4 HD
-http://190.2.131.171:8080/live/ZOXzVkTPre/23gy643xmH/106185.m3u8
+http://163.172.117.134:80/live.ts?channelId=181&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
 #EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEIN 5 HD
-http://190.2.131.171:8080/live/ZOXzVkTPre/23gy643xmH/106184.m3u8
+http://163.172.117.134:80/live.ts?channelId=182&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
 #EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEIN 6 HD
-http://190.2.131.171:8080/live/ZOXzVkTPre/23gy643xmH/106183.m3u8
+http://163.172.117.134:80/live.ts?channelId=183&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
 #EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEIN 7 HD
-http://190.2.131.171:8080/live/ZOXzVkTPre/23gy643xmH/106182.m3u8
+http://163.172.117.134:80/live.ts?channelId=184&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
 #EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEIN 8 HD
-http://190.2.131.171:8080/live/ZOXzVkTPre/23gy643xmH/106181.m3u8
+http://163.172.117.134:80/live.ts?channelId=185&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
 #EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEIN 9 HD
-http://190.2.131.171:8080/live/ZOXzVkTPre/23gy643xmH/106180.m3u8
+http://163.172.117.134:80/live.ts?channelId=186&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
 #EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEIN 10 HD
-http://190.2.131.171:8080/live/ZOXzVkTPre/23gy643xmH/1061779.m3u8
+http://163.172.117.134:80/live.ts?channelId=187&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 HD
-http://190.2.131.171:8080/live/ZOXzVkTPre/23gy643xmH/106178.m3u8
+http://163.172.117.134:80/live.ts?channelId=188&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 HD
-http://190.2.131.171:8080/live/ZOXzVkTPre/23gy643xmH/106177.m3u8
+http://163.172.117.134:80/live.ts?channelId=189&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn Max 1
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn Max 2
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn Max 3
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn Max 4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 5
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 6
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 7
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 9
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 10
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 11
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 12
 
 
 
