@@ -36,7 +36,7 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/wLnk9L",Bein Sport
-
+http://54.38.209.164:8000/ujy5C8X9Om/U1OQX6uwig/101282
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1 SD
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
 #EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEINSPORTS-2 SD
@@ -66,16 +66,37 @@ http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sports News
 http://cdnn.ryzas.tn/iptv/ch110?code=200128266968312&key=21790
+#EXTINF: tvg-logo="https://goo.gl/KT6bko",Bein 1 HD
+http://163.172.117.134:80/live.ts?channelId=178&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
+#EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEIN 2 HD
+http://163.172.117.134:80/live.ts?channelId=179&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
+#EXTINF: tvg-logo="https://goo.gl/pE62z2",BEIN 3 HD
+http://163.172.117.134:80/live.ts?channelId=180&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
+#EXTINF: tvg-logo="https://goo.gl/expt4F",BEIN 4 HD
+http://163.172.117.134:80/live.ts?channelId=181&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
+#EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEIN 5 HD
+http://163.172.117.134:80/live.ts?channelId=182&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
+#EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEIN 6 HD
+http://163.172.117.134:80/live.ts?channelId=183&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
+#EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEIN 7 HD
+http://163.172.117.134:80/live.ts?channelId=184&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
+#EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEIN 8 HD
+http://163.172.117.134:80/live.ts?channelId=185&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
+#EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEIN 9 HD
+http://163.172.117.134:80/live.ts?channelId=186&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
+#EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEIN 10 HD
+http://163.172.117.134:80/live.ts?channelId=187&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
+#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 HD
+http://163.172.117.134:80/live.ts?channelId=188&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
+#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 HD
+http://163.172.117.134:80/live.ts?channelId=189&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 2",======BeIn Sports HD 2 =======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sports News
+http://cdnn.ryzas.tn/iptv/ch110?code=200128266968312&key=21790
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sport
 http://cdnn.ryzas.tn/iptv/ch400?code=200128266968312&key=17696
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn Max 1 HD
-http://cdnn.ryzas.tn/iptv/ch8111?code=200128266968312&key=56203
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn Max 2 HD
-http://cdnn.ryzas.tn/iptv/ch8112?code=200128266968312&key=23351
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn Max 3 HD
-http://cdnn.ryzas.tn/iptv/ch8113?code=200128266968312&key=10678
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn Max 4 HD
-http://cdnn.ryzas.tn/iptv/ch8114?code=200128266968312&key=29001
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",Bein 1 HD
 http://cdnn.ryzas.tn/iptv/ch111?code=200128266968312&key=46006
 #EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEIN 2 HD
@@ -101,32 +122,7 @@ http://cdnn.ryzas.tn/iptv/ch512?code=200128266968312&key=45294
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 HD
 http://cdnn.ryzas.tn/iptv/ch513?code=200128266968312&key=59353
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 2",======BeIn Sports HD 2 =======
-https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
-#EXTINF: tvg-logo="https://goo.gl/KT6bko",Bein 1 HD
-http://163.172.117.134:80/live.ts?channelId=178&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
-#EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEIN 2 HD
-http://163.172.117.134:80/live.ts?channelId=179&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
-#EXTINF: tvg-logo="https://goo.gl/pE62z2",BEIN 3 HD
-http://163.172.117.134:80/live.ts?channelId=180&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
-#EXTINF: tvg-logo="https://goo.gl/expt4F",BEIN 4 HD
-http://163.172.117.134:80/live.ts?channelId=181&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
-#EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEIN 5 HD
-http://163.172.117.134:80/live.ts?channelId=182&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
-#EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEIN 6 HD
-http://163.172.117.134:80/live.ts?channelId=183&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
-#EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEIN 7 HD
-http://163.172.117.134:80/live.ts?channelId=184&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
-#EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEIN 8 HD
-http://163.172.117.134:80/live.ts?channelId=185&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
-#EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEIN 9 HD
-http://163.172.117.134:80/live.ts?channelId=186&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
-#EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEIN 10 HD
-http://163.172.117.134:80/live.ts?channelId=187&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
-#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 HD
-http://163.172.117.134:80/live.ts?channelId=188&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
-#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 HD
-http://163.172.117.134:80/live.ts?channelId=189&deviceMac=00:1A:79:F9:4F:50&uid=1647&hops=1
+
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn Max 1
