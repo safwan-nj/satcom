@@ -22,7 +22,9 @@ http://82.137.248.16:1935/Drama/stream20112018/chunklist.m3u8
 http://82.137.248.16:1935/Snews/stream20112018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://goo.gl/eDtLda",Noor Alsham
 http://82.137.248.16:1935/Nour/stream20112018/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://goo.gl/LY6LX9",SamaTV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://goo.gl/LY6LX9",Sama Syria
+http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://goo.gl/LY6LX9",Sama TV
 https://svs.itworkscdn.net/samatvlive/sama.smil/chunklist.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",SAMA HD
 
