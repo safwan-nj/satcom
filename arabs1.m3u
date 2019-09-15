@@ -24,15 +24,11 @@ http://82.137.248.16:1935/Snews/stream20112018/chunklist.m3u8
 http://82.137.248.16:1935/Nour/stream20112018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://goo.gl/LY6LX9",Sama Syria
 http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://goo.gl/LY6LX9",Sama TV
-https://svs.itworkscdn.net/samatvlive/sama.smil/chunklist.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",SAMA HD
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://goo.gl/LY6LX9",SamaTV S2
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://goo.gl/s2bep9",Lana
-https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://goo.gl/s2bep9",Lana  HD
+http://95.170.215.109/hls/m3u8/LANA-TV-Backup.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
 http://streaming.i-sat.tv:1935/livestream/alminbar/chunklist.m3u8
@@ -42,7 +38,7 @@ http://streaming.i-sat.tv:1935/livestream/alminbar/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://cdn-profiles.tunein.com/s88156/images/logoq.png" ,Sham FM
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="http://alkhabar-sy.com/wp-content/uploads/2017/04/LOGO.png" ,Al Khabar
-http://95.170.215.109/hls/m3u8/Al-Khabar-Backup.m3u8
+
 #EXTINF:0 tvg-logo="https://goo.gl/krLqSL",Hawa Syria
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://goo.gl/hkVXFD",Ogarit
 http://82.137.248.16:1935/Ugarit/stream20112018/chunklist.m3u8
@@ -60,7 +56,10 @@ http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8
 https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://goo.gl/4Uds7Q",ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://goo.gl/s2bep9",Lana
+https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://goo.gl/LY6LX9",Sama TV
+https://svs.itworkscdn.net/samatvlive/sama.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://goo.gl/xZabzC" group-title="LEBANON",======LEBANON=======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
