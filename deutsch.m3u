@@ -10,17 +10,17 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 1 New
-http://51.159.3.34/e10/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 2 New
-http://orf2.orfstg.cdn.ors.at/out/u/orf2/q8c/manifest_6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 1 Original
-https://orf1.cdn.ors.at/out/u/orf1/qxb/manifest_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 1
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 2 
-https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest_1.m3u8
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 3 
-https://orf3.cdn.ors.at/out/u/orf3/qxb/manifest_1.m3u8
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest_6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF Sport 
-https://orfs.cdn.ors.at/out/u/orfs/qxb/manifest_1.m3u8
+https://orfs.cdn.ors.at/out/u/orfs/qxb/manifest_6.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fMS2Rnos2Ek/TigUPuIjEKI/AAAAAAAABw8/37aWVpMG2eQ/s1600/Kabel+Eins+icon+1990s.png",Kabel 1
 http://46.4.79.153/e5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://austria24.tv/wp-content/uploads/2014/01/A24_logo_big.png",Austria 24
