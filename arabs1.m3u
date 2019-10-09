@@ -439,7 +439,7 @@ http://av.alarabiya.net/alarabiapublish/alhadath.smil/oui9.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Al Alam 
 http://live2.alalam.ir/live/Alalam_high/index.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Al Alam S2
-http://162.210.195.121:8080/alalam/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/YK24WH",RT Arabic
 https://rt-arab.secure.footprint.net/1104-inadv-qidx-1k_v3.m3u8
 #EXTINF: tvg-logo="https://goo.gl/fETVF3",france 24
@@ -472,27 +472,26 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/3QsjeZ", Cartoon Network Ar
-http://162.210.195.121:8080/CartoonNetwork/tracks-v1a1/mono.m3u8
+http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/3QsjeZ",Cartoon network
-http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/143/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.kym-cdn.com/photos/images/original/001/099/188/818",Nickelodeon
-http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/541/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png",Disney
-http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/524/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.wasmenia.com/wp-content/uploads/2017/11/ajyal-tv-01-1024x1024.png",Ajyal
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/UxV1RC",ِAl Majd kids 
-http://109.236.92.216:9090/Almajdkids/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/UxV1RC",Majed kids 
-http://95.170.215.124/live/disk1/Majid_Kids/anevia1/index.m3u8
+http://tvae.ercdn.net/majidtv/majidtv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-KlQVgXlGIn8/XHhD6ntD6YI/AAAAAAAAIKU/gbcwwPfix9cc2Y22i-XxLLpBPjH1FY6hgCK4BGAYYCw/s1600/logo%2Bjeem%2Btv.png",jeem HD
-http://livecdnh2.tvanywhere.ae/hls/jeem/04.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/BaraemEurope-1.png",Baraem
-http://livecdnh2.tvanywhere.ae/hls/baraeim/04.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png", DISNEYCHANNEL(East)HD
-http://162.210.198.17:8080/DISNEYCHANNEL(East)HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/zaUKgm",taha 
 
@@ -501,7 +500,7 @@ https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/xDxDbp",Noursat Kids
 
 #EXTINF:-1 tvg-logo="https://goo.gl/5JgvNw",Semsem
-http://streaming.i-sat.tv:1935/livestream/sms/chunklist.m3u8
+
 
 #EXTINF:0 tvg-logo="https://goo.gl/C1Nw29",Toyor Aljanah
 
@@ -510,12 +509,12 @@ http://streaming.i-sat.tv:1935/livestream/sms/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/f8v11K",Karameesh
-http://38.99.146.36:7777/Karameesh_HD.m3u8?session=00bf13a4c3abcd3861c45a5178c78d01fcaa8847484d9a71559809f3b22806fd
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="OTHER ARAB",=====OTHER ARAB========
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/fQkZGt",Nat Geo AD
-http://162.210.195.121:8080/NationalGeoAD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/fQkZGt",Nat Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",NAT GEO PEOPLE
@@ -523,15 +522,15 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.hala-tv.com/images/hala_logo.png",Hala TV
-http://wowza.panet.co.il:1935/live/smil:halaTV.smil/chunklist.m3u8
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://alfajertv.com/live/assets/images/logo.png",Alfajer 
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Iqraa
-http://199.167.151.237:1935/live/nsahs19_25.stream/oui9.m3u8
+
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Makka
 
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Sunnah
-http://mysisli.com/36bay2/gin/gin-saudisunnah/index.m3u8 
+
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Saudi Quraan
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Saudi Thaqafiya
@@ -546,18 +545,16 @@ http://htvint.mada.ps:8889//salamtv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qKtzT41hSDk/VxjnQFunDxI/AAAAAAAAOCs/PdyP4wsuns4iRD_22qy_r2EEyYVyXzY1gCLcB/s1600/Bethlehem%2BTV.jpg",Bait Lahm
 http://htvint.mada.ps:8889//btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qKtzT41hSDk/VxjnQFunDxI/AAAAAAAAOCs/PdyP4wsuns4iRD_22qy_r2EEyYVyXzY1gCLcB/s1600/Bethlehem%2BTV.jpg",Bait Lahm 2
-http://htvmada.mada.ps:8888/btv/index.m3u8
+
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Palestine
 http://live.paltoday.tv:1935/paltv/live/chunklist.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Jordan
 http://stream.joinvisions.net:1935/jorlive/jrtv/chunklist_w1319607465.m3u8
 #EXTINF:-1 tvg-logo="http://www.copts-united.com/ChannelsLogo/22.jpg",Alhurriya
-http://68.235.60.118:1935/alhorreya.tv/alhorreya.smil/chunklist.m3u8
 
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",FUNOON
-http://109.236.92.216:9090/funoon/mpegts
+
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",QUEST
-http://109.236.92.216:9090/Quest/mpegts
 
 
 
@@ -587,14 +584,13 @@ http://89.211.63.16:1935/HR01/HR01.stream/bonradio.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/3pBjuN",aldhafra
 http://aldafrahtv.noip.us:1935/live/_definst_/myStream1/1.m3u8
 #EXTINF: tvg-logo="https://goo.gl/NVVZC4",Quran qatamai
-http://m.live.net.sa:1935/live/qotami/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/R4v8gE",saudi 1
 
 #EXTINF:-1 tvg-logo="https://goo.gl/o5WbNV",saudi 2
 
 #EXTINF:-1 tvg-logo="https://goo.gl/d88TqU",alresala
-http://199.167.151.237:1935/live/nsahs19_28.stream/oui9.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/oDsViu",bahrain International
 
 #EXTINF:-1 tvg-logo="https://goo.gl/oDsViu",bahrain
@@ -630,13 +626,13 @@ http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/yK8pQB",Amen FM 89.5
 
 #EXTINF:-1 tvg-logo="https://goo.gl/s15iKC",Al Aqsa
-http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/DHcxsi",Masdar TV
-http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Al Aan
-http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/fuyZod",Al Jazeera Documentary
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/YkYRA4",KTV 1
 https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/ztRuHy",KTV 2
@@ -652,8 +648,6 @@ https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/QgXcFQ",Oman Mubasher
 
 #EXTINF:-1 tvg-logo="https://goo.gl/CHG761",Oman Documentary
-
-https://raw.githubusercontent.com/safwan-nj/satcom/master/Satcom.V19(Gold).apk
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180330/hxe/kisspng-iraqi-kurdistan-flag-of-kurdistan-kurdish-region-round-5abe49314a9fd2.5660209415224200173057.jpg" group-title="KURD",=====KURD========
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
