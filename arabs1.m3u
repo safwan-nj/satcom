@@ -336,9 +336,9 @@ https://wowzaprod201-i.akamaihd.net/hls/live/790777/d8d29662/d8d29662_1_2728/chu
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
 #EXTINF:0 tvg-logo="https://goo.gl/oUB4Dz",Alwataniya 1
-rtmp://54.36.122.126/live//tunisie1?v=1494899160
+
 #EXTINF:0 tvg-logo="https://goo.gl/uUDT1H",Alwataniya 2
-rtmp://54.36.122.126/live//tunisie2?v=1494899160
+
 #EXTINF:0 tvg-logo="https://goo.gl/LPVPmr",Nesma Live
 http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/vDQcuZ",Elhiwar Ettounsi
