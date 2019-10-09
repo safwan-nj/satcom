@@ -8,6 +8,8 @@ http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
 http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
+#EXTINF:-1 tvg-logo="https://www.almadinafm.com/images/madinalogo.png" ,Al Madina FM
+http://192.99.17.12:4978/;stream.mp3
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s153498q.png" ,Angamy
 http://angamy.com:9302/;
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s172631q.png" ,Radio Arev
