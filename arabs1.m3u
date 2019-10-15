@@ -9,19 +9,19 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf" tvg-name="SyriaSatelliteChannel.sy",Syria
-http://82.137.248.16:1935/Sat/stream20112018/chunklist.m3u8
+http://82.137.248.16:1935/Sat/stream13102019/chunklist.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",SYRIA HD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama
-http://82.137.248.16:1935/Drama/stream20112018/chunklist.m3u8
+http://82.137.248.16:1935/Drama/stream13102019/chunklist.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",SYRIS DRAMA HD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama Server2
 
 #EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
-http://82.137.248.16:1935/Snews/stream20112018/chunklist.m3u8
+http://82.137.248.16:1935/Snews/stream13102019/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/eDtLda",Noor Alsham
-http://82.137.248.16:1935/Nour/stream20112018/chunklist.m3u8
+http://82.137.248.16:1935/Nour/stream13102019/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Syria
 http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",SAMA HD
@@ -43,7 +43,7 @@ http://95.170.215.109/hls/m3u8/LANA-TV-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ogarit
 http://82.137.248.16:1935/Ugarit/stream20112018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/VmQutr",Syrian Education
-http://82.137.248.16:1935/SEdu/stream20112018/chunklist.m3u8
+http://82.137.248.16:1935/SEdu/stream13102019/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/tE95C8",Ninar
 
 #EXTINF:-1 tvg-logo="https://goo.gl/UT3KyH",Souryana HD
