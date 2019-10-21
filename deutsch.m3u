@@ -22,14 +22,13 @@ https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
 https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest_6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF Sport 
 https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest_5.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fMS2Rnos2Ek/TigUPuIjEKI/AAAAAAAABw8/37aWVpMG2eQ/s1600/Kabel+Eins+icon+1990s.png",Kabel 1
 
 #EXTINF:-1 tvg-logo="http://austria24.tv/wp-content/uploads/2014/01/A24_logo_big.png",Austria 24
 rtmp://streaming.austria24.tv/live//mp4:stream_720p
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/at/oe24-95x40.gif",Oe 24
 https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://folx.tv/wp-content/uploads/2017/11/folx-logo-astra.jpg",Folx
-
+#EXTINF:-1 tvg-logo="https://fs1.tv/wp-content/uploads/FS1-Logo-Claim-NEG-RGB-rund.svg",FS 1
+https://stream.fs1.tv/hls/webstream.m3u8
 #EXTINF:-1 tvg-logo="https://www.r-9.at/assets/images/logoTop.png",R9
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/587888784945086464/3aMl6Uyt.jpg",ServusTV
@@ -50,6 +49,58 @@ https://zdfhls18-i.akamaihd.net/hls/live/744751-b/dach/3/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/GSd7Dn" group-title="DEUTSCHLAND",======DEUTSCHLAND=======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+
+#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2017/11/1-119x120.png",Pro 7
+https://wer11.wertvlive.com/u1/video.m3u8?token=Rh45MoyoC3
+#EXTINF: tvg-logo="https://tvlivegucken.com/wp-content/uploads/2017/12/11.png",Kabel 1
+https://wer11.wertvlive.com/u5/video.m3u8?token=Rh45MoyoC3
+#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2017/11/10.png",Sat 1
+https://wer11.wertvlive.com/u6/video.m3u8?token=Rh45MoyoC3
+#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2017/12/24.png",Sixx
+https://wer11.wertvlive.com/w7/video.m3u8?token=Rh45MoyoC3
+#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2017/12/25.png",DMAX
+https://wer11.wertvlive.com/u4/video.m3u8?token=Rh45MoyoC3
+#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/sky-Sport-News-HD-Logo.png",Sky Sport News
+https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8
+#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/sport1-logo.png",Sport 1
+https://wer11.wertvlive.com/w13/video.m3u8?token=Rh45MoyoC3
+#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/41.png",Pro 7 MAX
+https://wer11.wertvlive.com/u2/video.m3u8?token=Rh45MoyoC3
+#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/75.png",Disney
+https://wer11.wertvlive.com/w14/video.m3u8?token=Rh45MoyoC3
+#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/72.png",Tele 5
+https://wer11.wertvlive.com/u3/video.m3u8?token=Rh45MoyoC3
+#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/73.png",Viva & Comedy
+https://wer11.wertvlive.com/w12/video.m3u8?token=Rh45MoyoC3
+#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2017/11/8.png",3SAT
+https://zdfhls18-i.akamaihd.net/hls/live/744751-b/dach/3/3.m3u8
+#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2017/12/13.png",N24
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8
+#EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/76.png",Nickelodeon
+https://wer1.wertvlive.com/nick/video.m3u8?token=Rh45MoyoC3
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",
+
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",
+
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",
+
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",
+
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",
+
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",
+
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",
+
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",
+
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alex_Offener_Kanal_Berlin_Logo.svg/2000px-Alex_Offener_Kanal_Berlin_Logo.svg.png",ALEX Berlin
 http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radioszene.de/wp-content/uploads/2016/12/allgaeu-tv-logo-fb-min.pnghttp://www.radioszene.de/wp-content/uploads/2016/12/allgaeu-tv-logo-fb-min.png",Allgau TV
@@ -115,7 +166,7 @@ https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg",KroneHit*
 
 #EXTINF:-1 tvg-logo="https://goo.gl/4G5DeE",Okto TV
-
+https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/C1Nw29",RE Eins
 
 #EXTINF:-1 tvg-logo="https://goo.gl/9eUJhL",Family live tv
