@@ -40,7 +40,7 @@ http://95.170.215.109/hls/m3u8/LANA-TV-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s88156/images/logoq.png" ,Sham FM
 
 #EXTINF:-1 tvg-logo="http://alkhabar-sy.com/wp-content/uploads/2017/04/LOGO.png" ,Al Khabar
-
+http://95.170.215.109/hls/m3u8/Al-Khabar-Backup.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/krLqSL",Hawa Syria
 #EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ogarit
 http://82.137.248.16:1935/Ugarit/stream20112018/chunklist.m3u8
