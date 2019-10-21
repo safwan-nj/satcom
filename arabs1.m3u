@@ -39,11 +39,11 @@ http://95.170.215.109/hls/m3u8/LANA-TV-Backup.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s88156/images/logoq.png" ,Sham FM
 
-#EXTINF:-1 tvg-logo="http://alkhabar-sy.com/wp-content/uploads/2017/04/LOGO.png" ,Al Khabar
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2kI5Whan59k/hqdefault.jpg" ,Al Khabar
 http://95.170.215.109/hls/m3u8/Al-Khabar-Backup.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/krLqSL",Hawa Syria
 #EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ogarit
-http://82.137.248.16:1935/Ugarit/stream20112018/chunklist.m3u8
+http://82.137.248.16:1935/Ugarit/stream13102019/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/VmQutr",Syrian Education
 http://82.137.248.16:1935/SEdu/stream13102019/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/tE95C8",Ninar
@@ -79,7 +79,7 @@ http://95.170.215.109:80/hls/m3u8/LDC-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/mVMJx4",OTV
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/qXKqRV",NBN
-
+http://95.170.215.109:80/hls/m3u8/NBN-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/swcwnE",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8
 
@@ -472,7 +472,8 @@ http://185.105.4.210:1935/nrt/ngrp:livestream_all/playlist.m3u8
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/FH6vuE",Space Toon
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist.m3u8
-
+#EXTINF:-1 tvg-logo="https://goo.gl/FH6vuE",Space Toon S2
+http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/3QsjeZ", Cartoon Network Ar
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 
@@ -505,7 +506,7 @@ https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/C1Nw29",Toyor Aljanah
-
+http://95.170.215.109:80/hls/m3u8/TOYOR-B-Backup.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/C1Nw29",Toyor Baby
 
 
