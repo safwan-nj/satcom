@@ -20,36 +20,32 @@ https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 3 
 https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest_6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF Sport 
-https://orfs.cdn.ors.at/out/u/orfs/qxb/manifest_6.m3u8
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest_5.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fMS2Rnos2Ek/TigUPuIjEKI/AAAAAAAABw8/37aWVpMG2eQ/s1600/Kabel+Eins+icon+1990s.png",Kabel 1
-http://46.4.79.153/e5/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://austria24.tv/wp-content/uploads/2014/01/A24_logo_big.png",Austria 24
 rtmp://streaming.austria24.tv/live//mp4:stream_720p
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/at/oe24-95x40.gif",Oe 24
 https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://folx.tv/wp-content/uploads/2017/11/folx-logo-astra.jpg",Folx
-http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.r-9.at/assets/images/logoTop.png",R9
-https://ms03.w24.at/R9/smil:liveeventR9.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/587888784945086464/3aMl6Uyt.jpg",ServusTV
-https://liveservustv-i.akamaihd.net/hls/live/270998/ServusTV_AT/master_lkj1112.m3u8
+https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/at/k-tv_95x53.gif",KTV
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/at/schauTV_95x63.gif",Schau Tv
 https://schautv.cdn.ors.at/out/u/schautv-nodrm_5.m3u8
 #EXTINF:-1 tvg-logo="https://www.rts-salzburg.at/wp-content/themes/rts/images/rts-logo.png",RTS Salzburg
 http://80.237.191.228:1935/live/_definst_/RTS2015/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/587888784945086464/3aMl6Uyt.jpg",ServusTV
-http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_2592_av-p.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg",Tirol TV
 http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg",Tirol TV
-https://58b42f6c8c9bf.streamlock.net:8080/live/TirolTV/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.stream2watch.cc/images/streams/600x400/14637428725379.png",W24
-http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
+https://ms01.w24.at/W24/smil:liveevent.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/1200px-3sat-Logo.svg.png",3Sat
-http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
+https://zdfhls18-i.akamaihd.net/hls/live/744751-b/dach/3/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/GSd7Dn" group-title="DEUTSCHLAND",======DEUTSCHLAND=======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
@@ -60,21 +56,21 @@ http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlis
 #EXTINF:-1 tvg-logo="https://goo.gl/T8KaAG",Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png",Blizz TV
-http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",Deutsche Welle
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png",DW Arabic
 https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s100563q.png",Elbekanal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png",EOTV
-http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen
 http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://programm.ard.de/files/265/2007/2778/28108.jpg",HR Fernsehen
-http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/intv.png",INTV
-https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/p6PrJL",Krone Tv
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/580346447574503424/CxEQwneb.png",Munchen TV
@@ -86,7 +82,7 @@ http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png",RFO
 http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png",Rheinmain TV
-http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/1zcz428.jpg",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.portmann-media.com/wp-content/uploads/2015/06/telebasel.png",Telebasel
@@ -94,19 +90,19 @@ http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master
 #EXTINF:-1 tvg-logo="https://www.tvaktuell.com/storage/thumbs/700x/r:1428659201/128312.jpg",TVA Ostbayern
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvberlin.png",TV Berlin
-http://stream.der-hauptstadt-sender.de/hls/Themeh4g.m3u8
+https://58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.teamkral.de/uploads/pics/tvo20logo_01.jpg",TV Oberfranken
 http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvtouring.de/storage/thumbs/960x/r:1491827599/12164.jpg",TV Touring Schweinfurt
-http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tvtouring.de/storage/thumbs/960x/r:1491827599/12164.jpg",TV Touring Wurzburg
 http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200px-Wdr_fernsehen_logo_2016.svg.png",WDR Fernsehen
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.broadbandtvnews.com/wp-content/uploads/2014/05/Welt-der-Wunder.jpg",Welt der Wunder
-http://live.vidoo.de/live/weltderwunder/f1tv.m3u8
+http://wowza-1.vidoo.de:1935/live/weltderwunder/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png",Deluxe Music
-http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
+https://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1517224585_b879931_slDE.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png",QVC
 http://ios-stream.qvc.de/qvc.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg",1-2-3 TV
@@ -114,15 +110,15 @@ http://123tv.cdn.ses-ps.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/X38ph6",Dorf TV
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg",KroneHit
-http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
+
 #EXTINF:-1 tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg",KroneHit*
-http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/4G5DeE",Okto TV
-http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/C1Nw29",RE Eins
-http://www.reeins.tv:1935/live/re1/chunklist_w1257786105.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/9eUJhL",Family live tv
-http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/index_500_av-p.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/C1Nw29",Munchen
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_3/chunklist_w1844412927.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/a73NFk",Deutsches Musik
