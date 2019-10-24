@@ -16,6 +16,7 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 1
 https://wer11.wertvlive.com/w10/video.m3u8?token=Rh45MoyoC3
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 2 
 https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 3 
@@ -30,7 +31,7 @@ https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://fs1.tv/wp-content/uploads/FS1-Logo-Claim-NEG-RGB-rund.svg",FS 1
 https://stream.fs1.tv/hls/webstream.m3u8
 #EXTINF:-1 tvg-logo="https://www.r-9.at/assets/images/logoTop.png",R9
-
+https://ms01.w24.at/R9/smil:liveeventR9.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/587888784945086464/3aMl6Uyt.jpg",ServusTV
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/at/k-tv_95x53.gif",KTV
@@ -42,8 +43,16 @@ http://80.237.191.228:1935/live/_definst_/RTS2015/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg",Tirol TV
 http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.stream2watch.cc/images/streams/600x400/14637428725379.png",W24
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",W24
 https://ms01.w24.at/W24/smil:liveevent.smil/chunklist.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",P3TV
+http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",M4
+https://5a32c05065c79.streamlock.net/live/stream/chunklist.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Ländle TV
+https://58b42f6c8c9bf.streamlock.net:8080/live/LaendleTV/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/1200px-3sat-Logo.svg.png",3Sat
 https://zdfhls18-i.akamaihd.net/hls/live/744751-b/dach/3/3.m3u8
 
@@ -78,8 +87,8 @@ https://zdfhls18-i.akamaihd.net/hls/live/744751-b/dach/3/3.m3u8
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8
 #EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/76.png",Nickelodeon
 https://wer1.wertvlive.com/nick/video.m3u8?token=Rh45MoyoC3
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",
-
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Niederbayern
+http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2/playlist.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",
 
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",
