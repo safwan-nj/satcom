@@ -134,24 +134,24 @@ http://livecdnh3.tvanywhere.ae/hls/rotmas/03.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/GwZKWD" group-title="MBC",======MBC=======
+#EXTINF:-1 tvg-logo="https://goo.gl/GwZKWD" group-title="MBC HD",======MBC HD=======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
-#EXTINF:-1 tvg-logo="https://goo.gl/e3gMb1" tvg-name="MBC1.ae",MBC 1 HD
+#EXTINF:-1 tvg-logo="https://goo.gl/e3gMb1" ,MBC 1 HD
 http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/FDvujj" tvg-name="MBC2.ae",MBC 2 HD
+#EXTINF:-1 tvg-logo="https://goo.gl/FDvujj",MBC 2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/E4CNhT" tvg-name="MBC3.ae",MBC 3 HD
+#EXTINF:-1 tvg-logo="https://goo.gl/E4CNhT",MBC 3 HD
 http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/jjAQdb" tvg-name="MBC4.sa	",MBC 4 HD
+#EXTINF:-1 tvg-logo="https://goo.gl/jjAQdb",MBC 4 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/Qh3mL7" tvg-name="MBCAction.sa",MBC Action HD
+#EXTINF:-1 tvg-logo="https://goo.gl/Qh3mL7" ,MBC Action HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/bKW5Xm" tvg-name="MBCMax.ae	",MBC Max HD
+#EXTINF:-1 tvg-logo="https://goo.gl/bKW5Xm" ,MBC Max HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
 #EXTINF:-1 tvg-logo="https://staticmbc-a.akamaihd.net/image/upload/v1548672000/2019/01/28/g4g8zjtjiecrv3m7iolt.jpg" tvg-name="MBCIraq.iq",MBC Iraq
 
@@ -167,9 +167,13 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
 
 
 #EXTINF:-1tvg-logo="https://goo.gl/dnHy2e",Zee Aflam
-http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/04.m3u8
 #EXTINF:-1tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",B4U Aflam
 http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GwZKWD" group-title="MBC SD",======MBC SD=======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+
 #EXTINF:-1 tvg-logo="https://goo.gl/e3gMb1" ,MBC 1 SD
 http://livecdnh2.tvanywhere.ae/hls/mbc1/02.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/FDvujj",MBC 2 SD
@@ -188,6 +192,8 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/02.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/02.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/yXPF9L",MBC Masr SD
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8
+#EXTINF:-1tvg-logo="https://goo.gl/dnHy2e",Zee Aflam SD
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://goo.gl/4vmvAX",Zee Alwan
 
