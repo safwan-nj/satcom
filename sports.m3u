@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD 1",======BeIn Sports SD 1 =======
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 1",======BeIn Sports HD 1 =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
@@ -33,7 +33,7 @@ http://iptv-line.com:7899/live/-mac/fYLkczeLEW/9126.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 12
 http://iptv-line.com:7899/live/-mac/fYLkczeLEW/9125.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 1",======BeIn Sports HD 1 =======
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 2",======BeIn Sports HD 2 =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sports News
 http://hemn2.xyz:8000/live/8l6tFi9d1i/lzBpgLKGO8/9574.m3u8
@@ -62,7 +62,7 @@ http://hemn2.xyz:8000/live/8l6tFi9d1i/lzBpgLKGO8/213.m3u8
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 HD
 http://hemn2.xyz:8000/live/8l6tFi9d1i/lzBpgLKGO8/171.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 2",======BeIn Sports HD 2 =======
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 3",======BeIn Sports HD 3 =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sports News
 
@@ -93,7 +93,32 @@ http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/19
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 HD
 http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/20
 
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD 1",======BeIn Sports SD 1 =======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+#EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1 SD
+http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/46
 
+#EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEINSPORTS-2 SD
+http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/48
+#EXTINF: tvg-logo="https://goo.gl/pE62z2",BEINSPORTS-3 SD
+http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/50
+#EXTINF: tvg-logo="https://goo.gl/expt4F",BEINSPORTS-4 SD
+http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/52
+#EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEINSPORTS-5 SD
+http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/54
+#EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEINSPORTS-6 SD
+http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/56
+#EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEINSPORTS-7 SD
+http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/58
+#EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEINSPORTS-8 SD
+http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/60
+#EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEINSPORTS-9 SD
+http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/62
+#EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEINSPORTS-10 SD
+http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/64
+#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 SD
+
+#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 SD
 
 
 
@@ -142,30 +167,6 @@ http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
 
 
 
-#EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1 SD
-http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/46
-
-#EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEINSPORTS-2 SD
-http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/48
-#EXTINF: tvg-logo="https://goo.gl/pE62z2",BEINSPORTS-3 SD
-http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/50
-#EXTINF: tvg-logo="https://goo.gl/expt4F",BEINSPORTS-4 SD
-http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/52
-#EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEINSPORTS-5 SD
-http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/54
-#EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEINSPORTS-6 SD
-http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/56
-#EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEINSPORTS-7 SD
-http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/58
-#EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEINSPORTS-8 SD
-http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/60
-#EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEINSPORTS-9 SD
-http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/62
-#EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEINSPORTS-10 SD
-http://iptvhit.live/AzZ/STAR7ARAB/STAR7ARAB/64
-#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 SD
-
-#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 SD
 
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",logo not exist
 #EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Other Sports",======Other Sports=======
