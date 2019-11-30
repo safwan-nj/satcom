@@ -86,7 +86,7 @@ https://zdfhls18-i.akamaihd.net/hls/live/744751-b/dach/3/3.m3u8
 #EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2017/12/13.png",N24
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8
 #EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/76.png",Nickelodeon
-https://wer1.wertvlive.com/nick/video.m3u8?token=Rh45MoyoC3
+http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Niederbayern
 http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2/playlist.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",
