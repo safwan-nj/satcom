@@ -12,31 +12,35 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/135.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sport
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/136.m3u8
+#EXTINF:-1,astera sport
+http://aliwix-t.online:80/live/aliwixhd/bein/931.ts
+#EXTINF:-1,BEIN 4K
+http://aliwix-t.online:80/live/aliwixhd/bein/844.ts
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 1
-http://190.2.132.7:8080/live/8901428641/chjpojdp/55.m3u8
+http://aliwix-t.online:80/live/aliwixhd/bein/845.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 2
-http://190.2.132.7:8080/live/8901428641/chjpojdp/41.m3u8
+http://aliwix-t.online:80/live/aliwixhd/bein/846.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 3
-http://190.2.132.7:8080/live/8901428641/chjpojdp/39.m3u8
+http://aliwix-t.online:80/live/aliwixhd/bein/847.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 4
-http://190.2.132.7:8080/live/8901428641/chjpojdp/37.m3u8
+http://aliwix-t.online:80/live/aliwixhd/bein/848.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 5
-http://190.2.132.7:8080/live/8901428641/chjpojdp/35.m3u8
+http://aliwix-t.online:80/live/aliwixhd/bein/849.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 6
-http://190.2.132.7:8080/live/8901428641/chjpojdp/33.m3u8
+http://aliwix-t.online:80/live/aliwixhd/bein/850.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 7
-http://190.2.132.7:8080/live/8901428641/chjpojdp/31.m3u8
+http://aliwix-t.online:80/live/aliwixhd/bein/851.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 8
-http://190.2.132.7:8080/live/8901428641/chjpojdp/29.m3u8
+http://aliwix-t.online:80/live/aliwixhd/bein/852.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 9
-http://190.2.132.7:8080/live/8901428641/chjpojdp/27.m3u8
+http://aliwix-t.online:80/live/aliwixhd/bein/853.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 10
-http://190.2.132.7:8080/live/8901428641/chjpojdp/53.m3u8
+http://aliwix-t.online:80/live/aliwixhd/bein/854.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 11
-http://190.2.132.7:8080/live/8901428641/chjpojdp/51.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 12
-http://190.2.132.7:8080/live/8901428641/chjpojdp/49.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 2",======BeIn Sports HD 2 =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
@@ -238,8 +242,8 @@ http://falconiptv.hopto.org:1935/f2/f2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://falconeye.tv/wp-content/uploads/2018/03/1.jpg",Falcon Eye 4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Logo_isport.jpg/220px-Logo_isport.jpg",I-Sport 1
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Logo_isport.jpg/220px-Logo_isport.jpg",Kurdgoal
+http://aliwix-t.online:80/live/aliwixhd/bein/816.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Logo_isport.jpg/220px-Logo_isport.jpg",I-Sport 2
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bi9htU",Il-Sport
