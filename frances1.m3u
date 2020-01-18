@@ -8,198 +8,372 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
-#EXTINF:0,Alsace 20
-#EXTVLCOPT:network-caching=1000
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:0,Bblack! Africa
-#EXTVLCOPT:network-caching=1000
-http://ec.playmedia.fr/beblack/africa/playlist.m3u8
-#EXTINF:0,Bblack! Caribbean
-#EXTVLCOPT:network-caching=1000
-http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
-#EXTINF:0,BFM Paris
-#EXTVLCOPT:network-caching=1000
-http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
-#EXTINF:0,BFM Business
-#EXTVLCOPT:network-caching=1000
-http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8
-#EXTINF:0,CGTN
-#EXTVLCOPT:network-caching=1000
-http://live.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:0,Chasse et Peche
-#EXTVLCOPT:network-caching=1000
-http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
-#EXTINF:0,CNews
-#EXTVLCOPT:network-caching=1000
-http://stream-03.nyc.dailymotion.com/25/dm/3/x3b68jn/live-3.m3u8
-#EXTINF:0,DJing Animation
-#EXTVLCOPT:network-caching=1000
-https://www.djing.com/tv/animation.m3u8
-#EXTINF:0,DJing Classics
-#EXTVLCOPT:network-caching=1000
-https://www.djing.com/tv/classics.m3u8
-#EXTINF:0,DJing Dancefloor
-#EXTVLCOPT:network-caching=1000
-https://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:0,DJing Electro Rock
-#EXTVLCOPT:network-caching=1000
-https://www.djing.com/tv/session_electro-rock.m3u8
-#EXTINF:0,DJing French Touch
-#EXTVLCOPT:network-caching=1000
-https://www.djing.com/tv/session_french-touch.m3u8
-#EXTINF:0,DJing Hits
-#EXTVLCOPT:network-caching=1000
-https://www.djing.com/tv/hits.m3u8
-#EXTINF:0,DJing Hot Hot Hot
-#EXTVLCOPT:network-caching=1000
-http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
-#EXTINF:0,DJing Karaoke
-#EXTVLCOPT:network-caching=1000
-https://www.djing.com/tv/karaoke.m3u8
-#EXTINF:0,DJing Live
-#EXTVLCOPT:network-caching=1000
-https://www.djing.com/tv/live.m3u8
-#EXTINF:0,DJing Summer Vibes
-#EXTVLCOPT:network-caching=1000
-https://www.djing.com/tv/session_summer-vibes.m3u8
-#EXTINF:0,DJing Underground
-#EXTVLCOPT:network-caching=1000
-https://www.djing.com/tv/underground.m3u8
-#EXTINF:0,Fashion TV (Opt-1)
-#EXTVLCOPT:network-caching=1000
-http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
-#EXTINF:0,Fashion TV (Opt-2)
-#EXTVLCOPT:network-caching=1000
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
-#EXTINF:0,Fashion TV (Opt-3)
-#EXTVLCOPT:network-caching=1000
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_f-men_ad_dbn_27047_fmen_104_hls.smil/playlist.m3u8
-#EXTINF:0,France 24 (Opt-1)
-#EXTVLCOPT:network-caching=1000
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
-#EXTINF:0,France 24 (Opt-2)
-#EXTVLCOPT:network-caching=1000
-http://61.58.60.230:9000/live/131.m3u8?fluxustv.m3u8
-#EXTINF:0,FranceInfo
-#EXTVLCOPT:network-caching=1000
-https://stream-02.nyc.dailymotion.com/39/dm/3/x4rdeu6/live-3.m3u8
-#EXTINF:0,Francophonie 24
-#EXTVLCOPT:network-caching=1000
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:0,Gong
-#EXTVLCOPT:network-caching=1000
-http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-#EXTINF:0,GONG MAX
-#EXTVLCOPT:network-caching=1000
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
-#EXTINF:0,La Chaine Normande
-#EXTVLCOPT:network-caching=1000
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:0,L'Equipe 21
-#EXTVLCOPT:network-caching=1000
-http://ec.playmedia.fr/lequipe21/live/playlist.m3u8
-#EXTINF:0,RT
-#EXTVLCOPT:network-caching=1000
-http://secure-streams.akamaized.net/rt-fr/index2500.m3u8
-#EXTINF:0,TV5 Monde Asie
-#EXTVLCOPT:network-caching=1000
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226322/1.m3u8
-#EXTINF:0,TV5 Monde Info
-#EXTVLCOPT:network-caching=1000
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:0,Trace Africa
-#EXTVLCOPT:network-caching=1000
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:0,Trace Gospel
-#EXTVLCOPT:network-caching=1000
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:0,Trace Kitoko
-#EXTVLCOPT:network-caching=1000
-https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:0,Trace Mziki
-#EXTVLCOPT:network-caching=1000
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
-#EXTINF:0,Trace Naija
-#EXTVLCOPT:network-caching=1000
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:0,Trace Tropical
-#EXTVLCOPT:network-caching=1000
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:0,TVPI
-#EXTVLCOPT:network-caching=1000
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-#EXTINF:0,~ Haiti TV ~
-#EXTVLCOPT:network-caching=1000
-http://www.lengua.com/anthems/Haiti.mp3
-#EXTINF:0,Radio TeleBoston (USA)
-#EXTVLCOPT:network-caching=1000
-http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
-#EXTINF:0,Ynet TV
-#EXTVLCOPT:network-caching=1000
-http://162.244.83.199:1935/ynettv/ynettv/playlist.m3u8
-#EXTINF:0,~ Cameroon TV ~
-#EXTVLCOPT:network-caching=1000
-http://www.lengua.com/anthems/Cameroon.mp3
-#EXTINF:0,Afrique Media
-#EXTVLCOPT:network-caching=1000
-http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/str_afm_afm/str_afm_afm_360p/playlist.m3u8
-#EXTINF:0,Vision 4
-#EXTVLCOPT:network-caching=1000
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-#EXTINF:0,~ Ivory Coast TV ~
-#EXTVLCOPT:network-caching=1000
-http://www.lengua.com/anthems/IvoryCoast.mp3
-#EXTINF:0,RTI 1
-#EXTVLCOPT:network-caching=1000
-http://185.59.221.143:1935/edge/rti1/playlist.m3u8
-#EXTINF:0,RTI 2
-#EXTVLCOPT:network-caching=1000
-http://185.59.221.143:1935/edge/rti2/playlist.m3u8
-#EXTINF:0,~ Rwanda TV ~
-#EXTVLCOPT:network-caching=1000
-http://www.lengua.com/anthems/Rwanda.mp3
-#EXTINF:0,RTV
-#EXTVLCOPT:network-caching=1000
-http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
-#EXTINF:0,~ Switzerland TV ~
-#EXTVLCOPT:network-caching=1000
-http://www.lengua.com/anthems/Switzerland.mp3
-#EXTINF:0,Beatz TV
-#EXTVLCOPT:network-caching=1000
-http://beats.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8
-#EXTINF:0,Kanal9
-#EXTVLCOPT:network-caching=1000
-https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
-#EXTINF:0,LFM TV
-#EXTVLCOPT:network-caching=1000
-https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
-#EXTINF:0,Radio Pilatus TV
-#EXTVLCOPT:network-caching=1000
-https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
-#EXTINF:0,Tele M1
-#EXTVLCOPT:network-caching=1000
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
-#EXTINF:0,TeleBarn (Opt-1)
-#EXTVLCOPT:network-caching=1000
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
-#EXTINF:0,TeleBarn (Opt-2)
-#EXTVLCOPT:network-caching=1000
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
-#EXTINF:0,Telebasel
-#EXTVLCOPT:network-caching=1000
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-#EXTINF:0,TeleTicino (Italian)
-#EXTVLCOPT:network-caching=1000
-http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8
-#EXTINF:0,TeleZuri (Opt-1)
-#EXTVLCOPT:network-caching=1000
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/sd/10000/t/AFb4DZ0W2ts1a8fV5xo1VQ/index-s32.m3u8
-#EXTINF:0,TeleZuri (Opt-2)
-#EXTVLCOPT:network-caching=1000
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/t/Bnhb6PI9GIjiKE7UgQC_qg/index-s32.m3u8
-#EXTINF:0,TVM 3
-#EXTVLCOPT:network-caching=1000
-http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTM3U
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ALTICE STUDIO FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13787.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ALTICE STUDIO HD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/28413.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ANIMAUX FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13789.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ANIMAUX HD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/14044.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ACTION SD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/28334.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| BBLACK AFRICA
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/8051.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| MTV HITS HD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/8050.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| BBLACK CLASSIK
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/8052.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| BE CURIOUS FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13814.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| FRANCE 2 SD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/1007.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| IL TV
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13934.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| INDIES LIVE MUSIC
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/25058.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| INFOSPORT FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13729.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| INFOSPORT HD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/14006.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| LA CHAINE METEO FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13783.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| NATIONAL GEO WILD FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13719.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| NATIONAL GEO FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13718.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| OCS MAX FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13825.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| OCS MAX HD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13996.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| OCS MAX SD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/38198.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| OL TV FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13842.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ONZEO FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13786.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ORANGE CINE
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13926.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ORANGE CINE 1
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13925.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ORANGE CINE 2
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13924.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ORANGE CINE 3
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13923.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ORANGE CINE 4
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13922.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ORANGE CINE 5
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13921.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ORANGE CINE 6
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13920.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ORANGE CINE 7
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13919.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ORANGE CINE 8
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13918.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| MONDE DES PETITS
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13848.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| J ONE FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13852.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| J ONE HD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/24938.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| LAPIN CRETIN
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/7258.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| NICKELODEON+1 FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13854.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| NICKELODEON 4 TEEN FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/24957.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| NICKELODEON 4 TEEN HD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/24953.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",BEINS AR 1 FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39590.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",BEINS AR 2FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39591.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",BEINS AR 3 FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39592.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",BEINS AR 4 FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39593.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",BEINS AR 5 FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/40047.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ALTICE STUDIO (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39430.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ANIMAUX (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39526.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ARTE (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39469.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ACTION (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39420.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| AB3 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39410.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| AB1 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39411.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| AUTOMOTO LA CHAINE (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39490.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| BABY TV (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39517.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| BEIN SPORT 1 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39499.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| BEIN SPORT 2(SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39498.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| BEIN SPORT 3 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39497.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| BFM BUSINESS (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39459.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| BFM PARIS (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39460.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| BFM TV (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39461.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| BOOMERANG (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39510.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| C8 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39468.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| BOING (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39511.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CANAL  (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39442.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CANAL  CINEMA (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39441.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CANAL  DECALE (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39440.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CANAL  FAMILY (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39439.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CANAL  SERIES (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39438.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CANAL  SPORT (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39437.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CARTOON NETWORK (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39508.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CHERIE 25 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39443.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CANAL J (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39518.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CINE  CLASSIC (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39431.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CINE  CLUB (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39432.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CINE  EMOTION (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39435.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CINE  FAMIZ (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39434.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CINE  FRISSON (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39433.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CINE  PREMIER (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39436.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CLIQUE TV (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39484.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CNEWS (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39455.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| COMEDY CENTRAL FRANCE (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39417.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CRIME DISTRICT (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39536.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CSTAR (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39448.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| CSTAR HITS (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39447.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| COMEDIE  (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39418.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| DISCOVERY CHANNEL (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39535.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| DISCOVERY FAMILY (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39534.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| DISCOVERY INVESTIGATIONS (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39533.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| DISCOVERY SCIENCES (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39532.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| DISNEY CHANNEL (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39525.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| DISNEY CINEMA (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39524.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| DISNEY JUNIOR (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39523.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| DISNEY XD (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39522.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| E! ENTERTAINMENT (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39545.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ELLE GIRLS (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39546.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| EQUIDIA (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39492.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| EURONEWS (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39456.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| EUROSPORT 1 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39494.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| EUROSPORT 2 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39493.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| FOOT  24/24 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39491.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| FRANCE 2 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39474.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| FRANCE 3 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39473.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| FRANCE 4 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39472.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| FRANCE 5 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39471.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| GAME ONE (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39505.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| FRANCE INFO (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39457.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| GRAND LILLE TV (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39453.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| GULLI (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39516.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| GOLF  (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39489.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| IDF (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39451.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| INFOSPORT  (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39496.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| J-ONE (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39506.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| L'EQUIPE 21 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39495.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| LA CHAINE METEO (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39462.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| LA CHAINE PARLEMENTAIRE (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39450.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| LCI (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39458.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| HISTOIRE (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39527.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| M6 MUSIC (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39481.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| MANGAS (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39507.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| M6 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39470.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| MELODY TV (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39478.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| MTV FRANCE (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39486.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| MTV HITS (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39485.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| MY CUISINE (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39540.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| MYZEN TV (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39487.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| NATIONAL GEO (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39530.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| NATIONAL GEO WILD (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39529.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| NICKELODEON 4 TEEN (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39520.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| NICKELODEON CHANNEL (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39521.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| NICKELODEON JUNIOR (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39519.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| NON STOP PEOPLE TV (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39543.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| OCS CHOC (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39423.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| OCS CITY (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39424.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| OCS GEANTS (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39425.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| OCS MAX (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39422.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| 13EME RUE (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39419.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| 6TER (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39446.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| AEROSTAR.TV (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39488.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| BET (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39547.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| NOVELAS TV (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39541.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| NRJ 12 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39463.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| NRJ HITS TV (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39479.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| OKLM TV (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39480.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| ONE TV (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39477.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| PARAMOUNT CHANNEL (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39427.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| PARAMOUNT DECALE (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39426.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| PARIS PREMIERE (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39416.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| PLANETE  (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39539.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| PLANETE+  A&E (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39538.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| RMC DECOUVERTE (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39444.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| RMC SPORT 1 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39503.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| RMC SPORT 2 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39502.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| RMC SPORT 3 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39501.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| RMC SPORT 4 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39500.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| PLANETE  CI (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39537.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| POLAR  (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39421.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| RMC NEWS (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39504.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| RMC STORY (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39445.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| RTL9 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39415.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| SCIENCE & VIE TV (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39528.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| SERIE CLUB (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39414.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| SUNDANCE (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39544.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| SYFY (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39412.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| TCM CINEMA (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39428.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| TELETOON  1 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39512.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| TELETOON (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39513.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| TEVA (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39413.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| TF1  1 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39475.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| TF1 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39476.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| TF1 SERIES / FILMS (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39449.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| TFX (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39464.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| TIJI (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39514.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| TMC  1 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39465.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| TMC (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39466.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| TOONAMI (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39509.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| TRACE TROPICAL (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39483.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| TRACE URBAN (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39482.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| TV BREIZH (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39548.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| USHUAIA TV (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39531.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| VIA GRAND PARIS (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39452.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| VICELAND TV (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39542.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| W9 (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39467.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| WARNER TV (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39429.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| WEO (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39454.m3u8
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",|FR| PIWI  (SD)
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39515.m3u8
+
 
 #EXTINF: tvg-logo="https://goo.gl/fETVF3",logo not exist
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",Satcom Gold logo
