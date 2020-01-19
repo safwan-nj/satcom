@@ -83,7 +83,109 @@ http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
 
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 SD
 
-#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 SD
+#EXTINF: tvg-logo="https://goo.gl/whttps://pic.sport.ua/images/news/0/10/106/orig_421395.jpgLnk9L",Bein Sports 12 SD
+
+#EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Спорт",======Спорт=======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+
+
+
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="32.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/32.png" tvg-name="Матч! HD",Матч! HD
+#EXTGRP:Спорт
+http://5.128.233.113:81/udp/239.1.15.23:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="38.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/38.png" tvg-name="Матч!",Матч!
+#EXTGRP:Спорт
+http://78.36.40.23:8080/match
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="42.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/42.png" tvg-name="МАТЧ! АРЕНА HD",МАТЧ! АРЕНА HD
+#EXTGRP:Спорт
+http://5.43.138.147:81/udp/239.255.0.143:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="43.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/43.png" tvg-name="Матч! Арена",Матч! Арена
+#EXTGRP:Спорт
+http://46.183.135.199:81/udp/239.191.254.201:13343
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="129.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/129.png" tvg-name="Матч! Игра HD",Матч! Игра HD
+#EXTGRP:Спорт
+http://178.163.65.245:4022/udp/234.0.0.6:2000
+#EXTINF:-1 group-title="Спорт" tvg-id="128.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/128.png" tvg-name="Матч! Игра",Матч! Игра
+#EXTGRP:Спорт
+http://194.58.170.117:81/udp/239.195.1.69:1234
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="68.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/68.png" tvg-name="Матч! Футбол 1 HD",Матч! Футбол 1 HD
+#EXTGRP:Спорт
+http://46.163.136.45:4022/udp/239.99.17.20:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="65.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/65.png" tvg-name="Матч! Футбол 1",Матч! Футбол 1
+#EXTGRP:Спорт
+http://109.171.45.88:81/udp/239.54.6.72:1224
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="69.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/69.png" tvg-name="Матч! Футбол 2 HD",Матч! Футбол 2 HD
+#EXTGRP:Спорт
+http://46.163.136.45:4022/udp/239.99.17.60:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="64.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/64.png" tvg-name="Матч! Футбол 2",Матч! Футбол 2
+#EXTGRP:Спорт
+http://194.58.170.117:81/udp/239.195.3.33:1234
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="67.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/67.png" tvg-name="Матч! Футбол 3 HD",Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://178.49.58.34:81/udp/239.1.23.3:1234
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="51.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/51.png" tvg-name="EUROSPORT 1 HD",EUROSPORT 1 HD
+#EXTGRP:Спорт
+http://91.123.82.10:81/udp/239.1.13.1:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="33.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/33.png" tvg-name="Eurosport 1",Eurosport 1
+#EXTGRP:Спорт
+http://90.188.149.192:1234/udp/233.7.70.13:5000
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="52.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/52.png" tvg-name="EUROSPORT 2 HD",EUROSPORT 2 HD
+#EXTGRP:Спорт
+http://176.215.67.166:81/udp/235.10.10.142:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="61.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/61.png" tvg-name="Eurosport 2",Eurosport 2
+#EXTGRP:Спорт
+http://95.189.169.182:1234/udp/233.7.70.14:5000
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/44.png" tvg-name="Наш футбол",Наш футбол
+#EXTGRP:Спорт
+http://92.38.217.88:5050/udp/224.0.42.11:5000
+#EXTINF:-1 group-title="Спорт" tvg-id="170.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/170.png" tvg-name="Матч! Наш спорт",Матч! Наш спорт
+#EXTGRP:Спорт
+http://194.58.170.117:81/udp/239.195.1.71:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="36.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/36.png" tvg-name="КХЛ",КХЛ
+#EXTGRP:Спорт
+http://178.163.52.134:4022/udp/234.0.0.208:2000
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="54.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/54.png" tvg-name="КХЛ HD",КХЛ HD
+#EXTGRP:Спорт
+http://46.183.135.199:81/udp/239.191.254.233:15283
+#EXTINF:-1 group-title="Спорт;HD" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/81.png" tvg-name="Setanta Sports HD",Setanta Sports HD
+#EXTGRP:Спорт
+http://178.124.183.12:80/hls/FWHTTL8YXU/bw5000000/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="84.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/84.png" tvg-name="Viasat Sport",Viasat Sport
+#EXTGRP:Спорт
+http://178.187.82.58:1234/udp/233.7.70.15:5000
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/111.png" tvg-name="Sky Sports 1",Sky Sports 1
+#EXTGRP:Спорт
+http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/169.png" tvg-name="Sky Sports F1",Sky Sports F1
+#EXTGRP:Спорт
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11744
+#EXTINF:-1 group-title="Спорт;HD" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/126.png" tvg-name="SKY Sport News HD",SKY Sport News HD
+#EXTGRP:Спорт
+http://178.196.237.240:3000/play/ccSkyNEwscc
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/125.png" tvg-name="Sky Sport News",Sky Sport News
+#EXTGRP:Спорт
+http://62.47.169.93:9981/stream/channelid/1559484701
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/116.png" tvg-name="BT Sport 1",BT Sport 1
+#EXTGRP:Спорт
+http://104.207.130.26:8880/4SpBqpOMKAMr/3BegUrYEyJmT/5058
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/115.png" tvg-name="BT Sport 2",BT Sport 2
+#EXTGRP:Спорт
+http://104.207.130.26:8880/4SpBqpOMKAMr/3BegUrYEyJmT/5059
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/123.png" tvg-name="BT Sport 3",BT Sport 3
+#EXTGRP:Спорт
+http://104.207.130.26:8880/4SpBqpOMKAMr/3BegUrYEyJmT/5060
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/216.png" tvg-name="UFC",UFC
+#EXTGRP:Спорт
+http://39.135.135.41/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="206.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/206.png" tvg-name="Охотник и рыболов HD",Охотник и рыболов HD
+#EXTGRP:Спорт
+http://178.163.68.45:4022/udp/234.0.0.98:2000
+#EXTINF:-1 group-title="Спорт" tvg-id="205.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/205.png" tvg-name="Охотник и рыболов",Охотник и рыболов
+#EXTGRP:Спорт
+http://91.123.82.10:81/udp/239.1.10.13:1234
+
+
+
 
 
 
