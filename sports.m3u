@@ -9,40 +9,92 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sports News
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/135.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sport
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/136.m3u8
+
 #EXTINF:-1,astera sport
-http://aliwix-t.online:80/live/aliwixhd/bein/931.ts
+
 #EXTINF:-1,BEIN 4K
-http://aliwix-t.online:80/live/aliwixhd/bein/844.ts
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 1
-http://aliwix-t.online:80/live/aliwixhd/bein/845.ts
+https://cstream10.com/hls/beinsports1_ar.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 2
-http://aliwix-t.online:80/live/aliwixhd/bein/846.ts
+http://45.137.149.194:25461/dado/124zw/90
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 3
-http://aliwix-t.online:80/live/aliwixhd/bein/847.ts
+http://45.137.149.194:25461/dado/124zw/91
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 4
-http://aliwix-t.online:80/live/aliwixhd/bein/848.ts
+http://45.137.149.194:25461/dado/124zw/92
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 5
-http://aliwix-t.online:80/live/aliwixhd/bein/849.ts
+http://45.137.149.194:25461/dado/124zw/93
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 6
-http://aliwix-t.online:80/live/aliwixhd/bein/850.ts
+http://45.137.149.194:25461/dado/124zw/94
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 7
-http://aliwix-t.online:80/live/aliwixhd/bein/851.ts
+http://45.137.149.194:25461/dado/124zw/95
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 8
-http://aliwix-t.online:80/live/aliwixhd/bein/852.ts
+http://45.137.149.194:25461/dado/124zw/96
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 9
-http://aliwix-t.online:80/live/aliwixhd/bein/853.ts
+http://45.137.149.194:25461/dado/124zw/97
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 10
-http://aliwix-t.online:80/live/aliwixhd/bein/854.ts
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 2",======BeIn Sports HD 2 =======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 1
+http://45.137.149.194:25461/dado/124zw/110
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 2
+http://45.137.149.194:25461/dado/124zw/111
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 3
+http://45.137.149.194:25461/dado/124zw/112
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 4
+http://45.137.149.194:25461/dado/124zw/113
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 5
+http://45.137.149.194:25461/dado/124zw/114
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 6
+http://45.137.149.194:25461/dado/124zw/115
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 7
+http://45.137.149.194:25461/dado/124zw/116
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 8
+http://45.137.149.194:25461/dado/124zw/117
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 9
+http://45.137.149.194:25461/dado/124zw/118
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 10
+http://45.137.149.194:25461/dado/124zw/119
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 11
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 12
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD ",======BeIn Sports SD  =======
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD 1",======BeIn Sports SD 1 =======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+
+
+
+#EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1 SD
+http://45.137.149.194:25461/dado/124zw/100
+#EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEINSPORTS-2 SD
+http://45.137.149.194:25461/dado/124zw/101
+#EXTINF: tvg-logo="https://goo.gl/pE62z2",BEINSPORTS-3 SD
+http://45.137.149.194:25461/dado/124zw/102
+#EXTINF: tvg-logo="https://goo.gl/expt4F",BEINSPORTS-4 SD
+http://45.137.149.194:25461/dado/124zw/103
+#EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEINSPORTS-5 SD
+http://45.137.149.194:25461/dado/124zw/104
+#EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEINSPORTS-6 SD
+http://45.137.149.194:25461/dado/124zw/105
+#EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEINSPORTS-7 SD
+http://45.137.149.194:25461/dado/124zw/106
+#EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEINSPORTS-8 SD
+http://45.137.149.194:25461/dado/124zw/107
+#EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEINSPORTS-9 SD
+http://45.137.149.194:25461/dado/124zw/108
+#EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEINSPORTS-10 SD
+http://45.137.149.194:25461/dado/124zw/109
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD 2",======BeIn Sports SD 2 =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
@@ -60,9 +112,9 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/wLnk9L",Bein Sport
-http://54.38.209.164:8000/ujy5C8X9Om/U1OQX6uwig/101282
+
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1 SD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+https://cstream10.com/hls/beinsports1_ar.m3u8
 #EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEINSPORTS-2 SD
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
 #EXTINF: tvg-logo="https://goo.gl/pE62z2",BEINSPORTS-3 SD
@@ -80,6 +132,7 @@ http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
 #EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEINSPORTS-9 SD
 
 #EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEINSPORTS-10 SD
+
 
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 SD
 
