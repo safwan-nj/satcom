@@ -67,6 +67,20 @@ http://45.137.149.194:25461/dado/124zw/119
 
 
 
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports FR",======BeIn Sports FR =======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 1
+http://iptvpro.premium-itv.com:8789/444777/777444/92
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 2
+http://iptvpro.premium-itv.com:8789/444777/777444/93
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 3
+http://iptvpro.premium-itv.com:8789/444777/777444/94
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD 1",======BeIn Sports SD 1 =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
