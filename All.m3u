@@ -9,50 +9,44 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf" tvg-name="SyriaSatelliteChannel.sy",Syria
-http://82.137.248.16:1935/Sat/stream13102019/chunklist.m3u8
+http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",SYRIA HD
-
+#EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
+http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
+http://82.137.248.16:1935/Snews/stream31122019/media_w475033597_580.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/eDtLda",Noor Alsham
+http://82.137.248.16:1935/Nour/stream31122019/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama
-http://82.137.248.16:1935/Drama/stream13102019/chunklist.m3u8
-
-
+http://82.137.248.16:1935/Drama/stream31122019/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama Server2
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
-http://82.137.248.16:1935/Snews/stream13102019/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/eDtLda",Noor Alsham
-http://82.137.248.16:1935/Nour/stream13102019/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Syria
 http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana Backup
+#EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Tv
+https://svs.itworkscdn.net/samatvlive/sama.smil/playlist_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana
+http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana Server2
 http://95.170.215.109/hls/m3u8/LANA-TV-Backup.m3u8
-
 #EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
 https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
-
-
 #EXTINF: tvg-logo="http://4.bp.blogspot.com/-wcM8YRaf9h8/U9qa6ojE9zI/AAAAAAAABFs/euyH1I_gTbw/s1600/Fatafeat+Tv+Live.png",FATAFEAT 
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/6498.m3u8
+
 #EXTINF: tvg-logo="http://4.bp.blogspot.com/-wcM8YRaf9h8/U9qa6ojE9zI/AAAAAAAABFs/euyH1I_gTbw/s1600/Fatafeat+Tv+Live.png",FATAFEAT S2
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/5435.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s88156/images/logoq.png" ,Sham FM
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2kI5Whan59k/hqdefault.jpg" ,Al Khabar
 http://95.170.215.109/hls/m3u8/Al-Khabar-Backup.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/krLqSL",Hawa Syria
 #EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ogarit
-http://82.137.248.16:1935/Ugarit/stream13102019/chunklist.m3u8
+http://82.137.248.16:1935/Ugarit/stream31122019/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/VmQutr",Syrian Education
-http://82.137.248.16:1935/SEdu/stream13102019/chunklist.m3u8
+http://82.137.248.16:1935/SEdu/stream31122019/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/tE95C8",Ninar
 
 #EXTINF:-1 tvg-logo="https://goo.gl/UT3KyH",Souryana HD
-http://82.137.248.16:1935/Souryana/stream13102019//chunklist.m3u8
+http://82.137.248.16:1935/Souryana/stream31122019/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/EpsEdX",Souria Tv
 http://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/R8GXvz",Halab-Today
@@ -63,10 +57,7 @@ https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist.m3u8
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana HD
 https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana
-http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama TV
-https://svs.itworkscdn.net/samatvlive/sama.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/xZabzC" group-title="LEBANON",======LEBANON=======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
@@ -118,13 +109,15 @@ http://livecdnh3.tvanywhere.ae/hls/rotmas/03.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eYFezQj-lqg/XRkTzf0QIKI/AAAAAAAADHE/RnuZAbU40Kc4tzsWC8wdJjiwNDJihNVBACLcBGAs/s320/BoxOffice-Ar.png",Araboxoffice1
 
 #EXTINF:-1 tvg-logo="https://goo.gl/be4Nzd" group-title="Bein Movies",======Bein Movies=======
-
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF: tvg-logo="https://goo.gl/uxALCg",Bein Movies 1 HD
-
+https://cstream10.com/hls/beinseries1.m3u8
 #EXTINF: tvg-logo="https://goo.gl/kX1WhA",Bein Movies 2 HD
-
+https://cstream10.com/hls/beinmovies2.m3u8
 #EXTINF: tvg-logo="https://goo.gl/VXDGbA",Bein Movies 3 HD
-
+https://cstream10.com/hls/beinmovies3.m3u8
+#EXTINF: tvg-logo="https://goo.gl/VXDGbA",Bein Movies 4 HD
+https://cstream10.com/hls/beinmovies4.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",BEIN FAMILY 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/p4BmQf" group-title="Melody",======Melody=======
@@ -254,7 +247,6 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_msr/03.m3u8
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
 #EXTINF:-1tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",B4U Aflam
 http://livecdnh3.tvanywhere.ae/hls/b4uaflam/03.m3u8
-
 #EXTINF:-1 tvg-logo="https://goo.gl/GwZKWD" group-title="MBC SD",======MBC SD=======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
@@ -956,8 +948,6 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF: tvg-logo="https://goo.gl/fETVF3",logo not exist
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",Satcom Gold logo
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Satcom Red logo
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/GSd7Dn" group-title="Austria",======Austria=======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
@@ -1163,7 +1153,6 @@ https://daserstehdint-lh.akamaihd.net/i/daserstehd_int@629195/index_3776_av-b.m3
 #EXTINF: tvg-logo="https://goo.gl/fETVF3",logo not exist
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",Satcom Gold logo
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Satcom Red logo
-
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 1",======BeIn Sports HD 1 =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
@@ -1175,121 +1164,104 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sports News
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/135.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sport
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/136.m3u8
+
+#EXTINF:-1,astera sport
+
+#EXTINF:-1,BEIN 4K
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 1
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2771.m3u8
+https://cstream10.com/hls/beinsports1_ar.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 2
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2773.m3u8
+http://45.137.149.194:25461/dado/124zw/90
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 3
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2775.m3u8
+http://45.137.149.194:25461/dado/124zw/91
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 4
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2777.m3u8
+http://45.137.149.194:25461/dado/124zw/92
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 5
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2779.m3u8
+http://45.137.149.194:25461/dado/124zw/93
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 6
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2781.m3u8
+http://45.137.149.194:25461/dado/124zw/94
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 7
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2783.m3u8
+http://45.137.149.194:25461/dado/124zw/95
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 8
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2785.m3u8
+http://45.137.149.194:25461/dado/124zw/96
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 9
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2787.m3u8
+http://45.137.149.194:25461/dado/124zw/97
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 10
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2789.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 11
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/827.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 12
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/828.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 2",======BeIn Sports HD 2 =======
-https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3
 
-#EXTINF: tvg-logo="https://goo.gl/KT6bko",Bein 1 HD
-http://s.igiptv.com:8000/Hisham/hisham123/34640
-#EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEIN 2 HD
-http://s.igiptv.com:8000/Hisham/hisham123/34639
-#EXTINF: tvg-logo="https://goo.gl/pE62z2",BEIN 3 HD
-http://s.igiptv.com:8000/Hisham/hisham123/34638
-#EXTINF: tvg-logo="https://goo.gl/expt4F",BEIN 4 HD
-http://s.igiptv.com:8000/Hisham/hisham123/34637
-#EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEIN 5 HD
-http://s.igiptv.com:8000/Hisham/hisham123/34636
-#EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEIN 6 HD
-http://s.igiptv.com:8000/Hisham/hisham123/34635
-#EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEIN 7 HD
-http://s.igiptv.com:8000/Hisham/hisham123/34634
-#EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEIN 8 HD
-http://s.igiptv.com:8000/Hisham/hisham123/34633
-#EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEIN 9 HD
-http://s.igiptv.com:8000/Hisham/hisham123/34632
-#EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEIN 10 HD
-http://s.igiptv.com:8000/Hisham/hisham123/34631
-#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 HD
-http://s.igiptv.com:8000/Hisham/hisham123/47779
-#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 HD
-http://s.igiptv.com:8000/Hisham/hisham123/47780
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 3",======BeIn Sports HD 3 =======
-https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sports News
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 1
+http://45.137.149.194:25461/dado/124zw/110
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 2
+http://45.137.149.194:25461/dado/124zw/111
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 3
+http://45.137.149.194:25461/dado/124zw/112
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 4
+http://45.137.149.194:25461/dado/124zw/113
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 5
+http://45.137.149.194:25461/dado/124zw/114
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 6
+http://45.137.149.194:25461/dado/124zw/115
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 7
+http://45.137.149.194:25461/dado/124zw/116
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 8
+http://45.137.149.194:25461/dado/124zw/117
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 9
+http://45.137.149.194:25461/dado/124zw/118
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 10
+http://45.137.149.194:25461/dado/124zw/119
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 11
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sport
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 12
 
-#EXTINF: tvg-logo="https://goo.gl/KT6bko",Bein 1 HD
-http://s.igiptv.com:8000/Hisham/hisham123/29
-#EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEIN 2 HD
-http://s.igiptv.com:8000/Hisham/hisham123/30
-#EXTINF: tvg-logo="https://goo.gl/pE62z2",BEIN 3 HD
-http://s.igiptv.com:8000/Hisham/hisham123/31
-#EXTINF: tvg-logo="https://goo.gl/expt4F",BEIN 4 HD
-http://s.igiptv.com:8000/Hisham/hisham123/32
-#EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEIN 5 HD
-http://s.igiptv.com:8000/Hisham/hisham123/33
-#EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEIN 6 HD
-http://s.igiptv.com:8000/Hisham/hisham123/34
-#EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEIN 7 HD
-http://s.igiptv.com:8000/Hisham/hisham123/35
-#EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEIN 8 HD
-http://s.igiptv.com:8000/Hisham/hisham123/36
-#EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEIN 9 HD
-http://s.igiptv.com:8000/Hisham/hisham123/37
-#EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEIN 10 HD
-http://s.igiptv.com:8000/Hisham/hisham123/38
-#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 HD
-http://s.igiptv.com:8000/Hisham/hisham123/1033
-#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 HD
-http://s.igiptv.com:8000/Hisham/hisham123/1034
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports FR",======BeIn Sports FR =======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 1
+http://iptvpro.premium-itv.com:8789/444777/777444/92
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 2
+http://iptvpro.premium-itv.com:8789/444777/777444/93
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 3
+http://iptvpro.premium-itv.com:8789/444777/777444/94
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD 1",======BeIn Sports SD 1 =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+
+
+
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1 SD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/17253.m3u8
+http://45.137.149.194:25461/dado/124zw/100
 #EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEINSPORTS-2 SD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/3300.m3u8
+http://45.137.149.194:25461/dado/124zw/101
 #EXTINF: tvg-logo="https://goo.gl/pE62z2",BEINSPORTS-3 SD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/17254.m3u8
+http://45.137.149.194:25461/dado/124zw/102
 #EXTINF: tvg-logo="https://goo.gl/expt4F",BEINSPORTS-4 SD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/16670.m3u8
+http://45.137.149.194:25461/dado/124zw/103
 #EXTINF: tvg-logo="https://goo.gl/9pqnYc",BEINSPORTS-5 SD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/3297.m3u8
+http://45.137.149.194:25461/dado/124zw/104
 #EXTINF: tvg-logo="https://goo.gl/W4PDmE",BEINSPORTS-6 SD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/16669.m3u8
+http://45.137.149.194:25461/dado/124zw/105
 #EXTINF: tvg-logo="https://goo.gl/GzPnG9",BEINSPORTS-7 SD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/3295.m3u8
+http://45.137.149.194:25461/dado/124zw/106
 #EXTINF: tvg-logo="https://goo.gl/H4wA9v",BEINSPORTS-8 SD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/17247.m3u8
+http://45.137.149.194:25461/dado/124zw/107
 #EXTINF: tvg-logo="https://goo.gl/DJDcyR",BEINSPORTS-9 SD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/17249.m3u8
+http://45.137.149.194:25461/dado/124zw/108
 #EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEINSPORTS-10 SD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/3292.m3u8
-#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 SD
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/3291.m3u8
-#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 SD
-
-
+http://45.137.149.194:25461/dado/124zw/109
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD 2",======BeIn Sports SD 2 =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
@@ -1309,9 +1281,9 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
 
 #EXTINF:0 tvg-logo="https://goo.gl/wLnk9L",Bein Sport
-http://54.38.209.164:8000/ujy5C8X9Om/U1OQX6uwig/101282
+
 #EXTINF: tvg-logo="https://goo.gl/KT6bko",BEINSPORTS-1 SD
-http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+https://cstream10.com/hls/beinsports1_ar.m3u8
 #EXTINF: tvg-logo="https://goo.gl/pAC3pi",BEINSPORTS-2 SD
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
 #EXTINF: tvg-logo="https://goo.gl/pE62z2",BEINSPORTS-3 SD
@@ -1330,9 +1302,112 @@ http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
 
 #EXTINF: tvg-logo="https://goo.gl/XE4HXn",BEINSPORTS-10 SD
 
+
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 11 SD
 
-#EXTINF: tvg-logo="https://goo.gl/wLnk9L",Bein Sports 12 SD
+#EXTINF: tvg-logo="https://goo.gl/whttps://pic.sport.ua/images/news/0/10/106/orig_421395.jpgLnk9L",Bein Sports 12 SD
+
+#EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Спорт",======Спорт=======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+
+
+
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="32.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/32.png" tvg-name="Матч! HD",Матч! HD
+#EXTGRP:Спорт
+http://5.128.233.113:81/udp/239.1.15.23:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="38.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/38.png" tvg-name="Матч!",Матч!
+#EXTGRP:Спорт
+http://78.36.40.23:8080/match
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="42.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/42.png" tvg-name="МАТЧ! АРЕНА HD",МАТЧ! АРЕНА HD
+#EXTGRP:Спорт
+http://5.43.138.147:81/udp/239.255.0.143:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="43.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/43.png" tvg-name="Матч! Арена",Матч! Арена
+#EXTGRP:Спорт
+http://46.183.135.199:81/udp/239.191.254.201:13343
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="129.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/129.png" tvg-name="Матч! Игра HD",Матч! Игра HD
+#EXTGRP:Спорт
+http://178.163.65.245:4022/udp/234.0.0.6:2000
+#EXTINF:-1 group-title="Спорт" tvg-id="128.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/128.png" tvg-name="Матч! Игра",Матч! Игра
+#EXTGRP:Спорт
+http://194.58.170.117:81/udp/239.195.1.69:1234
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="68.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/68.png" tvg-name="Матч! Футбол 1 HD",Матч! Футбол 1 HD
+#EXTGRP:Спорт
+http://46.163.136.45:4022/udp/239.99.17.20:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="65.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/65.png" tvg-name="Матч! Футбол 1",Матч! Футбол 1
+#EXTGRP:Спорт
+http://109.171.45.88:81/udp/239.54.6.72:1224
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="69.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/69.png" tvg-name="Матч! Футбол 2 HD",Матч! Футбол 2 HD
+#EXTGRP:Спорт
+http://46.163.136.45:4022/udp/239.99.17.60:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="64.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/64.png" tvg-name="Матч! Футбол 2",Матч! Футбол 2
+#EXTGRP:Спорт
+http://194.58.170.117:81/udp/239.195.3.33:1234
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="67.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/67.png" tvg-name="Матч! Футбол 3 HD",Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://178.49.58.34:81/udp/239.1.23.3:1234
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="51.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/51.png" tvg-name="EUROSPORT 1 HD",EUROSPORT 1 HD
+#EXTGRP:Спорт
+http://91.123.82.10:81/udp/239.1.13.1:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="33.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/33.png" tvg-name="Eurosport 1",Eurosport 1
+#EXTGRP:Спорт
+http://90.188.149.192:1234/udp/233.7.70.13:5000
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="52.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/52.png" tvg-name="EUROSPORT 2 HD",EUROSPORT 2 HD
+#EXTGRP:Спорт
+http://176.215.67.166:81/udp/235.10.10.142:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="61.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/61.png" tvg-name="Eurosport 2",Eurosport 2
+#EXTGRP:Спорт
+http://95.189.169.182:1234/udp/233.7.70.14:5000
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/44.png" tvg-name="Наш футбол",Наш футбол
+#EXTGRP:Спорт
+http://92.38.217.88:5050/udp/224.0.42.11:5000
+#EXTINF:-1 group-title="Спорт" tvg-id="170.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/170.png" tvg-name="Матч! Наш спорт",Матч! Наш спорт
+#EXTGRP:Спорт
+http://194.58.170.117:81/udp/239.195.1.71:1234
+#EXTINF:-1 group-title="Спорт" tvg-id="36.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/36.png" tvg-name="КХЛ",КХЛ
+#EXTGRP:Спорт
+http://178.163.52.134:4022/udp/234.0.0.208:2000
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="54.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/54.png" tvg-name="КХЛ HD",КХЛ HD
+#EXTGRP:Спорт
+http://46.183.135.199:81/udp/239.191.254.233:15283
+#EXTINF:-1 group-title="Спорт;HD" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/81.png" tvg-name="Setanta Sports HD",Setanta Sports HD
+#EXTGRP:Спорт
+http://178.124.183.12:80/hls/FWHTTL8YXU/bw5000000/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="84.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/84.png" tvg-name="Viasat Sport",Viasat Sport
+#EXTGRP:Спорт
+http://178.187.82.58:1234/udp/233.7.70.15:5000
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/111.png" tvg-name="Sky Sports 1",Sky Sports 1
+#EXTGRP:Спорт
+http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/169.png" tvg-name="Sky Sports F1",Sky Sports F1
+#EXTGRP:Спорт
+http://104.207.130.26:8080/4SpBqpOMKAMr/3BegUrYEyJmT/11744
+#EXTINF:-1 group-title="Спорт;HD" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/126.png" tvg-name="SKY Sport News HD",SKY Sport News HD
+#EXTGRP:Спорт
+http://178.196.237.240:3000/play/ccSkyNEwscc
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/125.png" tvg-name="Sky Sport News",Sky Sport News
+#EXTGRP:Спорт
+http://62.47.169.93:9981/stream/channelid/1559484701
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/116.png" tvg-name="BT Sport 1",BT Sport 1
+#EXTGRP:Спорт
+http://104.207.130.26:8880/4SpBqpOMKAMr/3BegUrYEyJmT/5058
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/115.png" tvg-name="BT Sport 2",BT Sport 2
+#EXTGRP:Спорт
+http://104.207.130.26:8880/4SpBqpOMKAMr/3BegUrYEyJmT/5059
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/123.png" tvg-name="BT Sport 3",BT Sport 3
+#EXTGRP:Спорт
+http://104.207.130.26:8880/4SpBqpOMKAMr/3BegUrYEyJmT/5060
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/216.png" tvg-name="UFC",UFC
+#EXTGRP:Спорт
+http://39.135.135.41/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="206.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/206.png" tvg-name="Охотник и рыболов HD",Охотник и рыболов HD
+#EXTGRP:Спорт
+http://178.163.68.45:4022/udp/234.0.0.98:2000
+#EXTINF:-1 group-title="Спорт" tvg-id="205.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/205.png" tvg-name="Охотник и рыболов",Охотник и рыболов
+#EXTGRP:Спорт
+http://91.123.82.10:81/udp/239.1.10.13:1234
+
+
+
 
 
 
@@ -1342,15 +1417,15 @@ http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
 #EXTINF:-1 tvg-logo="https://goo.gl/FPnGzd",Al Kass Sports Online
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnline1ar/master570.m3u8
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnline1vc/master570.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/4dYPSD",Al Kass Sports 1
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1abyr/master570.m3u8
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vc/master570.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/UMCGZV",Al Kass Sports 2
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkasstwoMasr/master570.m3u8
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkasstwoMasrsbv/master570.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Xvk8n8",Al Kass Sports 4
-https://alkasmsl4.akamaized.net/hls/live/2003123/four4abr/master570.m3u8
+https://alkasmsl4.akamaized.net/hls/live/2003123/four4ansdbv/master570.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/6z6oZW",Al Kass Sports 5
-https://alkasmsl4.akamaized.net/hls/live/2003123/fiveAvrb/master570.m3u8
+https://alkasmsl4.akamaized.net/hls/live/2003123/fiveAnsdbv/master570.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/jp3VHg",AD Sports 1
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/622T6X",AD Sports 2
@@ -1404,8 +1479,8 @@ http://falconiptv.hopto.org:1935/f2/f2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://falconeye.tv/wp-content/uploads/2018/03/1.jpg",Falcon Eye 4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Logo_isport.jpg/220px-Logo_isport.jpg",I-Sport 1
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Logo_isport.jpg/220px-Logo_isport.jpg",Kurdgoal
+http://aliwix-t.online:80/live/aliwixhd/bein/816.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Logo_isport.jpg/220px-Logo_isport.jpg",I-Sport 2
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bi9htU",Il-Sport
@@ -1427,7 +1502,6 @@ http://falconiptv.hopto.org:1935/f2/f2/playlist.m3u8
 
 
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",logo not exist
-
 
 #EXTINF:-1 tvg-logo="http://allaboutwindowsphone.com/images/appicons/117266.png" group-title="Arab",======Arab=======
 http://www.satcom.ml:8000/movie/Satcom/Gold/2000.mp4
