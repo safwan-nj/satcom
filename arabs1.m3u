@@ -13,6 +13,7 @@ http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",SYRIA HD
 #EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
 http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
+http://82.137.248.16:1935/Snews/stream31122019/media_w475033597_580.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/eDtLda",Noor Alsham
 http://82.137.248.16:1935/Nour/stream31122019/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama
@@ -21,7 +22,11 @@ http://82.137.248.16:1935/Drama/stream31122019/chunklist.m3u8
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Syria
 http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana Backup
+#EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Tv
+https://svs.itworkscdn.net/samatvlive/sama.smil/playlist_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana
+http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana Server2
 http://95.170.215.109/hls/m3u8/LANA-TV-Backup.m3u8
 #EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
 https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
@@ -52,10 +57,7 @@ https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist.m3u8
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana HD
 https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana
-http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama TV
-https://svs.itworkscdn.net/samatvlive/sama.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/xZabzC" group-title="LEBANON",======LEBANON=======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
