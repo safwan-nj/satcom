@@ -9,7 +9,7 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf" tvg-name="SyriaSatelliteChannel.sy",Syria
-http://82.137.248.16:1935/Sat/stream31122019/chunklist.m3u8
+http://82.137.248.16:1935/Sat/stream31122019/media_w916876315_660.ts
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",SYRIA HD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama
@@ -21,7 +21,7 @@ http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
-http://82.137.248.16:1935/Snews/stream31122019/chunklist.m3u8
+http://82.137.248.16:1935/Snews/stream31122019/media_w475033597_580.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/eDtLda",Noor Alsham
 http://82.137.248.16:1935/Nour/stream31122019/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Syria
