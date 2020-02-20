@@ -10,7 +10,7 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf" tvg-name="SyriaSatelliteChannel.sy",Syria
 http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",SYRIA HD
+#EXTINF: tvg-logo="https://goo.gl/ahWMhf",SYRIA HD
 http://95.170.215.109/hls/m3u8/SYRIA-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
 http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
