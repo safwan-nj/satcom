@@ -49,7 +49,7 @@ http://82.137.248.16:1935/SEdu/stream31122019/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/UT3KyH",Souryana HD
 http://82.137.248.16:1935/Souryana/stream31122019/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/EpsEdX",Souria Tv
-http://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist.m3u8
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/R8GXvz",Halab-Today
 http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/eiDkcF",Orient
