@@ -600,21 +600,21 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/FMuNVJ",Aljazeera
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/ApfiLZ",Al Jazeera Mubashir
-http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
+https://live-hls-web-ajm.getaj.net/AJM/04.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/1qk56w",Alarabiyia
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist.m3u8
+http://livecdnh3.tvanywhere.ae/hls/alarabiya/04.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/HhuU7u",Alhadath
-http://av.alarabiya.net/alarabiapublish/alhadath.smil/oui9.m3u8
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Al Alam 
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Al-Alam_logo.svg/1200px-Al-Alam_logo.svg.png",Al Alam 
 http://live2.alalam.ir/live/Alalam_high/index.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Al Alam S2
 
 #EXTINF:-1 tvg-logo="https://goo.gl/YK24WH",RT Arabic
-https://rt-arab.secure.footprint.net/1104-inadv-qidx-1k_v3.m3u8
+https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
 #EXTINF: tvg-logo="https://goo.gl/fETVF3",france 24
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/A2JyoY",BBC
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+http://95.170.215.107/hls/m3u8/BBCArabic-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/3cD6iH",Skynews
 https://stream.skynewsarabia.com/hls/sna_480.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/3cD6iH",Skynews S2
@@ -954,7 +954,6 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",Satcom Gold logo
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Satcom Red logo
 
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Satcom Red logo
 #EXTINF:-1 tvg-logo="https://goo.gl/GSd7Dn" group-title="Austria",======Austria=======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
