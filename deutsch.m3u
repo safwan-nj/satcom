@@ -39,7 +39,7 @@ http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/at/schauTV_95x63.gif",Schau Tv
 https://schautv.cdn.ors.at/out/u/schautv-nodrm_5.m3u8
 #EXTINF:-1 tvg-logo="https://www.rts-salzburg.at/wp-content/themes/rts/images/rts-logo.png",RTS Salzburg
-http://80.237.191.228:1935/live/_definst_/RTS2015/playlist.m3u8
+https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/chunklist_w1835335239.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg",Tirol TV
 http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 
