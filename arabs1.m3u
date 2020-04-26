@@ -22,13 +22,13 @@ http://82.137.248.16:1935/Drama/stream31122019/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama Server2
 http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Syria
-http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Tv
-https://svs.itworkscdn.net/samatvlive/sama.smil/playlist_1080p.m3u8
+https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_720p_chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana
 http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana Server2
-http://95.170.215.109/hls/m3u8/LANA-TV-Backup.m3u8
+
 #EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
 https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
 #EXTINF: tvg-logo="http://4.bp.blogspot.com/-wcM8YRaf9h8/U9qa6ojE9zI/AAAAAAAABFs/euyH1I_gTbw/s1600/Fatafeat+Tv+Live.png",FATAFEAT 
