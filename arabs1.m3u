@@ -25,13 +25,13 @@ http://95.217.133.45:8080/hls/samatv.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Tv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana
-http://188.160.0.148:1935/59a7b32bbf6b992/_definst_/smil:myStream.smil/chunklist_w1218770721_b1000000.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/151
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana Server2
 
 #EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
-
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/153
 #EXTINF: tvg-logo="http://4.bp.blogspot.com/-wcM8YRaf9h8/U9qa6ojE9zI/AAAAAAAABFs/euyH1I_gTbw/s1600/Fatafeat+Tv+Live.png",FATAFEAT 
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/55b7032108.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/85
 #EXTINF: tvg-logo="http://4.bp.blogspot.com/-wcM8YRaf9h8/U9qa6ojE9zI/AAAAAAAABFs/euyH1I_gTbw/s1600/Fatafeat+Tv+Live.png",FATAFEAT S2
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s88156/images/logoq.png" ,Sham FM
@@ -60,22 +60,22 @@ http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
 #EXTINF:-1 tvg-logo="https://goo.gl/7p4X8D",Aljadeed
-http://88.198.65.79:2561/live/OTTPLAYER/nNEpAVfcPt/142.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/142
 #EXTINF:-1 tvg-logo="https://goo.gl/Ggp24v",MTV lebanon
-http://88.198.65.79:2561/live/OTTPLAYER/nNEpAVfcPt/137.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/137
 
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/lb/aliman-tv-95x95.gif",Al Iman
 #EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC
 http://stream-e30453a4b.nmbs.top/m3u/Arabian/111d2dc5d4.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC Int
-http://88.198.65.79:2561/live/OTTPLAYER/nNEpAVfcPt/138.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/138
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/mVMJx4",OTV
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/0a8a5baf3e.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/143
 
 #EXTINF:-1 tvg-logo="https://goo.gl/qXKqRV",NBN
-http://88.198.65.79:2561/live/OTTPLAYER/nNEpAVfcPt/140.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/140
 #EXTINF:-1 tvg-logo="https://goo.gl/swcwnE",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8
 
@@ -110,7 +110,60 @@ http://stream-e30453a4b.nmbs.top/m3u/Arabian/4f3a1aa2fd.m3u8
 #EXTINF: tvg-logo="http://jawaltv.com/images/ar/rkh.png", Rotana Khalijia
 http://stream-e30453a4b.nmbs.top/m3u/Arabian/8ac89ca37b.m3u8
 #EXTINF:-1 tvg-logo="https://www.nawafedh.org/sites/default/files/field/image/160670_15_1449600640_0.jpg" group-title="Boxoffice",======Boxoffice=======
-
+#EXTINF:0,NETFLIX MOVIES FHD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/114
+#EXTINF:0,NETFLIX THRILLER FHD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/115
+#EXTINF:0,NETFLIX ARABIC
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/116
+#EXTINF:0,NETFLIX ACTION FHD.
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/117
+#EXTINF:0,NETFLIX Drama  FHD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/119
+#EXTINF:0,NETFLIX BOLLYOOD FHD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/118
+#EXTINF:0,NETFLIX MOVIES HD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/120
+#EXTINF:0,NETFLIX COMEDY HD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/122
+#EXTINF:0,NETFLIX HORROR HD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/123
+#EXTINF:0,OXN YA HALA MIX
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/105
+#EXTINF:0,OXN YA HALA CINEMA 1
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/106
+#EXTINF:0,OXN YA HALA CINEMA 2
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/107
+#EXTINF:0,OXN YA HALA ZAMAN
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/108
+#EXTINF:0,OXN YA HALA MOVIES 1
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/109
+#EXTINF:0,OXN YA HALA MOVIES 2
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/110
+#EXTINF:0,OXN YA HALA INDIA
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/111
+#EXTINF:0,OSN_Movies_First_HD_2h
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/95
+#EXTINF:0,OSN_Movies_HD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/96
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eYFezQj-lqg/XRkTzf0QIKI/AAAAAAAADHE/RnuZAbU40Kc4tzsWC8wdJjiwNDJihNVBACLcBGAs/s320/BoxOffice-Ar.png",Araboxoffice1
 
 #EXTINF:-1 tvg-logo="https://goo.gl/be4Nzd" group-title="Bein Movies",======Bein Movies=======
@@ -140,39 +193,39 @@ http://stream-e30453a4b.nmbs.top/m3u/Arabian/1b2c697713.m3u8
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
 #EXTINF:-1 tvg-logo="https://goo.gl/e3gMb1" ,MBC 1 
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/bda8c96b94.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/195
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/FDvujj",MBC 2 
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/33cf9437c2.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/197
 #EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/m3.png",MBC 3
 http://stream-e30453a4b.nmbs.top/m3u/Arabian/d9c0ec0a18.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/jjAQdb",MBC 4 
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/ccb37df977.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/199
 #EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/m5.png",MBC 5
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/7cf7ba769c.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/211
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Qh3mL7" ,MBC Action 
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/7d1825a1df.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/207
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bKW5Xm" ,MBC Max 
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/275be999ff.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/203
 
 #EXTINF:-1 tvg-logo="https://goldtv.tv/icons/mbc-variety.png", MBC Variety 
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/df9a4b9504.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/136
 #EXTINF:-1 tvg-logo="https://goo.gl/TPNedw",MBC Bollywood 
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/b517083196.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/213
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama 
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/39c4d89fc1.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/205
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama Plus
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/47c6f65a96.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/209
 #EXTINF:-1 tvg-logo="https://goo.gl/yXPF9L",MBC Masr 
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/f6435015c7.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/214
 #EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Masr 2
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/cdc9acc14a.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/215
 #EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Iraq
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/4e630c4c30.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/201
 #EXTINF:-1tvg-logo="https://goo.gl/dnHy2e",Zee Aflam
 http://88.198.65.79:2561/live/OTTPLAYER/nNEpAVfcPt/134.m3u8
 #EXTINF:-1tvg-logo="https://goo.gl/dnHy2e",Zee Alwan
@@ -199,7 +252,7 @@ http://stream-e30453a4b.nmbs.top/m3u/Arabian/1afcf9246b.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",NILE COMEDY
 http://stream-e30453a4b.nmbs.top/m3u/Arabian/8de075538c.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",FATAFEAT
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/55b7032108.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/85
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",CBC SOFRA
 
 #EXTINF: tvg-logo="https://www.lmalshaml.com/upload/photos/2018/04/icLaUnUp72T6sXfCzQAV_08_afd9640151e26e74d0559098a11ccdcc_image.png",CINEMAPRO HD
@@ -509,13 +562,13 @@ http://185.59.222.165:8081/atnProvider/magharibia_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/RWFwhf" group-title="NEWS",=====NEWS========
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/FMuNVJ",Aljazeera
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/141fd37fa5.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/170
 #EXTINF:-1 tvg-logo="https://goo.gl/ApfiLZ",Al Jazeera Mubashir
-https://live-hls-web-ajm.getaj.net/AJM/04.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/172
 #EXTINF:-1 tvg-logo="https://goo.gl/1qk56w",Alarabiyia
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/1ddcd97183.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/173
 #EXTINF:-1 tvg-logo="https://goo.gl/HhuU7u",Alhadath
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/463472ec91.m3u8
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/174
 #EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Al-Alam_logo.svg/1200px-Al-Alam_logo.svg.png",Al Alam 
 http://stream-e30453a4b.nmbs.top/m3u/Arabian/ee4c652635.m3u8
 
@@ -611,59 +664,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",NAT GEO PEOPLE
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
 
-#EXTM3U
-#EXTINF:-1,DMC Drama
-http://95.170.215.109/hls/dmc-drama-Backup-M.m3u8
-#EXTINF:-1,DMC Live
-http://95.170.215.109/hls/dmc-Backup-M.m3u8
-#EXTINF:-1,CBC Sofra
-http://95.170.215.109/hls/CBC-Sofra-Backup-M.m3u8
-#EXTINF:-1,CBC
-http://95.170.215.109/hls/CBC-Backup-M.m3u8
-#EXTINF:-1,Toyour Baby
-http://95.170.215.109:80/hls/m3u8/TOYOR-B-Backup.m3u8
-#EXTINF:-1,CnArabia
-http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1,SPACETOON
-http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
-#EXTINF:-1,Al Mayadeen
-http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
-#EXTINF:-1,Sama TV
-http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
-#EXTINF:-1,LBC International
-http://95.170.215.109:80/hls/m3u8/LDC-Backup.m3u8
-#EXTINF:-1,Imagine Movies
-http://95.170.215.109/hls/Imagine-M-Backup-M.m3u8
-#EXTINF:-1,Toyor Aljanah
-http://95.170.215.109:80/hls/m3u8/TOYOR-J-Backup.m3u8
-#EXTINF:-1,Ar Karameesh
-http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8
-#EXTINF:-1,Majid-Kids
-http://95.170.215.109:80/hls/m3u8/Majid-Backup.m3u8
-#EXTINF:-1,Al Mayadeen TV
-http://95.170.215.109/hls/MAYADEEN-Backup-M.m3u8
-#EXTINF:-1,MBC Iraq
-http://95.170.215.109:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
-#EXTINF:-1,CBC Drama
-http://95.170.215.109/hls/CBC-Drama-Backup-M.m3u8
-#EXTINF:-1,Lana TV
-http://95.170.215.109/hls/m3u8/LANA-TV-Backup.m3u8
-#EXTINF:-1,MTV Lebanon
-http://95.170.215.109/hls/m3u8/MTV-Backup.m3u8
-#EXTINF:-1,OTV Lebanon
-http://95.170.215.109/hls/m3u8/OTV-Backup.m3u8
-#EXTINF:-1,AL-IRAQIA NEWS
-http://95.170.215.109/hls/IraqiaNew-Backup-M.m3u8
-#EXTINF:-1,Samarra TV
-http://95.170.215.109/hls/m3u8/SamarraTV-Backup.m3u8
-#EXTINF:-1,Asia TV
-http://95.170.215.109/hls/ASIA-TV-Backup-M.m3u8
-#EXTINF:-1,Music alremas
-http://95.170.215.109/hls/m3u8/M-Alremas-Backup.m3u8
-#EXTINF:-1,Music alhanen
-http://95.170.215.109/hls/m3u8/M-alhanen-Backup.m3u8
-#EXTINF:-1,Almawsley
-http://95.170.215.109/hls/m3u8/AlMawsley-Backup.m3u8
+
 
 
 
@@ -901,12 +902,83 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",ORBIT cinema 1 
 
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",CINEMA 1 HD
-http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
+
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",ORBIT cinema 1 CDN
 
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Music Now HD
-http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
+
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Music Now sd
+
+
+#EXTINF:0,Bein:Movies action
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/77
+#EXTINF:0,Bein:Movies family
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/79
+#EXTINF:0,OSN_Enigma_HD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/97
+#EXTINF:0,Bein:DISCOVRY KIDS
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/102
+#EXTINF:0,Bein:Movies premiere
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/80
+#EXTINF:0,Bein:Series 1
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/81
+#EXTINF:0,Bein:Series 2
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/82
+#EXTINF:0,Bein:Movies drama
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/78
+#EXTINF:0,Bein: FOX_Rewayat
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/83
+#EXTINF:0,Bein:Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/84
+#EXTINF:0,Bein:DreamWorks
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/101
+#EXTINF:0,Ya_Hala_Oula_SD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/224
+#EXTINF:0,Bein:FATAFEAT
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0,VIP : OSN MUSALSALAT HD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/86
+#EXTINF:0,VIP : OSN YaHala Cinema HD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/87
+#EXTINF:0,VIP :OSN YaHala Oula HD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/88
+#EXTINF:0,VIP :OSN YaHala HD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/89
+#EXTINF:0,VIP : OSN Movies Action HD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/92
+#EXTINF:0,CINEMA2_SD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/99
+#EXTINF:0,OSN_BINGE_HD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/98
+#EXTINF:0,OSN_Movies_First_HD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/94
+#EXTINF:0,OSN_MUSALSALAT_HD
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/93
+#EXTINF:0,VIP : OSN FANN
+#EXTVLCOPT:network-caching=1000
+http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/90
 
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",STAR MOVIES HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
