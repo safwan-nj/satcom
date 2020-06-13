@@ -55,6 +55,31 @@ http://linux-app.tv:6204/60400655844704/32991126026152/33697
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 10
 http://linux-app.tv:6204/60400655844704/32991126026152/33696
 
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD",======BeIn Sports SD =======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sport
+http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 1
+http://linux-app.tv:6204/60400655844704/32991126026152/33350
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 2
+http://linux-app.tv:6204/60400655844704/32991126026152/33270
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 3
+http://linux-app.tv:6204/60400655844704/32991126026152/33602
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 4
+http://m-iptv.net:6204/95025267076109/65839594001441/33603
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 5
+http://linux-app.tv:6204/60400655844704/32991126026152/33353
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 6
+http://linux-app.tv:6204/60400655844704/32991126026152/33682
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 7
+http://linux-app.tv:6204/60400655844704/32991126026152/33681
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 8
+http://linux-app.tv:6204/60400655844704/32991126026152/33680
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 9
+http://m-iptv.net:6204/95025267076109/65839594001441/33697
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 10
+http://m-iptv.net:6204/95025267076109/65839594001441/33696
+
 
 
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",logo not exist
