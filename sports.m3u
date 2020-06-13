@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 1",======BeIn Sports HD 1 =======
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports 4K",======BeIn Sports 4K =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
@@ -9,34 +9,54 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sports News
-
+http://46.60.1.82:8081/live/hdmib2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sport
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD-IMH-NGC.m3u8
-#EXTINF:-1,astera sport
-
-#EXTINF:-1,BEIN 4K
-
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 1
-http://xtream.servers.web.tr:25461/4tHJP3mhzV/EvlMnNkxwj/1
+http://linux-app.tv:6204/60400655844704/32991126026152/33350
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 2
-http://xtream.servers.web.tr:25461/4tHJP3mhzV/EvlMnNkxwj/2
+http://linux-app.tv:6204/60400655844704/32991126026152/33270
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 3
-http://xtream.servers.web.tr:25461/4tHJP3mhzV/EvlMnNkxwj/6
+http://linux-app.tv:6204/60400655844704/32991126026152/33351
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 4
-http://xtream.servers.web.tr:25461/4tHJP3mhzV/EvlMnNkxwj/4
+http://linux-app.tv:6204/60400655844704/32991126026152/33352
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 5
-http://xtream.servers.web.tr:25461/4tHJP3mhzV/EvlMnNkxwj/7
+http://linux-app.tv:6204/60400655844704/32991126026152/33353
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 6
-http://xtream.servers.web.tr:25461/4tHJP3mhzV/EvlMnNkxwj/8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 7
-http://xtream.servers.web.tr:25461/4tHJP3mhzV/EvlMnNkxwj/9
+
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 8
-http://xtream.servers.web.tr:25461/4tHJP3mhzV/EvlMnNkxwj/10
+
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 9
-http://xtream.servers.web.tr:25461/4tHJP3mhzV/EvlMnNkxwj/11
+
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 10
-http://xtream.servers.web.tr:25461/4tHJP3mhzV/EvlMnNkxwj/12
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD",======BeIn Sports HD =======
+https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 1
+http://linux-app.tv:6204/60400655844704/32991126026152/33705
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 2
+http://linux-app.tv:6204/60400655844704/32991126026152/33704
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 3
+http://linux-app.tv:6204/60400655844704/32991126026152/33703
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 4
+http://linux-app.tv:6204/60400655844704/32991126026152/33702
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 5
+http://linux-app.tv:6204/60400655844704/32991126026152/33701
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 6
+http://linux-app.tv:6204/60400655844704/32991126026152/33700
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 7
+http://linux-app.tv:6204/60400655844704/32991126026152/33699
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 8
+http://linux-app.tv:6204/60400655844704/32991126026152/33698
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 9
+http://linux-app.tv:6204/60400655844704/32991126026152/33697
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 10
+http://linux-app.tv:6204/60400655844704/32991126026152/33696
+
+
 
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",logo not exist
 #EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Other Sports",======Other Sports=======
