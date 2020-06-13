@@ -61,28 +61,29 @@ http://linux-app.tv:6204/60400655844704/32991126026152/33696
 #EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Other Sports",======Other Sports=======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
-#EXTINF:-1 tvg-logo="https://goo.gl/FPnGzd",Al Kass Sports Online
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnline1vc/master570.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/4dYPSD",Al Kass Sports 1
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vc/master570.m3u8
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:-1 tvg-logo="https://goo.gl/UMCGZV",Al Kass Sports 2
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkasstwoMasrsbv/master570.m3u8
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-logo="https://goo.gl/FPnGzd",Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 #EXTINF:-1 tvg-logo="https://goo.gl/Xvk8n8",Al Kass Sports 4
-https://alkasmsl4.akamaized.net/hls/live/2003123/four4ansdbv/master570.m3u8
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 tvg-logo="https://goo.gl/6z6oZW",Al Kass Sports 5
-https://alkasmsl4.akamaized.net/hls/live/2003123/fiveAnsdbv/master570.m3u8
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1 tvg-logo="https://goo.gl/jp3VHg",AD Sports 1
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1 tvg-logo="https://goo.gl/622T6X",AD Sports 2
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 #EXTINF:-1 tvg-logo="https://goo.gl/622T6X",AD Sports 3
-http://adtv.ercdn.net/adsport3/adsport3.m3u8
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
 #EXTINF:-1 tvg-logo="https://goo.gl/622T6X",AD Sports 4
-http://adtv.ercdn.net/adsport4/adsport4.m3u8
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 #EXTINF:-1 tvg-logo="https://goo.gl/622T6X",AD Sports 5
-http://adtv.ercdn.net/adsport5/adsport5.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/622T6X",AD Sports 6
-http://adtv.ercdn.net/adsport6/adsport6.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bi9htU",KTV Sport
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
