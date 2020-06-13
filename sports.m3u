@@ -10,8 +10,6 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sports News
 http://46.60.1.82:8081/live/hdmib2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sport
-
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 1
 http://linux-app.tv:6204/60400655844704/32991126026152/33350
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 2
@@ -34,7 +32,8 @@ http://linux-app.tv:6204/60400655844704/32991126026152/33353
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD",======BeIn Sports HD =======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
-
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",Bein Sport
+http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 1
 http://linux-app.tv:6204/60400655844704/32991126026152/33705
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BeIn 2
