@@ -58,13 +58,13 @@ http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
 #EXTINF:-1 tvg-logo="https://goo.gl/7p4X8D",Aljadeed
-http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/142
+
 #EXTINF:-1 tvg-logo="https://goo.gl/Ggp24v",MTV lebanon
-http://88.198.65.79:2561/OTTPLAYER/nNEpAVfcPt/137
+http://178.132.3.162:88/MTV_Lebanon/video.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/lb/aliman-tv-95x95.gif",Al Iman
 #EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/111d2dc5d4.m3u8
+http://51.15.3.161:8080/LDC/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC Int
 https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
 
@@ -214,13 +214,15 @@ http://stream-e30453a4b.nmbs.top/m3u/Arabian/8de075538c.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Alkahera Wannas
 
 #EXTINF:-1 tvg-logo="https://goo.gl/FoP5pB",cbc Sofra
-
+http://178.132.3.162:88/CBC_Sofra/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://goo.gl/RFtbdU",cbc
 http://stream-e30453a4b.nmbs.top/m3u/Arabian/2b517cbed1.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/8oUGYt",Al Nahar Drama
 http://stream-e30453a4b.nmbs.top/m3u/Arabian/15733f5431.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/5zEe7i",Al Nahar TV
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/95358e7798.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Arabian/95358e7798.m3u8panorama
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/Ejvw6x",MehwarTV
 
 #EXTINF:-1 tvg-logo="https://goo.gl/32dqnj",dmc
@@ -232,14 +234,14 @@ http://stream-e30453a4b.nmbs.top/m3u/Arabian/55b308361a.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/fz2euU",Dream 2
 
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Cairo Drama
-
+http://178.132.3.162:88/Cairo_Drama/video.m3u8?token=test
 
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Cairo Cinema
-
+http://178.132.3.162:88/Cairo_Cinema/video.m3u8?token=test
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",TokTok
 
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",
-
+#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Cima
+http://178.132.3.162:88/Cima/video.m3u8?token=test
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",
 
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",
@@ -284,7 +286,7 @@ http://stream-e30453a4b.nmbs.top/m3u/Arabian/55b308361a.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Panorama Film HD
 
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",PANORAMA DRAMA
-
+http://178.132.3.162:88/Panorama_Drama/video.m3u8?token=test
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Panorama Drama 2
 
 
@@ -1420,16 +1422,6 @@ https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zagros
 
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:0,
-https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
-
-
-
-
-
-
-
-
 
 
 
