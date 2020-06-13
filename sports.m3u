@@ -118,15 +118,15 @@ http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/ecHNDb",Oman Sports
 
 #EXTINF:-1 tvg-logo="http://falconeye.tv/wp-content/uploads/2018/03/1.jpg",Falcon Eye 1
-http://falconiptv.hopto.org:1935/f1/fl/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://falconeye.tv/wp-content/uploads/2018/03/1.jpg",Falcon Eye 2
-http://falconiptv.hopto.org:1935/f2/f2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://falconeye.tv/wp-content/uploads/2018/03/1.jpg",Falcon Eye Family
 
 #EXTINF:-1 tvg-logo="http://falconeye.tv/wp-content/uploads/2018/03/1.jpg",Falcon Eye 4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Logo_isport.jpg/220px-Logo_isport.jpg",Kurdgoal
-http://aliwix-t.online:80/live/aliwixhd/bein/816.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Logo_isport.jpg/220px-Logo_isport.jpg",I-Sport 2
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bi9htU",Il-Sport
