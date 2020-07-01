@@ -9,39 +9,39 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf" tvg-name="SyriaSatelliteChannel.sy",Syria Sattelite
-http://82.137.248.16:1935/Sat/stream31122019/chunklist_w250487248.m3u8
+http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
 #EXTINF: tvg-logo="https://goo.gl/ahWMhf",SYRIA HD
-http://m-iptv.net:6204/95025267076109/65839594001441/20913
+
 #EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
 http://82.137.248.16:1935/Snews/stream31122019/chunklist_w501291572.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
-http://m-iptv.net:6204/95025267076109/65839594001441/6887
+
 #EXTINF:-1 tvg-logo="https://goo.gl/eDtLda",Noor Alsham
 http://82.137.248.16:1935/Nour/stream31122019/chunklist_w1402125953.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama
-http://82.137.248.16:1935/Drama/stream31122019/chunklist_w997342278.m3u8
+http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama Server2
-http://linux-app.tv:6204/60400655844704/32991126026152/7188
+
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama Server2
-http://m-iptv.net:6204/95025267076109/65839594001441/7188
+
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Syria
-http://95.217.133.45:8080/hls/samatv.m3u8
+http://stream.sama-tv.net:8080/hls/samatv.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Tv
-http://m-iptv.net:6204/95025267076109/65839594001441/7189
+
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana
-http://m-iptv.net:6204/95025267076109/65839594001441/10980
+http://161.35.215.36:9000/live/koka/koka/2.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana Server2
-http://m-iptv.net:6204/95025267076109/65839594001441/36460
+
 #EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
-http://linux-app.tv:6204/60400655844704/32991126026152/36461
+
 #EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
-http://m-iptv.net:6204/95025267076109/65839594001441/14290
+
 #EXTINF: tvg-logo="http://4.bp.blogspot.com/-wcM8YRaf9h8/U9qa6ojE9zI/AAAAAAAABFs/euyH1I_gTbw/s1600/Fatafeat+Tv+Live.png",FATAFEAT 
-http://linux-app.tv:6204/60400655844704/32991126026152/2714
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s88156/images/logoq.png" ,Sham FM
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2kI5Whan59k/hqdefault.jpg" ,Al Khabar
-http://m-iptv.net:6204/95025267076109/65839594001441/20966
+
 #EXTINF:0 tvg-logo="https://goo.gl/krLqSL",Hawa Syria
 #EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ogarit
 http://82.137.248.16:1935/Ugarit/stream31122019/chunklist_w1636278344.m3u8
@@ -50,13 +50,13 @@ http://82.137.248.16:1935/SEdu/stream31122019/chunklist_w1584833335.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/tE95C8",Ninar
 
 #EXTINF:-1 tvg-logo="https://goo.gl/UT3KyH",Souryana HD
-http://82.137.248.16:1935/Souryana/stream31122019/chunklist_w1012092163.m3u8
+http://82.137.248.16:1935/Souryana/stream31122019/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://goo.gl/EpsEdX",Souria Tv
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/R8GXvz",Halab-Today
 http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/eiDkcF",Orient
-https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/4Uds7Q",ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 
@@ -64,7 +64,7 @@ http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 
 #EXTINF:-1 tvg-logo="https://goo.gl/7p4X8D",Aljadeed
-http://linux-app.tv:6204/60400655844704/32991126026152/2242
+
 #EXTINF:-1 tvg-logo="https://goo.gl/Ggp24v",MTV lebanon
 http://178.132.3.162:88/MTV_Lebanon/video.m3u8?token=test
 
@@ -74,7 +74,7 @@ http://51.15.3.161:8080/LDC/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC Int
 https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC 2
-http://linux-app.tv:6204/60400655844704/32991126026152/30469
+
 #EXTINF:-1 tvg-logo="https://goo.gl/mVMJx4",OTV
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
 
@@ -105,7 +105,7 @@ https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/gArRB3",Rotana classic
 https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/NZ3ZUa",Rotana clip
-http://linux-app.tv:6204/60400655844704/32991126026152/2743
+
 #EXTINF:-1 tvg-logo="https://goo.gl/jmqpbp",Rotana music
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HseSATn8VVU/hqdefault.jpg",Rotana Comedy
 https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8
@@ -125,7 +125,7 @@ https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/be4Nzd" group-title="Bein Movies",======Bein Movies=======
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF: tvg-logo="https://goo.gl/uxALCg",Bein Movies 1 HD
-
+http://161.35.215.36:9000/live/koka/koka/12.m3u8
 #EXTINF: tvg-logo="https://goo.gl/kX1WhA",Bein Movies 2 HD
 
 #EXTINF: tvg-logo="https://goo.gl/VXDGbA",Bein Movies 3 HD
@@ -162,7 +162,7 @@ https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/bKW5Xm" ,MBC Max HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
 #EXTINF:-1 tvg-logo="https://goldtv.tv/icons/mbc-variety.png", MBC Variety HD
-http://linux-app.tv:6204/60400655844704/32991126026152/2001
+
 #EXTINF:-1 tvg-logo="https://goo.gl/TPNedw",MBC Bollywood HD
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama HD
@@ -184,25 +184,25 @@ https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
 #EXTINF:-1tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",B4U Plus
 
 #EXTINF:-1 tvg-logo="https://goo.gl/GwZKWD" group-title="MBC SD ",======MBC SD=======
-https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+
 #EXTINF:-1 tvg-logo="https://goo.gl/e3gMb1" ,MBC 1
-http://linux-app.tv:6204/60400655844704/32991126026152/20920
+
 #EXTINF:-1 tvg-logo="https://goo.gl/FDvujj",MBC 2
-http://linux-app.tv:6204/60400655844704/32991126026152/20919
+
 #EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/m3.png",MBC 3
-http://linux-app.tv:6204/60400655844704/32991126026152/20918
+
 #EXTINF:-1 tvg-logo="https://goo.gl/jjAQdb",MBC 4
-http://linux-app.tv:6204/60400655844704/32991126026152/20917
+
 #EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Iraq
-http://linux-app.tv:6204/60400655844704/32991126026152/20922
+
 #EXTINF:-1 tvg-logo="https://goo.gl/Qh3mL7" ,MBC Action
-http://linux-app.tv:6204/60400655844704/32991126026152/20925
+
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama
-http://linux-app.tv:6204/60400655844704/32991126026152/20923
+
 #EXTINF:-1 tvg-logo="https://goo.gl/bKW5Xm" ,MBC Max
-http://linux-app.tv:6204/60400655844704/32991126026152/20921
+
 #EXTINF:-1 tvg-logo="https://goo.gl/TPNedw",MBC Bollywood
-http://linux-app.tv:6204/60400655844704/32991126026152/20924
+
 
 
 
@@ -224,7 +224,7 @@ http://stream-e30453a4b.nmbs.top/m3u/Arabian/1afcf9246b.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",NILE COMEDY
 http://stream-e30453a4b.nmbs.top/m3u/Arabian/8de075538c.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",FATAFEAT
-http://linux-app.tv:6204/60400655844704/32991126026152/2714
+
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",CBC SOFRA
 
 #EXTINF: tvg-logo="https://www.lmalshaml.com/upload/photos/2018/04/icLaUnUp72T6sXfCzQAV_08_afd9640151e26e74d0559098a11ccdcc_image.png",CINEMAPRO HD
@@ -242,7 +242,7 @@ http://stream-e30453a4b.nmbs.top/m3u/Arabian/2b517cbed1.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/8oUGYt",Al Nahar Drama
 http://stream-e30453a4b.nmbs.top/m3u/Arabian/15733f5431.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/5zEe7i",Al Nahar TV
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/95358e7798.m3u8panorama
+http://stream-e30453a4b.nmbs.top/m3u/Arabian/95358e7798.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Ejvw6x",MehwarTV
@@ -1071,6 +1071,7 @@ https://live.imamhossaintv.com/live/ih2.m3u8
 #EXTINF:0,Iqraa
 
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+
 #EXTINF:0,Jasco Events TV
 
 http://82.212.74.100:8000/live/hls/8131.m3u8
@@ -1668,267 +1669,10 @@ http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://goo.gl/t4h9Eo" group-title="OSN",=====OSN========
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Yahala HD
-http://linux-app.tv:6204/60400655844704/32991126026152/10950
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Yahala Oula HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/152
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Yahala Cinema HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/5349
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN On Demand HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/30409
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Cinema HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/37962
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Bing HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/28104
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN POP Adil Emam HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/36184
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Mix 
-http://linux-app.tv:6204/60400655844704/32991126026152/42590
-OSNMovies.net,OSN Movies HD http://linux-app.tv:6204/60400655844704/32991126026152/248
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Action HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/139
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Movies First HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/3519
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Movies First  2 HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/27777
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Enigma HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/147
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Series First HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/131
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Series Comedy HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/7584
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Movies Disney HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/9606
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Kids HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/4055
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Comedy Central HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/24508
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Crime HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/28427
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Paramount HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/13028
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN TLC HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/13026
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN E! HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/11174
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Star Movies HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/7697
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Star World HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/250
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Alfa Cinema 1 HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/11188
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Alfa Cinema 2 HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/13368
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Alfa Musalsalat HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/11173
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Alfa Musalsalat 2 HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/9060
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Alfa Alyoum HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/11189
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Alfa Al Safwa HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/11262
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Alfa Al Fann HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/11190
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Alfa Music Now HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/13367
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN News HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/36183
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Living HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/11036
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Meezze HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/31688
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN History HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/13029
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN H2 HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/11037
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Discovery ID HD
- http://linux-app.tv:6204/60400655844704/32991126026152/14430
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Discovery HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/7701
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Discovery SC HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/1162
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Nat Geo HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/8999
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Nat Geo Wild HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/984
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Nat Geo People HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/2711
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Baby HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/13027
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Nickelodeon HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/8998
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Kids Zone HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/27778
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN NickToon HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/28428
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Nick Jr HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/20515
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Disney HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/7703
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Disney XD HD
-http://linux-app.tv:6204/60400655844704/32991126026152/14442
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Disney Junior HD 
-http://linux-app.tv:6204/60400655844704/32991126026152/7592
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png" tvg-logo="https://goo.gl/t4h9Eo" group-title="OSN SD",=====OSN SD========
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Yahala SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/10950
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Yahala Oula SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/152
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Yahala Cinema SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/5349
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN On Demand SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/30409
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Cinema SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/37962
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Bing SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/28104
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN POP Adil Emam SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/36184
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Mix
-
-http://m-iptv.net:6204/95025267076109/65839594001441/42590
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Movies SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/248
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Action SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/139
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Movies First SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/3519
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Movies First  2 SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/27777
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Enigma SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/147
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Series First SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/131
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Series Comedy SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/7584
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Movies Disney SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/9606
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Kids SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/4055
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Comedy Central SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/24508
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Crime SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/28427
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Paramount SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/13028
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN TLC SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/13026
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN E! SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/11174
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Star Movies SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/7697
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Star World SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/250
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Alfa Cinema 1 SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/11188
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Alfa Cinema 2 SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/13368
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Alfa Musalsalat SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/11173
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Alfa Musalsalat 2 SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/9060
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Alfa Alyoum SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/11189
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Alfa Al Safwa SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/11262
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Alfa Al Fann SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/11190
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Alfa Music Now SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/13367
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN News SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/36183
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Living SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/11036
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Meezze SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/31688
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN History SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/13029
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN H2 SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/11037
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Discovery ID SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/14430
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Discovery SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/7701
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Discovery SC SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/1162
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Nat Geo SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/8999
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Nat Geo Wild SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/984
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Nat Geo People SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/2711
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Baby SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/13027
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Nickelodeon SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/8998
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Kids Zone SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/27778
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN NickToon SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/28428
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Nick Jr SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/20515
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Disney SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/7703
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Disney XD SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/14442
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",OSN Disney Junior SD
-
-http://m-iptv.net:6204/95025267076109/65839594001441/7592
-
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Star World SD
-
 
 
 
