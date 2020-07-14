@@ -8,12 +8,21 @@ https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 https://docs.google.com/uc?export=download&id=1BgzIltcsorNfeJuAMBlbLuwO9e81Lx3Z
+#EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf" tvg-name="SyriaSatelliteChannel.sy",Syria Sattelite HD
+#EXTVLCOPT:http-user-agent=PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/1996
 #EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf" tvg-name="SyriaSatelliteChannel.sy",Syria Sattelite
 http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news HD
+#EXTVLCOPT:http-user-agent=PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/1997
 #EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
 http://82.137.248.16:1935/Snews/stream31122019/chunklist_w501291572.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/eDtLda",Noor Alsham
 http://82.137.248.16:1935/Nour/stream31122019/chunklist_w1402125953.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama HD
+#EXTVLCOPT:http-user-agent=PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/1998
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama
 http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Syria
@@ -21,6 +30,9 @@ http://stream.sama-tv.net:8080/hls/samatv.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama HD
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM112/RaeedTVresTM112/191.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama HD2
+#EXTVLCOPT:http-user-agent=PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/1999
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana HD
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM112/RaeedTVresTM112/188.m3u8
@@ -29,7 +41,10 @@ http://161.35.215.36:9000/live/koka/koka/2.m3u8
 #EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM112/RaeedTVresTM112/546.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ogarit
+#EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ugarit HD
+#EXTVLCOPT:http-user-agent=PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/2000
+#EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ugarit
 http://82.137.248.16:1935/Ugarit/stream31122019/chunklist_w1636278344.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/VmQutr",Syrian Education
 http://82.137.248.16:1935/SEdu/stream31122019/chunklist_w1584833335.m3u8
