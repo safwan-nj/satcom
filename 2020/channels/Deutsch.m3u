@@ -9,7 +9,6 @@ http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/20.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 1 New
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 2 New
 
@@ -17,6 +16,8 @@ http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 1
 https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 1Backup
+https://11.bild-upload.com/w10/tracks-v1a1/mono.m3u8?token=Rh45MoyoC3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 2 
 https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 3 
