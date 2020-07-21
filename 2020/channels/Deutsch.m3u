@@ -1,20 +1,20 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/GSd7Dn" group-title="Austria",======Austria=======
-http://138.201.145.139:8080/movie/www.facebook.com.Mr.Safwan.Nj/www.youtube.com.c.SatcomIPTV/502.mp4
+http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/20.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
-http://138.201.145.139:8080/movie/www.facebook.com.Mr.Safwan.Nj/www.youtube.com.c.SatcomIPTV/502.mp4
+http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/20.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/86x5hL",Join my facebook 
-http://138.201.145.139:8080/movie/www.facebook.com.Mr.Safwan.Nj/www.youtube.com.c.SatcomIPTV/502.mp4
+http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/20.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/2u5uBf",fb.com/mr.safwan.alnajjar
-http://138.201.145.139:8080/movie/www.facebook.com.Mr.Safwan.Nj/www.youtube.com.c.SatcomIPTV/502.mp4
+http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/20.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
-http://138.201.145.139:8080/movie/www.facebook.com.Mr.Safwan.Nj/www.youtube.com.c.SatcomIPTV/502.mp4
+http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/20.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 1 New
-https://wer11.wertvlive.com/w10/video.m3u8?token=Rh45MoyoC3
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 2 New
-https://orf2s.mdn.ors.at/out/u/orf2s/qxb/manifest_3.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 3 New
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest_3.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 1
 https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png",ORF 2 
@@ -57,7 +57,7 @@ https://58b42f6c8c9bf.streamlock.net:8080/live/LaendleTV/chunklist.m3u8
 https://zdfhls18-i.akamaihd.net/hls/live/744751-b/dach/3/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/GSd7Dn" group-title="DEUTSCHLAND",======DEUTSCHLAND=======
-http://138.201.145.139:8080/movie/www.facebook.com.Mr.Safwan.Nj/www.youtube.com.c.SatcomIPTV/502.mp4
+http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/20.mp4
 
 #EXTINF: tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2017/11/1-119x120.png",Pro 7
 https://wer11.wertvlive.com/u1/video.m3u8?token=Rh45MoyoC3
