@@ -9,79 +9,79 @@ http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/20.mp4
 #EXTINF:0,Bein Sport News HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/135.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/135.m3u8
 #EXTINF:0,Bein Sport HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/137.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/137.m3u8
 #EXTINF:0,Bein Sport NBA
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/138.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/138.m3u8
 #EXTINF:0,Bein Sport 1 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/139.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/139.m3u8
 #EXTINF:0,Bein Sport 2 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/140.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/140.m3u8
 #EXTINF:0,Bein Sport 3 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/141.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/141.m3u8
 #EXTINF:0,Bein Sport 4 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/142.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/142.m3u8
 #EXTINF:0,Bein Sport 5 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/143.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/143.m3u8
 #EXTINF:0,Bein Sport 6 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/144.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/144.m3u8
 #EXTINF:0,Bein Sport 7 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/145.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/145.m3u8
 #EXTINF:0,Bein Sport 8 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/146.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/146.m3u8
 #EXTINF:0,Bein Sport 9 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/147.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/147.m3u8
 #EXTINF:0,Bein Sport 10 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/148.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/148.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD",======BeIn Sports SD =======
 http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/20.mp4
 #EXTINF:0,Bein Sport News SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/136.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/136.m3u8
 #EXTINF:0,Bein Sport 1 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/149.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/149.m3u8
 #EXTINF:0,Bein Sport 2 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/150.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/150.m3u8
 #EXTINF:0,Bein Sport 3 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/151.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/151.m3u8
 #EXTINF:0,Bein Sport 4 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/152.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/152.m3u8
 #EXTINF:0,Bein Sport 5 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/153.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/153.m3u8
 #EXTINF:0,Bein Sport 6 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/154.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/154.m3u8
 #EXTINF:0,Bein Sport 7 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/155.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/155.m3u8
 #EXTINF:0,Bein Sport 8 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/156.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/156.m3u8
 #EXTINF:0,Bein Sport 9 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/157.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/157.m3u8
 #EXTINF:0,Bein Sport 10 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM104/RaeedTVresTM104/158.m3u8
+
+http://144.76.102.19:8082/live/RaeedTVresTM108/RaeedTVresTM108/158.m3u8
 
 
 
