@@ -9,20 +9,20 @@ http://138.201.145.139:8080/movie/www.facebook.com.Mr.Safwan.Nj/www.youtube.com.
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 http://138.201.145.139:8080/movie/www.facebook.com.Mr.Safwan.Nj/www.youtube.com.c.SatcomIPTV/502.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf" tvg-name="SyriaSatelliteChannel.sy",Syria Sattelite HD
-#EXTVLCOPT:http-user-agent=PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
-http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/1996
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://beryantv.com:25461/80947028748068/24743399640695/1996
 #EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf" tvg-name="SyriaSatelliteChannel.sy",Syria Sattelite
 http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news HD
-#EXTVLCOPT:http-user-agent=PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
-http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/1997
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://beryantv.com:25461/80947028748068/24743399640695/1997
 #EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
 http://82.137.248.16:1935/Snews/stream31122019/chunklist_w501291572.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/eDtLda",Noor Alsham
 http://82.137.248.16:1935/Nour/stream31122019/chunklist_w1402125953.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama HD
-#EXTVLCOPT:http-user-agent=PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
-http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/1998
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://beryantv.com:25461/80947028748068/24743399640695/1998
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama
 http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Syria
@@ -31,8 +31,8 @@ http://stream.sama-tv.net:8080/hls/samatv.m3u8
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/191.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama HD2
-#EXTVLCOPT:http-user-agent=PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
-http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/1999
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://beryantv.com:25461/80947028748068/24743399640695/1999
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana HD
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/188.m3u8
@@ -42,8 +42,8 @@ http://161.35.215.36:9000/live/koka/koka/2.m3u8
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/546.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ugarit HD
-#EXTVLCOPT:http-user-agent=PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
-http://beryantv.com:25461/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/BeryanIPTV-TVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV/2000
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://beryantv.com:25461/80947028748068/24743399640695/2000
 #EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ugarit
 http://82.137.248.16:1935/Ugarit/stream31122019/chunklist_w1636278344.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/VmQutr",Syrian Education
