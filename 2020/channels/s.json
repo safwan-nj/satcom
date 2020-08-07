@@ -1,0 +1,39 @@
+{
+	"Channels":[
+		{
+			"name":"Syria Sat",
+			"link":"http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8",
+			"image":"",
+		},
+		{
+			"name":"Syria Drama",
+			"link":"http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8",
+			"image":"",
+		},
+			{
+			"name":"Syria News",
+			"link":"http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8",
+			"image":"",
+		},
+			{
+			"name":"Sama Syria",
+			"link":"http://95.217.133.45:8080/hls/samatv.m3u8",
+			"image":"",
+		},
+			{
+			"name":"Mbc 1",
+			"link":"https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8",
+			"image":"",
+		},
+			{
+			"name":"Mbc 2 ",
+			"link":"https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8",
+			"image":"",
+		},
+			{
+			"name":"Mbc 4",
+			"link":"https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8",
+			"image":"",
+		}
+	]
+}
