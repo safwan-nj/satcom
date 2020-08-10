@@ -1,4 +1,4 @@
-#EXTINF:0 tvg-id="" group-title="حبيب الله محمد",Habibullah
+#EXTINF:0 tvg-id="" tvg-logo="https://cairocinema.online/wp-content/uploads/2019/12/-%D8%A7%D9%84%D9%84%D9%87-240x280.png" group-title="حبيب الله محمد",Habibullah
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0 tvg-id="", ep 1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -90,7 +90,7 @@ https://shoofmax.b-cdn.net/habib-allah/ep29/variant.m3u8
 #EXTINF:0 tvg-id="", ep 30 و الأخيرة
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/habib-allah/ep30/variant.m3u8
-#EXTINF:0 tvg-id="" group-title="خليل الله ابراهيم",Khalilullah
+#EXTINF:0 tvg-id="" tvg-logo="https://samaleb.com/wp-content/uploads/2015/06/%D8%AE%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%84%D9%87-240x300.jpg" group-title="خليل الله ابراهيم",Khalilullah
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0 tvg-id="", ep 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -182,7 +182,7 @@ https://shoofmax.b-cdn.net/khalil-allah/ep29/variant.m3u8
 #EXTINF:0 tvg-id="", ep 30 و الأخيرة
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/khalil-allah/ep30/variant.m3u8
-#EXTINF:0 tvg-id="avi" group-title="كليم الله موسى",Kalimullah
+#EXTINF:0 tvg-id="avi" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/82/%D9%83%D8%B1%D8%AA%D9%88%D9%86_%D9%83%D9%84%D9%8A%D9%85_%D8%A7%D9%84%D9%84%D9%87.jpg" group-title="كليم الله موسى",Kalimullah
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0 tvg-id="", ep 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -369,7 +369,7 @@ https://shoofmax.b-cdn.net/kalim-allah/ep59/variant.m3u8
 https://shoofmax.b-cdn.net/kalim-allah/ep60/variant.m3u8
 
 
-#EXTINF:0 tvg-id="" group-title="99 مرايا",Maraya 99
+#EXTINF:0 tvg-id="" tvg-logo="https://www.sharingcode.com/torrentimg/837ef32a64adf80affb42b212b2ecf9a9232a7f8.jpg" group-title="99 مرايا",Maraya 99
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0 tvg-id="", ep1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -462,13 +462,7 @@ https://shoofmax.b-cdn.net/maraya-99/ep29/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/maraya-99/ep30/variant.m3u8
 
-
-
-
-
-
-
-#EXTINF:0 tvg-id="" group-title="2000 مرايا",Maraya 2000
+#EXTINF:0 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/Recorder/71/2016-08-15/studioXWCOS.mp4.mp4.jpg" group-title="2000 مرايا",Maraya 2000
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0 tvg-id="", ep1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -567,10 +561,195 @@ https://shoofmax.b-cdn.net/maraya-2000/ep31/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/maraya-2000/ep32/variant.m3u8
 
-
-#EXTINF:0 tvg-id="" group-title="يوميات مدير عام",Mudir Aam 1
+#EXTINF:0 tvg-id="" tvg-logo="https://watanflix.com/images/series/maraya.jpg1461162846.jpg" group-title="2011 مرايا",Maraya 2011
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:0 tvg-id="", ep1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep1/variant.m3u8
+#EXTINF:0 tvg-id="", ep2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep2/variant.m3u8
+#EXTINF:0 tvg-id="", ep3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep3/variant.m3u8
+#EXTINF:0 tvg-id="", ep4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep4/variant.m3u8
+#EXTINF:0 tvg-id="", ep5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep5/variant.m3u8
+#EXTINF:0 tvg-id="", ep6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep6/variant.m3u8
+#EXTINF:0 tvg-id="", ep7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep7/variant.m3u8
+#EXTINF:0 tvg-id="", ep8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep8/variant.m3u8
+#EXTINF:0 tvg-id="", ep9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep9/variant.m3u8
+#EXTINF:0 tvg-id="", ep10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep10/variant.m3u8
+#EXTINF:0 tvg-id="", ep11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep11/variant.m3u8
+#EXTINF:0 tvg-id="", ep12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep12/variant.m3u8
+#EXTINF:0 tvg-id="", ep13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep13/variant.m3u8
+#EXTINF:0 tvg-id="", ep14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep14/variant.m3u8
+#EXTINF:0 tvg-id="", ep15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep15/variant.m3u8
+#EXTINF:0 tvg-id="", ep16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep16/variant.m3u8
+#EXTINF:0 tvg-id="", ep17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep17/variant.m3u8
+#EXTINF:0 tvg-id="", ep18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep18/variant.m3u8
+#EXTINF:0 tvg-id="", ep19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep19/variant.m3u8
+#EXTINF:0 tvg-id="", ep20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep20/variant.m3u8
+#EXTINF:0 tvg-id="", ep21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep21/variant.m3u8
+#EXTINF:0 tvg-id="", ep22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep22/variant.m3u8
+#EXTINF:0 tvg-id="", ep23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep23/variant.m3u8
+#EXTINF:0 tvg-id="", ep24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep24/variant.m3u8
+#EXTINF:0 tvg-id="", ep25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep25/variant.m3u8
+#EXTINF:0 tvg-id="", ep26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep26/720p/index4.ts
+#EXTINF:0 tvg-id="", ep27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep27/variant.m3u8
+#EXTINF:0 tvg-id="", ep28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep28/variant.m3u8
+#EXTINF:0 tvg-id="", ep29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep29/variant.m3u8
+#EXTINF:0 tvg-id="", ep30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/maraya-2011/ep30/variant.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="https://www.wbn.ps/cached_uploads/resize/1000/800/2019/05/09/7a95beb8-1557402791.jpg" group-title="كونتاك",Contac
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:0 tvg-id="", ep1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep1/variant.m3u8
+#EXTINF:0 tvg-id="", ep2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep2/variant.m3u8
+#EXTINF:0 tvg-id="", ep3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep3/variant.m3u8
+#EXTINF:0 tvg-id="", ep4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep4/variant.m3u8
+#EXTINF:0 tvg-id="", ep5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep5/variant.m3u8
+#EXTINF:0 tvg-id="", ep6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep6/variant.m3u8
+#EXTINF:0 tvg-id="", ep7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep7/variant.m3u8
+#EXTINF:0 tvg-id="", ep8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep8/variant.m3u8
+#EXTINF:0 tvg-id="", ep9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep9/variant.m3u8
+#EXTINF:0 tvg-id="", ep10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep10/variant.m3u8
+#EXTINF:0 tvg-id="", ep11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep11/variant.m3u8
+#EXTINF:0 tvg-id="", ep12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep12/variant.m3u8
+#EXTINF:0 tvg-id="", ep13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep13/variant.m3u8
+#EXTINF:0 tvg-id="", ep14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep14/variant.m3u8
+#EXTINF:0 tvg-id="", ep15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep15/variant.m3u8
+#EXTINF:0 tvg-id="", ep16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep16/variant.m3u8
+#EXTINF:0 tvg-id="", ep17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep17/variant.m3u8
+#EXTINF:0 tvg-id="", ep18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep18/variant.m3u8
+#EXTINF:0 tvg-id="", ep19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep19/variant.m3u8
+#EXTINF:0 tvg-id="", ep20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep20/variant.m3u8
+#EXTINF:0 tvg-id="", ep21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep21/variant.m3u8
+#EXTINF:0 tvg-id="", ep22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep22/variant.m3u8
+#EXTINF:0 tvg-id="", ep23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep23/variant.m3u8
+#EXTINF:0 tvg-id="", ep24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep24/variant.m3u8
+#EXTINF:0 tvg-id="", ep25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep25/variant.m3u8
+#EXTINF:0 tvg-id="", ep26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep26/720p/index4.ts
+#EXTINF:0 tvg-id="", ep27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep27/variant.m3u8
+#EXTINF:0 tvg-id="", ep28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep28/variant.m3u8
+#EXTINF:0 tvg-id="", ep29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep29/variant.m3u8
+#EXTINF:0 tvg-id="", ep30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/contac/ep30/variant.m3u8
+
+
+#EXTINF:0 tvg-id="" tvg-logo="https://www.assawsana.com/portal/image/imgid38094.jpg" group-title="1 يوميات مدير عام",Mudir Aam 1
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0 tvg-id="",ep 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep1/variant.m3u8
@@ -650,7 +829,7 @@ https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep25/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep26/variant.m3u8
 
-#EXTINF:0 tvg-id="" group-title="الدغري",Al Doghri
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/41/Aldugri.jpg" group-title="الدغري",Al Doghri
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0 tvg-id="", ep1
 https://shoofmax.b-cdn.net/aldoghari/ep1/variant.m3u8
@@ -693,66 +872,95 @@ https://shoofmax.b-cdn.net/aldoghari/ep19/variant.m3u8
 #EXTINF:0 tvg-id="", ep20
 https://shoofmax.b-cdn.net/aldoghari/ep20/variant.m3u8
 
-#EXTINF:0 tvg-id="" group-title="نهاية رجل شجاع",Nihayat Rajul Shujaa
+
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ytimg.com/vi/izkD98D8s5Y/hqdefault.jpg" group-title="كسر الخواطر",Kasr Alkhawater
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:0 tvg-id="", ep1
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep1/variant.m3u8
-#EXTINF:0 tvg-id="", ep2
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep2/variant.m3u8
-#EXTINF:0 tvg-id="", ep3
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep3/variant.m3u8
-#EXTINF:0 tvg-id="", ep4
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep4/variant.m3u8
-#EXTINF:0 tvg-id="", ep5
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep5/variant.m3u8
-#EXTINF:0 tvg-id="", ep6
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep6/variant.m3u8
-#EXTINF:0 tvg-id="", ep7
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep7/variant.m3u8
-#EXTINF:0 tvg-id="", ep8
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep8/variant.m3u8
-#EXTINF:0 tvg-id="", ep9
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep9/variant.m3u8
-#EXTINF:0 tvg-id="", ep10
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep10/variant.m3u8
-#EXTINF:0 tvg-id="", ep11
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep11/variant.m3u8
-#EXTINF:0 tvg-id="", ep12
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep12/variant.m3u8
-#EXTINF:0 tvg-id="", ep13
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep13/variant.m3u8
-#EXTINF:0 tvg-id="", ep14
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep14/variant.m3u8
-#EXTINF:0 tvg-id="", ep15
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep15/variant.m3u8
-#EXTINF:0 tvg-id="", ep16
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep16/variant.m3u8
-#EXTINF:0 tvg-id="", ep17
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep17/variant.m3u8
-#EXTINF:0 tvg-id="", ep18
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep18/variant.m3u8
-#EXTINF:0 tvg-id="", ep19
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep19/variant.m3u8
-#EXTINF:0 tvg-id="", ep20
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep20/variant.m3u8
-#EXTINF:0 tvg-id="", ep21
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep21/variant.m3u8
-#EXTINF:0 tvg-id="", ep22
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep22/variant.m3u8
-#EXTINF:0 tvg-id="", ep23
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep23/variant.m3u8
-#EXTINF:0 tvg-id="", ep24
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep24/variant.m3u8
-#EXTINF:0 tvg-id="", ep25
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep25/variant.m3u8
-#EXTINF:0 tvg-id="", ep26
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep26/variant.m3u8
-#EXTINF:0 tvg-id="", ep27
-https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep27/variant.m3u8
+#EXTINF:0 tvg-id="" , ep1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep1/variant.m3u8
+#EXTINF:0 tvg-id="" , ep2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep2/variant.m3u8
+#EXTINF:0 tvg-id="" , ep3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep3/variant.m3u8
+#EXTINF:0 tvg-id="" , ep4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep4/variant.m3u8
+#EXTINF:0 tvg-id="" , ep5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep5/variant.m3u8
+#EXTINF:0 tvg-id="" , ep6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep6/variant.m3u8
+#EXTINF:0 tvg-id="" , ep7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep7/variant.m3u8
+#EXTINF:0 tvg-id="" , ep8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep8/variant.m3u8
+#EXTINF:0 tvg-id="" , ep9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep9/variant.m3u8
+#EXTINF:0 tvg-id="" , ep10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep10/variant.m3u8
+#EXTINF:0 tvg-id="" , ep11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep11/variant.m3u8
+#EXTINF:0 tvg-id="" , ep12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep12/variant.m3u8
+#EXTINF:0 tvg-id="" , ep13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep13/variant.m3u8
+#EXTINF:0 tvg-id="" , ep14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep14/variant.m3u8
+#EXTINF:0 tvg-id="" , ep15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep15/variant.m3u8
+#EXTINF:0 tvg-id="" , ep16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep16/variant.m3u8
+#EXTINF:0 tvg-id="" , ep17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep17/variant.m3u8
+#EXTINF:0 tvg-id="" , ep18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep18/variant.m3u8
+#EXTINF:0 tvg-id="" , ep19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep19/variant.m3u8
+#EXTINF:0 tvg-id="" , ep20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep20/variant.m3u8
+#EXTINF:0 tvg-id="" , ep21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep21/variant.m3u8
+#EXTINF:0 tvg-id="" , ep22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep22/variant.m3u8
+#EXTINF:0 tvg-id="" , ep23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep23/variant.m3u8
+#EXTINF:0 tvg-id="" , ep24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep24/variant.m3u8
+#EXTINF:0 tvg-id="" , ep25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep25/variant.m3u8
+#EXTINF:0 tvg-id="" , ep26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep26/variant.m3u8
+#EXTINF:0 tvg-id="" , ep27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/kasr-alkhawater/ep27/variant.m3u8
 
 
 
-#EXTINF:0 tvg-id="" group-title="بكرا أحلى",Bukra Ahla
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ytimg.com/vi/5fv47J8eXAY/hqdefault.jpg" group-title="بكرا أحلى",Bukra Ahla
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0 tvg-id="" , ep1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -837,9 +1045,293 @@ https://shoofmax.b-cdn.net/bokra-ahla/ep26/variant.m3u8
 https://shoofmax.b-cdn.net/bokra-ahla/ep27/variant.m3u8
 
 
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/70/Snapshot20120524100718.jpg" group-title="نهاية رجل شجاع",Nihayat Rajul Shujaa
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:0 tvg-id="", ep1
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep1/variant.m3u8
+#EXTINF:0 tvg-id="", ep2
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep2/variant.m3u8
+#EXTINF:0 tvg-id="", ep3
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep3/variant.m3u8
+#EXTINF:0 tvg-id="", ep4
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep4/variant.m3u8
+#EXTINF:0 tvg-id="", ep5
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep5/variant.m3u8
+#EXTINF:0 tvg-id="", ep6
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep6/variant.m3u8
+#EXTINF:0 tvg-id="", ep7
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep7/variant.m3u8
+#EXTINF:0 tvg-id="", ep8
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep8/variant.m3u8
+#EXTINF:0 tvg-id="", ep9
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep9/variant.m3u8
+#EXTINF:0 tvg-id="", ep10
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep10/variant.m3u8
+#EXTINF:0 tvg-id="", ep11
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep11/variant.m3u8
+#EXTINF:0 tvg-id="", ep12
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep12/variant.m3u8
+#EXTINF:0 tvg-id="", ep13
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep13/variant.m3u8
+#EXTINF:0 tvg-id="", ep14
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep14/variant.m3u8
+#EXTINF:0 tvg-id="", ep15
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep15/variant.m3u8
+#EXTINF:0 tvg-id="", ep16
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep16/variant.m3u8
+#EXTINF:0 tvg-id="", ep17
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep17/variant.m3u8
+#EXTINF:0 tvg-id="", ep18
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep18/variant.m3u8
+#EXTINF:0 tvg-id="", ep19
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep19/variant.m3u8
+#EXTINF:0 tvg-id="", ep20
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep20/variant.m3u8
+#EXTINF:0 tvg-id="", ep21
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep21/variant.m3u8
+#EXTINF:0 tvg-id="", ep22
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep22/variant.m3u8
+#EXTINF:0 tvg-id="", ep23
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep23/variant.m3u8
+#EXTINF:0 tvg-id="", ep24
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep24/variant.m3u8
+#EXTINF:0 tvg-id="", ep25
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep25/variant.m3u8
+#EXTINF:0 tvg-id="", ep26
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep26/variant.m3u8
+#EXTINF:0 tvg-id="", ep27
+https://shoofmax.b-cdn.net/nihayat-rajol-shojaa/ep27/variant.m3u8
+
+#EXTINF:0 tvg-id="avi" tvg-logo="http://f.bostah.com/styles/drama_main/public/dramas/%D8%B2%D9%85%D9%86%20%D9%84%D8%A8%D8%B1%D8%BA%D9%88%D8%AA.jpg" group-title="زمن البرغوت 1",Zaman Albarghoot-1
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:0 tvg-id="", ep 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep1/variant.m3u8
+#EXTINF:0 tvg-id="", ep 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep2/variant.m3u8
+#EXTINF:0 tvg-id="", ep 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep3/variant.m3u8
+#EXTINF:0 tvg-id="", ep 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep3/variant.m3u8
+#EXTINF:0 tvg-id="", ep 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep4/variant.m3u8
+#EXTINF:0 tvg-id="", ep 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep5/variant.m3u8
+#EXTINF:0 tvg-id="", ep 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep6/variant.m3u8
+#EXTINF:0 tvg-id="", ep 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep7/variant.m3u8
+#EXTINF:0 tvg-id="", ep 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep8/variant.m3u8
+#EXTINF:0 tvg-id="", ep 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep9/variant.m3u8
+#EXTINF:0 tvg-id="", ep 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep10/variant.m3u8
+#EXTINF:0 tvg-id="", ep 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep11/variant.m3u8
+#EXTINF:0 tvg-id="", ep 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep12/variant.m3u8
+#EXTINF:0 tvg-id="", ep 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep13/variant.m3u8
+#EXTINF:0 tvg-id="", ep 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep14/variant.m3u8
+#EXTINF:0 tvg-id="", ep 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep15/variant.m3u8
+#EXTINF:0 tvg-id="", ep 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep16/variant.m3u8
+#EXTINF:0 tvg-id="", ep 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep17/variant.m3u8
+#EXTINF:0 tvg-id="", ep 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep18/variant.m3u8
+#EXTINF:0 tvg-id="", ep 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep19/variant.m3u8
+#EXTINF:0 tvg-id="", ep 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep20/variant.m3u8
+#EXTINF:0 tvg-id="", ep 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep21/variant.m3u8
+#EXTINF:0 tvg-id="", ep 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep22/variant.m3u8
+#EXTINF:0 tvg-id="", ep 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep23/variant.m3u8
+#EXTINF:0 tvg-id="", ep 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep24/variant.m3u8
+#EXTINF:0 tvg-id="", ep 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep25/variant.m3u8
+#EXTINF:0 tvg-id="", ep 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep26/variant.m3u8
+#EXTINF:0 tvg-id="", ep 27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep27/variant.m3u8
+#EXTINF:0 tvg-id="", ep 28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep28/variant.m3u8
+#EXTINF:0 tvg-id="", ep 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep29/variant.m3u8
+#EXTINF:0 tvg-id="", ep 30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep30/variant.m3u8
+#EXTINF:0 tvg-id="", ep 31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep31/variant.m3u8
+#EXTINF:0 tvg-id="", ep 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep32/variant.m3u8
+#EXTINF:0 tvg-id="", ep 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep33/variant.m3u8
+#EXTINF:0 tvg-id="", ep 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep34/variant.m3u8
+#EXTINF:0 tvg-id="", ep 35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep35/variant.m3u8
+#EXTINF:0 tvg-id="", ep 36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-1/ep36/variant.m3u8
+
+#EXTINF:0 tvg-id="avi" tvg-logo="http://f.bostah.com/styles/drama_main/public/dramas/%D8%B2%D9%85%D9%86%20%D9%84%D8%A8%D8%B1%D8%BA%D9%88%D8%AA.jpg" group-title="زمن البرغوت 2",Zaman Albarghoot-2
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:0 tvg-id="", ep 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep1/variant.m3u8
+#EXTINF:0 tvg-id="", ep 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep2/variant.m3u8
+#EXTINF:0 tvg-id="", ep 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep3/variant.m3u8
+#EXTINF:0 tvg-id="", ep 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep3/variant.m3u8
+#EXTINF:0 tvg-id="", ep 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep4/variant.m3u8
+#EXTINF:0 tvg-id="", ep 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep5/variant.m3u8
+#EXTINF:0 tvg-id="", ep 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep6/variant.m3u8
+#EXTINF:0 tvg-id="", ep 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep7/variant.m3u8
+#EXTINF:0 tvg-id="", ep 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep8/variant.m3u8
+#EXTINF:0 tvg-id="", ep 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep9/variant.m3u8
+#EXTINF:0 tvg-id="", ep 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep10/variant.m3u8
+#EXTINF:0 tvg-id="", ep 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep11/variant.m3u8
+#EXTINF:0 tvg-id="", ep 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep12/variant.m3u8
+#EXTINF:0 tvg-id="", ep 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep13/variant.m3u8
+#EXTINF:0 tvg-id="", ep 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep14/variant.m3u8
+#EXTINF:0 tvg-id="", ep 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep15/variant.m3u8
+#EXTINF:0 tvg-id="", ep 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep16/variant.m3u8
+#EXTINF:0 tvg-id="", ep 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep17/variant.m3u8
+#EXTINF:0 tvg-id="", ep 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep18/variant.m3u8
+#EXTINF:0 tvg-id="", ep 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep19/variant.m3u8
+#EXTINF:0 tvg-id="", ep 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep20/variant.m3u8
+#EXTINF:0 tvg-id="", ep 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep21/variant.m3u8
+#EXTINF:0 tvg-id="", ep 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep22/variant.m3u8
+#EXTINF:0 tvg-id="", ep 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep23/variant.m3u8
+#EXTINF:0 tvg-id="", ep 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep24/variant.m3u8
+#EXTINF:0 tvg-id="", ep 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep25/variant.m3u8
+#EXTINF:0 tvg-id="", ep 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep26/variant.m3u8
+#EXTINF:0 tvg-id="", ep 27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep27/variant.m3u8
+#EXTINF:0 tvg-id="", ep 28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep28/variant.m3u8
+#EXTINF:0 tvg-id="", ep 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep29/variant.m3u8
+#EXTINF:0 tvg-id="", ep 30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep30/variant.m3u8
+#EXTINF:0 tvg-id="", ep 31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep31/variant.m3u8
+#EXTINF:0 tvg-id="", ep 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep32/variant.m3u8
+#EXTINF:0 tvg-id="", ep 33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep33/variant.m3u8
+#EXTINF:0 tvg-id="", ep 34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep34/variant.m3u8
+#EXTINF:0 tvg-id="", ep 35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep35/variant.m3u8
+#EXTINF:0 tvg-id="", ep 36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep36/variant.m3u8
 
 
-#EXTINF:0 tvg-id="" group-title="مسلسل نزار قباني",Nizar Qabani
+#EXTINF:0 tvg-id="" tvg-logo="https://s3.amazonaws.com/aywa/images/tvshows/765fe2c42eac4420aa796380a73f1640---tvshow1x2---4ad14f1c-39fe-4bf5-af47-763ec012bf4f.jpg" group-title="مسلسل نزار قباني",Nizar Qabani
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0 tvg-id="",ep1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -935,9 +1427,105 @@ https://shoofmax.b-cdn.net/nizar-qabani/ep29/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep30/variant.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/fc/Naji_Attallah%27s_Squad_Poster.jpeg" group-title="فرقة ناجي عطا الله",Ferqet Naji Atallah
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:0 tvg-id="",ep1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep1/variant.m3u8
+#EXTINF:0 tvg-id="",ep2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep2/variant.m3u8
+#EXTINF:0 tvg-id="",ep3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep3/variant.m3u8
+#EXTINF:0 tvg-id="",ep4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep4/variant.m3u8
+#EXTINF:0 tvg-id="",ep5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep5/variant.m3u8
+#EXTINF:0 tvg-id="",ep6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep6/variant.m3u8
+#EXTINF:0 tvg-id="",ep7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep7/variant.m3u8
+#EXTINF:0 tvg-id="", ep 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep8/variant.m3u8
+#EXTINF:0 tvg-id="",ep9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep9/variant.m3u8
+#EXTINF:0 tvg-id="", ep 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep10/variant.m3u8
+#EXTINF:0 tvg-id="",ep11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep11/variant.m3u8
+#EXTINF:0 tvg-id="",ep12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep12/variant.m3u8
+#EXTINF:0 tvg-id="",ep13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep13/variant.m3u8
+#EXTINF:0 tvg-id="",ep14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep14/variant.m3u8
+#EXTINF:0 tvg-id="",ep15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep15/variant.m3u8
+#EXTINF:0 tvg-id="",ep16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep16/variant.m3u8
+#EXTINF:0 tvg-id="",ep17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep17/variant.m3u8
+#EXTINF:0 tvg-id="",ep18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep18/variant.m3u8
+#EXTINF:0 tvg-id="",ep19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep19/variant.m3u8
+#EXTINF:0 tvg-id="",ep20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep20/variant.m3u8
+#EXTINF:0 tvg-id="",ep20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep21/variant.m3u8
+#EXTINF:0 tvg-id="",ep21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep22/variant.m3u8
+#EXTINF:0 tvg-id="",ep22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep23/variant.m3u8
+#EXTINF:0 tvg-id="",ep23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep23/variant.m3u8
+#EXTINF:0 tvg-id="",ep24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep24/variant.m3u8
+#EXTINF:0 tvg-id="",ep25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep25/variant.m3u8
+#EXTINF:0 tvg-id="", ep 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep26/variant.m3u8
+#EXTINF:0 tvg-id="",ep27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep27/variant.m3u8
+#EXTINF:0 tvg-id="",ep28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep28/variant.m3u8
+#EXTINF:0 tvg-id="", ep 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep29/variant.m3u8
+#EXTINF:0 tvg-id="",ep30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep30/variant.m3u8
 
 
-#EXTINF:0, tvg-id="" group-title="صاحب السعادة ",Saheb Alsaada
+
+#EXTINF:0, tvg-id="" tvg-logo="https://ww.4helal.tv/thumb/r/images/category/326.jpg" group-title="صاحب السعادة ",Saheb Alsaada
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0, ep1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1031,9 +1619,7 @@ https://ustream2.panet.co.il/vod/125/125056/125056.mp4
 https://ustream2.panet.co.il/vod/125/125095/125095.mp4
 
 
-
-
-#EXTINF:0 tvg-id="" group-title="نسر الصعيد",Nisr Alsaeed
+#EXTINF:0 tvg-id="" tvg-logo="https://i.pinimg.com/236x/eb/78/a0/eb78a00f1d08f33b33c25e084fd6c5f7.jpg" group-title="نسر الصعيد",Nisr Alsaeed
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0 tvg-id="" , ep1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1127,100 +1713,100 @@ https://shoofmax.b-cdn.net/nisr-elsaeed/ep29/variant.m3u8
 https://shoofmax.b-cdn.net/nisr-elsaeed/ep30/variant.m3u8
 
 
-#EXTINF:0 tvg-id="" group-title="كلبش",Kalabsh
+#EXTINF:0 tvg-id="" tvg-logo="https://www.dawrywkas.com/wp-content/uploads/2019/03/klb2.jpg" group-title="كلبش",Kalabsh
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0 tvg-id="" , ep 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep1/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep1/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep2/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep2/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep3/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep3/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep4/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep4/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep5/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep5/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep6/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep6/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep7/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep7/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep8/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep8/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep9/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep9/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep10/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep10/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep11/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep11/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep12/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep12/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep13/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep13/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep14/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep14/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep15/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep15/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep16/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep16/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep17/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep17/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep18/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep18/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep19/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep19/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep20/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep20/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep21/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep21/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep22/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep22/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep23/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep23/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep24/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep24/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep25/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep25/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep26/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep26/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep27/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep27/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep28/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep28/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep29/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep29/variant.m3u8
 #EXTINF:0 tvg-id="" , ep 30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://shoofmax.b-cdn.net//kalabsh/ep30/variant.m3u8
+https://shoofmax.b-cdn.net/kalabsh/ep30/variant.m3u8
 
-#EXTINF:0 tvg-id="" group-title="blocks4  الماني مترجم الموسم الثاني",blocks4  الماني مترجم الموسم الثاني
+#EXTINF:0 tvg-id="" tvg-logo="SSSSS" group-title="blocks4  الماني مترجم الموسم الثاني",blocks4  الماني مترجم الموسم الثاني
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0 tvg-id="" ,ep1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1244,7 +1830,7 @@ https://tempb05.faselhd.cc/stream/hls/05/1546905600/78f718fca0a2cb79040dd92300d7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tempb05.faselhd.cc/stream/hls/05/1546905600/de203d35474bfb2b4798e5c289916d8a/v.mp4/index.m3u8
 
-#EXTINF:0 tvg-id="" group-title="block4 موسم الثالث", block4 موسم الثالث
+#EXTINF:0 tvg-id="" tvg-logo="SSSSS" group-title="block4 موسم الثالث", block4 موسم الثالث
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0 tvg-id="" ,ep1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
