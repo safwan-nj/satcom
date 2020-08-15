@@ -199,148 +199,148 @@ https://daserstehdint-lh.akamaihd.net/i/daserstehd_int@629195/index_3776_av-b.m3
 
 
 #EXTINF:24,RTL
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/26c135e92e.m3u8
 #EXTINF:0,RTL 2
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/ebd45ae4d0.m3u8
 #EXTINF:0,SUPER RTL
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/30f44898b9.m3u8
 #EXTINF:0,RTL NITRO
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/0ee84c2b80.m3u8
 #EXTINF:0,RTL PASSION
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/d44276144e.m3u8
 #EXTINF:0,RTL CRIME
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/d69788dce2.m3u8
 #EXTINF:0,AXN DE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/be91b4933d.m3u8
 #EXTINF:0,SKY CINEMA
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/1c63853f0a.m3u8
 #EXTINF:0,SKY CINEMA 1
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/cbe90fbdbf.m3u8
 #EXTINF:0,SKY CINEMA 24
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/461de8d002.m3u8
 #EXTINF:0,SKY ACTION
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/1e1e093191.m3u8
 #EXTINF:0,SKY ATLATNIC
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/94d30851c6.m3u8
 #EXTINF:0,SKY COMEDY
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/5a1f8dbfb2.m3u8
 #EXTINF:0,KIKA TV
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/4071faca32.m3u8
 #EXTINF:0,PRO 7
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/aeeacb2583.m3u8
 #EXTINF:0,VOX DE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/992c676f61.m3u8
 #EXTINF:0,ZDF TV
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/584af63a54.m3u8
 #EXTINF:0,SAT 1
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/6127e44214.m3u8
 #EXTINF:0,ARD 1
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/119037c5b8.m3u8
 #EXTINF:0,NTV
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/e81694ca09.m3u8
 #EXTINF:0,N24
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/c11f979ed2.m3u8
 #EXTINF:0,DISCOVERY DE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/c5ff5f6a18.m3u8
 #EXTINF:0,HISTORY DE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/03bb003a29.m3u8
 #EXTINF:0,NAT GEO WILD DE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/ac4be15025.m3u8
 #EXTINF:0,SKY HITS
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/cd6c008e72.m3u8
 #EXTINF:0,SKY SELECT 1
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/4ea9305ea4.m3u8
 #EXTINF:0,SKY SELECT 2
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/1b34c82aa9.m3u8
 #EXTINF:0,SKY SELECT 3
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/bd778da8bd.m3u8
 #EXTINF:0,SKY SELECT 4
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/047a6674ce.m3u8
 #EXTINF:0,SKY SELECT 5
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/a892d962d6.m3u8
 #EXTINF:0,SKY SPORTS 1 DE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/dce9addb1c.m3u8
 #EXTINF:0,SKY SPORTS 2 DE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/9debe54b19.m3u8
 #EXTINF:0,SKY SPORTS 3 DE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/8fcb6b065e.m3u8
 #EXTINF:0,SKY SPORTS 4 DE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/51ad239090.m3u8
 #EXTINF:0,SKY SPORTS 5 DE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/f92115213a.m3u8
 #EXTINF:0,SKY SPORTS 6 DE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/ba89a5b5c6.m3u8
 #EXTINF:0,SKY SPORTS AUSTRIA DE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/a8a5bab2b3.m3u8
 #EXTINF:0,SKY SPORTS BUNDESLIGA 1
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/50c3f5e97f.m3u8
 #EXTINF:0,SKY SPORTS BUNDESLIGA 2
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/6bf330f23a.m3u8
 #EXTINF:0,DISNEY CHANNEL DE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/a4bd4f8154.m3u8
 #EXTINF:0,DISNEY XD DE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/0476c6f030.m3u8
 #EXTINF:0,TNT FILM
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/7a1c80cbdd.m3u8
 #EXTINF:0,TNT SERIES
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/34290610d9.m3u8
 #EXTINF:0,PRO7 MAXX
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/40cd412efd.m3u8
 #EXTINF:0,ANIMAL PLANET DE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/bccd176255.m3u8
 #EXTINF:0,NAT GEO DE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/8d64a5f472.m3u8
 #EXTINF:0,NAT GEO PEOPLE DE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/75941549a7.m3u8
 #EXTINF:0,ZEE ONE 
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Germany/410c51e609.m3u8
 
 
