@@ -37,7 +37,7 @@ http://beryantv.com:25461/80947028748068/24743399640695/1999
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/188.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana
-http://161.35.215.36:9000/live/koka/koka/2.m3u8
+https://mysat-live.ercdn.net/lanatv/lanatv_720p.m3u8
 #EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/546.m3u8
