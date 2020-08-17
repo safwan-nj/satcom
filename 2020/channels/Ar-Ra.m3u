@@ -29,18 +29,18 @@ http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
 http://stream.sama-tv.net:8080/hls/samatv.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/191.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/191.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama HD2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://beryantv.com:25461/80947028748068/24743399640695/1999
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/188.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/188.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana
 https://mysat-live.ercdn.net/lanatv/lanatv_720p.m3u8
 #EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/546.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/546.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ugarit HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://beryantv.com:25461/80947028748068/24743399640695/2000
@@ -65,12 +65,12 @@ https://mysat-live.ercdn.net/mtvlebanon/mtvlebanon_576p.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Ggp24v",MTV lebanon
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/542.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/542.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/7p4X8D",Aljadeed HD
 https://p-mysat-live.ercdn.net/aljadeed/aljadeed_720p.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/7p4X8D",Aljadeed
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/543.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/543.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC HD
 https://mysat-live.ercdn.net/lbcinternational/lbcinternational_720p.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC
@@ -79,16 +79,16 @@ http://51.15.3.161:8080/LDC/index.m3u8?token=test
 https://mysat-live.ercdn.net/lbchd/lbchd_720p.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC Sat
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/544.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/544.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC 2
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/545.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/545.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC Int
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/550.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/550.m3u8
 #EXTINF:-1 tvg-logo="http://www.akkarpress.com/wp-content/uploads/2014/08/IMG_9570.jpg" ,TL Lebanon
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/209.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/209.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/mVMJx4",OTV
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
 
@@ -120,31 +120,31 @@ https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF: tvg-logo="https://goo.gl/uxALCg",Bein Movies 1 HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/122.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/122.m3u8
 #EXTINF: tvg-logo="https://goo.gl/kX1WhA",Bein Movies 2 HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/123.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/123.m3u8
 #EXTINF: tvg-logo="https://goo.gl/VXDGbA",Bein Movies 3 HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/124.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/124.m3u8
 #EXTINF: tvg-logo="https://goo.gl/VXDGbA",Bein Movies 4 HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/125.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/125.m3u8
 #EXTINF: tvg-logo="https://img.favpng.com/16/12/3/bein-series-logo-bein-channels-network-bein-media-group-bein-sports-1-png-favpng-JyV6yu7uV26Tbu1NLqQbwnMjS.jpg",Bein Series 1
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/126.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/126.m3u8
 #EXTINF: tvg-logo="https://img.favpng.com/16/12/3/bein-series-logo-bein-channels-network-bein-media-group-bein-sports-1-png-favpng-JyV6yu7uV26Tbu1NLqQbwnMjS.jpg",Bein Series 2
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/127.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/127.m3u8
 #EXTINF: tvg-logo="https://1.bp.blogspot.com/-J2eiI5p_ePI/XRkVshpdpWI/AAAAAAAADHY/jor1MO8zV7I9J_HQWvVoZggregj8YktrgCEwYBhgL/s1600/logo.png",Bein Drama 1
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/128.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/128.m3u8
 #EXTINF: tvg-logo="http://4.bp.blogspot.com/-wcM8YRaf9h8/U9qa6ojE9zI/AAAAAAAABFs/euyH1I_gTbw/s1600/Fatafeat+Tv+Live.png",Bein Fatafeat
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/129.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/129.m3u8
 #EXTINF:0,Bein Gourmet
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/130.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/130.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/GwZKWD" group-title="MBC HD ",======MBC HD=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
@@ -176,180 +176,180 @@ https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
 https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama Plus HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/48.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/48.m3u8
 #EXTINF:-1 tvg-logo="https://goldtv.tv/icons/mbc-variety.png", MBC Variety HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/54.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/54.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="OSN",=====OSN========
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0,OSN: Alfa Alyoum
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/83.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/83.m3u8
 #EXTINF:0,OSN: Alfa Cinema 1
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/84.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/84.m3u8
 #EXTINF:0,OSN : Alfa Cinema 2
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/85.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/85.m3u8
 #EXTINF:0,OSN: Alfa Fann
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/86.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/86.m3u8
 #EXTINF:0,OSN: Alfa Mosalsalat
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/87.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/87.m3u8
 #EXTINF:0,OSN: Alfa Mosalsalat 2
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/88.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/88.m3u8
 #EXTINF:0,OSN: Alfa Safwa
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/89.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/89.m3u8
 #EXTINF:0,OSN: Ya Hala
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/90.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/90.m3u8
 #EXTINF:0,OSN: Ya Hala Aloula
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/91.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/91.m3u8
 #EXTINF:0,OSN: Ya Hala Cinema
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/92.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/92.m3u8
 #EXTINF:0,OSN: Action
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/93.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/93.m3u8
 #EXTINF:0,OSN: Comedy
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/94.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/94.m3u8
 #EXTINF:0,OSN: Enigma
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/95.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/95.m3u8
 #EXTINF:0,OSN: Movies
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/96.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/96.m3u8
 #EXTINF:0,OSN: Star Movies
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/97.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/97.m3u8
 #EXTINF:0,OSN: Star World
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/98.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/98.m3u8
 #EXTINF:0,OSN: Series First
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/99.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/99.m3u8
 #EXTINF:0,OSN: Movies First
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/100.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/100.m3u8
 #EXTINF:0,OSN: Movies First +2
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/101.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/101.m3u8
 #EXTINF:0,OSN: Binge
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/103.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/103.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="MY HD",=====MY HD========
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0,MYHD: Art Aflam 1
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/159.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/159.m3u8
 #EXTINF:0,MYHD: Art Aflam 2
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/160.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/160.m3u8
 #EXTINF:0,MYHD: Art Tarab
 https://mysat-live.ercdn.net/tarabtv/tarabtv_576p.m3u8
 #EXTINF:0,MYHD: Art Hekayat 1
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/161.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/161.m3u8
 #EXTINF:0,MYHD: Art Hekayat 2
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/162.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/162.m3u8
 #EXTINF:0,MYHD: Art Cinema
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/163.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/163.m3u8
 #EXTINF:0,MYHD: My Cinema
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/164.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/164.m3u8
 #EXTINF:0,MYHD: Fox Rewayat
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/165.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/165.m3u8
 #EXTINF:0,MYHD: Fox Life
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/166.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/166.m3u8
 #EXTINF:0,MYHD: Fox Action
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/167.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/167.m3u8
 #EXTINF:0,MYHD: Fox Crime
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/168.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/168.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="KIDS",=====KIDS========
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0,Kids: Woody
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/490.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/490.m3u8
 #EXTINF:0,Kids: Smurfs
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/491.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/491.m3u8
 #EXTINF:0,Kids: Teletabbies
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/492.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/492.m3u8
 #EXTINF:0,Kids: Road Runner
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/493.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/493.m3u8
 #EXTINF:0,Kids: Pakdam Pakdai
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/494.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/494.m3u8
 #EXTINF:0,Kids: Mash & The Bear
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/495.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/495.m3u8
 #EXTINF:0,Kids: Sponge Bob
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/496.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/496.m3u8
 #EXTINF:0,Kids: Pink Panther
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/497.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/497.m3u8
 #EXTINF:0,Kids: Mr Bean
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/498.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/498.m3u8
 #EXTINF:0,Kids: Hekayat
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/169.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/169.m3u8
 #EXTINF:0,Kids: Tom & Jerry
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/170.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/170.m3u8
 #EXTINF:0,Kids: Shaun The sheep
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/171.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/171.m3u8
 #EXTINF:0,Kids: Atfal wa Mawaheb
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/172.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/172.m3u8
 #EXTINF:0,Kids: Toyor Baby
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/173.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/173.m3u8
 #EXTINF:0,Kids: Space Toon
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/174.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/174.m3u8
 #EXTINF:0,Kids: Marah Tv
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/175.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/175.m3u8
 #EXTINF:0,Kids: CN Arabia
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/177.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/177.m3u8
 #EXTINF:0,Kids: Baraeem
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/178.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/178.m3u8
 #EXTINF:0,Kids: Karamish
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/179.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/179.m3u8
 #EXTINF:0,Kids: Majed
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/180.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/180.m3u8
 #EXTINF:0,Kids: Taha
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/181.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/181.m3u8
 #EXTINF:0,Kids: Jeem
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/182.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/182.m3u8
 #EXTINF:0,Kids: Guli Bel Araby
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/184.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/184.m3u8
 #EXTINF:0,Kids: Duck Tv
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/185.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/185.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/RWFwhf" group-title="NEWS",=====NEWS========
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/FMuNVJ",Aljazeera
@@ -399,76 +399,76 @@ http://185.105.4.210:1935/nrt/ngrp:livestream_all/playlist.m3u8
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0,IRQ: Iraqia Sport HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/221.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/221.m3u8
 #EXTINF:0,IRQ: anb
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/547.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/547.m3u8
 #EXTINF:0,IRQ: Al Sumaria
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/548.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/548.m3u8
 #EXTINF:0,IRQ: Hona baghdad
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/549.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/549.m3u8
 #EXTINF:0,EG: On E
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/248.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/248.m3u8
 #EXTINF:0,EG: ON Sport
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/249.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/249.m3u8
 #EXTINF:0,EG: ON Drama
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/250.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/250.m3u8
 #EXTINF:0,EG: CBC
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/253.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/253.m3u8
 #EXTINF:0,EG: CBC Drama
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/254.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/254.m3u8
 #EXTINF:0,EG: CBC Extra News
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/255.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/255.m3u8
 #EXTINF:0,EG: CBC Sofra
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/256.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/256.m3u8
 #EXTINF:0,EG: DMC Drama
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/257.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/257.m3u8
 #EXTINF:0,EG: DMC Live
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/258.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/258.m3u8
 #EXTINF:0,KSA: KSA Sport 1
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/346.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/346.m3u8
 #EXTINF:0,KSA: KSA Sport 2
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/347.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/347.m3u8
 #EXTINF:0,GLF: ZEE Alwan
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/348.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/348.m3u8
 #EXTINF:0,GLF: ZEE Aflam HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/349.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/349.m3u8
 #EXTINF:0,Doc: NAT GEO AR HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/406.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/406.m3u8
 #EXTINF:0,Doc: NAT GEO EN HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/407.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/407.m3u8
 #EXTINF:0,Doc: NAT GEO Wild HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/408.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/408.m3u8
 #EXTINF:0,Doc: NAT GEO Peopel HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/409.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/409.m3u8
 #EXTINF:0,Doc: Animal Planet
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/410.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/410.m3u8
 #EXTINF:0,Doc: Discovery
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/411.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/411.m3u8
 #EXTINF:0,Doc: Discovery Showc SE
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/RaeedTVresTM120/RaeedTVresTM120/412.m3u8
+http://144.76.102.19:8082/live/RaeedTVresTM123/RaeedTVresTM123/412.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/fQkZGt",Nat Geo AD
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
