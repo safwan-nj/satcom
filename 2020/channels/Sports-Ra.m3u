@@ -1,73 +1,98 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 1",======BeIn Sports HD 1 =======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN SPORTS USA
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0c7bcb8db3.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN SPORTS NEWS
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e1fda29b8f.m3u8
-
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/79682fd11f.m3u8
-
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/624beefbc7.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 3 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/ba015d8bf1.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 4 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/74ac526fff.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 5 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/57e9a1c12c.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 6 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/7090081cef.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 7 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/bb5c759926.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 8 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/c8258ea7d8.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 9 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/ecc4c38e47.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 10 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/9045c40d50.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 11 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/c70ecfd8f9.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 12 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/6eb4a7ff4b.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 13
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a815fa21c5.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD 1",======BeIn Sports SD 1 =======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 1 SD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e3bd6ad94b.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 2 SD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/7f433a1c10.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 3 SD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/915461b83a.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 4 SD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/aadfc3ee8e.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 5 SD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0613369e0e.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 6 SD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e9d1f956b0.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 7 SD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/f06271f891.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 8 SD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/7c2d86352c.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 9 SD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/16a88ce00f.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 10 SD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/17087669cf.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 11 SD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a11f431c62.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN 12 SD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/aadeedd762.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 2",======BeIn Sports HD 2 =======
@@ -215,27 +240,37 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m
 #EXTINF: tvg-logo="https://goo.gl/wLnk9L",SAUDI RIYADHIYA 1
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,KSA SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/1211f3e7a9.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,KSA SPORTS 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e91b8a427a.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,AlKass Sports 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/b4966fe8f7.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,AlKass Sports 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/3a690c0671.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,AlKass Sports 4
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/5879866f2c.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,AlKass Sports 5
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/d965ca504a.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,AD SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/da7ede4dc9.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,AD SPORTS 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/623dd8686a.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,AD SPORTS 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/c91ce7b108.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,AD SPORTS 4
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/3650870501.m3u8
-
 #EXTINF:-1 tvg-logo="http://i-sat.tv/images/jordansport.png",Jordan Sports HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/ecHNDb",Oman Sports
 
@@ -255,290 +290,407 @@ http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/209b929d09.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY SPORTS ACTION
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/9ed0e5e694.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY SPORTS ACTION HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/01c28c1790.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY SPORTS GOLF
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/73b2082f87.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY SPORTS GOLF HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/ed04f1621a.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY SPORTS LEAGUE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/7b0be90830.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY SPORTS LEAGUE HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/71dbd2fb94.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY SPORTS ARENA
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/050156c6ae.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY SPORTS ARENA HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a8b78b572a.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY SPORTS FOOTBALL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/b2c6f5370b.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY SPORTS FOOTBALL HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/5ae22ea6ae.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY SPORTS F1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/dd960521e0.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY SPORTS F1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/3c40561002.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY SPORTS MIX
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/6466b97264.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY NEWS
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/eed8838571.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY SP 1 ITALY
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/4541dbda1d.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY SP 1 DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/20cb5d2f56.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY SP 2 DE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/2c73c0d477.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="BT Sports",======BT Sports=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BT SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e0332065eb.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BT SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/eb7b301a66.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BT SPORTS 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/963b5c83d5.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BT SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/957be65e60.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BT SPORTS 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/1632103526.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BT SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/00ed0c5709.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="ESPN Sports",======ESPN Sports=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,ESPN U
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/bc7bd1d4bf.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,ESPN 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/d2a914c6da.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,ESPN 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/cbf3099988.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,ESPN DEPORTES
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/c7a91d7401.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,ESPN NEWS
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/f9c8aeab0f.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SONY ESPN
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/dcd1e6384a.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SONY ESPN HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/6d8217cf71.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,EURO SPORTS 1 SD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/eab69529b0.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,EURO SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/56fee19722.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,EURO SPORTS 2 SD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/771a9b609a.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,EURO SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/52d1bf6f71.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BOX NATION
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a7b50dcaab.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SETANTA SPORTS
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/d0fbf09451.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,UK RACING
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/ad9d68bf34.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,AT THE RACES
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/50fd7c1091.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,WWE NETWORK
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/1391c208ba.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Dubai Sports
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/525e1d9f04.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,MUTV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/fb2fd45098.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,REAL MADRID
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/1994471c59.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,LFC TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/5d7c11f336.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Chelsea TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/c788fb2737.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Arena Sports",======Arena Sports=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena Sports 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/41c5230a79.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena Sports 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/8bdc1aacdf.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena Sports 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a564a86426.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena Sports 4
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a13ca3449a.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena Sports 5
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/752e52bae4.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Fox Sports",======Fox Sports=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,FOX SPORT 1 USA
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/c2d957a01d.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,FOX SPORT 2 USA
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/3efde4ac6a.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,FOX SPORT 1 NL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/de3c2f3040.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,FOX SPORT 2 NL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a83c0f151e.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,FOX SPORT 3 NL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a343513ed4.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,FOX SPORT 4 NL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/fa99de9f27.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,FOX SPORT 5 NL
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0597ac4bdf.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,FOX SPORTS AUSTRALIA 501
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/28d1e232bb.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,FOX SPORTS AUSTRALIA 502
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/50337a418a.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,FOX SPORTS AUSTRALIA 503
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/5e068bc78b.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,FOX SPORTS AUSTRALIA 504
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/939761597f.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,FOX SPORTS AUSTRALIA 505
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/406b3e7cd5.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,FOX SPORTS AUSTRALIA 506
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/285b298cde.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,FOX SPORTS AUSTRALIA 507
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/4f3688c4e4.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Tsn Sports",======Tsn Sports=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,TSN SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/d4f35cf7c2.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,TSN SPORTS 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/fc1a327257.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,TSN SPORTS 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/c08f7b129e.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,TSN SPORTS 4
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/f7ac7cd76f.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,TSN SPORTS 5
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/5c31c97855.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Sportnet Sports",======Sportnet Sports=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SPORTSNET WOLRD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/3a1ed01077.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SPORTSNET ONTARIO
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/a48d90bd5f.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SPORTSNET ONE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/1d4783966c.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SPORTSNET 360
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/8931c93da8.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="World Sports",======World Sports=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN FRANCE 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/113404cee5.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN FRANCE 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/cd9e1ab0e4.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN FRANCE 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/30da28e518.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,VIASAT FOOTBALL HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/bae3e13616.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,NBA TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/f9e0a5cfef.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,NBC SN
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/019e96a4c6.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,NFL NETWORK
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/32ceafb0ce.m3u8
-
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Sports Tv 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/74b8be496f.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Sports Tv 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e1d3ee3e4b.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Sports Tv 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/ffe3c16b04.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Sports Tv 4
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/5774d88b20.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Sports Tv 5
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/983292458b.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BENFICA TV
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/3373dce441.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SPORT KLUB 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/93b918848b.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SPORT KLUB 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/fd7ec4437d.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SPORT KLUB 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/9b1eaf1544.m3u8
-
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SUPER SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/55c134b831.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SUPER SPORTS 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e05e71a8f3.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SUPER SPORTS 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/24a8d74ce0.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SUPER SPORTS 4
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/ae5a4d514b.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,ZIGGO SPORTS SELECT
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/f0332b2519.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,EIR SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/dfb0fbef44.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,EIR SPORTS 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/d715ee66c4.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,DIGI SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/efb5578cd9.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,DIGI SPORTS 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/66e2649fcf.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,DIGI SPORTS 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/57ea05c740.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,DIGI SPORTS 4
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/1700558e27.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,FIGHTBOX
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/9124acc7b5.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,D SPORTS
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/d4b598aaed.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SFR SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/1037d7053c.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SFR SPORTS 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/de9c9eb9ea.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SFR SPORTS 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/52220e2032.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,FREE SPORTS
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/243547dee9.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKY BOX OFFICE
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e4569120b5.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BT SPORTS ESPN
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0c9e891d39.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,OTE SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/95b77ea731.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,OTE SPORTS 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/73a32b95af.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,OTE SPORTS 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/7f81755e28.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,OTE SPORTS 4
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/f96d4cf612.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,OTE SPORTS 5
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/b1c6dccd52.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,OTE SPORTS 6
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/5f26cd17ba.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,OTE SPORTS 7
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/8c0f76fa4f.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,OTE SPORTS 8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/b5250ddeda.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,ASTRO CRICKET
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0349462cac.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,UFC FIGHT
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/107778ce7a.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,DIEMA SPORTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0bb891119b.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,DIEMA SPORTS 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0b63ef60e2.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN SPROTS AUS BEIN SPROTS 1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/e3aa34248e.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN SPROTS AUS BEIN SPROTS 2
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/6f72d6cc4c.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BEIN SPROTS AUS BEIN SPROTS 3
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/35f7e3f2b5.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bi9htU",Il-Sport
 
