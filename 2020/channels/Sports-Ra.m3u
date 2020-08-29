@@ -1,7 +1,7 @@
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD3",======BeIn Sports HD 3=======
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD VIP",======BeIn Sports HD VIP=======
 http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/19.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 1 HD
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 1 HD 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2695.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 2 HD
@@ -46,10 +46,10 @@ http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.c
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN SPORTS NEWS
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2694.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN Extra
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN Extra 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2692.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD3",======BeIn Sports SD 3=======
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD VIP",======BeIn Sports SD VIP=======
 http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/20.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 1 SD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -87,93 +87,6 @@ http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.c
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 12 SD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2719.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 2",======BeIn Sports HD 2 =======
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/86x5hL",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/2u5uBf",fb.com/mr.safwan.alnajjar
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport News HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/135.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/137.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport NBA
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/138.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 1 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/139.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 2 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/140.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 3 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/141.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 4 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/142.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 5 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/143.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 6 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/144.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 7 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/145.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 8 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/146.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 9 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/147.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 10 HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/148.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD 2",======BeIn Sports SD 2 =======
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport News SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/136.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 1 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/149.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 2 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/150.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 3 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/151.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 4 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/152.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 5 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/153.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 6 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/154.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 7 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/155.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 8 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/156.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 9 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/157.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 10 SD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/158.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 1",======BeIn Sports HD 1 =======
@@ -277,7 +190,90 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/a11f431c62.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://stream-e30453a4b.nmbs.top/m3u/Sports/aadeedd762.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 2",======BeIn Sports HD 2 =======
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/86x5hL",تأكد من تحميل التطبيق من صفحتي الرسمية فقط على فيسبوك
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/2u5uBf",fb.com/safwan.alnajjar.official
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport News HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/135.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/137.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport NBA
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/138.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 1 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/139.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 2 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/140.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 3 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/141.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 4 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/142.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 5 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/143.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 6 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/144.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 7 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/145.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 8 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/146.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 9 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/147.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 10 HD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/148.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD 2",======BeIn Sports SD 2 =======
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport News SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/136.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 1 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/149.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 2 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/150.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 3 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/151.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 4 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/152.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 5 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/153.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 6 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/154.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 7 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/155.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 8 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/156.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 9 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/157.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Bein Sport 10 SD
+#EXTVLCOPT:http-user-agent=RaeedTv
+http://144.76.102.19:8082/live/FuckYourbanelSoonFromRaeedTV/FuckYourbanelSoonFromRaeedTV/158.m3u8
 
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",logo not exist
 #EXTINF:-1 tvg-logo="https://goo.gl/bgHWFv" group-title="Other Sports",======Other Sports=======
@@ -789,98 +785,6 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/35f7e3f2b5.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bi9htU",Il-Sport
 
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena 1 HD
-http://hrv.00387.info/Arena1HDHR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena 2 HD
-http://hrv.00387.info/Arena2HDHR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena 3 HD
-http://hrv.00387.info/Arena3HDHR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena 4 HD
-http://hrv.00387.info/Arena4HDHR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena 5 HD
-http://hrv.00387.info/Arena5HDHR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Planet Sport promo
-http://hrv.00387.info/PlanetSport3HD...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Planet Sport 1 HD _198
-http://hrv.00387.info/PlanetSport1HD...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Planet Sport 2 HD _199
-http://hrv.00387.info/PlanetSport2HD...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Planet Sport 3 HD _200
-http://hrv.00387.info/PlanetSport3HD...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena Sport 1 SR _225
-http://srb.00387.info/ArenaSport1SR/...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena Sport 2 SR _226
-http://srb.00387.info/ArenaSport2SR/...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena Sport 3 SR _227
-http://srb.00387.info/ArenaSport3SR/...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena Sport 4 SR _228
-http://srb.00387.info/ArenaSport4SR/...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena Sport 5 SR _229
-http://srb.00387.info/ArenaSport5SR/...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SportKlub SR 1 HD _294
-http://srb.00387.info/SportKlubSR1HD...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SportKlub 2 SR HD _288
-http://srb.00387.info/SportKlub2SRHD...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SportKlub 3 SR HD _289
-http://srb.00387.info/SportKlub3SRHD...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Sport Klub 4_290
-http://srb.00387.info/SportKlub4/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Sport Klub 5_291
-http://srb.00387.info/SportKlub5/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Sport Klub 6_292
-http://srb.00387.info/SportKlub6/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Sport Klub HD _293
-http://srb.00387.info/SportKlubHD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SR:EuroSport 1 HD _295
-http://srb.00387.info/SR:EuroSport1H...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena1 HD HR
-http://hrv.00387.info/Arena1HDHR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena 2 HD HR
-http://hrv.00387.info/Arena2HDHR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena 3 HD HR _143
-http://hrv.00387.info/Arena3HDHR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena 5 HD HR _145
-http://hrv.00387.info/Arena5HDHR/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Eurosport 2 HD _153
-http://hrv.00387.info/Eurosport2HD/i...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,DE SkySport 1_154
-http://hrv.00387.info/GER:DESkySport...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Sky SPORTAUSTRIA UHD _160
-http://hrv.00387.info/GER:SkySPORTAU...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Planet Sport 1 HD _198
-http://hrv.00387.info/PlanetSport1HD...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Planet Sport 2 HD _199
-http://hrv.00387.info/PlanetSport2HD...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Planet Sport 3 HD _200
-http://hrv.00387.info/PlanetSport3HD...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Arena Liga BH _30
-http://bos.00387.info/ArenaLigaBH/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,ArenaSport1SR _225
-http://srb.00387.info/ArenaSport1SR/...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,ArenaSport2SR wn_226
-http://srb.00387.info/ArenaSport2SR/...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,ArenaSport3SR _227
-http://srb.00387.info/ArenaSport3SR/...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,ArenaSport4SR _228
-http://srb.00387.info/ArenaSport4SR/...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,ArenaSport5SR _229
-http://srb.00387.info/ArenaSport5SR/...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SKYSPORT2UHD _254
-http://srb.00387.info/GER:SKYSPORT2U...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SportKlub2SRHD _288
-http://srb.00387.info/SportKlub2SRHD...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SportKlub3SRHD _289
-http://srb.00387.info/SportKlub3SRHD...3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SportKlub4_290
-http://srb.00387.info/SportKlub4/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SportKlub5_291
-http://srb.00387.info/SportKlub5/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SportKlub6_292
-http://srb.00387.info/SportKlub6/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SportKlubHD _293
-http://srb.00387.info/SportKlubHD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SportKlubSR1HD _294
-http://srb.00387.info/SportKlubSR1HD...3u8?token=test
 
 
 #EXTINF: tvg-logo="https://goo.gl/bi9htU",logo not exist
