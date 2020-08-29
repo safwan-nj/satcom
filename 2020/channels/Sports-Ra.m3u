@@ -1,4 +1,95 @@
 
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD3",======BeIn Sports HD 3=======
+http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/19.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 1 HD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2695.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2696.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2697.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2698.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2699.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2700.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 7 HD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2701.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 8 HD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2702.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 9 HD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2703.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 10 HD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2704.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 11 HD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2705.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 12 HD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2706.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 13
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2707.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN SPORTS USA
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2693.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN SPORTS NEWS
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2694.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN Extra
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2692.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports SD3",======BeIn Sports SD 3=======
+http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/20.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 1 SD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2708.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 2 SD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2709.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 3 SD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2710.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 4 SD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2711.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 5 SD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2712.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 6 SD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2713.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 7 SD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2714.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 8 SD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2715.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 9 SD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2716.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 10 SD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2717.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 11 SD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2718.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L",BEIN 12 SD
+#EXTVLCOPT:network-caching=1000
+http://138.201.145.139:8080/live/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/2719.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/wLnk9L" group-title="BeIn Sports HD 2",======BeIn Sports HD 2 =======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dmik6u" ,Safwan TvBox-tel:068110665485
