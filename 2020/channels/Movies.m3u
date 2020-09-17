@@ -654,6 +654,132 @@ https://shoofmax.b-cdn.net/maraya-2011/ep29/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/maraya-2011/ep30/variant.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="SSSSS" group-title="ضيعة ضايعة 1", ضيعة ضايعة 1 
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/10.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/11.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/12.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/13.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/14.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/15.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/16.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/17.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/18.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/19.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/20.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/21.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/22.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/23.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/24.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/25.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/26.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep27
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/27.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep28
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/28.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep29
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/29.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep30
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/dyaa1/30.mp4/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="SSSSS" group-title="ضيعة ضايعة 2", ضيعة ضايعة 2 
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/10.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/11.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/12.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/13.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/14.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/15.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/16.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/17.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/18.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/19.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/20.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/21.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/22.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/23.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/24.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/25.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/26.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep27
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/27.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep28
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/28.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep29
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/29.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Ep30
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/dyaa2/30.mp4/playlist.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo="https://www.wbn.ps/cached_uploads/resize/1000/800/2019/05/09/7a95beb8-1557402791.jpg" group-title="كونتاك",Contac
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0 tvg-id="", ep1
@@ -750,82 +876,82 @@ https://shoofmax.b-cdn.net/contac/ep30/variant.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://www.assawsana.com/portal/image/imgid38094.jpg" group-title="1 يوميات مدير عام",Mudir Aam 1
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:0 tvg-id="",ep 1
+#EXTINF:0 tvg-id="",S01Ep 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep1/variant.m3u8
-#EXTINF:0 tvg-id="",ep2
+#EXTINF:0 tvg-id="",S01Ep2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep2/variant.m3u8
-#EXTINF:0 tvg-id="",ep3
+#EXTINF:0 tvg-id="",S01Ep3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep3/variant.m3u8
-#EXTINF:0 tvg-id="",ep4
+#EXTINF:0 tvg-id="",S01Ep4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep4/variant.m3u8
-#EXTINF:0 tvg-id="",ep5
+#EXTINF:0 tvg-id="",S01Ep5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep5/variant.m3u8
-#EXTINF:0 tvg-id="",ep6
+#EXTINF:0 tvg-id="",S01Ep6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep6/variant.m3u8
-#EXTINF:0 tvg-id="",ep7
+#EXTINF:0 tvg-id="",S01Ep7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep7/variant.m3u8
-#EXTINF:0 tvg-id="",ep8
+#EXTINF:0 tvg-id="",S01Ep8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep8/variant.m3u8
-#EXTINF:0 tvg-id="",ep9
+#EXTINF:0 tvg-id="",S01Ep9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep9/variant.m3u8
-#EXTINF:0 tvg-id="",ep10
+#EXTINF:0 tvg-id="",S01Ep10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep10/variant.m3u8
-#EXTINF:0 tvg-id="",ep11
+#EXTINF:0 tvg-id="",S01Ep11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep11/variant.m3u8
-#EXTINF:0 tvg-id="",ep12
+#EXTINF:0 tvg-id="",S01Ep12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep12/variant.m3u8
-#EXTINF:0 tvg-id="",ep13
+#EXTINF:0 tvg-id="",S01Ep13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep13/variant.m3u8
-#EXTINF:0 tvg-id="",ep14
+#EXTINF:0 tvg-id="",S01Ep14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep14/variant.m3u8
-#EXTINF:0 tvg-id="",ep15
+#EXTINF:0 tvg-id="",S01Ep15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep15/variant.m3u8
-#EXTINF:0 tvg-id="",ep16
+#EXTINF:0 tvg-id="",S01Ep16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep16/variant.m3u8
-#EXTINF:0 tvg-id="",ep17
+#EXTINF:0 tvg-id="",S01Ep17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep17/variant.m3u8
-#EXTINF:0 tvg-id="",ep18
+#EXTINF:0 tvg-id="",S01Ep18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep18/variant.m3u8
-#EXTINF:0 tvg-id="",ep19
+#EXTINF:0 tvg-id="",S01Ep19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep19/variant.m3u8
-#EXTINF:0 tvg-id="",ep20
+#EXTINF:0 tvg-id="",S01Ep20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep20/variant.m3u8
-#EXTINF:0 tvg-id="",ep21
+#EXTINF:0 tvg-id="",S01Ep21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep21/variant.m3u8
-#EXTINF:0 tvg-id="",ep22
+#EXTINF:0 tvg-id="",S01Ep22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep22/variant.m3u8
-#EXTINF:0 tvg-id="",ep23
+#EXTINF:0 tvg-id="",S01Ep23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep23/variant.m3u8
-#EXTINF:0 tvg-id="",ep24
+#EXTINF:0 tvg-id="",S01Ep24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep24/variant.m3u8
-#EXTINF:0 tvg-id="",ep25
+#EXTINF:0 tvg-id="",S01Ep25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep25/variant.m3u8
-#EXTINF:0 tvg-id="",ep26
+#EXTINF:0 tvg-id="",S01Ep26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/yawmiyyat-modeer-aam-1/ep26/variant.m3u8
 
@@ -1333,193 +1459,310 @@ https://shoofmax.b-cdn.net/zaman-albarghoot-2/ep36/variant.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://s3.amazonaws.com/aywa/images/tvshows/765fe2c42eac4420aa796380a73f1640---tvshow1x2---4ad14f1c-39fe-4bf5-af47-763ec012bf4f.jpg" group-title="مسلسل نزار قباني",Nizar Qabani
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:0 tvg-id="",ep1
+#EXTINF:0 tvg-id="",S01Ep1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep1/variant.m3u8
-#EXTINF:0 tvg-id="",ep2
+#EXTINF:0 tvg-id="",S01Ep2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep2/variant.m3u8
-#EXTINF:0 tvg-id="",ep3
+#EXTINF:0 tvg-id="",S01Ep3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep3/variant.m3u8
-#EXTINF:0 tvg-id="",ep4
+#EXTINF:0 tvg-id="",S01Ep4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep4/variant.m3u8
-#EXTINF:0 tvg-id="",ep5
+#EXTINF:0 tvg-id="",S01Ep5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep5/variant.m3u8
-#EXTINF:0 tvg-id="",ep6
+#EXTINF:0 tvg-id="",S01Ep6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep6/variant.m3u8
-#EXTINF:0 tvg-id="",ep7
+#EXTINF:0 tvg-id="",S01Ep7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep7/variant.m3u8
 #EXTINF:0 tvg-id="", ep 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep8/variant.m3u8
-#EXTINF:0 tvg-id="",ep9
+#EXTINF:0 tvg-id="",S01Ep9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep9/variant.m3u8
 #EXTINF:0 tvg-id="", ep 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep10/variant.m3u8
-#EXTINF:0 tvg-id="",ep11
+#EXTINF:0 tvg-id="",S01Ep11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep11/variant.m3u8
-#EXTINF:0 tvg-id="",ep12
+#EXTINF:0 tvg-id="",S01Ep12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep12/variant.m3u8
-#EXTINF:0 tvg-id="",ep13
+#EXTINF:0 tvg-id="",S01Ep13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep13/variant.m3u8
-#EXTINF:0 tvg-id="",ep14
+#EXTINF:0 tvg-id="",S01Ep14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep14/variant.m3u8
-#EXTINF:0 tvg-id="",ep15
+#EXTINF:0 tvg-id="",S01Ep15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep15/variant.m3u8
-#EXTINF:0 tvg-id="",ep16
+#EXTINF:0 tvg-id="",S01Ep16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep16/variant.m3u8
-#EXTINF:0 tvg-id="",ep17
+#EXTINF:0 tvg-id="",S01Ep17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep17/variant.m3u8
-#EXTINF:0 tvg-id="",ep18
+#EXTINF:0 tvg-id="",S01Ep18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep18/variant.m3u8
-#EXTINF:0 tvg-id="",ep19
+#EXTINF:0 tvg-id="",S01Ep19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep19/variant.m3u8
-#EXTINF:0 tvg-id="",ep20
+#EXTINF:0 tvg-id="",S01Ep20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep20/variant.m3u8
-#EXTINF:0 tvg-id="",ep20
+#EXTINF:0 tvg-id="",S01Ep20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep21/variant.m3u8
-#EXTINF:0 tvg-id="",ep21
+#EXTINF:0 tvg-id="",S01Ep21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep22/variant.m3u8
-#EXTINF:0 tvg-id="",ep22
+#EXTINF:0 tvg-id="",S01Ep22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep23/variant.m3u8
-#EXTINF:0 tvg-id="",ep23
+#EXTINF:0 tvg-id="",S01Ep23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep23/variant.m3u8
-#EXTINF:0 tvg-id="",ep24
+#EXTINF:0 tvg-id="",S01Ep24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep24/variant.m3u8
-#EXTINF:0 tvg-id="",ep25
+#EXTINF:0 tvg-id="",S01Ep25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep25/variant.m3u8
 #EXTINF:0 tvg-id="", ep 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep26/variant.m3u8
-#EXTINF:0 tvg-id="",ep27
+#EXTINF:0 tvg-id="",S01Ep27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep27/variant.m3u8
-#EXTINF:0 tvg-id="",ep28
+#EXTINF:0 tvg-id="",S01Ep28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep28/variant.m3u8
 #EXTINF:0 tvg-id="", ep 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep29/variant.m3u8
-#EXTINF:0 tvg-id="",ep30
+#EXTINF:0 tvg-id="",S01Ep30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/nizar-qabani/ep30/variant.m3u8
 
+
+#EXTINF:0 tvg-id="" tvg-logo="SSSSS" group-title="رأفت الهجان", رأفت الهجان 
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/10.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/11.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/12.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/13.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/14.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/15.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/16.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/17.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/18.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/19.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/20.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/21.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/22.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/23.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/24.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/25.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/26.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/27.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/28.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/29.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/30.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/31.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/32.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/33.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/34.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/35.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/36.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/37.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/38.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/39.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/40.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/41.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/42.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/43.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/44.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/45.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/46.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/47.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/48.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/49.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/50.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/51.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/52.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/53.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/54.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/55.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-6/raaft/56.mp4/playlist.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/fc/Naji_Attallah%27s_Squad_Poster.jpeg" group-title="فرقة ناجي عطا الله",Ferqet Naji Atallah
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:0 tvg-id="",ep1
+#EXTINF:0 tvg-id="",S01Ep1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep1/variant.m3u8
-#EXTINF:0 tvg-id="",ep2
+#EXTINF:0 tvg-id="",S01Ep2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep2/variant.m3u8
-#EXTINF:0 tvg-id="",ep3
+#EXTINF:0 tvg-id="",S01Ep3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep3/variant.m3u8
-#EXTINF:0 tvg-id="",ep4
+#EXTINF:0 tvg-id="",S01Ep4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep4/variant.m3u8
-#EXTINF:0 tvg-id="",ep5
+#EXTINF:0 tvg-id="",S01Ep5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep5/variant.m3u8
-#EXTINF:0 tvg-id="",ep6
+#EXTINF:0 tvg-id="",S01Ep6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep6/variant.m3u8
-#EXTINF:0 tvg-id="",ep7
+#EXTINF:0 tvg-id="",S01Ep7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep7/variant.m3u8
 #EXTINF:0 tvg-id="", ep 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep8/variant.m3u8
-#EXTINF:0 tvg-id="",ep9
+#EXTINF:0 tvg-id="",S01Ep9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep9/variant.m3u8
 #EXTINF:0 tvg-id="", ep 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep10/variant.m3u8
-#EXTINF:0 tvg-id="",ep11
+#EXTINF:0 tvg-id="",S01Ep11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep11/variant.m3u8
-#EXTINF:0 tvg-id="",ep12
+#EXTINF:0 tvg-id="",S01Ep12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep12/variant.m3u8
-#EXTINF:0 tvg-id="",ep13
+#EXTINF:0 tvg-id="",S01Ep13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep13/variant.m3u8
-#EXTINF:0 tvg-id="",ep14
+#EXTINF:0 tvg-id="",S01Ep14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep14/variant.m3u8
-#EXTINF:0 tvg-id="",ep15
+#EXTINF:0 tvg-id="",S01Ep15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep15/variant.m3u8
-#EXTINF:0 tvg-id="",ep16
+#EXTINF:0 tvg-id="",S01Ep16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep16/variant.m3u8
-#EXTINF:0 tvg-id="",ep17
+#EXTINF:0 tvg-id="",S01Ep17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep17/variant.m3u8
-#EXTINF:0 tvg-id="",ep18
+#EXTINF:0 tvg-id="",S01Ep18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep18/variant.m3u8
-#EXTINF:0 tvg-id="",ep19
+#EXTINF:0 tvg-id="",S01Ep19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep19/variant.m3u8
-#EXTINF:0 tvg-id="",ep20
+#EXTINF:0 tvg-id="",S01Ep20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep20/variant.m3u8
-#EXTINF:0 tvg-id="",ep20
+#EXTINF:0 tvg-id="",S01Ep20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep21/variant.m3u8
-#EXTINF:0 tvg-id="",ep21
+#EXTINF:0 tvg-id="",S01Ep21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep22/variant.m3u8
-#EXTINF:0 tvg-id="",ep22
+#EXTINF:0 tvg-id="",S01Ep22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep23/variant.m3u8
-#EXTINF:0 tvg-id="",ep23
+#EXTINF:0 tvg-id="",S01Ep23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep23/variant.m3u8
-#EXTINF:0 tvg-id="",ep24
+#EXTINF:0 tvg-id="",S01Ep24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep24/variant.m3u8
-#EXTINF:0 tvg-id="",ep25
+#EXTINF:0 tvg-id="",S01Ep25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep25/variant.m3u8
 #EXTINF:0 tvg-id="", ep 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep26/variant.m3u8
-#EXTINF:0 tvg-id="",ep27
+#EXTINF:0 tvg-id="",S01Ep27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep27/variant.m3u8
-#EXTINF:0 tvg-id="",ep28
+#EXTINF:0 tvg-id="",S01Ep28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep28/variant.m3u8
 #EXTINF:0 tvg-id="", ep 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep29/variant.m3u8
-#EXTINF:0 tvg-id="",ep30
+#EXTINF:0 tvg-id="",S01Ep30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://shoofmax.b-cdn.net/ferqet-naji-atallah/ep30/variant.m3u8
 
@@ -1808,39 +2051,257 @@ https://shoofmax.b-cdn.net/kalabsh/ep30/variant.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="SSSSS" group-title="blocks4  الماني مترجم الموسم الثاني",blocks4  الماني مترجم الموسم الثاني
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:0 tvg-id="" ,ep1
+#EXTINF:0 tvg-id="" ,S01Ep1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tempb05.faselhd.cc/stream/hls/05/1546905600/962b21cb541922368808faffc9a8c76f/v.mp4/index.m3u8
-#EXTINF:0 tvg-id="" ,ep2
+#EXTINF:0 tvg-id="" ,S01Ep2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tempb05.faselhd.cc/stream/hls/05/1546905600/b41afb278f82d7a1564dd7f7b474f77c/v.mp4/index.m3u8
-#EXTINF:0 tvg-id="" ,ep3
+#EXTINF:0 tvg-id="" ,S01Ep3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tempb05.faselhd.cc/stream/hls/05/1546905600/f45ce3474ffccf8fc587fbb2712f4cdc/v.mp4/index.m3u8
-#EXTINF:0 tvg-id="" ,ep4
+#EXTINF:0 tvg-id="" ,S01Ep4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tempb05.faselhd.cc/stream/hls/05/1546905600/e84e464a4f76aeacdc2e24bd6495d1d0/v.mp4/index.m3u8
-#EXTINF:0 tvg-id="" ,ep5
+#EXTINF:0 tvg-id="" ,S01Ep5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tempb05.faselhd.cc/stream/hls/05/1546905600/fa25941bc69c99517b699c2f0435eeff/v.mp4/index.m3u8
-#EXTINF:0 tvg-id="" ,ep6
+#EXTINF:0 tvg-id="" ,S01Ep6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tempb05.faselhd.cc/stream/hls/05/1546905600/78f718fca0a2cb79040dd92300d7840a/v.mp4/index.m3u8
-#EXTINF:0 tvg-id="" ,ep7
+#EXTINF:0 tvg-id="" ,S01Ep7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tempb05.faselhd.cc/stream/hls/05/1546905600/de203d35474bfb2b4798e5c289916d8a/v.mp4/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="SSSSS" group-title="block4 موسم الثالث", block4 موسم الثالث
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:0 tvg-id="" ,ep1
+#EXTINF:0 tvg-id="" ,S01Ep1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://ia601507.us.archive.org/2/items/34538/34538.mkv
-#EXTINF:0 tvg-id="" ,ep2
+#EXTINF:0 tvg-id="" ,S01Ep2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://ia601508.us.archive.org/27/items/34539/34539.mkv
-#EXTINF:0 tvg-id="" ,ep3
+#EXTINF:0 tvg-id="" ,S01Ep3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://ia601400.us.archive.org/9/items/34540/34540.mkv
-#EXTINF:0 tvg-id="" ,ep4
+#EXTINF:0 tvg-id="" ,S01Ep4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://ia601508.us.archive.org/3/items/34541/34541.mkv
+
+
+#EXTINF:0 tvg-id="" tvg-logo="SSSSS" group-title="Game Of Thrones", Game Of Thrones 
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S1/1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S1/2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S1/3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S1/4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S1/5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S1/6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S1/7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S1/8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S1/9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S1/10.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S2/1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S2/2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S2/3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S2/4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S2/5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S2/6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S2/7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S2/8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S2/9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S2/10.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S3/1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S3/2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S3/3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S3/4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S3/5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S3/6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S3/7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S3/8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S3/9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S3/10.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S04Ep1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S4/1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S04Ep2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S4/2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S04Ep3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S4/3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S04Ep4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S4/4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S04Ep5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S4/5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S04Ep6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S4/6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S04Ep7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S4/7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S04Ep8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S4/8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S04Ep9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S4/9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S04Ep10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S4/10.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S05Ep1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S5/1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S05Ep2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S5/2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S05Ep3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S5/3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S05Ep4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S5/4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S05Ep5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S5/5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S05Ep6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S5/6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S05Ep7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S5/7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S05Ep8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S5/8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S05Ep9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S5/9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S05Ep10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S5/10.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S06Ep1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S6/1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S06Ep2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S6/2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S06Ep3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S6/3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S06Ep4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S6/4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S06Ep5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S6/5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S06Ep6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S6/6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S06Ep7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S6/7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S06Ep8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S6/8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S06Ep9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S6/9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S06Ep10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S6/10.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S07Ep1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S7/1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S07Ep2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S7/2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S07Ep3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S7/3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S07Ep4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S7/4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S07Ep5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S7/5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S07Ep6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S7/6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S07Ep7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S7/7.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S08Ep1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S8/1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S08Ep2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S8/2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S08Ep3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S8/3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S08Ep4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S8/4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S08Ep5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S8/5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S08Ep6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/GOT.S8/6.mp4/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="SSSSS" group-title="LaCasa", Lacasa 
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/10.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep11 
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/11.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/12.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S01Ep13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/13.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa2/1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa2/2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa/3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa2/4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa2/5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S02Ep6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/lacasa2/6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep1
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/La.casa.De.Papel.3/1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/La.casa.De.Papel.3/2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/La.casa.De.Papel.3/3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/La.casa.De.Papel.3/4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/La.casa.De.Papel.3/5.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/La.casa.De.Papel.3/6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/La.casa.De.Papel.3/7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,S03Ep8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/La.casa.De.Papel.3/8.mp4/playlist.m3u8
+
+
+
+
