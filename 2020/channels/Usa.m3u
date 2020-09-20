@@ -1283,6 +1283,70 @@ http://live.redtraffic.xyz/russian.m3u8
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k85bqov.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Threesome
 http://live.redtraffic.xyz/threesome.m3u8
+
+
+#EXTINF:-1 group-title="XXX",Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="XXX",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1 group-title="XXX",Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="XXX",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="XXX",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="XXX",Threesome HD
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 group-title="XXX",bigtits
+#EXTVLCOPT:network-caching=1000
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="XXX",milf
+#EXTVLCOPT:network-caching=1000
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="XXX",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="XXX",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="XXX",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="XXX",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="XXX",Lesbian HD
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 group-title="XXX",fetish
+#EXTVLCOPT:network-caching=1000
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="XXX",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="XXX",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="XXX",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="XXX",Blowjob HD
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="XXX",Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1 group-title="XXX",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="XXX",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="XXX",POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="XXX",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="XXX",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="XXX",Teen
+http://cdn.adultiptv.net/teen.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-90276.png" tvg-country="US" tvg-url="" group-title="",Retro TV
 https://v-pi.mybtv.net/event/2.5/768x432?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/UdNEhUe.jpg" tvg-country="UK" tvg-url="" group-title="",Reuters
