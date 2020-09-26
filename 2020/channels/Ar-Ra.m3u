@@ -33,18 +33,18 @@ http://stream.sama-tv.net:8080/hls/samatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/191.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/191.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama HD2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/188.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/188.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana
 https://mysat-live.ercdn.net/lanatv/lanatv.m3u8
 #EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/546.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/546.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ugarit HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
@@ -69,12 +69,12 @@ https://mysat-live.ercdn.net/mtvlebanon/mtvlebanon.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Ggp24v",MTV lebanon
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/542.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/542.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/7p4X8D",Aljadeed HD
 https://p-mysat-live.ercdn.net/aljadeed/aljadeed_720p.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/7p4X8D",Aljadeed
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/543.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/543.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC HD
 https://mysat-live.ercdn.net/lbcinternational/lbcinternational_720p.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC
@@ -84,16 +84,16 @@ http://51.15.3.161:8080/LDC/index.m3u8?token=test
 https://mysat-live.ercdn.net/lbchd/lbchd.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC Sat
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/544.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/544.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC 2
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/545.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/545.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC Int
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/550.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/550.m3u8
 #EXTINF:-1 tvg-logo="http://www.akkarpress.com/wp-content/uploads/2014/08/IMG_9570.jpg" ,TL Lebanon
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/209.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/209.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/mVMJx4",OTV
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
 
@@ -125,31 +125,31 @@ https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF: tvg-logo="https://goo.gl/uxALCg",Bein Movies 1 HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/122.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/122.m3u8
 #EXTINF: tvg-logo="https://goo.gl/kX1WhA",Bein Movies 2 HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/123.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/123.m3u8
 #EXTINF: tvg-logo="https://goo.gl/VXDGbA",Bein Movies 3 HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/124.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/124.m3u8
 #EXTINF: tvg-logo="https://goo.gl/VXDGbA",Bein Movies 4 HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/125.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/125.m3u8
 #EXTINF: tvg-logo="https://img.favpng.com/16/12/3/bein-series-logo-bein-channels-network-bein-media-group-bein-sports-1-png-favpng-JyV6yu7uV26Tbu1NLqQbwnMjS.jpg",Bein Series 1
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/126.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/126.m3u8
 #EXTINF: tvg-logo="https://img.favpng.com/16/12/3/bein-series-logo-bein-channels-network-bein-media-group-bein-sports-1-png-favpng-JyV6yu7uV26Tbu1NLqQbwnMjS.jpg",Bein Series 2
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/127.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/127.m3u8
 #EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Bein Drama 1
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/128.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/128.m3u8
 #EXTINF: tvg-logo="http://4.bp.blogspot.com/-wcM8YRaf9h8/U9qa6ojE9zI/AAAAAAAABFs/euyH1I_gTbw/s1600/Fatafeat+Tv+Live.png",Bein Fatafeat
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/129.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/129.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Bein Gourmet
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/130.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/130.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/GwZKWD" group-title="MBC HD ",======MBC HD=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
@@ -181,10 +181,10 @@ https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
 https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama Plus HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/48.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/48.m3u8
 #EXTINF:-1 tvg-logo="https://goldtv.tv/icons/mbc-variety.png", MBC Variety HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/54.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/54.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="OSN",=====OSN========
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 
@@ -227,64 +227,64 @@ https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Alfa Alyoum
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/83.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/83.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Alfa Cinema 1
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/84.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/84.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Alfa Cinema 2
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/85.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/85.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Alfa Fann
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/86.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/86.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Alfa Mosalsalat
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/87.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/87.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Alfa Mosalsalat 2
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/88.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/88.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Alfa Safwa
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/89.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/89.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Ya Hala
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/90.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/90.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Ya Hala Aloula
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/91.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/91.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Ya Hala Cinema
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/92.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/92.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Action
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/93.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/93.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Comedy
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/94.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/94.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Enigma
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/95.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/95.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Movies
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/96.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/96.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Star Movies
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/97.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/97.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Star World
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/98.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/98.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Series First
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/99.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/99.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Movies First
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/100.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/100.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Movies First +2
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/101.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/101.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Binge
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/103.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/103.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="MY HD",=====MY HD========
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Art Aflam 1
@@ -307,93 +307,93 @@ https://p-mysat-live.ercdn.net/tarabtv/tarabtv_576p.m3u8
 https://p-mysat-live.ercdn.net/artvariety/artvariety_576p.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , My Cinema
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/164.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/164.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Fox Rewayat
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/165.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/165.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Fox Life
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/166.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/166.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Fox Action
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/167.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/167.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Fox Crime
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/168.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/168.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="KIDS",=====KIDS========
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Woody
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/490.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/490.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Smurfs
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/491.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/491.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Teletabbies
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/492.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/492.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Road Runner
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/493.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/493.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Pakdam Pakdai
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/494.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/494.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Mash & The Bear
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/495.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/495.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Sponge Bob
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/496.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/496.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Pink Panther
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/497.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/497.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Mr Bean
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/498.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/498.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Hekayat
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/169.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/169.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Tom & Jerry
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/170.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/170.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Shaun The sheep
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/171.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/171.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Atfal wa Mawaheb
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/172.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/172.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Toyor Baby
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/173.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/173.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Space Toon
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/174.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/174.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Marah Tv
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/175.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/175.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , CN Arabia
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/177.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/177.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Baraeem
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/178.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/178.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Karamish
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/179.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/179.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Majed
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/180.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/180.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Taha
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/181.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/181.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Jeem
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/182.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/182.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Guli Bel Araby
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/184.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/184.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Duck Tv
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/185.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/185.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/RWFwhf" group-title="NEWS",=====NEWS========
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/FMuNVJ",Aljazeera
@@ -443,76 +443,76 @@ http://185.105.4.210:1935/nrt/ngrp:livestream_all/playlist.m3u8
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,IRQ: Iraqia Sport HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/221.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/221.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,IRQ: anb
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/547.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/547.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,IRQ: Al Sumaria
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/548.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/548.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,IRQ: Hona baghdad
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/549.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/549.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,EG: On E
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/248.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/248.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,EG: ON Sport
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/249.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/249.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,EG: ON Drama
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/250.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/250.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,EG: CBC
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/253.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/253.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,EG: CBC Drama
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/254.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/254.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,EG: CBC Extra News
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/255.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/255.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,EG: CBC Sofra
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/256.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/256.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,EG: DMC Drama
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/257.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/257.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,EG: DMC Live
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/258.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/258.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,KSA: KSA Sport 1
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/346.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/346.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,KSA: KSA Sport 2
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/347.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/347.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,GLF: ZEE Alwan
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/348.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/348.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,GLF: ZEE Aflam HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/349.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/349.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Doc: NAT GEO AR HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/406.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/406.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Doc: NAT GEO EN HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/407.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/407.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Doc: NAT GEO Wild HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/408.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/408.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Doc: NAT GEO Peopel HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/409.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/409.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Doc: Animal Planet
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/410.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/410.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Doc: Discovery
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/411.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/411.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Doc: Discovery Showc SE
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://raeed.ip1v.com:8082/live/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/hash=KPfZxvBOXN.ByRaeed.KaBiTfuUlK/412.m3u8
+http://raeed.ip1v.com:8082/live/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/hash=fcvcpARiLb.ByRaeed.bBrWRAntwm/412.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/fQkZGt",Nat Geo AD
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
