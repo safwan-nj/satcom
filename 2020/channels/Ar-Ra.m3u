@@ -63,26 +63,22 @@ http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/xZabzC" group-title="LEBANON",======LEBANON=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Ggp24v",MTV lebanon HD
-https://mysat-live.ercdn.net/mtvhd/mtvhd_720p.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/Ggp24v",MTV lebanon Backup
-https://mysat-live.ercdn.net/mtvlebanon/mtvlebanon.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Ggp24v",MTV lebanon
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:25461/live/hash=kSyRqpfQpi.ByRaeed.pENWtXOmxI/hash=kSyRqpfQpi.ByRaeed.pENWtXOmxI/542.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/7p4X8D",Aljadeed HD
-https://p-mysat-live.ercdn.net/aljadeed/aljadeed_720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/7p4X8D",Aljadeed
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:25461/live/hash=kSyRqpfQpi.ByRaeed.pENWtXOmxI/hash=kSyRqpfQpi.ByRaeed.pENWtXOmxI/543.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC HD
-https://mysat-live.ercdn.net/lbcinternational/lbcinternational_720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC
 http://51.15.3.161:8080/LDC/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC HD
 
-https://mysat-live.ercdn.net/lbchd/lbchd.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC Sat
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:25461/live/hash=kSyRqpfQpi.ByRaeed.pENWtXOmxI/hash=kSyRqpfQpi.ByRaeed.pENWtXOmxI/544.m3u8
@@ -100,26 +96,21 @@ https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/jBWNeU" group-title="ROTANA",======ROTANA=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/BoM2KE",Rotana cinema HD
-https://mysat-live.ercdn.net/rotanacinema/rotanacinema_720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/BoM2KE",Rotana cinema
 https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HseSATn8VVU/hqdefault.jpg",Rotana Comedy HD
-https://mysat-live.ercdn.net/rotanacomedy/rotanacomedy_720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HseSATn8VVU/hqdefault.jpg",Rotana Comedy
 https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8
-#EXTINF: tvg-logo="https://i1.wp.com/www.elmshaher.com/wp-content/uploads/2018/05/drama-e1525730543854.png", Rotana Drama HD
-https://mysat-live.ercdn.net/rotanadrama/rotanadrama_720p.m3u8
+
 #EXTINF: tvg-logo="https://i1.wp.com/www.elmshaher.com/wp-content/uploads/2018/05/drama-e1525730543854.png", Rotana Drama
 https://rotana.hibridmedia.com/rotana/drama_dabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/gArRB3",Rotana classic HD
-https://mysat-live.ercdn.net/rotanaclassic/rotanaclassic_720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/gArRB3",Rotana classic
 https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
 #EXTINF: tvg-logo="http://jawaltv.com/images/ar/rkh.png", Rotana Khalijia
 https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
-#EXTINF: tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png",Rotana Kids HD
-https://mysat-live.ercdn.net/rotanakids/rotanakids_720p.m3u8
+
 #EXTINF: tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png",Rotana Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/be4Nzd" group-title="Bein Movies",======Bein Movies=======
@@ -154,32 +145,7 @@ http://144.76.102.19:25461/live/hash=kSyRqpfQpi.ByRaeed.pENWtXOmxI/hash=kSyRqpfQ
 
 #EXTINF:-1 tvg-logo="https://goo.gl/GwZKWD" group-title="MBC HD ",======MBC HD=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/e3gMb1" ,MBC 1 HD
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/FDvujj",MBC 2 HD
-https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
-#EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/m3.png",MBC 3
-https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/jjAQdb",MBC 4 HD
-https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
-#EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/m5.png",MBC 5 HD
-https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/Qh3mL7" ,MBC Action HD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/bKW5Xm" ,MBC Max HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/TPNedw",MBC Bollywood HD
-https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama HD
-https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama Plus HD
-https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/yXPF9L",MBC Masr HD
-https://shls-masr-prod.shahid.net/masr-prod.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Masr 2 HD
-https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Iraq HD
-https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama Plus HD
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:25461/live/hash=kSyRqpfQpi.ByRaeed.pENWtXOmxI/hash=kSyRqpfQpi.ByRaeed.pENWtXOmxI/48.m3u8
