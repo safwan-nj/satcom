@@ -30,9 +30,9 @@ http://82.137.248.16:1935/Nour/stream10112020/playlist.m3u8
 http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Syria
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://stream.sama-tv.net:8080/hls/samatv.m3u8
 
-http://blacktvone.net:2095/live/arzmztmuydbdrnrell/O8G7fwqYn8/76
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama HD
 #EXTVLCOPT:http-user-agent=RaeedTv
 
