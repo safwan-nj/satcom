@@ -29,8 +29,6 @@ http://82.137.248.16:1935/Nour/stream10112020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama
 http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Syria
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama HD
@@ -156,31 +154,32 @@ http://144.76.102.19:25461/live/hash=ZYCKniGESF.ByRaeed.DcbMOBlhNF/hash=ZYCKniGE
 #EXTINF:-1 tvg-logo="https://goo.gl/GwZKWD" group-title="MBC HD ",======MBC HD=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/e3gMb1" ,MBC 1 HD
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
+
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/59.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/FDvujj",MBC 2 HD
-https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/58.m3u8
 #EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/m3.png",MBC 3
-https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/57.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/jjAQdb",MBC 4 HD
-https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/56.m3u8
 #EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/m5.png",MBC 5 HD
-https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/55.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Qh3mL7" ,MBC Action HD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/51.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/bKW5Xm" ,MBC Max HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/52.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/TPNedw",MBC Bollywood HD
-https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/47.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama HD
-https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/54.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama Plus HD
-https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/53.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/yXPF9L",MBC Masr HD
-https://shls-masr-prod.shahid.net/masr-prod.m3u8
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/50.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Masr 2 HD
-https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/49.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Iraq HD
-https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/48.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama Plus HD
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:25461/live/hash=ZYCKniGESF.ByRaeed.DcbMOBlhNF/hash=ZYCKniGESF.ByRaeed.DcbMOBlhNF/48.m3u8
@@ -290,23 +289,23 @@ http://144.76.102.19:25461/live/hash=ZYCKniGESF.ByRaeed.DcbMOBlhNF/hash=ZYCKniGE
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="MY HD",=====MY HD========
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Art Aflam 1
-https://p-mysat-live.ercdn.net/artaflam1/artaflam1_576p.m3u8
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/94.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Art Aflam 2
-https://p-mysat-live.ercdn.net/artaflam2/artaflam2_576p.m3u8
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/95.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Art America
-https://p-mysat-live.ercdn.net/artamerica/artamerica_576p.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Art Cinema
-https://p-mysat-live.ercdn.net/artcinema/artcinema_576p.m3u8
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/96.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Art Hekayat 1
-https://p-mysat-live.ercdn.net/arthekayat/arthekayat_576p.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Art Hekayat 2
-https://p-mysat-live.ercdn.net/arthekayat2/arthekayat2_576p.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Art Movies
-https://p-mysat-live.ercdn.net/artmovies/artmovies_576p.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Art Tarab
-https://p-mysat-live.ercdn.net/tarabtv/tarabtv_576p.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Art Variety
-https://p-mysat-live.ercdn.net/artvariety/artvariety_576p.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , My Cinema
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:25461/live/hash=ZYCKniGESF.ByRaeed.DcbMOBlhNF/hash=ZYCKniGESF.ByRaeed.DcbMOBlhNF/164.m3u8
@@ -322,6 +321,33 @@ http://144.76.102.19:25461/live/hash=ZYCKniGESF.ByRaeed.DcbMOBlhNF/hash=ZYCKniGE
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Fox Crime
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:25461/live/hash=ZYCKniGESF.ByRaeed.DcbMOBlhNF/hash=ZYCKniGESF.ByRaeed.DcbMOBlhNF/168.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SHOOF MAX 1
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/79.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SHOOF MAX 2
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/80.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SHOOF MAX 3
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/81.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SHOOF MAX 4
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/87.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SHOOF MAX 5
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/88.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SHOOF MAX 6
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/89.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,SHOOF MAX 7
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/108.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Star Movies
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/90.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Netflix action
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/67.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Netflix horror
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/68.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Netflix Comedy
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/69.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Netflix  Drama
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/70.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="KIDS",=====KIDS========
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Woody
