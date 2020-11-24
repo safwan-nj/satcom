@@ -30,7 +30,7 @@ http://82.137.248.16:1935/Nour/stream10112020/playlist.m3u8
 http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Syria
 #EXTVLCOPT:http-user-agent=shahid.sat/10.0
-
+http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/21.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama HD
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://rv.therevenge.co:80/0555141902/3893970296/86568
@@ -1128,48 +1128,7 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Marah FM
 
 http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , MBC
 
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , MBC 2 HD
-
-https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , MBC 3
-
-https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , MBC 4
-
-https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , MBC 5
-
-https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , MBC Action HD
-
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , MBC Bollywood
-
-https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , MBC Drama
-
-https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , MBC Drama+
-
-https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , MBC FM
-
-https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , MBC Iraq
-
-https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , MBC Masr 1
-
-https://shls-masr-prod.shahid.net/masr-prod.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , MBC Masr 2
-
-https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , MBC Max HD
-
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Medi 1 TV Arabic
 
 https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8
@@ -1254,19 +1213,7 @@ https://593fa17dec176.streamlock.net/rasdtv/rasdtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Ro'ya TV
 
 https://roya-live.ercdn.net/roya/roya.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Rotana Cinema HD
 
-https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Rotana Classic HD
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Rotana Comedy HD
-
-8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Rotana Drama HD
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Rotana Khalijia HD
 
 
 
@@ -1306,9 +1253,7 @@ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Sky News Arabia
 
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Souryana Radio
 
-http://82.137.248.16:1935/Souryana/stream31122019/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Spacetoon
 
 https://shls-spacetoon-next.shahid.net/spacetoon-nextologies.m3u8
@@ -1324,21 +1269,8 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Sudan TV
 
 https://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Syria Drama
 
-http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Syria Satellite Channel
 
-http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Syria TV
-
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Syrian Education TV
-
-http://82.137.248.16:1935/SEdu/stream31122019/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Syrian News Channel
-
-http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Taha TV
 
 https://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
@@ -1405,9 +1337,9 @@ http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://alfajertv.com/live/assets/images/logo.png",Alfajer 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 #EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Iqraa
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/3c207f46f0.m3u8
+
 #EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Al Risala
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/faec74be6e.m3u8
+
 #EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Sunnah
 
 #EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Saudi Quraan
@@ -1415,7 +1347,7 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Alquatami Quran
 http://ayat.live.net.sa:1935/live/qotami/playlist.m3u8  
 #EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Eyaka Naabudu wa Eyaka Nastain
-http://livecdnh3.tvanywhere.ae/hls/majd/04.m3u8
+
 #EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Al Fat'h
 https://svs.itworkscdn.net/alfatehlive/fatehtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.kolalnastv.com/wp-content/uploads/2016/04/KolalnastvLogo.jpg",Kul Alnas
