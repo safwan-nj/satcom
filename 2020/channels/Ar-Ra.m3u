@@ -33,7 +33,7 @@ http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
 http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/21.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-
+http://rv.therevenge.co:80/0555141902/3893970296/86568
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama HD2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
@@ -155,31 +155,76 @@ http://144.76.102.19:25461/live/hash=EGZCETyxyB.ByRaeed.rTXtXlXqYm/hash=EGZCETyx
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/e3gMb1" ,MBC 1 HD
 
-http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/59.m3u8
+http://rv.therevenge.co:80/0555141902/3893970296/79478
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/FDvujj",MBC 2 HD
-http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/58.m3u8
+
+http://rv.therevenge.co:80/0555141902/3893970296/79477
+
 #EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/m3.png",MBC 3
-http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/57.m3u8
+
+
+http://rv.therevenge.co:80/0555141902/3893970296/79476
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/jjAQdb",MBC 4 HD
-http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/56.m3u8
+
+
+http://rv.therevenge.co:80/0555141902/3893970296/79475
+
+
 #EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/m5.png",MBC 5 HD
-http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/55.m3u8
+
+http://rv.therevenge.co:80/0555141902/3893970296/79474
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/Qh3mL7" ,MBC Action HD
-http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/51.m3u8
+
+http://rv.therevenge.co:80/0555141902/3893970296/79473
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/bKW5Xm" ,MBC Max HD
-http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/52.m3u8
+
+http://rv.therevenge.co:80/0555141902/3893970296/79472
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/TPNedw",MBC Bollywood HD
-http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/47.m3u8
+
+
+http://rv.therevenge.co:80/0555141902/3893970296/79470
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama HD
-http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/54.m3u8
+
+http://rv.therevenge.co:80/0555141902/3893970296/79471
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama Plus HD
 http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/53.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/yXPF9L",MBC Masr HD
-http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/50.m3u8
+
+
+http://rv.therevenge.co:80/0555141902/3893970296/79463
+
 #EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Masr 2 HD
-http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/49.m3u8
+
+http://rv.therevenge.co:80/0555141902/3893970296/79464
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Iraq HD
-http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/48.m3u8
+
+http://rv.therevenge.co:80/0555141902/3893970296/79469
+#EXTINF:-1,|AR| B4U AFLAM
+http://rv.therevenge.co:80/0555141902/3893970296/79468
+#EXTINF:-1,|AR| B4U PLUS
+http://rv.therevenge.co:80/0555141902/3893970296/79467
+#EXTINF:-1,|AR| ZEE ALWAN
+http://rv.therevenge.co:80/0555141902/3893970296/79466
+#EXTINF:-1,|AR| ZEE AFLAM
+http://rv.therevenge.co:80/0555141902/3893970296/79465
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama Plus HD
 #EXTVLCOPT:http-user-agent=RaeedTv
 http://144.76.102.19:25461/live/hash=EGZCETyxyB.ByRaeed.rTXtXlXqYm/hash=EGZCETyxyB.ByRaeed.rTXtXlXqYm/48.m3u8
