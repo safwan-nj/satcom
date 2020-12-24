@@ -30,10 +30,10 @@ http://82.137.248.16:1935/Nour/stream10112020/playlist.m3u8
 http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Syria
 #EXTVLCOPT:http-user-agent=shahid.sat/10.0
-http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/21.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama HD
 #EXTVLCOPT:http-user-agent=RaeedTv
-http://rv.therevenge.co:80/0555141902/3893970296/86568
+http://stream.sama-tv.net:8080/hls/samatv.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama HD2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
@@ -42,7 +42,7 @@ https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana
 
 #EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
-http://rv.therevenge.co:80/0555141902/3893970296/86566
+https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ugarit HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
