@@ -38,7 +38,7 @@ http://rv.therevenge.co:80/0555141902/3893970296/86568
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana HD
-http://rv.therevenge.co:80/0555141902/3893970296/86567
+https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana
 
 #EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
@@ -72,20 +72,20 @@ http://rv.therevenge.co:80/0555141902/3893970296/86546
 #EXTINF:-1 tvg-logo="https://goo.gl/7p4X8D",Aljadeed
 http://rv.therevenge.co:80/0555141902/3893970296/86545
 #EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC HD
-
+https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC
-http://51.15.3.161:8080/LDC/index.m3u8?token=test
+	
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC HD
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC Sat
-http://rv.therevenge.co:80/0555141902/3893970296/86548
+https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_240p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC 2
 http://rv.therevenge.co:80/0555141902/3893970296/86524
 #EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC Int
 http://rv.therevenge.co:80/0555141902/3893970296/86536
 #EXTINF:-1 tvg-logo="http://www.akkarpress.com/wp-content/uploads/2014/08/IMG_9570.jpg" ,TL Lebanon
-http://rv.therevenge.co:80/0555141902/3893970296/86534
+http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/mVMJx4",OTV
 
 http://rv.therevenge.co:80/0555141902/3893970296/86544
@@ -96,7 +96,7 @@ https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/BoM2KE",Rotana cinema
 https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HseSATn8VVU/hqdefault.jpg",Rotana Comedy HD
-
+https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HseSATn8VVU/hqdefault.jpg",Rotana Comedy
 https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8
 #EXTINF: tvg-logo="https://i1.wp.com/www.elmshaher.com/wp-content/uploads/2018/05/drama-e1525730543854.png", Rotana Drama HD
@@ -138,78 +138,78 @@ http://rv.therevenge.co:80/0555141902/3893970296/78831
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/e3gMb1" ,MBC 1 HD
 
-http://rv.therevenge.co:80/0555141902/3893970296/79478
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/FDvujj",MBC 2 HD
 
-http://rv.therevenge.co:80/0555141902/3893970296/79477
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/m3.png",MBC 3
 
 
-http://rv.therevenge.co:80/0555141902/3893970296/79476
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/jjAQdb",MBC 4 HD
 
 
-http://rv.therevenge.co:80/0555141902/3893970296/79475
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/m5.png",MBC 5 HD
 
-http://rv.therevenge.co:80/0555141902/3893970296/79474
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Qh3mL7" ,MBC Action HD
 
-http://rv.therevenge.co:80/0555141902/3893970296/79473
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/bKW5Xm" ,MBC Max HD
 
-http://rv.therevenge.co:80/0555141902/3893970296/79472
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/TPNedw",MBC Bollywood HD
 
 
-http://rv.therevenge.co:80/0555141902/3893970296/79470
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama HD
 
-http://rv.therevenge.co:80/0555141902/3893970296/79471
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama Plus HD
-http://sarhantv.myq-see.com:25461/live/100users/7daysonly2/53.m3u8
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/yXPF9L",MBC Masr HD
 
 
-http://rv.therevenge.co:80/0555141902/3893970296/79463
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Masr 2 HD
 
-http://rv.therevenge.co:80/0555141902/3893970296/79464
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Iraq HD
 
-http://rv.therevenge.co:80/0555141902/3893970296/79469
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1,|AR| B4U AFLAM
-http://rv.therevenge.co:80/0555141902/3893970296/79468
+
 #EXTINF:-1,|AR| B4U PLUS
-http://rv.therevenge.co:80/0555141902/3893970296/79467
+
 #EXTINF:-1,|AR| ZEE ALWAN
-http://rv.therevenge.co:80/0555141902/3893970296/79466
+
 #EXTINF:-1,|AR| ZEE AFLAM
-http://rv.therevenge.co:80/0555141902/3893970296/79465
+
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama Plus HD
-http://rv.therevenge.co:80/0555141902/3893970296/79449
+
 #EXTINF:-1 tvg-logo="https://goldtv.tv/icons/mbc-variety.png", MBC Variety HD
 
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="OSN HD",=====OSN HD========
