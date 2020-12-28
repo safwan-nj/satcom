@@ -38,13 +38,14 @@ http://stream.sama-tv.net:8080/hls/samatv.m3u8
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://iptvh.it/satcom-lana
+
 #EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana
 
 #EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +
-#EXTVLCOPT:http-user-agent=RaeedTv
-https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://iptvh.it/satcom-lanaplus
 #EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ugarit HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
@@ -417,7 +418,80 @@ http://rv.therevenge.co:80/0555141902/3893970296/78833
 
 #EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="KIDS",=====KIDS========
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|  باباي
+http://rv.therevenge.co:80/0555141902/3893970296/109792
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|  كونغ فو باندا
+http://rv.therevenge.co:80/0555141902/3893970296/109791
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|  ماوكلي
+http://rv.therevenge.co:80/0555141902/3893970296/109790
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| جراندايزر....
+http://rv.therevenge.co:80/0555141902/3893970296/109789
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|الكابتن ماجد
+http://rv.therevenge.co:80/0555141902/3893970296/109788
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| ماشا والدب
+http://rv.therevenge.co:80/0555141902/3893970296/109787
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|   sali
+http://rv.therevenge.co:80/0555141902/3893970296/109786
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| حكايات عالمية
+http://rv.therevenge.co:80/0555141902/3893970296/109785
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|  TOM SAYER
+http://rv.therevenge.co:80/0555141902/3893970296/109784
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| توم و جيري..
+http://rv.therevenge.co:80/0555141902/3893970296/109783
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|قصص الإنسان في القرآن
+http://rv.therevenge.co:80/0555141902/3893970296/109782
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX  Kung Fu Pandaكونغ فو باندا
+http://rv.therevenge.co:80/0555141902/3893970296/108593
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX  Popeye باباي
+http://rv.therevenge.co:80/0555141902/3893970296/108592
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX Mowgli  ماوكلو
+http://rv.therevenge.co:80/0555141902/3893970296/109769
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX  BATMAN
+http://rv.therevenge.co:80/0555141902/3893970296/108596
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX  BATTMAN
+http://rv.therevenge.co:80/0555141902/3893970296/108595
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|FLIX  ROBIN HOOD
+http://rv.therevenge.co:80/0555141902/3893970296/108597
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| MICKEY CHANNEL**
+http://rv.therevenge.co:80/0555141902/3893970296/109780
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| MODY KIDS**
+http://rv.therevenge.co:80/0555141902/3893970296/109779
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| JEEM KIDS HD**
+http://rv.therevenge.co:80/0555141902/3893970296/109778
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| ATFAL & MAWAHEB**
+http://rv.therevenge.co:80/0555141902/3893970296/109777
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| TAHA KIDS**
+http://rv.therevenge.co:80/0555141902/3893970296/109776
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| BARAEM KIDS HD**
+http://rv.therevenge.co:80/0555141902/3893970296/109775
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| HOD HOD TV**
+http://rv.therevenge.co:80/0555141902/3893970296/109774
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| AL MAJD KIDS HD**
+http://rv.therevenge.co:80/0555141902/3893970296/109773
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| SPACETOON***
+http://rv.therevenge.co:80/0555141902/3893970296/109772
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BARAEEM
+http://rv.therevenge.co:80/0555141902/3893970296/109793
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| CARTOON NETWORK**
+http://rv.therevenge.co:80/0555141902/3893970296/109771
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| TOYOR ALJANAH***
+http://rv.therevenge.co:80/0555141902/3893970296/109770
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX Goldrak جراندايزر...
+http://rv.therevenge.co:80/0555141902/3893970296/100373
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIXCapitain Majid الكابتن ماجد
+http://rv.therevenge.co:80/0555141902/3893970296/100376
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX Masha ,L' oursماشا والدب
+http://rv.therevenge.co:80/0555141902/3893970296/100377
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX  sali
+http://rv.therevenge.co:80/0555141902/3893970296/108589
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX Histoir Mondial حكايات عالمية
+http://rv.therevenge.co:80/0555141902/3893970296/100374
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX  TOM SAYER
+http://rv.therevenge.co:80/0555141902/3893970296/100372
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX Tom. Jerryتوم و جيري..
+http://rv.therevenge.co:80/0555141902/3893970296/100378
+#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX Histoir du Coran قصص الإنسان في القرآن
+http://rv.therevenge.co:80/0555141902/3893970296/100375
 #EXTINF:-1 tvg-logo="https://goo.gl/RWFwhf" group-title="NEWS",=====NEWS========
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/FMuNVJ",Aljazeera
