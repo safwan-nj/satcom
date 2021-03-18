@@ -9,1533 +9,650 @@ https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 
-#EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf",Syria Sattelite HD
 
-#EXTINF:-1 tvg-logo="https://goo.gl/ahWMhf",Syria Sattelite
-http://82.137.248.16:1935/Sat/stream10112020/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news HD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 
-#EXTINF:-1 tvg-logo="https://goo.gl/14sTKR",Syria news
-http://82.137.248.16:1935/Snews/stream10112020/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/eDtLda",Noor Alsham
-http://82.137.248.16:1935/Nour/stream10112020/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama HD
-
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/wsGL6Z",Syria drama
-http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama Syria
-#EXTVLCOPT:http-user-agent=shahid.sat/10.0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama HD
-#EXTVLCOPT:http-user-agent=RaeedTv
-http://stream.sama-tv.net:8080/hls/samatv.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/LY6LX9",Sama HD2
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana HD(mx.player)
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://iptvh.it/satcom-lana
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s2bep9",Lana
-
-#EXTINF:-1 tvg-logo="http://i-sat.tv/images/lana+.png",Lana +(mx.player)
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://iptvh.it/satcom-lanaplus
-#EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ugarit HD
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-
-#EXTINF:-1 tvg-logo="https://goo.gl/hkVXFD",Ugarit
-http://82.137.248.16:1935/Ugarit/stream10112020/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/VmQutr",Syrian Education
-http://82.137.248.16:1935/SEdu/stream10112020/chunklist_w1584833335.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/UT3KyH",Souryana HD
-http://82.137.248.16:1935/Souryana/stream10112020/playlist.m3u8
-#EXTINF:0 tvg-logo="https://goo.gl/EpsEdX",Souria Tv
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/R8GXvz",Halab-Today
-http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/4Uds7Q",ANN
-
-#EXTINF:-1 tvg-logo="https://goo.gl/xZabzC" group-title="LEBANON",======LEBANON=======
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Ggp24v",MTV lebanon HD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/Ggp24v",MTV lebanon Backup
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/Ggp24v",MTV lebanon
-http://rv.therevenge.co:80/0555141902/3893970296/86546
-#EXTINF:-1 tvg-logo="https://goo.gl/7p4X8D",Aljadeed HD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7p4X8D",Aljadeed
-http://rv.therevenge.co:80/0555141902/3893970296/86545
-#EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC HD
-https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_1080p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/caQVEk",LDC
-	
-#EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC HD
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC Sat
-https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_240p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC 2
-http://rv.therevenge.co:80/0555141902/3893970296/86524
-#EXTINF:-1 tvg-logo="https://goo.gl/xTZGyL",LBC Int
-http://rv.therevenge.co:80/0555141902/3893970296/86536
-#EXTINF:-1 tvg-logo="http://www.akkarpress.com/wp-content/uploads/2014/08/IMG_9570.jpg" ,TL Lebanon
-http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/mVMJx4",OTV
-
-http://rv.therevenge.co:80/0555141902/3893970296/86544
-#EXTINF:-1 tvg-logo="https://goo.gl/jBWNeU" group-title="ROTANA",======ROTANA=======
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/BoM2KE",Rotana cinema HD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/BoM2KE",Rotana cinema
-https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HseSATn8VVU/hqdefault.jpg",Rotana Comedy HD
-https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_1080p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HseSATn8VVU/hqdefault.jpg",Rotana Comedy
-https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8
-#EXTINF: tvg-logo="https://i1.wp.com/www.elmshaher.com/wp-content/uploads/2018/05/drama-e1525730543854.png", Rotana Drama HD
-
-#EXTINF: tvg-logo="https://i1.wp.com/www.elmshaher.com/wp-content/uploads/2018/05/drama-e1525730543854.png", Rotana Drama
-https://rotana.hibridmedia.com/rotana/drama_dabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/gArRB3",Rotana classic HD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/gArRB3",Rotana classic
-https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
-#EXTINF: tvg-logo="http://jawaltv.com/images/ar/rkh.png", Rotana Khalijia
-https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
-#EXTINF: tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png",Rotana Kids HD
-
-#EXTINF: tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png",Rotana Kids
-https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/be4Nzd" group-title="Bein Movies",======Bein Movies=======
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF: tvg-logo="https://goo.gl/uxALCg",Bein Movies 1 HD
-http://rv.therevenge.co:80/0555141902/3893970296/78819
-#EXTINF: tvg-logo="https://goo.gl/kX1WhA",Bein Movies 2 HD
-http://rv.therevenge.co:80/0555141902/3893970296/78818
-#EXTINF: tvg-logo="https://goo.gl/VXDGbA",Bein Movies 3 HD
-http://rv.therevenge.co:80/0555141902/3893970296/78817
-#EXTINF: tvg-logo="https://goo.gl/VXDGbA",Bein Movies 4 HD
-http://rv.therevenge.co:80/0555141902/3893970296/78816
-#EXTINF: tvg-logo="https://img.favpng.com/16/12/3/bein-series-logo-bein-channels-network-bein-media-group-bein-sports-1-png-favpng-JyV6yu7uV26Tbu1NLqQbwnMjS.jpg",Bein Series 1
-http://rv.therevenge.co:80/0555141902/3893970296/78837
-#EXTINF: tvg-logo="https://img.favpng.com/16/12/3/bein-series-logo-bein-channels-network-bein-media-group-bein-sports-1-png-favpng-JyV6yu7uV26Tbu1NLqQbwnMjS.jpg",Bein Series 2
-http://rv.therevenge.co:80/0555141902/3893970296/78836
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Bein Drama 1
-http://rv.therevenge.co:80/0555141902/3893970296/78835
-#EXTINF: tvg-logo="http://4.bp.blogspot.com/-wcM8YRaf9h8/U9qa6ojE9zI/AAAAAAAABFs/euyH1I_gTbw/s1600/Fatafeat+Tv+Live.png",Bein Fatafeat
-http://rv.therevenge.co:80/0555141902/3893970296/78828
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Bein Gourmet
-http://rv.therevenge.co:80/0555141902/3893970296/78831
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GwZKWD" group-title="MBC HD ",======MBC HD=======
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/e3gMb1" ,MBC 1 HD
-
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/FDvujj",MBC 2 HD
-
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/m3.png",MBC 3
-
-
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/jjAQdb",MBC 4 HD
-
-
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://jawaltv.com/images/ar/m5.png",MBC 5 HD
-
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/Qh3mL7" ,MBC Action HD
-
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/bKW5Xm" ,MBC Max HD
-
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TPNedw",MBC Bollywood HD
-
-
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama HD
-
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama Plus HD
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/yXPF9L",MBC Masr HD
-
-
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Masr 2 HD
-
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/oE89p7",MBC Iraq HD
-
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:-1,|AR| B4U AFLAM
-
-#EXTINF:-1,|AR| B4U PLUS
-
-#EXTINF:-1,|AR| ZEE ALWAN
-
-#EXTINF:-1,|AR| ZEE AFLAM
-
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/gpVZJG",MBC Drama Plus HD
-
-#EXTINF:-1 tvg-logo="https://goldtv.tv/icons/mbc-variety.png", MBC Variety HD
-
-#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="OSN HD",=====OSN HD========
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,
-
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , OSN: Alfa Alyoum
-http://rv.therevenge.co:80/0555141902/3893970296/78948
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Alfa Alyoum
-http://rv.therevenge.co:80/0555141902/3893970296/78902
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Alfa Cinema 1
-http://rv.therevenge.co:80/0555141902/3893970296/78922
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Alfa Cinema 2
-http://rv.therevenge.co:80/0555141902/3893970296/78921
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Alfa Fann
-http://rv.therevenge.co:80/0555141902/3893970296/78920
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Alfa Mosalsalat
-http://rv.therevenge.co:80/0555141902/3893970296/78924
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Alfa Mosalsalat 2
-http://rv.therevenge.co:80/0555141902/3893970296/78923
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Alfa Safwa
-http://rv.therevenge.co:80/0555141902/3893970296/78919
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Ya Hala
-http://rv.therevenge.co:80/0555141902/3893970296/78926
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Ya Hala Aloula
-http://rv.therevenge.co:80/0555141902/3893970296/78925
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Ya Hala Cinema
-http://rv.therevenge.co:80/0555141902/3893970296/78882
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Action
-http://rv.therevenge.co:80/0555141902/3893970296/78934
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Comedy
-http://rv.therevenge.co:80/0555141902/3893970296/78947
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Enigma
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Movies
-http://rv.therevenge.co:80/0555141902/3893970296/78917
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Star Movies
-http://rv.therevenge.co:80/0555141902/3893970296/78840
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Star World
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Series First
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Movies First
-http://rv.therevenge.co:80/0555141902/3893970296/78933
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Movies First +2
-http://rv.therevenge.co:80/0555141902/3893970296/78932
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Binge
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="OSN SD",=====OSN SD========
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| E!
-http://rv.therevenge.co:80/0555141902/3893970296/78874
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| DISNEY JUNIOR
-http://rv.therevenge.co:80/0555141902/3893970296/78873
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| H2
-http://rv.therevenge.co:80/0555141902/3893970296/78872
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| HISTORY CHANNEL
-http://rv.therevenge.co:80/0555141902/3893970296/78871
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| NAT GEO
-http://rv.therevenge.co:80/0555141902/3893970296/78870
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| NAT GEO PEOPLE
-http://rv.therevenge.co:80/0555141902/3893970296/78869
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| NAT GEO WILD
-http://rv.therevenge.co:80/0555141902/3893970296/78868
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| NICK JR
-http://rv.therevenge.co:80/0555141902/3893970296/78867
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| AL YAWM
-http://rv.therevenge.co:80/0555141902/3893970296/78865
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| COMEDY CENTRAL
-http://rv.therevenge.co:80/0555141902/3893970296/78864
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| DISCOVERY
-http://rv.therevenge.co:80/0555141902/3893970296/78863
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| DISCOVERY IDX
-http://rv.therevenge.co:80/0555141902/3893970296/78862
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| DISCOVERY SCIENCE
-http://rv.therevenge.co:80/0555141902/3893970296/78861
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| PARAMOUNT
-http://rv.therevenge.co:80/0555141902/3893970296/78866
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| DISNEY
-http://rv.therevenge.co:80/0555141902/3893970296/78860
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| DISNEY XD
-http://rv.therevenge.co:80/0555141902/3893970296/78859
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| ENIGMA
-http://rv.therevenge.co:80/0555141902/3893970296/78858
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| BINGE
-http://rv.therevenge.co:80/0555141902/3893970296/78857
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| NICKELODEON
-http://rv.therevenge.co:80/0555141902/3893970296/78856
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| LIVING
-http://rv.therevenge.co:80/0555141902/3893970296/78855
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| MEZZE
-http://rv.therevenge.co:80/0555141902/3893970296/78854
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| MOVIES
-http://rv.therevenge.co:80/0555141902/3893970296/78853
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| MOVIES ACTION
-http://rv.therevenge.co:80/0555141902/3893970296/78852
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| MOVIES FIRST
-http://rv.therevenge.co:80/0555141902/3893970296/78851
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| MOVIES FIRST+2
-http://rv.therevenge.co:80/0555141902/3893970296/78850
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| MOVIES KIDS
-http://rv.therevenge.co:80/0555141902/3893970296/78849
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| ON DEMAND
-http://rv.therevenge.co:80/0555141902/3893970296/78848
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| SERIES COMEDY
-http://rv.therevenge.co:80/0555141902/3893970296/78847
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| SERIES FIRST
-http://rv.therevenge.co:80/0555141902/3893970296/78846
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| YAHALA CINEMA
-http://rv.therevenge.co:80/0555141902/3893970296/78845
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| YAHALA
-http://rv.therevenge.co:80/0555141902/3893970296/78844
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| YAHALA OULA
-http://rv.therevenge.co:80/0555141902/3893970296/78843
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| SERIES CHANNEL
-http://rv.therevenge.co:80/0555141902/3893970296/78842
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| SERIES 2+
-http://rv.therevenge.co:80/0555141902/3893970296/78841
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|OSN|SD| SKY NEWS HD
-http://rv.therevenge.co:80/0555141902/3893970296/78839
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|  MOVIE HISTORY
-http://rv.therevenge.co:80/0555141902/3893970296/81144
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|  SAUDI QURAN FHD
-http://rv.therevenge.co:80/0555141902/3893970296/127562
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,AR: ART CINEMA
-http://rv.therevenge.co:80/0555141902/3893970296/144618
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,AR: ART AFLAM 1
-http://rv.therevenge.co:80/0555141902/3893970296/144617
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,AR: ART AFLAM 2
-http://rv.therevenge.co:80/0555141902/3893970296/144616
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,AR: ART HEKAYAT 1
-http://rv.therevenge.co:80/0555141902/3893970296/144615
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,AR: ART HEKAYAT 2
-http://rv.therevenge.co:80/0555141902/3893970296/144614
-
-#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="MY HD",=====MY HD========
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Art Aflam 1
-http://rv.therevenge.co:80/0555141902/3893970296/144617
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Art Aflam 2
-http://rv.therevenge.co:80/0555141902/3893970296/144616
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Art America
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Art Cinema
-http://rv.therevenge.co:80/0555141902/3893970296/144618
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Art Hekayat 1
-http://rv.therevenge.co:80/0555141902/3893970296/144615
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Art Hekayat 2
-http://rv.therevenge.co:80/0555141902/3893970296/144614
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Art Movies
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Art Tarab
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,Art Variety
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , My Cinema
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Fox Rewayat
-http://rv.therevenge.co:80/0555141902/3893970296/78826
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Fox
-http://rv.therevenge.co:80/0555141902/3893970296/78827
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Fox Action
-http://rv.therevenge.co:80/0555141902/3893970296/78833
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Fox Crime
-
-
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="KIDS",=====KIDS========
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|  باباي
-http://rv.therevenge.co:80/0555141902/3893970296/109792
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|  كونغ فو باندا
-http://rv.therevenge.co:80/0555141902/3893970296/109791
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|  ماوكلي
-http://rv.therevenge.co:80/0555141902/3893970296/109790
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| جراندايزر....
-http://rv.therevenge.co:80/0555141902/3893970296/109789
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|الكابتن ماجد
-http://rv.therevenge.co:80/0555141902/3893970296/109788
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| ماشا والدب
-http://rv.therevenge.co:80/0555141902/3893970296/109787
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|   sali
-http://rv.therevenge.co:80/0555141902/3893970296/109786
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| حكايات عالمية
-http://rv.therevenge.co:80/0555141902/3893970296/109785
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|  TOM SAYER
-http://rv.therevenge.co:80/0555141902/3893970296/109784
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| توم و جيري..
-http://rv.therevenge.co:80/0555141902/3893970296/109783
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|قصص الإنسان في القرآن
-http://rv.therevenge.co:80/0555141902/3893970296/109782
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX  Kung Fu Pandaكونغ فو باندا
-http://rv.therevenge.co:80/0555141902/3893970296/108593
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX  Popeye باباي
-http://rv.therevenge.co:80/0555141902/3893970296/108592
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX Mowgli  ماوكلو
-http://rv.therevenge.co:80/0555141902/3893970296/109769
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX  BATMAN
-http://rv.therevenge.co:80/0555141902/3893970296/108596
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX  BATTMAN
-http://rv.therevenge.co:80/0555141902/3893970296/108595
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR|FLIX  ROBIN HOOD
-http://rv.therevenge.co:80/0555141902/3893970296/108597
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| MICKEY CHANNEL**
-http://rv.therevenge.co:80/0555141902/3893970296/109780
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| MODY KIDS**
-http://rv.therevenge.co:80/0555141902/3893970296/109779
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| JEEM KIDS HD**
-http://rv.therevenge.co:80/0555141902/3893970296/109778
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| ATFAL & MAWAHEB**
-http://rv.therevenge.co:80/0555141902/3893970296/109777
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| TAHA KIDS**
-http://rv.therevenge.co:80/0555141902/3893970296/109776
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| BARAEM KIDS HD**
-http://rv.therevenge.co:80/0555141902/3893970296/109775
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| HOD HOD TV**
-http://rv.therevenge.co:80/0555141902/3893970296/109774
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| AL MAJD KIDS HD**
-http://rv.therevenge.co:80/0555141902/3893970296/109773
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| SPACETOON***
-http://rv.therevenge.co:80/0555141902/3893970296/109772
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,BARAEEM
-http://rv.therevenge.co:80/0555141902/3893970296/109793
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| CARTOON NETWORK**
-http://rv.therevenge.co:80/0555141902/3893970296/109771
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| TOYOR ALJANAH***
-http://rv.therevenge.co:80/0555141902/3893970296/109770
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX Goldrak جراندايزر...
-http://rv.therevenge.co:80/0555141902/3893970296/100373
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIXCapitain Majid الكابتن ماجد
-http://rv.therevenge.co:80/0555141902/3893970296/100376
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX Masha ,L' oursماشا والدب
-http://rv.therevenge.co:80/0555141902/3893970296/100377
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX  sali
-http://rv.therevenge.co:80/0555141902/3893970296/108589
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX Histoir Mondial حكايات عالمية
-http://rv.therevenge.co:80/0555141902/3893970296/100374
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX  TOM SAYER
-http://rv.therevenge.co:80/0555141902/3893970296/100372
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX Tom. Jerryتوم و جيري..
-http://rv.therevenge.co:80/0555141902/3893970296/100378
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" ,|AR| FLIX Histoir du Coran قصص الإنسان في القرآن
-http://rv.therevenge.co:80/0555141902/3893970296/100375
-#EXTINF:-1 tvg-logo="https://goo.gl/RWFwhf" group-title="NEWS",=====NEWS========
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FMuNVJ",Aljazeera
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/ApfiLZ",Al Jazeera Mubashir
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/1qk56w",Alarabiyia
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/1qk56w",Alarabiyia 2
-https://shls-alarabiya-prod.shahid.net/alarabiya-prod.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/HhuU7u",Alhadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/HhuU7u",Alhadath 2
-https://shls-hadath-prod.shahid.net/hadath-prod.m3u8
-#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Al-Alam_logo.svg/1200px-Al-Alam_logo.svg.png",Al Alam 
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/ee4c652635.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/YK24WH",RT Arabic
-https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
-#EXTINF: tvg-logo="https://goo.gl/fETVF3",france 24
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/A2JyoY",BBC
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/153a1cf0ed.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/3cD6iH",Skynews
-https://stream.skynewsarabia.com/hls/sna_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/3cD6iH",Skynews S2
-http://162.210.195.121:8080/skynewshd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/2cbBPh",cnbc arabia
-https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/bcnD4P",Deutsche Welle
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/bcnD4P",DW Arabiya
-https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/7gqvUF",TRT
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/rciY3d",Al Hurra
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/yHjvoP",alaraby
-http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/iZjucR",NRT Arabiya
-http://185.105.4.210:1935/nrt/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/CVxXGN",Al Hiwar
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Saudi News
-
-#EXTINF:-1 tvg-logo="https://goo.gl/t4h9Eo" group-title="Other Arabic",=====Other Arabic========
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/fQkZGt",Nat Geo AD
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , 22 TV
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/m5cc4g5.png" tvg-country="SA" tvg-url="" group-title="General",22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , 2M Monde
-
+#EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/CwwRn4b.png" tvg-country="MA" tvg-url="" group-title="General",2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , 3eesh Al Aan TV
-
-http://52.31.121.58/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , ABNsat
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" tvg-country="AE" tvg-url="" group-title="General",3eesh Al Aan TV
+https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="Religious",7 Stars
+http://82.212.74.3:8000/live/hls/7506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" tvg-country="IQ" tvg-url="" group-title="General",ABNsat
 http://rtmp1.abnsat.com/hls/arabic.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Abu Dhabi Drama
-
+#EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Abu Dhabi Drama
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Abu Dhabi Sports 1
-
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 1 ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Abu Dhabi Sports 2
-
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Abu Dhabi Sports 3
-
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 3 ARB" tvg-name="Abu Dhabi Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Abu Dhabi Sports 4
-
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 4 ARB" tvg-name="Abu Dhabi Sports 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VqomZ5.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 4
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Abu Dhabi TV
-
+#EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Abu Dhabi TV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Aden TV
-
-https://master.starmena-cloud.com/hls/aden.m3u8?v=2957056943
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Africa TV1
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KJTEVbf.png" tvg-country="YE" tvg-url="" group-title="General",Aden TV
+https://master.starmena-cloud.com/hls/aden.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vn9jvdV.png" tvg-country="SD" tvg-url="" group-title="General",Africa TV1
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Africa TV2
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vn9jvdV.png" tvg-country="SD" tvg-url="" group-title="General",Africa TV2
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Africa TV3
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vn9jvdV.png" tvg-country="SD" tvg-url="" group-title="General",Africa TV3
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Ahl-Alquran TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://aghaniaghani.com/images/logo.png" tvg-country="LB" tvg-url="" group-title="Music",Aghani Aghani
+https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" tvg-country="EG" tvg-url="" group-title="Religious",Aghapy TV
+https://5d12bc59c4748.streamlock.net/redirect/aghapy.tv/aghapy.smil?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lckbSZB.png" tvg-country="SA" tvg-url="" group-title="Religious",Ahl-Alquran TV
 https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Ajyal TV
-
+#EXTINF:-1 tvg-id="Ajyal TV ARB" tvg-name="Ajyal TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" tvg-country="PS" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Aan TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6WiXPd9.png" tvg-country="AE" tvg-url="" group-title="General",Al Aan TV
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Alam
-
-http://live2.alalam.ir/live/Alalam_high/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Alam
-
+#EXTINF:-1 tvg-id="" tvg-name="Al Alam" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="News",Al Alam
 https://live2.alalamtv.net/live/Alalam/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Alamiya
-
-http://82.212.74.100:8000/live/hls/8950.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Alamiya 2
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://jascotvstreaming.com/uploads/topics/15592492499912.jpg" tvg-country="SD" tvg-url="" group-title="General",Al Alamiya 2
 http://82.212.74.98:8000/live/7815.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Aoula
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" tvg-country="MA" tvg-url="" group-title="General",Al Aoula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Aoula Laayoune
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" tvg-country="MA" tvg-url="" group-title="General",Al Aoula Laayoune
 http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Aoula Laayoune
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" tvg-country="MA" tvg-url="" group-title="General",Al Aoula Laayoune
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Aqsa Channel
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" tvg-country="PS" tvg-url="" group-title="General",Al Aqsa Channel
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Arabiya
-
+#EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Arabiya
-
-https://shls-alarabiya-prod.shahid.net/alarabiya-prod.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Arabiya Al Hadath
-
+#EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Arabiya
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya Al Hadath ARB" tvg-name="Al Arabiya Al Hadath ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Arabiya Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Arabiya Al Hadath
-
-https://shls-hadath-prod.shahid.net/hadath-prod.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Araby
-
+#EXTINF:-1 tvg-id="Al Arabiya Al Hadath ARB" tvg-name="Al Arabiya Al Hadath ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Arabiya Al Hadath
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LNI1HNi.png" tvg-country="UK" tvg-url="" group-title="News",Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Fallujah
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png" tvg-country="AE" tvg-url="" group-title="General",Al Dhafra TV
+https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.alfallujah.tv/sites/all/themes/progressive/progressive_sub/logo.png" tvg-country="IQ" tvg-url="" group-title="General",Al Fallujah
 https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Fath TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hbC1X9B.png" tvg-country="EG" tvg-url="" group-title="General",Al Fath TV
 https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Hadath
-
-https://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Hayat
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9HocMyE.jpg" tvg-country="EG" tvg-url="" group-title="General",Al Hayat
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Hiwar
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ooiJwD5.png" tvg-country="UK" tvg-url="" group-title="General",Al Hiwar
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , AL HOKAIR Group TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://jascotvstreaming.com/uploads/topics/15819734874770.jpg" tvg-country="SA" tvg-url="" group-title="General",AL HOKAIR Group TV
 http://82.212.74.3:8000/live/7513.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Horreya TV
-
+#EXTINF:-1 tvg-id="" tvg-name="Al Horreya TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VCfZB73.png" tvg-country="US" tvg-url="" group-title="Religious",Al Horreya TV
 http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Horreya TV
-
+#EXTINF:-1 tvg-id="" tvg-name="Al Horreya TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VCfZB73.png" tvg-country="US" tvg-url="" group-title="Religious",Al Horreya TV
 http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Hurra
-
+#EXTINF:-1 tvg-id="Al Hurra ARB" tvg-name="Al Hurra ARB" tvg-language="Arabic" tvg-logo="https://gdb.alhurra.eu/C4BE79AD-607A-4EBA-8449-7CC6E2B12566_w1200_r1_s.jpg" tvg-country="IQ" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Hurra
 https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Hurra
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GRl09vk.jpg" tvg-country="US" tvg-url="" group-title="News",Al Hurra
 https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Hurra Iraq
-
+#EXTINF:-1 tvg-id="Al Hurra Iraq ARB" tvg-name="Al Hurra Iraq ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8EmVL2d.jpg" tvg-country="IQ" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Hurra Iraq
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Iraqiya Al 3ama
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Iraqiya Al 3ama
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Iraqiya News
-
+#EXTINF:-1 tvg-id="" tvg-name="Al Iraqiya TV ARB" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" tvg-country="IQ" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Iraqiya News
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Istiqama TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/H7D7dmK.png" tvg-country="OM" tvg-url="" group-title="Religious",Al Istiqama TV
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Jazeera Arabic
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://alittihad.tv/assets/images/logo.png" tvg-country="LB" tvg-url="" group-title="General",Al Ittihad
+https://live.alittihad.tv/ittihad/index.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Arabic ARB" tvg-name="Al Jazeera Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" tvg-country="QA" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Jazeera Mubasher
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/El2hhYb.png" tvg-country="QA" tvg-url="" group-title="Education",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" tvg-country="QA" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Kass Sports 1
-
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1laoGlw/master.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Kass Sports 2
-
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2baIzzy/master.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Kass Sports 4
-
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjeApo/master.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Kass Sports 5
-
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Zpgdua/master.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Khalij
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.alkass.net/alkass/assets/images/logo.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Online
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlmtuyvwjhd/master.m3u8
+#EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Al Kass Sports 1
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vytrsvjs5r/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 2
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2msfjofcxcw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 4
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fincy/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 5
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5pve/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="IR" tvg-url="" group-title="General",Al Kawthar TV
+http://178.252.143.156:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" tvg-country="SA" tvg-url="" group-title="General",Al Khalij
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Maaref TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qeWaLeX.jpg" tvg-country="KW" tvg-url="" group-title="General",Al Maaref TV
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Magharibia
-
-https://api.new.livestream.com/accounts/7861901/events/6247367/live.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Maghribia
-
+#EXTINF:-1 tvg-id="Al Maghribia ARB" tvg-name="Al Maghribia ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZlmQSBl.png" tvg-country="MA" tvg-url="" group-title="General",Al Maghribia
 http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Maghribia
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZlmQSBl.png" tvg-country="MA" tvg-url="" group-title="General",Al Maghribia
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Mahd
-
-http://vstream3.hadara.ps:8081/Almahed/Almahed/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Mahrah
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/almahrah-tv-ye.png" tvg-country="YE" tvg-url="" group-title="General",Al Mahrah
 http://82.212.74.99:8000/live/hls/8173.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Mamlaka TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6njRt6c.png" tvg-country="JO" tvg-url="" group-title="General",Al Mamlaka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Manar
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dmDzNQO.png" tvg-country="LB" tvg-url="" group-title="MBC",Al Manar
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Masirah
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/poHvbNV.jpg" tvg-country="YE" tvg-url="" group-title="General",Al Masirah
 https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Masirah Mubacher
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" tvg-country="YE" tvg-url="" group-title="General",Al Masirah Mubacher
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Mayadeen
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" tvg-country="LB" tvg-url="" group-title="MBC",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Quran Al Kareem (Mecca)
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" tvg-country="SA" tvg-url="" group-title="Religious",Al Quran Al Kareem (Mecca)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Quran Al Kareem (Mecca)
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" tvg-country="SA" tvg-url="" group-title="Religious",Al Quran Al Kareem (Mecca)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Rafidain
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://alrafidain.org/style/assets/imgs/logo.png" tvg-country="IQ" tvg-url="" group-title="General",Al Rafidain
 http://cdn.edge.tmed.pw/arrafidaintv/abr_live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Rafidain HQ
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x5buqzt.jpg" tvg-country="IQ" tvg-url="" group-title="General",Al Rafidain HQ
 http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Rasheed
-
-http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Rayyan
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://alrasheedmedia.com/wp-content/themes/alrasheedv4/alr-logo.png" tvg-country="IQ" tvg-url="" group-title="General",Al Rasheed
+http://livedroos.com:8080/live/alrashid_1mbps/index.m3u8
+#EXTINF:-1 tvg-id="Al Rayan ARB" tvg-name="Al Rayan ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uQMoKXn.png" tvg-country="QA" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Al Rayyan
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Rayyan Al Qadeem
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/mVwHGbc.png" tvg-country="QA" tvg-url="" group-title="General",Al Rayyan Al Qadeem
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Resalah HD
-
+#EXTINF:-1 tvg-id="Al Resalah TV ARB" tvg-name="Al Resalah TV ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/resala.png" tvg-country="SA" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Al Resalah HD
 https://rotana.hibridmedia.com/rotana/risala_dabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Sharq
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://elsharq.tv/img/elsharq.png" tvg-country="EG" tvg-url="" group-title="General",Al Sharq
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Sharqiya
-
+#EXTINF:-1 tvg-id="Al Sharqiya ARB" tvg-name="Al Sharqiya ARB" tvg-language="Arabic" tvg-logo="http://alsharqiyatv.info/tv.jpg" tvg-country="IQ" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Sharqiya News
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Sirat
-
-https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Sunnah (Medina)
-
+#EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" tvg-country="SA" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Al Sunnah (Medina)
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" tvg-country="SA" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Al Sunnah (Medina)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Taghayer
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://altaghier.tv/wp-content/uploads/2019/11/altaghier-tv-w.png" tvg-country="IQ" tvg-url="" group-title="General",Al Taghayer
 https://player-api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Taghier TV HD
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/aJ9fK46.png" tvg-country="JO" tvg-url="" group-title="General",Al Taghier TV HD
 https://api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Tanasuh TV
-
-http://m.live.net.sa:1935/m/tanasuhtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Tanasuh TV (LY)
-
-http://m.live.net.sa:1935/m/ngrp:tanasuhtv_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Tanasuh TV (LY)
-
-http://m.live.net.sa:1935/m/tanasuhtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Wesal TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="SA" tvg-url="" group-title="General",Al Wesal TV
 http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Al Yaum
-
-http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Alghad Almushreq
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" tvg-country="YE" tvg-url="" group-title="Religious",Alerth Alnabawi
+http://82.212.74.2:8000/live/7307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/H8SaZXN.png" tvg-country="PS" tvg-url="" group-title="General",Alfajer Tv HD 2
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.alghadye.com/wp-content/uploads/2018/07/image1.png" tvg-country="YE" tvg-url="" group-title="General",Alghad Almushreq
 http://82.212.74.3:8000/live/7512.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Aliman TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.alhayat.tv/images/logo/main.34f5c635.png" tvg-country="LB" tvg-url="" group-title="General",Alhayat TV
+https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/817xRPg.png" tvg-country="LB" tvg-url="" group-title="Religious",Aliman TV
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , alltv
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i1.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-AU.png" tvg-country="US" tvg-url="" group-title="Religious",Alkarma TV Australia
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i2.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Family.png" tvg-country="US" tvg-url="" group-title="Religious",Alkarma TV Family
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i2.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-ME.png" tvg-country="US" tvg-url="" group-title="Religious",Alkarma TV Middle East
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i0.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-NA.png" tvg-country="US" tvg-url="" group-title="Religious",Alkarma TV North America & Canada
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i0.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Praise.png" tvg-country="US" tvg-url="" group-title="Religious",Alkarma TV Praise
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i1.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Talmaza.png" tvg-country="US" tvg-url="" group-title="Religious",Alkarma TV Talmaza (Discipleship)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i0.wp.com/en.alkarmatv.com/wp-content/uploads/2020/11/Logo-US-1024x576-1.png" tvg-country="US" tvg-url="" group-title="Religious",Alkarma TV Youth & English
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="SY" tvg-url="" group-title="General",alltv
 http://185.96.70.242:1935/live/alltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Alrai TV
-
+#EXTINF:-1 tvg-id="AL Rai ARB" tvg-name="AL Rai ARB" tvg-language="Arabic" tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png" tvg-country="KW" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Alrai TV
 https://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Amman TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="AE" tvg-url="" group-title="General",AlWousta TV
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vkqYIO4.jpg" tvg-country="JO" tvg-url="" group-title="General",Amman TV
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , An-Najah Nbc
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" tvg-country="PS" tvg-url="" group-title="General",An-Najah Nbc
 http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , ANN
-
-http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Arryadia
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="LB" tvg-url="" group-title="Music",Arabica Music
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" tvg-country="MA" tvg-url="" group-title="Sport",Arryadia
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Arryadia
-
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Arryadia
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" tvg-country="MA" tvg-url="" group-title="Sport",Arryadia
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , AshurSat
-
-https://5afd52b55ff79.streamlock.net/AshurSat/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Assadissa
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VQUrMjE.png" tvg-country="MA" tvg-url="" group-title="General",Assadissa
 http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Assadissa
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VQUrMjE.png" tvg-country="MA" tvg-url="" group-title="General",Assadissa
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Assirat TV
-
-https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Assyrian ANB
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/way7KwN.jpg" tvg-country="IQ" tvg-url="" group-title="General",Assyrian ANB
 https://597f64b67707a.streamlock.net/anbsat.com/anb2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Athaqafia
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FvgdLdG.png" tvg-country="MA" tvg-url="" group-title="General",Athaqafia
 http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Audeh
-
-http://htvpalsat.mada.ps:8888/audeh/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Ayaat
-
-http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Ayaat
-
-http://m.live.net.sa:1935/live/ayat/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Babylon TV
-
-https://babylonlive.net/babylontv/kardokardo.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Bahrain International
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FvgdLdG.png" tvg-country="MA" tvg-url="" group-title="General",Athaqafia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.atvkuwait.com/img/logo/atv_logo.png" tvg-country="KW" tvg-url="" group-title="General",atv
+rtmp://168.187.49.14:1935/live//atv?v=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://babylontv.net/wp-content/themes/babylontv/images/logo.png" tvg-country="IQ" tvg-url="" group-title="General",Babylon TV
+https://iqlivestream.com/babylontv/babylonlivestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" tvg-country="BH" tvg-url="" group-title="General",Bahrain International
 http://185.105.4.106:1935/live/Bahrain%20International/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Bahrain International
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" tvg-country="BH" tvg-url="" group-title="General",Bahrain International
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20International_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Bahrain Quran
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/OYGfDSq.jpg" tvg-country="BH" tvg-url="" group-title="Religious",Bahrain Quran
+http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EiiO5nm.png" tvg-country="BH" tvg-url="" group-title="Religious",Bahrain Quran
 http://185.105.4.106:1935/live/Bahrain%20Quran/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Bahrain Quran
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EiiO5nm.png" tvg-country="BH" tvg-url="" group-title="Religious",Bahrain Quran
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Bahrain Sport 1
-
-http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Bahrain Sport 1
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="BH" tvg-url="" group-title="Sport",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Bahrain TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="BH" tvg-url="" group-title="Sport",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Bahrain TV ARB" tvg-name="Al Bahrain TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" tvg-country="BH" tvg-url="" group-title="General",Bahrain TV
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
+#EXTINF:-1 tvg-id="Al Bahrain TV ARB" tvg-name="Al Bahrain TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" tvg-country="BH" tvg-url="" group-title="General",Bahrain TV
 http://185.105.4.106:1935/live/Bahrain%20TV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Bahrain TV
-
+#EXTINF:-1 tvg-id="Al Bahrain TV ARB" tvg-name="Al Bahrain TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" tvg-country="BH" tvg-url="" group-title="General",Bahrain TV
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , BBC Arabic
-
+#EXTINF:-1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" tvg-country="UK" tvg-url="" group-title="News",BBC Arabic
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Beity
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7aD1yan.jpg" tvg-country="SA" tvg-url="" group-title="General",Beity
 http://82.212.74.99:8000/live/8164.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Canadian Arab TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rAZBgir.png" tvg-country="CA" tvg-url="" group-title="General",Canadian Arab TV
 http://142.112.39.133:8080/catv.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , CGTN 
-https://live.cgtn.com/cctv-a.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Ch4Teen
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" tvg-country="AE" tvg-url="" group-title="Kids",Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_AR.png" tvg-country="CN" tvg-url="" group-title="General",CGTN Arabic
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/JeG9K1y.png" tvg-country="KW" tvg-url="" group-title="Kids",Ch4Teen
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Chada TV
-
-https://edge7.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Chaine Nord Africaine
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/4s1NlRf.jpg" tvg-country="INT" tvg-url="" group-title="Religious",Chaine Nord Africaine
 https://live.creacast.com/cna/smil:cna.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , CharityTV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://kreim-storage.fra1.digitaloceanspaces.com/APP%20Logo%20PNG.png" tvg-country="LB" tvg-url="" group-title="Religious",CharityTV
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Citruss TV
-
+#EXTINF:-1 tvg-id="Citruss TV ARB" tvg-name="Citruss TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6lTEvrU.jpg" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Citruss TV
 https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , CNBC Arabiya
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/a6QmjRT.png" tvg-country="US" tvg-url="" group-title="Business",CNBC Arabiya
 https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Dijlah
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.ctvchannel.tv/Images/Page/Logo.png" tvg-country="EG" tvg-url="" group-title="Religious",CTV Coptic Orthodox Church Channel
+https://5d12bc59c4748.streamlock.net/redirect/ctvchannel.tv/ctv.smil?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.cycnow.com/wp-content/uploads/2018/08/logo.png" tvg-country="EG" tvg-url="" group-title="Religious",CYC - Christan Youth Channel
+http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-country="DE" tvg-url="" group-title="News",Deutsche Welle Arabic
+https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" tvg-country="IQ" tvg-url="" group-title="News",Dijlah
 https://ghaasiflu.online/Dijlah/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Dijlah Tarab
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" tvg-country="IQ" tvg-url="" group-title="News",Dijlah (Backup)
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" tvg-country="IQ" tvg-url="" group-title="Music",Dijlah Tarab
 https://ghaasiflu.online/tarab/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Dubai One
-
+#EXTINF:-1 tvg-id="Dubai One ARB" tvg-name="Dubai One ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/WjJ8MHC.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Dubai One
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Dubai Racing
-
+#EXTINF:-1 tvg-id="Dubai Racing ARB" tvg-name="Dubai Racing ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Dubai Racing
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Dubai Racing 2
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" tvg-country="AE" tvg-url="" group-title="Sport",Dubai Racing 2
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Dubai Racing 3
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" tvg-country="AE" tvg-url="" group-title="Sport",Dubai Racing 3
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Dubai Sports 1
-
+#EXTINF:-1 tvg-id="Dubai Sports 1 ARB" tvg-name="Dubai Sports 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Dubai Sports 2
-
+#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Dubai Sports 3
-
+#EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Dubai TV
-
+#EXTINF:-1 tvg-id="Dubai TV ARB" tvg-name="Dubai TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dWueFIE.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Dubai TV
 https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Dubai Zaman
-
+#EXTINF:-1 tvg-id="Etisalat Dubai Zaman TV ARB" tvg-name="Etisalat Dubai Zaman TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5U9qpf.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Dubai Zaman
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , El Djazair N1
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="DZ" tvg-url="" group-title="General",El Djazair N1
 http://82.212.74.5:8000/live/hls/7728.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Emarat TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://en.elbesharagtv.com/uploads/7/9/0/0/79001918/300x169_3_orig.png" tvg-country="US" tvg-url="" group-title="General",Elbeshara Tv
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Emarat TV ARB" tvg-name="Al Emarat TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5S2ci8p.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Emarat TV
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , EN TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://jascotvstreaming.com/uploads/topics/15817550307058.png" tvg-country="SA" tvg-url="" group-title="General",EN TV
 http://82.212.74.100:8000/live/8130.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Ennahar TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" tvg-country="DZ" tvg-url="" group-title="General",Ennahar TV
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , France 24 Arabic
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 Arabic
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , France 24 Arabic
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 Arabic
 https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Future TV
-
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Future TV
-
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Halab Today TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/FunoonTV.png" tvg-country="KW" tvg-url="" group-title="General",Funoon
+https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
+#EXTINF:-1 tvg-id="Future TV ARB" tvg-name="Future TV ARB" tvg-language="Arabic" tvg-logo="http://futuretvnetwork.com/images/logo.png" tvg-country="LB" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Future TV
+https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/1VlArCc.png" tvg-country="CA" tvg-url="" group-title="Music",GEM Arabia
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xBcBG2z.png" tvg-country="SY" tvg-url="" group-title="General",Halab Today TV
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Halab Today TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xBcBG2z.png" tvg-country="SY" tvg-url="" group-title="General",Halab Today TV
 https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , iFILM Arabic
-
-https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Imam Hussein TV 2 Arabic
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rVYdkth.jpg" tvg-country="AE" tvg-url="" group-title="General",Hawas TV
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iFILM Arabic" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RPwKZUD.jpg" tvg-country="IR" tvg-url="" group-title="Movies",iFILM Arabic
+https://live.presstv.com/ifilmlive/smil:ifilmar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-country="IQ" tvg-url="" group-title="Religious",Imam Hussein TV 2 Arabic
 https://ar.imamhusseintv.com/live/ih201/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Imam Hussein TV 2 Arabic
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-country="IQ" tvg-url="" group-title="Religious",Imam Hussein TV 2 Arabic
 https://live.imamhossaintv.com/live/ih2.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Iqraa
-
+#EXTINF:-1 tvg-id="Iqraa" tvg-name="Iqraa" tvg-language="Arabic" tvg-logo="https://i.imgur.com/3bug9dU.png" tvg-country="SA" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Jasco Events TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="SA" tvg-url="" group-title="General",Jasco Events TV
 http://82.212.74.100:8000/live/hls/8131.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Jordan Sport TV
-
-http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Jordan Sport TV
-
-http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Jordan TV
-
-http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Kaif TV
-
+#EXTINF:-1 tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" tvg-country="JO" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Jordan Sport TV
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 tvg-id="Jordan ARB" tvg-name="Jordan ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/siAiiws.jpg" tvg-country="JO" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/q2qHUKF.png" tvg-country="SA" tvg-url="" group-title="General",Kaif TV
 http://82.212.74.2:8000/live/hls/7311.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Karbala
-
-https://player-api.new.livestream.com/accounts/11436227/events/3998452/live.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Karbala Live 1
-
+#EXTINF:-1 tvg-id="" tvg-name="Karbala Live 1" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religious",Karbala Live 1
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Karbala Live 2
-
+#EXTINF:-1 tvg-id="" tvg-name="Karbala Live 2" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religious",Karbala Live 2
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Karbala Live 3
-
+#EXTINF:-1 tvg-id="" tvg-name="Karbala Live 3" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religious",Karbala Live 3
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Karbala Live 4
-
+#EXTINF:-1 tvg-id="" tvg-name="Karbala Live 4" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religious",Karbala Live 4
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Karbala Live 5
-
+#EXTINF:-1 tvg-id="" tvg-name="Karbala Live 5" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religious",Karbala Live 5
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot5/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Karbala Live 6
-
+#EXTINF:-1 tvg-id="" tvg-name="Karbala Live 6" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religious",Karbala Live 6
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot6/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , KSA Sports
-
-https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , KSA Sports
-
-https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , KTV 1
-
+#EXTINF:-1 tvg-id="KTV 1 ARB" tvg-name="KTV 1 ARB" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" tvg-country="KW" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",KTV 1
 https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , KTV 2
-
+#EXTINF:-1 tvg-id="KTV 2 ARB" tvg-name="KTV 2 ARB" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg" tvg-country="KW" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",KTV 2
 https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , KTV Al Majlis
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i4.yhk0.net/cha/kw/almajlis-95x41.gif" tvg-country="KW" tvg-url="" group-title="General",KTV Al Majlis
 https://kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , KTV Al Qurain
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktvQuran-95x88.gif" tvg-country="KW" tvg-url="" group-title="General",KTV Al Qurain
 https://kwmedia.hibridmedia.com/kwmedia/kwtvqurain_dabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , KTV Arabe
-
+#EXTINF:-1 tvg-id="" tvg-name="KTV" tvg-language="Arabic" tvg-logo="http://content.osn.com/bob/745x419/KTA.jpg" tvg-country="KW" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",KTV Arabe
 https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , KTV Ethraa
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif" tvg-country="KW" tvg-url="" group-title="General",KTV Ethraa
 https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , KTV Kids
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv-kids-95x77.gif" tvg-country="KW" tvg-url="" group-title="Kids",KTV Kids
 https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , KTV Sport
-
+#EXTINF:-1 tvg-id="KTV Sport ARB" tvg-name="KTV Sport ARB" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" tvg-country="KW" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",KTV Sport
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , KTV Sport Plus
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" tvg-country="KW" tvg-url="" group-title="Sport",KTV Sport Plus
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Lana plus
-
-https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , LBC
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" tvg-country="SY" tvg-url="" group-title="MBC",Lana HD TV
+https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" tvg-country="SY" tvg-url="" group-title="MBC",Lana Plus TV
+https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
+#EXTINF:-1 tvg-id="LBC ARB" tvg-name="LBC ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" tvg-country="LB" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",LBC
 https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Libya 218
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/YLcmYCR.png" tvg-country="SA" tvg-url="" group-title="MBC",LBC
+https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/YPR45yP.png" tvg-country="LB" tvg-url="" group-title="MBC",LBC International
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/N9dO8AE.png" tvg-country="LY" tvg-url="" group-title="General",Libya 218
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Libya 218 News
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/mzwdt39.jpg" tvg-country="LY" tvg-url="" group-title="News",Libya 218 News
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Libya Al Aaan
-
-http://82.212.74.5:8000/live/hls/7727.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Libya Satellite Channel
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="LY" tvg-url="" group-title="General",Libya Satellite Channel
 http://82.212.74.2:8000/live/hls/7321.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Libya's Channel
-
-https://1599780955@starmena.ercdn.net/libyaschannel/libyaschannel.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , M24 TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/J7GdM3L.png" tvg-country="MA" tvg-url="" group-title="General",M24 TV
 https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Majid TV
-
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?adtv
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Makan 33 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/J7GdM3L.png" tvg-country="MA" tvg-url="" group-title="General",M24 TV HD
+http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="PS" tvg-url="" group-title="News",Maan News
+http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9Bun2IX.png" tvg-country="AE" tvg-url="" group-title="General",Majid TV
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Mikan-IS" tvg-name="כאן IL: Mikan" tvg-language="Arabic" tvg-logo="https://www.makan.org.il/images/logo_makan_33.png" tvg-country="IL" tvg-url="" group-title="General",Makan 33 מכאן
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Makkah TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-country="SA" tvg-url="" group-title="General",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Marah FM
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-country="SA" tvg-url="" group-title="General",Makkah TV
+https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PeIYCXs.jpg" tvg-country="PS" tvg-url="" group-title="General",Marah FM
 http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Medi 1 TV Arabic
-
+#EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",MBC 1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",MBC 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",MBC 3 Opt-2
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="MBC 5 ARB" tvg-name="MBC 5 ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",MBC Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="MBC Drama Plus ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",MBC Drama PLUS
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" tvg-country="SA" tvg-url="" group-title="MBC",MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/huebvDt.png" tvg-country="IQ" tvg-url="" group-title="MBC",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Iraq" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="EG" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr 1" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 2 ARB" tvg-name="MBC Masr 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dQmaj6.png" tvg-country="EG" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr 2" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr_2.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",MBC Max HD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/MosTwQW.png" tvg-country="MA" tvg-url="" group-title="Movies",Medi 1 TV Arabic
 https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Mekameleen TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/K0MQiNB.png" tvg-country="EG" tvg-url="" group-title="Movies",Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , MTA 3
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/DzYqWhC.jpeg" tvg-country="EG" tvg-url="" group-title="Movies",Mix Hollywood
+http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C5nT9yi.png" tvg-country="UK" tvg-url="" group-title="Movies",MTA 3
 https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , MusawaChannel
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PEFW4Vy.png" tvg-country="PS" tvg-url="" group-title="Movies",MusawaChannel
 http://htvpalsat.mada.ps:8888/musawa/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Nabaa TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" tvg-country="LB" tvg-url="" group-title="Movies",Nabaa TV
 http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Nabaa TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" tvg-country="LB" tvg-url="" group-title="Movies",Nabaa TV
 https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , National Geographic Abu Dhabi
-
+#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Noor Al-Sham
-
-http://82.137.248.16:1935/Nour/stream31122019/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Noor Dubai
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.newvision.tv/wp-content/uploads/2020/05/Logo.jpg" tvg-country="LB" tvg-url="" group-title="Movies",Newvision
+https://master.starmena-cloud.com/hls/newv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Dy2Eo33.png" tvg-country="SY" tvg-url="" group-title="Religious",Noor Al-Sham
+http://82.137.248.16:1935/Nour/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-id="Noor Dubai ARB" tvg-name="Noor Dubai ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FP2yHkl.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Noor Dubai
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Nour Al Koddas
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5VvPLEl.jpg" tvg-country="LB" tvg-url="" group-title="Religious",Nour Al Koddas
 https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Nour Al Shabab
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6yxE1jv.jpg" tvg-country="LB" tvg-url="" group-title="Religious",Nour Al Shabab
 https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Nour Al Sharq
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hiAwky4.jpg" tvg-country="LB" tvg-url="" group-title="Religious",Nour Al Sharq
 https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Nour Mariam
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" tvg-country="LB" tvg-url="" group-title="Religious",Nour Mariam
 https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , NourSAT
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/QrwZu4W.png" tvg-country="LB" tvg-url="" group-title="Religious",NourSAT
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Oman Sport
-
+#EXTINF:-1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_sport.png" tvg-country="OM" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Oman Sport
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Oman TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C7kfubs.png" tvg-country="OM" tvg-url="" group-title="General",Oman TV
 https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Oman TV Cultural
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/sRlAGQD.png" tvg-country="OM" tvg-url="" group-title="General",Oman TV Cultural
 https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Oman TV Mubashir
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/stADjXC.png" tvg-country="OM" tvg-url="" group-title="General",Oman TV Mubashir
 https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , OTV
-
-https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Palestine Mubasher
-
-http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Palestine Satellite Channel
-
-http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Palestine Satellite Channel
-
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/palestinian_satellite_channel/hls1/palestinian_satellite_channel.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Peace TV
-
-http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Qatar Education TV
-
-http://qtv-i.akamaihd.net/hls/live/1019478-b/QTVEdu1/master.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Qatar Education TV 2
-
-http://qtv-i.akamaihd.net/hls/live/1019479/QTVEdu2/master.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Qatar TV
-
-http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , RASD TV
-
-https://593fa17dec176.streamlock.net/rasdtv/rasdtv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Ro'ya TV
-
-https://roya-live.ercdn.net/roya/roya.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , RT Arabic
-
-https://rt-arab.secure.footprint.net/1104.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Sahel TV
-
-http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Sama Dubai
-
-https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Sama TV
-
-http://95.217.133.45:8080/hls/samatv.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Sat 7 Arabic
-
-https://unirtmp.tulix.tv/sat7arabic/satarabiclive-web.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Sat 7 Kids
-
-http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Saudi TV 1
-
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Sharjah 2
-
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Sharjah Sport
-
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Sharjah TV
-
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Sharqiya from Kalba TV
-
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Sky News Arabia
-
-https://stream.skynewsarabia.com/hls/sna.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Spacetoon
-
-https://shls-spacetoon-next.shahid.net/spacetoon-nextologies.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Spacetoon
-
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Suboro TV
-
-https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Sudan TV
-
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Sudan TV
-
-https://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Taha TV
-
-https://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Tamazight
-
-http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Tamazight
-
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Tele Liban
-#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
-
-https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , The Kingdom Sat
-
-https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Toheed TV
-
-http://51.158.73.206/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , TRT Arabi
-
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Tunisie Immobilier TV
-
-http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Tunisie Immobilier TV
-
-https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Télé Maroc
-
-https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Ugarit TV [not 24/7]
-
-http://82.137.248.16:1935/Ugarit/stream31122019/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Wanasah
-
-https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Watan
-
-http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Watan TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EKGnd0S.png" tvg-country="PS" tvg-url="" group-title="General",Orient Radio + Palestine Mubasher
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Yas
-
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Yemen Shabab
-
+#EXTINF:-1 tvg-id="OTV Lebanon ARB" tvg-name="OTV Lebanon ARB" tvg-language="Arabic" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" tvg-country="LB" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",OTV
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bYz6HUG.png" tvg-country="PS" tvg-url="" group-title="Movies",Palestine Mubasher
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KcSgZg0.jpg" tvg-country="PS" tvg-url="" group-title="Movies",Palestine Satellite Channel
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KcSgZg0.jpg" tvg-country="PS" tvg-url="" group-title="Movies",Palestine Satellite Channel
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/palestinian_satellite_channel/hls1/palestinian_satellite_channel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="SA" tvg-url="" group-title="MBC",Panorama FM
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.qtv.qa/assets/images/logos/qtv.png" tvg-country="QA" tvg-url="" group-title="General",Qatar TV
+https://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.qtv.qa/assets/images/logos/qtvTwo2.png" tvg-country="QA" tvg-url="" group-title="General",Qatar TV 2
+https://qtv-i.akamaihd.net/hls/live/1020532/QTV2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/noG8CdZ.jpg" tvg-country="EH" tvg-url="Movies" group-title="Movies",RASD TV
+https://5fcbeb2219aa3.streamlock.net:455/rasdtv/rasdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Roya TV ARB" tvg-name="Roya TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Sa2nBTP.png" tvg-country="JO" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",Ro'ya TV
+https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-country="SA" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Rotana Cinema HD
+https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" tvg-country="SA" tvg-url="" group-title="MBC",Rotana Cinema HD
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-country="SA" tvg-url="" group-title="MBC",Rotana Cinema HD KSA
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Classic ARB" tvg-name="Rotana Classic ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" tvg-country="SA" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Rotana Classic HD
+https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="Rotana Classic ARB" tvg-name="Rotana Classic ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" tvg-country="SA" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Rotana Classic HD
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Comedy ARB" tvg-name="Rotana Comedy ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" tvg-country="SA" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Rotana Comedy HD
+https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" tvg-country="SA" tvg-url="" group-title="MBC",Rotana Drama HD
+https://rotana.hibridmedia.com/rotana/drama_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" tvg-country="SA" tvg-url="" group-title="MBC",Rotana Drama HD
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" tvg-country="SA" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Rotana Khalijia HD
+https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" tvg-country="SA" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Rotana Khalijia HD
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" tvg-country="SA" tvg-url="" group-title="MBC",Rotana Kids
+https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" tvg-country="SA" tvg-url="" group-title="MBC",Rotana Kids
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/music.png" tvg-country="SA" tvg-url="" group-title="MBC",Rotana Music
+https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" tvg-country="SA" tvg-url="" group-title="MBC",Rotana+
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:-1 tvg-id="Rusiya Al Yaum ARB" tvg-name="Rusiya Al Yaum ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XYJEasM.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",RT Arabic
+https://rt-arab-gd.secure2.footprint.net/1104.m3u8
+#EXTINF:-1 tvg-id="Rusiya Al Yaum ARB" tvg-name="Rusiya Al Yaum ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XYJEasM.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",RT Arabic
+https://rt-arab.secure.footprint.net/1104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" tvg-country="TN" tvg-url="" group-title="Movies",Sahel TV
+http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Sama Dubai ARB" tvg-name="Sama Dubai ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Sama Dubai
+https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Bg52GiG.png" tvg-country="SY" tvg-url="" group-title="MBC",Sama TV
+http://stream.sama-tv.net:8080/hls/samatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xvJw3qt.png" tvg-country="CY" tvg-url="" group-title="Movies",Sat 7 Arabic
+https://unirtmp.tulix.tv/sat7arabic/satarabiclive-web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SMk1hAy.png" tvg-country="SA" tvg-url="" group-title="Movies",Saudi TV 1
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" tvg-country="AE" tvg-url="" group-title="Movies",Sharjah 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sharjah Sports HD ARB" tvg-name="Sharjah Sports HD ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Sharjah Sport
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sharjah TV ARB" tvg-name="Sharjah TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FAp0RtO.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sharqiya from Kalba ARB" tvg-name="Sharqiya from Kalba ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6Er1lh6.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",Sharqiya from Kalba TV
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky News Arabic ARB" tvg-name="Sky News Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/kF7TvcH.png" tvg-country="UK" tvg-url="" group-title="News",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eR8QSEt.png" tvg-country="SY" tvg-url="" group-title="Movies",Souryana Radio
+http://82.137.248.16:1935/Souryana/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" tvg-country="SY" tvg-url="" group-title="Kids",Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" tvg-country="SY" tvg-url="" group-title="Kids",Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PrNVVOu.png" tvg-country="SY" tvg-url="" group-title="Movies",Suboro TV
+https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="SD" tvg-url="" group-title="Movies",Sudan TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="SD" tvg-url="" group-title="Movies",Sudan TV
+https://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Movies",Suhail TV
+http://82.212.74.98:8000/live/hls/7726.m3u8
+#EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-country="SY" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Syria Drama
+http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-id="Syria Satellite Channel ARB" tvg-name="Syria Satellite Channel ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ajsrKzA.png" tvg-country="SY" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Syria Satellite Channel
+http://82.137.248.16:1935/Sat/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rKTE8Qw.png" tvg-country="SY" tvg-url="" group-title="MBC",Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PrXBgQG.png" tvg-country="SY" tvg-url="" group-title="Education",Syrian Education TV
+http://82.137.248.16:1935/SEdu/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6KUtkKz.png" tvg-country="SY" tvg-url="" group-title="News",Syrian News Channel
+http://82.137.248.16:1935/Snews/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/wOxnItQ.png" tvg-country="LB" tvg-url="" group-title="Kids",Taha TV
+https://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="MA" tvg-url="" group-title="Movies",Tamazight
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uC6IF9P.png" tvg-country="MA" tvg-url="" group-title="Movies",Tamazight
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="Tele Liban ARB" tvg-name="Tele Liban ARB" tvg-language="Arabic" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" tvg-country="LB" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",Tele Liban
+#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6xa14aQ.png" tvg-country="EG" tvg-url="" group-title="Movies",The Kingdom Sat
+https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/nsxrqta.jpg" tvg-country="AE" tvg-url="" group-title="Movies",Toheed TV
+http://51.158.73.206/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" tvg-country="TR" tvg-url="" group-title="News",TRT Arabi
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cZM2t0P.png" tvg-country="TN" tvg-url="" group-title="Movies",Tunisie Immobilier TV
+http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cZM2t0P.png" tvg-country="TN" tvg-url="" group-title="Movies",Tunisie Immobilier TV
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.tvseventeen.com/img/logo.png" tvg-country="LB" tvg-url="" group-title="Movies",TV Seventeen
+https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7sibv0t.png" tvg-country="MA" tvg-url="" group-title="Movies",Télé Maroc
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/4x2uwpx.png" tvg-country="SY" tvg-url="" group-title="Movies",Ugarit TV [not 24/7]
+http://82.137.248.16:1935/Ugarit/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.u-news.net/themes/publication_1/theme_1/_img/logoimg.png" tvg-country="LB" tvg-url="" group-title="Movies",Unews
+https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/playlist.m3u8
+#EXTINF:-1 tvg-id="Wanasah ARB" tvg-name="Wanasah ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GmgibYW.jpg" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Music",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.watanegypt.tv/design/home/img/f-logo.png" tvg-country="EG" tvg-url="" group-title="Religious",Watan
+http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EKGnd0S.png" tvg-country="PS" tvg-url="" group-title="General",Watan TV
+http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ky1sNul.png" tvg-country="AE" tvg-url="" group-title="Movies",Yas
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Movies",Yemen Shabab
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Yemen TV
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/azGNY6n.jpg" tvg-country="YE" tvg-url="" group-title="General",Yemen TV
 https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , Zagros
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png" tvg-country="IQ" tvg-url="" group-title="General",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.hala-tv.com/images/hala_logo.png",Hala TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/OzjftEl.png" tvg-country="IL" tvg-url="" group-title="General",هلا تي في
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://alfajertv.com/live/assets/images/logo.png",Alfajer 1
-http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://alfajertv.com/live/assets/images/logo.png",Alfajer 2
-http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Iqraa
-
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Al Risala
-
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Sunnah
-
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Saudi Quraan
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Alquatami Quran
-http://ayat.live.net.sa:1935/live/qotami/playlist.m3u8  
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Eyaka Naabudu wa Eyaka Nastain
-
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Al Fat'h
-https://svs.itworkscdn.net/alfatehlive/fatehtv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.kolalnastv.com/wp-content/uploads/2016/04/KolalnastvLogo.jpg",Kul Alnas
-http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.shahidhd.tv/video/uploads/thumbs/305e70cf1-1.jpg",Alsalam
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020",Almada
-http://htvint.mada.ps:8889//salamtv/tracks-v1a1/index.m3u8
-
-http://vstream3.hadara.ps:8081/Almahed/Almahed/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qKtzT41hSDk/VxjnQFunDxI/AAAAAAAAOCs/PdyP4wsuns4iRD_22qy_r2EEyYVyXzY1gCLcB/s1600/Bethlehem%2BTV.jpg",Bait Lahm
-http://htvint.mada.ps:8889//btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qKtzT41hSDk/VxjnQFunDxI/AAAAAAAAOCs/PdyP4wsuns4iRD_22qy_r2EEyYVyXzY1gCLcB/s1600/Bethlehem%2BTV.jpg",Bait Lahm 2
-
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Palestine
-http://live.paltoday.tv:1935/paltv/live/chunklist.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Jordan
-http://stream.joinvisions.net:1935/jorlive/jrtv/chunklist_w1319607465.m3u8
-#EXTINF:-1 tvg-logo="http://www.copts-united.com/ChannelsLogo/22.jpg",Alhurriya
-
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",FUNOON
-http://livecdnh3.tvanywhere.ae/hls/funoon/04.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",QUEST
-
-
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/K2guvh",Dubai
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-#EXTINF:-1 tvg-logo="https://goo.gl/gPJMso",Sama Dubai
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
-#EXTINF:-1 tvg-logo="https://goo.gl/VCTGaq",Dubai One
-http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/kNwQnx",dubai zaman
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/K2guvh",Nour Dubai
-
-#EXTINF:-1 tvg-logo="https://goo.gl/Y4nV9g",Abu Dhabi TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1 tvg-logo="https://goo.gl/9s9b9p",emarat
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1 tvg-logo="https://goo.gl/VCUibL",abu dhabi drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Sharjah
-#EXTINF:-1 tvg-logo="https://goo.gl/FXWWmQ",alrai
-http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/FXWWmQ",alrai
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Qatar
-http://89.211.63.16:1935/HR01/HR01.stream/bonradio.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/3pBjuN",aldhafra
-http://aldafrahtv.noip.us:1935/live/_definst_/myStream1/1.m3u8
-#EXTINF: tvg-logo="https://goo.gl/NVVZC4",Quran qatamai
-
-#EXTINF:-1 tvg-logo="https://goo.gl/R4v8gE",saudi 1
-
-#EXTINF:-1 tvg-logo="https://goo.gl/o5WbNV",saudi 2
-
-#EXTINF:-1 tvg-logo="https://goo.gl/d88TqU",alresala
-
-#EXTINF:-1 tvg-logo="https://goo.gl/oDsViu",bahrain International
-
-#EXTINF:-1 tvg-logo="https://goo.gl/oDsViu",bahrain
-
-#EXTINF:-1 tvg-logo="https://goo.gl/oDsViu",bahrain Quran
-
-#EXTINF:-1 tvg-logo="https://goo.gl/xWdDhB",Libya 24
-
-#EXTINF:-1 tvg-logo="https://goo.gl/HQoJeZ",Libya news
-
-#EXTINF:-1 tvg-logo="https://goo.gl/xWdDhB",Libya Al Ahrar
-
-#EXTINF:-1 tvg-logo="https://goo.gl/xWdDhB",Libya 218
-
-#EXTINF:-1 tvg-logo="https://goo.gl/xWdDhB",Libya Alrasmeya
-
-#EXTINF:-1 tvg-logo="https://goo.gl/xWdDhB",Libya One
-
-#EXTINF:-1 tvg-logo="https://goo.gl/xWdDhB",Libya TV
-
-#EXTINF:-1 tvg-logo="https://goo.gl/xWdDhB",Libyas Channel
-
-#EXTINF:-1 tvg-logo="https://goo.gl/whPjSk",alnabaa
-
-#EXTINF:-1 tvg-logo="https://goo.gl/FBEfnJ",alshorooq sudan
-
-#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/images/taybatv.jpg",tayba
-http://tayba.live.net.sa:1935/tayba/taybatv/gmswf.m3u8
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/334.jpg",afriqia1
-http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/334.jpg",afriqia2
-http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/yK8pQB",Amen FM 89.5
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s15iKC",Al Aqsa
-
-#EXTINF:-1 tvg-logo="https://goo.gl/DHcxsi",Masdar TV
-
-#EXTINF:-1 tvg-logo="https://goo.gl/dLumDc",Al Aan
-
-#EXTINF:-1 tvg-logo="https://goo.gl/fuyZod",Al Jazeera Documentary
-http://stream-e30453a4b.nmbs.top/m3u/Arabian/8955b84f58.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/YkYRA4",KTV 1
-https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/ztRuHy",KTV 2
-https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/LVhm51",KTV Al Arabi
-https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/JyiMEi",KTV Plus
-https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/SRYjwr",KTV Al Majlis
-https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/dfxpTb",Oman TV
-
-#EXTINF:-1 tvg-logo="https://goo.gl/QgXcFQ",Oman Mubasher
-
-#EXTINF:-1 tvg-logo="https://goo.gl/CHG761",Oman Documentary
-
-
-
-
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180330/hxe/kisspng-iraqi-kurdistan-flag-of-kurdistan-kurdish-region-round-5abe49314a9fd2.5660209415224200173057.jpg" group-title="KURD",=====KURD========
-https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",MEDYA HABER
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/23.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",STERK TV HD
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/24.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",ÇİRA TV
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/25.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",RONAHÎ TV 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",JIN TV HD 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/27.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",BABYLON TV HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/28.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020", MED MÜZİK 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/29.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020", KURDMAX HD+ KUR 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/30.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",KURDMAX HD+ SOR 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/31.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",KURDMAX SHOW HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/32.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",KURDMAX MUSIC HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/33.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020", RÛDAW HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/34.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",KURDSAT HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/35.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",KURDSAT NEWS HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/36.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",GK TV 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/37.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",KANAL 4 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/38.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",NET HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",K 24 HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",KNN 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/41.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",KTV HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/42.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",VIN MUSIC 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/43.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",A TV KURD HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/44.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",MINBIJ TV 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/45.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",BANGWAZ TV 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/46.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",ARYEN TV 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",ZAGROS TV HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/48.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",SPEDA TV HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/49.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",PAYAM TV HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/50.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",KOREK TV HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/51.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",WAAR TV HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/52.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",NRT HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/53.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",NRT 2 HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",ROJAVA TV 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/55.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",SAHAR KURDI 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/56.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",LALISH TV 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/57.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",KIRKUK TV 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/58.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",ZAROK TV 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",HELHELOK KIDS 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/60.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",NRT 3 KIDS 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/61.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",KURDMAX PEPÛLE HD+ 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/62.m3u8
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",
-
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",
-
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",
-
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",
-
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",
-
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",
-
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",
-
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",
-
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",
-
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",
-
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/Satcom-Logo2020" , tvg-logo="https://goo.gl/t4h9Eo" group-title="OSN SD",=====OSN SD========
-
-
-
-
-
-
-#EXTINF: tvg-logo="https://goo.gl/fETVF3",logo not exist
-#EXTINF: tvg-logo="https://goo.gl/bi9htU",Satcom Gold logo
-#EXTINF: tvg-logo="https://bit.ly/Satcom-Logo2020",Satcom Red logo
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="MBC",Rotana Cinema HD (1080p)
+https://hiplayer.hibridcdn.net/p/rotana-cinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" group-title="MBC",Rotana Cinema HD (1080p)
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="" group-title="",alltv (400p)
+http://185.96.70.242:1935/live/alltv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2020/12/%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-170-01.png" group-title="",Halab Today TV
+http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2020/12/%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-170-01.png" group-title="",Halab Today TV
+https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" group-title="MBC",Lana HD TV
+https://stream.lanacanal.tv:5443/LiveApp/streams/725036471648486808631404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" group-title="MBC",Lana Plus TV
+https://stream.lanacanal.tv:5443/LiveApp/streams/661600756283263429588675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="Religious",Noor Al-Sham (270p)
+http://82.137.248.16:1935/Nour/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="",Sama TV
+http://stream.sama-tv.net:8080/hls/samatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="",Souryana Radio (270p)
+http://82.137.248.16:1935/Souryana/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Spacetoon (1080p)
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Spacetoon (576p)
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PrNVVOu.png" group-title="",Suboro TV
+https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="Movies",Syria Drama (270p)
+http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-id="Syria Satellite Channel ARB" tvg-name="Syria Satellite Channel ARB" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="",Syria Satellite Channel (270p)
+http://82.137.248.16:1935/Sat/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="",Syria TV (1080p)
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="Education",Syrian Education TV (270p)
+http://82.137.248.16:1935/SEdu/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="News",Syrian News Channel (270p)
+http://82.137.248.16:1935/Snews/stream10112020/playlist.m3u8
