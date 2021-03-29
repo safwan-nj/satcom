@@ -372,10 +372,10 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" tvg-country="KW" tvg-url="" group-title="Sport",KTV Sport Plus
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" tvg-country="SY" tvg-url="" group-title="MBC",Lana HD TV
-https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" tvg-country="SY" tvg-url="" group-title="MBC",Lana Plus TV
-https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" tvg-country="SY" tvg-url="" group-title="Syria",Lana HD TV
+https://stream.lanacanal.tv:444/hls/lana.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://canal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" tvg-country="SY" tvg-url="" group-title="Syria",Lana Plus TV
+https://stream.lanacanal.tv:444/hls/lanaplus.m3u8
 #EXTINF:-1 tvg-id="LBC ARB" tvg-name="LBC ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" tvg-country="LB" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",LBC
 https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/YLcmYCR.png" tvg-country="SA" tvg-url="" group-title="MBC",LBC
@@ -536,7 +536,7 @@ https://rt-arab.secure.footprint.net/1104.m3u8
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Sama Dubai ARB" tvg-name="Sama Dubai ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Sama Dubai
 https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Bg52GiG.png" tvg-country="SY" tvg-url="" group-title="MBC",Sama TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Bg52GiG.png" tvg-country="SY" tvg-url="" group-title="Syria",Sama TV
 http://stream.sama-tv.net:8080/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xvJw3qt.png" tvg-country="CY" tvg-url="" group-title="Movies",Sat 7 Arabic
 https://unirtmp.tulix.tv/sat7arabic/satarabiclive-web.smil/playlist.m3u8
@@ -566,11 +566,11 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m
 https://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="Movies",Suhail TV
 http://82.212.74.98:8000/live/hls/7726.m3u8
-#EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-country="SY" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Syria Drama
+#EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-country="SY" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Syria",Syria Drama
 http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
-#EXTINF:-1 tvg-id="Syria Satellite Channel ARB" tvg-name="Syria Satellite Channel ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ajsrKzA.png" tvg-country="SY" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="MBC",Syria Satellite Channel
+#EXTINF:-1 tvg-id="Syria Satellite Channel ARB" tvg-name="Syria Satellite Channel ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ajsrKzA.png" tvg-country="SY" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Syria",Syria Satellite Channel
 http://82.137.248.16:1935/Sat/stream10112020/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rKTE8Qw.png" tvg-country="SY" tvg-url="" group-title="MBC",Syria TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rKTE8Qw.png" tvg-country="SY" tvg-url="" group-title="Syria",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PrXBgQG.png" tvg-country="SY" tvg-url="" group-title="Education",Syrian Education TV
 http://82.137.248.16:1935/SEdu/stream10112020/playlist.m3u8
@@ -626,14 +626,14 @@ https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e9110
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="" group-title="",alltv (400p)
 http://185.96.70.242:1935/live/alltv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2020/12/%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-170-01.png" group-title="",Halab Today TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2020/12/%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-170-01.png" group-title="Syria",Halab Today TV
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2020/12/%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-170-01.png" group-title="",Halab Today TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2020/12/%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-170-01.png" group-title="Syria",Halab Today TV
 https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" group-title="MBC",Lana HD TV
-https://stream.lanacanal.tv:5443/LiveApp/streams/725036471648486808631404.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" group-title="MBC",Lana Plus TV
-https://stream.lanacanal.tv:5443/LiveApp/streams/661600756283263429588675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" group-title="Syria",Lana HD TV
+https://stream.lanacanal.tv:444/hls/lana.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" group-title="Syria",Lana Plus TV
+https://stream.lanacanal.tv:444/hls/lanaplus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="Religious",Noor Al-Sham (270p)
 http://82.137.248.16:1935/Nour/stream10112020/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="",Sama TV
@@ -646,11 +646,11 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PrNVVOu.png" group-title="",Suboro TV
 https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="Movies",Syria Drama (270p)
+#EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="Syria",Syria Drama (270p)
 http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
-#EXTINF:-1 tvg-id="Syria Satellite Channel ARB" tvg-name="Syria Satellite Channel ARB" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="",Syria Satellite Channel (270p)
+#EXTINF:-1 tvg-id="Syria Satellite Channel ARB" tvg-name="Syria Satellite Channel ARB" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Syria",Syria Satellite Channel (270p)
 http://82.137.248.16:1935/Sat/stream10112020/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="",Syria TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="Syria",Syria TV (1080p)
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="Education",Syrian Education TV (270p)
 http://82.137.248.16:1935/SEdu/stream10112020/playlist.m3u8
