@@ -8,8 +8,10 @@ http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.
 http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/20.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jztRpv",يرجى ابلاغي في حال توقف اي قناة
 http://138.201.145.139:8080/movie/www.youtube.com%7Cc%7CSatcomIPTV/www.facebook.com%7CMr.Safwan.Nj/20.mp4
+#EXTINF:0,tvg-logo="http://www.fusefmsouria.com/assets/img/logo.png" ,Fuse FM
+http://192.99.17.12:4986/stream.mp3
 #EXTINF:-1 tvg-logo="https://www.almadinafm.com/images/madinalogo.png" ,Al Madina FM
-http://192.99.17.12:4978/;stream.mp3
+https://carina.streamerr.co:2020/stream/almadinafm/;stream.mp3
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/syfnjfreuwye.jpg" ,Tartous
 http://82.137.248.16:1935/RTartus/RTartusLive/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s70704g.png" ,Dimashq
