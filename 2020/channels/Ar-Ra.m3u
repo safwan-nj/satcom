@@ -1,1352 +1,860 @@
-
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",AIC
-http://red.ipfox.org:8080/1234/12345678/33734?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",AL ALAM SYRIA TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49510?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",AL EKHBARIYA AL SORIYA
-http://red.ipfox.org:8080/1234/12345678/33733?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",AL SAHAT
-http://red.ipfox.org:8080/1234/12345678/33729?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="News",Al Yaum
-http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",Al Yawm (syria)
-http://red.ipfox.org:8080/1234/12345678/33723?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",Al-Khabar Tele Site
-http://red.ipfox.org:8080/1234/12345678/33727?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",Lana Plus
-http://red.ipfox.org:8080/1234/12345678/33715?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",Lana TV HD
-http://red.ipfox.org:8080/1234/12345678/33713?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",Lana TV HD +4
-http://red.ipfox.org:8080/1234/12345678/33714?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",Minbij TV
-http://red.ipfox.org:8080/1234/12345678/33721?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",Nour Al Sham TV
-http://red.ipfox.org:8080/1234/12345678/33732?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",SAFA TV
-http://red.ipfox.org:8080/1234/12345678/33728?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Sport",SPORT 24
-http://red.ipfox.org:8080/1234/12345678/33716?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",SUROYO TV
-http://red.ipfox.org:8080/1234/12345678/33720?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",SYRIA CH 1
-http://red.ipfox.org:8080/1234/12345678/33710?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",SYRIA SATELLITE TV
-http://red.ipfox.org:8080/1234/12345678/33718?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MY;SY" tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="Syria",Syria TV,SYRIA TV (1920×1080)
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",SYRIAN EDUCATION
-http://red.ipfox.org:8080/1234/12345678/33722?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",Sama TV
-http://red.ipfox.org:8080/1234/12345678/33731?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Spacetoon
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",Syria Drama 24
-http://red.ipfox.org:8080/1234/12345678/33712?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",Syrian Drama
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/52133?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",Syrian Drama TV
-http://red.ipfox.org:8080/1234/12345678/33724?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",Syrian Drama TV +4
-http://red.ipfox.org:8080/1234/12345678/33725?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/nCGsD74.jpg" group-title="General",Syrian TV
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SY" tvg-logo="" group-title="Syria",Syrian TV HD
-http://red.ipfox.org:8080/1234/12345678/33711?checkedby:satcom.tv
-
-
-
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",AGHANI
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/123038?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",AL IMEN
-http://red.ipfox.org:8080/1234/12345678/32893?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",AL Jadeed +2H
-http://red.ipfox.org:8080/1234/12345678/32885?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",AL MANAR
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8250?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",AL MANAR +2H
-http://red.ipfox.org:8080/1234/12345678/32888?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",AL MANAR +6H
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156519?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",ALAAN TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1469?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",ALIMAN
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/123044?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",ALJADEED +6H
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156517?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",ANB
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150235?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",ANB +6H
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156523?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",ARABICA
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/123039?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",Al Alam News TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150233?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="Lebanon",Al Manar
-https://manar.live/x.smil/tracks-v1a1/mono.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",Al Manar
-http://red.ipfox.org:8080/1234/12345678/32887?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",Al Mayadeen
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/80388?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",Al Mayadeen
-http://red.ipfox.org:8080/1234/12345678/32889?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",Al-Jadeed TV HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8249?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",Alaan TV
-http://red.ipfox.org:8080/1234/12345678/32897?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",ETIHAD TV
-http://red.ipfox.org:8080/1234/12345678/32891?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",FUTURE TV +6H
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156528?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",Future TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/194?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",Future TV
-http://red.ipfox.org:8080/1234/12345678/32886?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",HAWACOM
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/123041?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",Ifilm TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150234?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",LBC +6H
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156521?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",LBC HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1343?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",LBC HD
-http://red.ipfox.org:8080/1234/12345678/32874?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="General",LBC International
-https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",LBC International +6H
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156522?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",LBC International HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",LBC International HD
-http://red.ipfox.org:8080/1234/12345678/32877?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",LBC SAT
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8202?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",LBC TV 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150231?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",LDC LEBANON HD +6H
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156520?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",Lebanon TV [ Tele Liban ] HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/80390?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",MTV HD
-http://red.ipfox.org:8080/1234/12345678/32872?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",MTV HD +2H
-http://red.ipfox.org:8080/1234/12345678/32873?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",MTV LEBANON +6H
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156518?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",MTV Lebanon 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150230?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",MTV Lebanon HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/197?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",Mariam TV
-http://red.ipfox.org:8080/1234/12345678/32895?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",NBN
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/80389?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",NBN 4K
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150232?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",NBN 4K +6H
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156526?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",NBN TV HD
-http://red.ipfox.org:8080/1234/12345678/32879?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",NBN TV HD +2H
-http://red.ipfox.org:8080/1234/12345678/32880?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="Lebanon",Nabaa TV
-https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="Lebanon",Nabaa TV
-http://31.14.40.237:1935/live/Nabaa/chunklist_w2118808920.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="Lebanon",Nabaa TV
-http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/5VvPLEl.jpg" group-title="Religious",Nour Al Koddas
-https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/6yxE1jv.jpg" group-title="Religious",Nour Al Shabab
-https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/hiAwky4.jpg" group-title="Religious",Nour Al Sharq
-https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="Religious",Nour Mariam
-https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="Religious",NourSAT
-https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",ONE
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/123042?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",ONE TV HD
-http://red.ipfox.org:8080/1234/12345678/32892?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",ONE TV LEBANON +6H
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156524?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",OTV LEBANON +6H
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156525?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",OTV Lebanon
-http://red.ipfox.org:8080/1234/12345678/32881?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",OTV Lebanon HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1317?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",Seventeen TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150229?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",TELE LEBANON +6H
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156527?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",Teleliban TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8251?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Lebanon",Teleliban TV
-http://red.ipfox.org:8080/1234/12345678/32883?checkedby:satcom.tv
-
-
-
-
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",4G AFLAM
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49524?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG;MY" tvg-logo="" group-title="Egypt",Al Horreya,AL HORREYA TV (1920×1080),EG | Al Horreya
-http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",AL Hayat
-http://red.ipfox.org:8080/1234/12345678/33175?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",AL Masriya
-http://red.ipfox.org:8080/1234/12345678/33150?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",AL OULA
-http://red.ipfox.org:8080/1234/12345678/33147?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",AL SA3AA MOSALSALATE
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28249?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",AL Thanya
-http://red.ipfox.org:8080/1234/12345678/33148?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",AL YOOM ZAMAN
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28248?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",AL masriya
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28251?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",ALASKANDRIA
-http://red.ipfox.org:8080/1234/12345678/33188?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",ALDELTA
-http://red.ipfox.org:8080/1234/12345678/33187?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",ALSA3EED
-http://red.ipfox.org:8080/1234/12345678/33189?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Al Ahly
-http://red.ipfox.org:8080/1234/12345678/33201?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Al Ahly TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28258?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="Egypt",Al Hayat
-http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Al Hayat Muslsalat
-http://red.ipfox.org:8080/1234/12345678/33176?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Al Hayat We Alnas
-http://red.ipfox.org:8080/1234/12345678/33177?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Al Kahera
-http://red.ipfox.org:8080/1234/12345678/33186?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Al Kahera Wal Nas
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28254?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Al Kahera Wal Nas  2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28253?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Al Nahar
-http://red.ipfox.org:8080/1234/12345678/33165?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Al Nahar Drama
-http://red.ipfox.org:8080/1234/12345678/33166?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="http://elsharq.tv/img/elsharq.png" group-title="General",Al Sharq
-https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",AlHadath Alyoum
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28243?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",AlKahera Wal Nas +2
-http://red.ipfox.org:8080/1234/12345678/33172?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",AlKahera Wal Nas 1
-http://red.ipfox.org:8080/1234/12345678/33171?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Alhayat We Alnas
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28241?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Alqanat 9
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28239?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Apple Cinema
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/69975?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Apple Comedy
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/69976?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Apple Film
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/69973?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Apple Hekayat
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/69974?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Apple Moslsalat
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/69977?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",CBC
-http://red.ipfox.org:8080/1234/12345678/33155?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",CBC Drama
-http://red.ipfox.org:8080/1234/12345678/33157?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",CBC Extra
-http://red.ipfox.org:8080/1234/12345678/33158?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",CBC Sofra
-http://red.ipfox.org:8080/1234/12345678/33156?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Cima
-http://red.ipfox.org:8080/1234/12345678/33190?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",DMC Drama
-http://red.ipfox.org:8080/1234/12345678/33174?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",DMC HD
-http://red.ipfox.org:8080/1234/12345678/33173?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",El Sharq
-http://red.ipfox.org:8080/1234/12345678/33152?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",FAMILY DRAMA
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/99401?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",FAMILY DRAMA
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28250?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Free TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49549?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="Egypt",MBC Masr 1
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/7dQmaj6.png" group-title="Egypt",MBC Masr 2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",MISR ELBALAD
-http://red.ipfox.org:8080/1234/12345678/33198?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Mehwar
-http://red.ipfox.org:8080/1234/12345678/33154?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Mekameleen HD
-http://red.ipfox.org:8080/1234/12345678/33151?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="Egypt",Mekameleen TV
-http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="Egypt",Mekameleen TV
-https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Melody CINEMA
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49547?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Misr Al Zera3eya
-http://red.ipfox.org:8080/1234/12345678/33185?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Mix Bel Araby
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150564?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",NILE CINEMA
-http://red.ipfox.org:8080/1234/12345678/33197?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",NILE COMEDY
-http://red.ipfox.org:8080/1234/12345678/33196?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Nile Culture
-http://red.ipfox.org:8080/1234/12345678/33195?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Nile Family
-http://red.ipfox.org:8080/1234/12345678/33193?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Nile Life
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49551?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Nile Life
-http://red.ipfox.org:8080/1234/12345678/33192?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Nile News
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49550?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Nile News
-http://red.ipfox.org:8080/1234/12345678/33191?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Sport",Nile Sport
-http://red.ipfox.org:8080/1234/12345678/33200?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Nile TV
-http://red.ipfox.org:8080/1234/12345678/33149?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Nogoum_FM_TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49552?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",ON Drama
-http://red.ipfox.org:8080/1234/12345678/33161?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",ON E HD
-http://red.ipfox.org:8080/1234/12345678/33160?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Sport",ON TIME SPORT 1
-http://red.ipfox.org:8080/1234/12345678/33162?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Sport",ON TIME SPORT 2
-http://red.ipfox.org:8080/1234/12345678/33163?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Sport",ON TIME SPORT 3
-http://red.ipfox.org:8080/1234/12345678/33164?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Panorama Drama 1
-http://red.ipfox.org:8080/1234/12345678/33179?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Panorama Drama 2
-http://red.ipfox.org:8080/1234/12345678/33180?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Panorama Film
-http://red.ipfox.org:8080/1234/12345678/33181?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Panorama Food
-http://red.ipfox.org:8080/1234/12345678/33178?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",SOWT MISR ALAMAMI TV
-http://red.ipfox.org:8080/1234/12345678/33199?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Sada ElBalad Drama
-http://red.ipfox.org:8080/1234/12345678/33170?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Sada ElBalad HD
-http://red.ipfox.org:8080/1234/12345678/33168?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Sada ElBalad Plus
-http://red.ipfox.org:8080/1234/12345678/33169?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",TeN TV
-http://red.ipfox.org:8080/1234/12345678/33167?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/6xa14aQ.png" group-title="Egypt",The Kingdom Sat
-https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",WATAN TV
-http://red.ipfox.org:8080/1234/12345678/33153?checkedby:satcom.tv
-#EXTINF:0 tvg-country="EG" tvg-logo="" group-title="Egypt",Zamalek
-http://red.ipfox.org:8080/1234/12345678/33202?checkedby:satcom.tv
-
-
-
-
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",AL HAYAT rtm
-rtmp://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",ALGERIE 2 -Canal-
-http://red.ipfox.org:8080/1234/12345678/34868?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",ALGERIE 3 -Thalitha-
-http://red.ipfox.org:8080/1234/12345678/34869?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",ALGERIE 4 -Tamazight-
-http://red.ipfox.org:8080/1234/12345678/34870?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",ALGERIE 6 -Sadissa-
-http://red.ipfox.org:8080/1234/12345678/34872?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",Al istiqama
-http://red.ipfox.org:8080/1234/12345678/34895?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",BAHIA TV
-http://red.ipfox.org:8080/1234/12345678/34887?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",BEUR TV
-http://red.ipfox.org:8080/1234/12345678/34888?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",Canal Atlas
-http://red.ipfox.org:8080/1234/12345678/34875?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",DIJAH  rtm
-rtmp://91.134.145.75/?gmswf=/Dijlah&checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",Dijlah TV  jordan rtm
-rtmp://91.134.145.75/Dijlah?speed=1/?speed=1&checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",ECHOROUK NEWS
-http://red.ipfox.org:8080/1234/12345678/34879?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",ECHOROUK TV
-http://red.ipfox.org:8080/1234/12345678/34878?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",EL BILAD
-http://red.ipfox.org:8080/1234/12345678/34886?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",EL DJAZAIR N1
-http://red.ipfox.org:8080/1234/12345678/34882?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",EL DJAZAIRIA TV
-http://red.ipfox.org:8080/1234/12345678/34883?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",EL FADJR TV
-http://red.ipfox.org:8080/1234/12345678/34885?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",EL HEDDAF TV
-http://red.ipfox.org:8080/1234/12345678/34880?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",ENNAHAR TV
-http://red.ipfox.org:8080/1234/12345678/34876?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",NUMIDIA TV HD
-http://red.ipfox.org:8080/1234/12345678/34884?checkedby:satcom.tv
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="DZ",SAMIRA TV HD
-http://red.ipfox.org:8080/1234/12345678/34877?checkedby:satcom.tv
-
-
-
-
-#EXTINF:0 tvg-country="IQ;MY" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="General;IQ",ABN SAT (1280×720),ABNsat
-http://rtmp1.abnsat.com/hls/arabic.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",AFAQ TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/14533?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",AFAQ TV
-http://red.ipfox.org:8080/1234/12345678/33112?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",AL DIWANIYA TV
-http://red.ipfox.org:8080/1234/12345678/33109?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",AL ESHRAQ TV
-http://red.ipfox.org:8080/1234/12345678/33081?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",AL NAEEM TV
-http://red.ipfox.org:8080/1234/12345678/33138?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",AL NOJABA TV
-http://red.ipfox.org:8080/1234/12345678/33115?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",AL Sharqyia HD
-http://red.ipfox.org:8080/1234/12345678/33125?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",ALBAEENAH IRAQ
-http://red.ipfox.org:8080/1234/12345678/33116?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",ALMASSAR AL OULA
-http://red.ipfox.org:8080/1234/12345678/33130?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",ALTAHIER TV HD
-http://red.ipfox.org:8080/1234/12345678/33103?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",ALTALEAA TV
-http://red.ipfox.org:8080/1234/12345678/33092?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",ANB Iraq
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49504?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Ahwaz
-http://red.ipfox.org:8080/1234/12345678/33078?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="Sport",Al Anbar TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28173?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Anwar
-http://red.ipfox.org:8080/1234/12345678/33136?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Anwar 1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/14300?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Awhad TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150216?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Baghdadia TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1412?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Ebaa TV
-http://red.ipfox.org:8080/1234/12345678/33080?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Fallujah HD
-http://red.ipfox.org:8080/1234/12345678/33083?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Forat TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1461?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Forat Tv
-http://red.ipfox.org:8080/1234/12345678/33132?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Ghadeer
-http://red.ipfox.org:8080/1234/12345678/33137?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Hurra HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49502?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/8EmVL2d.jpg" group-title="News",Al Hurra Iraq
-https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Hurra Iraq
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49500?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Iraqia HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1357?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya Al 3ama
-http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya News
-http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Kawthar
-http://red.ipfox.org:8080/1234/12345678/33143?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Maaref TV
-http://red.ipfox.org:8080/1234/12345678/33145?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Mawseleya
-http://red.ipfox.org:8080/1234/12345678/33089?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="General",Al Rafidain HQ
-http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="General",Al Rafidain HQ
-http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Rafidain TV
-http://red.ipfox.org:8080/1234/12345678/33099?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Rasheed
-http://red.ipfox.org:8080/1234/12345678/33128?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="http://alsharqiyatv.info/tv.jpg" group-title="General",Al Sharqiya
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Sharqiya HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1426?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="News",Al Sharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Sharqiya News HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/51159?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al Sumaria TV
-http://red.ipfox.org:8080/1234/12345678/33088?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al-Aqila TV
-http://red.ipfox.org:8080/1234/12345678/33126?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="Sport",Al-Iraqiya Sport
-http://red.ipfox.org:8080/1234/12345678/33129?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Al-Mahdi TV
-http://red.ipfox.org:8080/1234/12345678/33101?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",AlRafideen
-http://red.ipfox.org:8080/1234/12345678/33087?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Albaghdadiya
-http://red.ipfox.org:8080/1234/12345678/33134?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Alwilayah TV
-http://red.ipfox.org:8080/1234/12345678/33108?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Anwar TV 2
-http://red.ipfox.org:8080/1234/12345678/33079?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Beladi
-http://red.ipfox.org:8080/1234/12345678/33110?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",DUA CHANNEL
-http://red.ipfox.org:8080/1234/12345678/33122?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="News",Dijlah
-https://ghaasiflu.online/Dijlah/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Dijlah TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1395?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Dijlah TV
-http://red.ipfox.org:8080/1234/12345678/33131?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" group-title="Music",Dijlah Tarab
-https://ghaasiflu.online/tarab/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Dijlah Tarab
-http://red.ipfox.org:8080/1234/12345678/33091?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Dijlah Tarab TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150215?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",ETIHAD TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8255?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Hona Baghdad
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/52131?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Hona Baghdad
-http://red.ipfox.org:8080/1234/12345678/33133?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",IMAM ALI HD
-http://red.ipfox.org:8080/1234/12345678/33117?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Religious",Imam Hussein TV 2 Arabic
-https://ar.imamhusseintv.com/live/ih201/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Religious",Imam Hussein TV 4 Urdu
-https://ur.imamhusseintv.com/live/ih4.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Iraq 24 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150213?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Iraq Future TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49579?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Iraq Future TV
-http://red.ipfox.org:8080/1234/12345678/33113?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Iraq Now
-http://red.ipfox.org:8080/1234/12345678/33102?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Iraqia Entertainment
-http://red.ipfox.org:8080/1234/12345678/33127?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Iraqia Kurd
-http://red.ipfox.org:8080/1234/12345678/33075?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Iraqia Kurdish TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150211?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Iraqia News
-http://red.ipfox.org:8080/1234/12345678/33072?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Iraqia News HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/14285?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="Sport",Iraqia Sport HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/14284?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Iraqia Syriac
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49501?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Iraqia Syriac
-http://red.ipfox.org:8080/1234/12345678/33074?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Iraqia Turkuman
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150210?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Iraqia Turkuman
-http://red.ipfox.org:8080/1234/12345678/33073?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",KARAMAH NEWS
-http://red.ipfox.org:8080/1234/12345678/33106?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Karbala TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/14532?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Karbala Tv HD
-http://red.ipfox.org:8080/1234/12345678/33135?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://kurdmaxcms.com/asset/image/footer_logo/%D9%A1_1.png" group-title="IQ",KurdMax (1080p)
-https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:myStream_all/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://kurdmaxcms.com/asset/image/footer_logo/show_2.png" group-title="IQ",KurdMax Show (1080p)
-https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:SHOW1_all/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Kurdistan 24
-https://d1x82nydcxndze.cloudfront.net/live/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/GLfhYSH.png" group-title="IQ",Kurdistan TV
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",MARJAEYAT 2
-http://red.ipfox.org:8080/1234/12345678/33124?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ;AE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" group-title="IQ",MBC Iraq
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",MBC Iraq
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150209?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",MBC Iraq HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150208?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",MBC Iraq HD
-http://red.ipfox.org:8080/1234/12345678/33090?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg" group-title="IQ",Rudaw TV
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg" group-title="IQ",Rudaw TV
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",SHARQIYA from Kalba
-http://red.ipfox.org:8080/1234/12345678/33086?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",Salahden TV
-http://red.ipfox.org:8080/1234/12345678/33140?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",UTV Iraq HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150212?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="IQ",ifilm
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1359?checkedby:satcom.tv
-
-
-
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="JO",A ONE TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49515?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO;MY" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="JO",Al Mamlaka TV,AL MAMLAKA TV (1920×1080)
-https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="JO",Al Mamlaka TV
-https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="JO",Al Mamlaka TV
-https://almamlka-live.ercdn.net/almamlka/almamlka_480p.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="JO",Al Mamlaka TV
-https://almamlka-live.ercdn.net/almamlka/almamlka_720p.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="JO",Al Mamlaka TV
-http://red.ipfox.org:8080/1234/12345678/33759?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/vkqYIO4.jpg" group-title="JO",Amman TV
-https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="JO",Amman TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49514?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="JO",Amman TV
-http://red.ipfox.org:8080/1234/12345678/33756?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="JO",Darsak 1
-http://red.ipfox.org:8080/1234/12345678/33766?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="JO",JORDAN NOW
-http://red.ipfox.org:8080/1234/12345678/33764?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="JO",Jordan
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28178?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="JO",Jordan Deretna
-http://red.ipfox.org:8080/1234/12345678/33762?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="JO",Jordan HD
-http://red.ipfox.org:8080/1234/12345678/33758?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="Sport",Jordan Sport
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1354?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="Sport",Jordan Sport
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/72902?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="Sport",Jordan Sport
-http://red.ipfox.org:8080/1234/12345678/33760?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="Sport",Jordan Sport HD
-http://red.ipfox.org:8080/1234/12345678/33761?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="JO",Jordan TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1353?checkedby:satcom.tv
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="JO",Roya HD
-http://red.ipfox.org:8080/1234/12345678/33755?checkedby:satcom.tv
-
-
-
-#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/WUvqhAZ.png" group-title="BH",BAHRAIN TV,BH | Bahrain TV
-http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="BH",BN TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/33029?checkedby:satcom.tv
-#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="BH",BN TV FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/33030?checkedby:satcom.tv
-#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="BH",Bahrain International HD
-http://red.ipfox.org:8080/1234/12345678/35076?checkedby:satcom.tv
-#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="BH",Bahrain Quran
-http://red.ipfox.org:8080/1234/12345678/35074?checkedby:satcom.tv
-#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="Sport",Bahrain Sport 1 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49559?checkedby:satcom.tv
-#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="Sport",Bahrain Sport 1 HD
-http://red.ipfox.org:8080/1234/12345678/35077?checkedby:satcom.tv
-#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="Sport",Bahrain Sport 2 HD
-http://red.ipfox.org:8080/1234/12345678/35078?checkedby:satcom.tv
-#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="BH",Bahrain TV
-http://185.105.4.106:1935/live/Bahrain%20TV/chunklist_w721264201.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="BH",Bahrain TV
-http://185.105.4.106:1935/live/Bahrain%20TV/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="BH",Bahrain TV
-http://red.ipfox.org:8080/1234/12345678/35073?checkedby:satcom.tv
-#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="BH",City TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/33031?checkedby:satcom.tv
-#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="BH",FTV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/33036?checkedby:satcom.tv
-#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="BH",Hayat Plus HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/33042?checkedby:satcom.tv
-#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="BH",Hayat Plus HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/33043?checkedby:satcom.tv
-#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="BH",NABA TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49521?checkedby:satcom.tv
-#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="BH",Nova FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/33061?checkedby:satcom.tv
-#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="BH",Vikom nja Luka HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/33092?checkedby:satcom.tv
-
-
-
-#EXTINF:0 tvg-country="KW" tvg-logo="" group-title="KW",Al Bawadi
-http://red.ipfox.org:8080/1234/12345678/35056?checkedby:satcom.tv
-#EXTINF:0 tvg-country="KW" tvg-logo="" group-title="KW",Al Maaly
-http://red.ipfox.org:8080/1234/12345678/35055?checkedby:satcom.tv
-#EXTINF:0 tvg-country="KW" tvg-logo="" group-title="KW",Al Sabah TV
-http://red.ipfox.org:8080/1234/12345678/35057?checkedby:satcom.tv
-#EXTINF:0 tvg-country="KW" tvg-logo="" group-title="KW",Al-Majlis TV HD
-http://red.ipfox.org:8080/1234/12345678/35053?checkedby:satcom.tv
-#EXTINF:0 tvg-country="KW" tvg-logo="" group-title="KW",Almahriah
-http://red.ipfox.org:8080/1234/12345678/35059?checkedby:satcom.tv
-#EXTINF:0 tvg-country="KW" tvg-logo="" group-title="KW",KTV Al Arabi HD
-http://red.ipfox.org:8080/1234/12345678/35049?checkedby:satcom.tv
-#EXTINF:0 tvg-country="KW" tvg-logo="" group-title="KW",KTV CH1 HD
-http://red.ipfox.org:8080/1234/12345678/35047?checkedby:satcom.tv
-#EXTINF:0 tvg-country="KW" tvg-logo="" group-title="KW",KTV CH2 HD
-http://red.ipfox.org:8080/1234/12345678/35048?checkedby:satcom.tv
-#EXTINF:0 tvg-country="KW" tvg-logo="" group-title="KW",KTV Ethraa HD
-http://red.ipfox.org:8080/1234/12345678/35050?checkedby:satcom.tv
-#EXTINF:0 tvg-country="KW" tvg-logo="" group-title="KW",KTV Khalik bel Bait HD
-http://red.ipfox.org:8080/1234/12345678/35058?checkedby:satcom.tv
-#EXTINF:0 tvg-country="KW" tvg-logo="" group-title="KW",KTV QURAIN
-http://red.ipfox.org:8080/1234/12345678/35051?checkedby:satcom.tv
-#EXTINF:0 tvg-country="KW" tvg-logo="" group-title="KW",Kuwait Qurain
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49588?checkedby:satcom.tv
-#EXTINF:0 tvg-country="KW" tvg-logo="" group-title="Sport",Kuwait Sport HD
-http://red.ipfox.org:8080/1234/12345678/35060?checkedby:satcom.tv
-#EXTINF:0 tvg-country="KW" tvg-logo="" group-title="KW",Scope TV
-http://red.ipfox.org:8080/1234/12345678/35052?checkedby:satcom.tv
-
-
-
-
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",218 news
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/96628?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",AL JAMAHIRIA TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49519?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",AL Jamahiria TV
-http://red.ipfox.org:8080/1234/12345678/35084?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",LIBYA ALMUSTAQBAL HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49529?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",LIBYA PANORAMA
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49517?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",LIBYA WAAD FM
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49518?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",Libya 218
-http://red.ipfox.org:8080/1234/12345678/35088?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",Libya 218 News
-http://red.ipfox.org:8080/1234/12345678/35089?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",Libya ALMUSTAQBAL HD
-http://red.ipfox.org:8080/1234/12345678/35097?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",Libya AlAhrar
-http://red.ipfox.org:8080/1234/12345678/35093?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",Libya Alhadath
-http://red.ipfox.org:8080/1234/12345678/35094?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",Libya Alwatania
-http://red.ipfox.org:8080/1234/12345678/35099?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",Libya Education
-http://red.ipfox.org:8080/1234/12345678/35101?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",Libya Febrayer
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49530?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",Libya Febrayer
-http://red.ipfox.org:8080/1234/12345678/35095?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",Libya PANORAMA
-http://red.ipfox.org:8080/1234/12345678/35087?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="Sport",Libya Sport 1
-http://red.ipfox.org:8080/1234/12345678/35090?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="Sport",Libya Sport 2 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/141581?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",Tanasuh TV
-http://red.ipfox.org:8080/1234/12345678/35098?checkedby:satcom.tv
-#EXTINF:0 tvg-country="LY" tvg-logo="" group-title="LY",218
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/96629?checkedby:satcom.tv
-
-
-
-
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",2M MAROC
-http://red.ipfox.org:8080/1234/12345678/34855?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",2M MONDE
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8192?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",2M Maroc  +3
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31509?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",2M Tnt
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8007?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",AFLAM 7
-http://red.ipfox.org:8080/1234/12345678/34865?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",AL AOULA INTER
-http://red.ipfox.org:8080/1234/12345678/34857?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",AL ONS TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150483?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",AL Oula +6
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/134103?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",ALMAGHRIBIA
-http://red.ipfox.org:8080/1234/12345678/34858?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",ARRIADIA HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/7997?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",ARRIADIA Tnt
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/7996?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",ARRYADIA
-http://red.ipfox.org:8080/1234/12345678/34859?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",ASSABIA TNT HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28935?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",ASSABIA Tnt  HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8002?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",ASSADISSA
-http://red.ipfox.org:8080/1234/12345678/34860?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Aji Tfham
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/131813?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Al Aoula HD Tnt
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8000?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Al Aoula Inter FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195407?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Al Aoula Inter HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8001?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Al Aoula Layoune Tnt
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8217?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Al Aoula inter +6
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/134104?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Al Maghribia FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195408?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Al Maghribia HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/7999?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Al Maghribia HD +3
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31511?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Al Maghribia HEVC
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28794?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Al Maghribia Tnt
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/7998?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Al Oula HD +4
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31510?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Al Oula TV HEVC
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28795?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",AlanouarTV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/148446?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Amouddou TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/148452?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Arrabiaa HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/7994?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Arrabiaa HEVC
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49556?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Arrabiaa Tnt
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8220?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Arriadia +6
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/134106?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Arriadia TV HEVC
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28796?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Arryadia FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195409?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Arryadia HD Live
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/7995?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Assadissa  HEVC
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28797?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Assadissa +6
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/134108?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Assadissa FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195410?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Assadissa HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/7993?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Assadissa Tnt
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8219?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Athagavia +6
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/134107?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",CHADA TV +6
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/134110?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Canal Atlas TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/7991?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Chada Tv HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8004?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Choumicha TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/122894?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",EL JEM Tv
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/131867?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",FILALI HALIMA CUISINE TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/123004?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Hdidan Tv
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/133551?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Kabbour TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/131388?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",LAAYOUNETV
-http://red.ipfox.org:8080/1234/12345678/34862?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Laayoune TV +6
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/134109?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Laayoune TV FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195411?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Laayoune TV HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49555?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Laayoune TV HEVC
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49554?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",LifeLearningChannel
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/148445?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",M24 MAROC +6
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/134105?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="MA",M24 TV
-https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",M24_MAROC
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28430?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",MBC 5 Maghreb
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/54872?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",MEDI1 Tnt
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8005?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",MEDI1-TV HD
-http://red.ipfox.org:8080/1234/12345678/34864?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Maroc Cuisine
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/50533?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Maroc comedy
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/50419?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Master Chef
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/139143?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="News",Medi 1 TV Afrique (1080p)
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Medi1 TV HD +4
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/31512?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Medi1 TV HEVC
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28799?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Medi1 TV Maghreb FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195412?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Medi1 tv HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8006?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",START COOKING CHOUMICHA
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/185839?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",START MUSIC AMAZIGH
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/185840?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",START MUSIC CHAABI
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/185842?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",START MUSIC RAI
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/185843?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",START SERIES MOROCCAN
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/185844?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Star Movie HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/185675?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",TAMAZIGHT
-http://red.ipfox.org:8080/1234/12345678/34863?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",TAMZIGHT +6
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/134111?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",TELE MAROC
-http://red.ipfox.org:8080/1234/12345678/34856?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Tamazight FHD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195413?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Tamazight HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/7992?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Tamazight TV HEVC
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28798?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Tamazight Tnt
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8218?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",Tele Maroc HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/8003?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="MA",Télé Maroc
-http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="MA",Télé Maroc
-https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",radio idaa watanya
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/184604?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",radio idaa watanya
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28452?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="MA",جــــزيــــرة الكـــنــــز
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/133940?checkedby:satcom.tv
-
-
-
-
-#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/H7D7dmK.png" group-title="OM",Al Istiqama TV,Al-Istiqama TV
-https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/onPpSSC.png" group-title="OM",Al-Istiqama,Al-Istiqama TV,OM | Al-Istiqama
-http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/C7kfubs.png" group-title="OM",OM | Oman TV,Oman TV
-http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/sRlAGQD.png" group-title="OM",OM | Oman TV Cultural,Oman TV Cultural
-http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/stADjXC.png" group-title="OM",OM | Oman TV Mubashir,Oman TV Mubashir
-http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="OM" tvg-logo="" group-title="OM",OMAN TV Culture SD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49591?checkedby:satcom.tv
-#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/yaWTUE6.png" group-title="Sport",Oman Sport,SPORT : Oman Sports,SPORT | Oman Sports
-http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="OM" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Sport",Oman Sport
-https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="OM" tvg-logo="http://part.gov.om/part/images/omantv_general.png" group-title="OM",Oman TV
-https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="OM" tvg-logo="http://part.gov.om/part/images/cultural.png" group-title="OM",Oman TV Cultural
-https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="OM" tvg-logo="" group-title="OM",Oman TV Culture HD
-http://red.ipfox.org:8080/1234/12345678/35080?checkedby:satcom.tv
-#EXTINF:0 tvg-country="OM" tvg-logo="" group-title="OM",Oman TV General HD
-http://red.ipfox.org:8080/1234/12345678/35082?checkedby:satcom.tv
-#EXTINF:0 tvg-country="OM" tvg-logo="" group-title="OM",Oman TV Live HD
-http://red.ipfox.org:8080/1234/12345678/35081?checkedby:satcom.tv
-#EXTINF:0 tvg-country="OM" tvg-logo="http://part.gov.om/part/images/oman_live.png" group-title="OM",Oman TV Mubashir
-https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="OM" tvg-logo="" group-title="Sport",Oman TV Sport HD
-http://red.ipfox.org:8080/1234/12345678/35079?checkedby:satcom.tv
-#EXTINF:0 tvg-country="OM" tvg-logo="" group-title="OM",Oman tv
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1319?checkedby:satcom.tv
-
-
-
-#EXTINF:0 tvg-country="QA" tvg-logo="" group-title="Sport;QA",AL KASS 2 (1024×576),Al Kass Two
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2&checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="" group-title="Sport;QA",AL KASS 5 (1024×576),Al Kass Five
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5&checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="" group-title="QA",ALJAZEERA Documentary HD
-http://red.ipfox.org:8080/1234/12345678/35071?checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="" group-title="QA",ALJAZEERA English HD
-http://red.ipfox.org:8080/1234/12345678/35072?checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="" group-title="QA",ALJAZEERA HD
-http://red.ipfox.org:8080/1234/12345678/35069?checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="" group-title="QA",ALJAZEERA Mubasher HD
-http://red.ipfox.org:8080/1234/12345678/35070?checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="QA",Al Jazeera Documentary,QA | Al Jazeera Documentary
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="QA",Al Jazeera English,QA | Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="http://i.mjh.nz/.images/tv.46.png" group-title="QA",Al Jazeera English (1080p) [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.46.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/uQMoKXn.png" group-title="QA",Al Rayyan
-https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="" group-title="QA",Al Rayyan 1 HD
-http://red.ipfox.org:8080/1234/12345678/35064?checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/mVwHGbc.png" group-title="QA",Al Rayyan Al Qadeem
-https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="" group-title="QA",Qatar TV 1
-http://red.ipfox.org:8080/1234/12345678/35061?checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="" group-title="QA",Qatar TV 2
-http://red.ipfox.org:8080/1234/12345678/35062?checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="" group-title="QA",Qatar Today
-http://red.ipfox.org:8080/1234/12345678/35063?checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="" group-title="Sport",beIN Sport HD
-http://red.ipfox.org:8080/1234/12345678/35067?checkedby:satcom.tv
-#EXTINF:0 tvg-country="QA" tvg-logo="" group-title="Sport",beIN Sports News HD
-http://red.ipfox.org:8080/1234/12345678/35068?checkedby:satcom.tv
-
-
-
-
-#EXTINF:0 tvg-country="SA" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="SA",Al Khalij
-http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="SA",Al Khalij
-https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="SA",Al Quran Al Kareem (Mecca),Quran
-http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",Al-Khalij TV
-http://red.ipfox.org:8080/1234/12345678/33217?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",Asharq News HD
-http://red.ipfox.org:8080/1234/12345678/33218?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa Europe Africa
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",Iqraa TV
-http://red.ipfox.org:8080/1234/12345678/33204?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Sport",KSA Sports 1
-http://red.ipfox.org:8080/1234/12345678/33210?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Sport",KSA Sports 2
-http://red.ipfox.org:8080/1234/12345678/33211?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="SA",MBC FM
-https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="SA",Makkah TV
-http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",Mecca TV
-http://red.ipfox.org:8080/1234/12345678/33215?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",ROTANA CINEMA EGY HD
-http://red.ipfox.org:8080/1234/12345678/33219?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",ROTANA CINEMA KSA HD
-http://red.ipfox.org:8080/1234/12345678/33221?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",ROTANA CLASSIC HD
-http://red.ipfox.org:8080/1234/12345678/33220?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",ROTANA CLIP
-http://red.ipfox.org:8080/1234/12345678/33222?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",ROTANA MUSIC HD
-http://red.ipfox.org:8080/1234/12345678/33223?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Sport",SAUDI Sports 24
-http://red.ipfox.org:8080/1234/12345678/33213?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",SBC
-http://red.ipfox.org:8080/1234/12345678/33214?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",Saudi 1
-http://red.ipfox.org:8080/1234/12345678/33205?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",Saudi AlEKhbaria
-http://red.ipfox.org:8080/1234/12345678/33208?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",Saudi Quran
-http://red.ipfox.org:8080/1234/12345678/33206?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",Saudi Sunnah
-http://red.ipfox.org:8080/1234/12345678/33207?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",Saudi Thikrayat
-http://red.ipfox.org:8080/1234/12345678/33209?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 01
-http://red.ipfox.org:8080/1234/12345678/33225?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 02
-http://red.ipfox.org:8080/1234/12345678/33226?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 03
-http://red.ipfox.org:8080/1234/12345678/33227?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 04
-http://red.ipfox.org:8080/1234/12345678/33228?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 05
-http://red.ipfox.org:8080/1234/12345678/33229?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 06
-http://red.ipfox.org:8080/1234/12345678/33230?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 07
-http://red.ipfox.org:8080/1234/12345678/33231?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 08
-http://red.ipfox.org:8080/1234/12345678/33232?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 09
-http://red.ipfox.org:8080/1234/12345678/33233?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 10
-http://red.ipfox.org:8080/1234/12345678/33234?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 11
-http://red.ipfox.org:8080/1234/12345678/33235?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 12
-http://red.ipfox.org:8080/1234/12345678/33236?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 13
-http://red.ipfox.org:8080/1234/12345678/33237?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 14
-http://red.ipfox.org:8080/1234/12345678/33238?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 15
-http://red.ipfox.org:8080/1234/12345678/33239?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 16
-http://red.ipfox.org:8080/1234/12345678/33240?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 17
-http://red.ipfox.org:8080/1234/12345678/33241?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 18
-http://red.ipfox.org:8080/1234/12345678/33242?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="SA",iEN Doros 20
-http://red.ipfox.org:8080/1234/12345678/33244?checkedby:satcom.tv
-
-
-
-
-#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="SD",ALHILAL
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/12235?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SD" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:n-small_tn/3781376_logo_africa_tv_2.png" group-title="SD",Africa TV2
-http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SD" tvg-logo="https://i.imgur.com/vn9jvdV.png" group-title="SD",Africa TV2
-http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="SD",S24
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/12222?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="SD",S24 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/12221?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="SD",SSBC
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/153440?checkedby:satcom.tv
-#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="SD",Sudan Knowledge
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49583?checkedby:satcom.tv
-
-
-
-
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",AD Emarat TV HD
-http://red.ipfox.org:8080/1234/12345678/33777?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",AD NAT GEO HD
-http://red.ipfox.org:8080/1234/12345678/33778?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",AD NAT GEO HD +4
-http://red.ipfox.org:8080/1234/12345678/33779?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="AE",AE | Dubai Zaman,Dubai Zaman
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman&checkedby:satcom.tv
-#EXTINF:0 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/rVYdkth.jpg" group-title="AE",AE | Hawas TV,Hawas TV,HAWAS TV (1280×720)
-https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="AE",AE | Sharqiya from Kalba TV,Sharqiya from Kalba TV
-http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",AJMAN HD
-http://red.ipfox.org:8080/1234/12345678/33781?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",AJMAN TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28266?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",AL RAYYAN
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1427?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="AE",AL SHARJAH KALBA (1920×1080),Sharqiya from Kalba TV
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",ALAAN
-http://red.ipfox.org:8080/1234/12345678/33787?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",AL_SHALLAL
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49507?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="General;AE",Abu Dabi Aloula,Abu Dhabi TV
-http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Sport",Abu Dhabi Sports,Abu Dhabi Sports 1,Abu Dhabi Sports 1 HD (Opt-1),Abu Dhabi Sports1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sport",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sport",Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Sport",Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="General",Abu Dhabi TV
-http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="General",Abu Dhabi TV
-https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Abu Dhabi TV HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/12348?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Abu Dhabi TV HD
-http://red.ipfox.org:8080/1234/12345678/33776?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News;AE",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png" group-title="AE",Al Dhafra TV
-https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Al Emarat TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49592?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",AlWousta TV
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Alsharjah
-http://red.ipfox.org:8080/1234/12345678/33782?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",B4U Aflam
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1413?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",B4U Aflam
-http://red.ipfox.org:8080/1234/12345678/33784?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",B4U Plus
-http://red.ipfox.org:8080/1234/12345678/33783?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",DUBAI ZAMAN
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1390?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Movies",Dubai One
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione&checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Movies",Dubai One
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Dubai One
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/145?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Dubai One HD
-http://red.ipfox.org:8080/1234/12345678/33774?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Dubai Racin 1 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1381?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing,SPORT : Dubai Racing,SPORT | Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Sport;AE",Dubai Racing,迪拜赛马俱乐部
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing 2
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Dubai Racing 2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49593?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="AE",Dubai Racing 3
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports&checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports 1
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1&checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2&checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Sport",Dubai Sports 2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1382?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3&checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Sport",Dubai Sports 3
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1386?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/QKXDeMQ.png" group-title="AE",Dubai TV
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv&checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Dubai TV HD
-http://red.ipfox.org:8080/1234/12345678/33772?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Dubai TV hd
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/144?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="AE",Dubai Zaman
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="AE",Dubai Zaman
-https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Dubai Zaman
-http://red.ipfox.org:8080/1234/12345678/33773?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="AE",Emarat TV
-https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/rVYdkth.jpg" group-title="AE",Hawas TV
-https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="AE",MBC 3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="AE",MBC 3 Opt-2
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="AE",MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Drama
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Drama PLUS
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="IQ;AE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" group-title="AE",MBC Iraq
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="AE",MBC Persia
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="AE",National Geographic Abu Dhabi
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FP2yHkl.png" group-title="AE",Noor Dubai
-http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FP2yHkl.png" group-title="AE",Noor Dubai
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv&checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FP2yHkl.png" group-title="AE",Noor Dubai
-http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FP2yHkl.png" group-title="AE",Noor Dubai
-https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Noor Dubai
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1322?checkedby:satcom.tv
-#EXTINF:0 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/FAp0RtO.png" group-title="AE",SHARJA TV (1920×1080),Sharjah TV
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="AE",Sama Dubai
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai&checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Sama Dubai HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/146?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Sama Dubai HD
-http://red.ipfox.org:8080/1234/12345678/33775?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE;US" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="AE",Sharjah 2,Sharjah TV 2
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sport,Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Sharjah tv
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1288?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="Music",Wanasah
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Wanasah TV
-http://red.ipfox.org:8080/1234/12345678/33788?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="AE",Yas
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv&checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",ZAD TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28226?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",ZEE AFLAM
-http://red.ipfox.org:8080/1234/12345678/33785?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",ZEE ALWAN
-http://red.ipfox.org:8080/1234/12345678/33786?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Zee Aflam TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1262?checkedby:satcom.tv
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="AE",Zee Alwan TV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1261?checkedby:satcom.tv
-
-
-
-
-#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="YE",ADEN TV
-http://red.ipfox.org:8080/1234/12345678/35117?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="YE",ALMASIRAH MUBASHER
-http://red.ipfox.org:8080/1234/12345678/35111?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="YE",Al Ghad Al Mushreq
-http://red.ipfox.org:8080/1234/12345678/35107?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="YE",Al Masirah
-https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="YE",Al Masirah Mubacher
-https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="YE",Al mahriah
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49512?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="YE",AlSaeedah
-http://red.ipfox.org:8080/1234/12345678/35113?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="Sport",Alerth Alnbawi
-http://red.ipfox.org:8080/1234/12345678/35106?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="https://www.alghadye.com/wp-content/uploads/2018/07/image1.png" group-title="YE",Alghad Almushreq
-http://82.212.74.3:8000/live/7512.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="YE",Almahriah
-http://red.ipfox.org:8080/1234/12345678/35109?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="YE",BELQEES
-http://red.ipfox.org:8080/1234/12345678/35112?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="YE",Hadramoot
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49594?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="YE",Suhail TV
-http://82.212.74.98:8000/live/hls/7726.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="YE",Suhail TV
-http://red.ipfox.org:8080/1234/12345678/35116?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="YE",YEMEN SHABAB
-http://red.ipfox.org:8080/1234/12345678/35108?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="YE",Yemen
-http://red.ipfox.org:8080/1234/12345678/35115?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="YE",Yemen Documentary
-http://red.ipfox.org:8080/1234/12345678/35105?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="YE",Yemen Education TV
-http://red.ipfox.org:8080/1234/12345678/35104?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="YE",Yemen Shabab
-https://master.starmena-cloud.com/hls/yemenshabab.m3u8?checkedby:satcom.tv
-#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="YE",Yemen Today
-http://red.ipfox.org:8080/1234/12345678/35114?checkedby:satcom.tv
+#EXTINF:-1,########## Arabic ##########
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5918
+#EXTINF:-1,------- beIN Network -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685747
+#EXTINF:-1,beIN Movies 1 FHD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5848
+#EXTINF:-1,beIN Movies 1 HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4137
+#EXTINF:-1,beIN Movies 2 HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4136
+#EXTINF:-1,beiN Movies 2 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5847
+#EXTINF:-1,beIN Movies 3 HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4135
+#EXTINF:-1,beiN Movies 3 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5846
+#EXTINF:-1,beiN Movies 4 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5845
+#EXTINF:-1,beIN Movie 4 Family HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4134
+#EXTINF:-1,beIN Gourmet HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14839
+#EXTINF:-1,------- MyHD VIP Network -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687531
+#EXTINF:-1,Cinema HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687517
+#EXTINF:-1,Douc Box HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687518
+#EXTINF:-1,Fight Box HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687519
+#EXTINF:-1,Filmbox HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687520
+#EXTINF:-1,Fix Foxi HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687522
+#EXTINF:-1,Fox Crime HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687523
+#EXTINF:-1,Fox Life HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687524
+#EXTINF:-1,FOX Rewayat HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687525
+#EXTINF:-1, Gulli Arabic VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687526
+#EXTINF:-1,MBC1 HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687534
+#EXTINF:-1,MBC2 HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687535
+#EXTINF:-1,MBC3 HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687536
+#EXTINF:-1,MBC4 HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687537
+#EXTINF:-1,MBC Drama HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687532
+#EXTINF:-1,MBC Drama+ HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687530
+#EXTINF:-1,MBC Bollywood HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687529
+#EXTINF:-1,MBC Action HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687528
+#EXTINF:-1,MBC Variety HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687527
+#EXTINF:-1,MBC Max HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687533
+#EXTINF:-1,Planet Earth HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687538
+#EXTINF:-1,------- OSN Arabic -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685771
+#EXTINF:-1,BBC Arabic HD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14865
+#EXTINF:-1,BBC Arabic AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4110
+#EXTINF:-1,Art Aflam 1 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5841
+#EXTINF:-1,Art Aflam 2 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5840
+#EXTINF:-1,Art Hekayat 1 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5838
+#EXTINF:-1,Art Hekayat 2 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5837
+#EXTINF:-1,Cartoon Network AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5789
+#EXTINF:-1,Dzair News AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8916
+#EXTINF:-1,OSN Ya Hala FHD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8855
+#EXTINF:-1,OSN Ya Hala HD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5908
+#EXTINF:-1,OSN Ya Hala Al Oula FHD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8848
+#EXTINF:-1,OSN Yahala Cinema HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8862
+#EXTINF:-1,OSN Ya Hala Cinema AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5910
+#EXTINF:-1,OSN Action 2 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5901
+#EXTINF:-1,OSN Al Yawm HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8879
+#EXTINF:-1,OSN Alkass Sport 4 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5886
+#EXTINF:-1,OSN Animal Planet AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5911
+#EXTINF:-1,OSN Art Cinema AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8881
+#EXTINF:-1,OSN Box Office 1 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5897
+#EXTINF:-1,OSN Box Office 3 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5895
+#EXTINF:-1,OSN Cinema 1 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8856
+#EXTINF:-1,OSN Discovery HD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672570
+#EXTINF:-1,OSN Discovery History HD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672571
+#EXTINF:-1,OSN Discovery ID FHD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5903
+#EXTINF:-1,OSN Discovery Science HD VIP AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5894
+#EXTINF:-1,OSN National Geographic ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672572
+#EXTINF:-1,OSN First AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5904
+#EXTINF:-1,OSN Home Cinema 1 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4133
+#EXTINF:-1,OSN Home Cinema 2 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4132
+#EXTINF:-1,OSN MBC Drama AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5912
+#EXTINF:-1,OSN MBC Plus Drama AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5906
+#EXTINF:-1,OSN Movies Action AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5916
+#EXTINF:-1,OSN Movies Action 2 HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8871
+#EXTINF:-1,OSN Movies Box Office 2 HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8869
+#EXTINF:-1,OSN Movies Comedy AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5905
+#EXTINF:-1,OSN Movies Drama HD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4123
+#EXTINF:-1,OSN Movies Drama AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5892
+#EXTINF:-1,OSN Movies Festival ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5917
+#EXTINF:-1,OSN Movies First HD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4121
+#EXTINF:-1,OSN Series First HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8844
+#EXTINF:-1,OSN Movies HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8868
+#EXTINF:-1,OSN Movies Kids HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4119
+#EXTINF:-1,OSN Movies Premiere ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5899
+#EXTINF:-1,OSN Star Movies ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5914
+#EXTINF:-1,OSN Star World ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5913
+#EXTINF:-1,OSN Music Now AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4117
+#EXTINF:-1,OSN Disney Channel HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/35465
+#EXTINF:-1,OSN WWE HD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8860
+#EXTINF:-1,------- UAE -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685748
+#EXTINF:-1,MBC 1 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5876
+#EXTINF:-1,MBC 2 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5875
+#EXTINF:-1,MBC 2 HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14845
+#EXTINF:-1,MBC 3 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4153
+#EXTINF:-1,MBC 3 HD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14769
+#EXTINF:-1,MBC 4 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5873
+#EXTINF:-1,MBC 4 HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4152
+#EXTINF:-1,MBC 4 HD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14842
+#EXTINF:-1,MBC 5 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685952
+#EXTINF:-1,MBC Action HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5871
+#EXTINF:-1,MBC Bollywood HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5869
+#EXTINF:-1,MBC Drama HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5870
+#EXTINF:-1,MBC Drama AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14841
+#EXTINF:-1,MBC HD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14846
+#EXTINF:-1,MBC Masr AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5868
+#EXTINF:-1,MBC Masr 2 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4148
+#EXTINF:-1,MBC Max AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5872
+#EXTINF:-1,MBC Max HD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14843
+#EXTINF:-1,MBC Variety HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5866
+#EXTINF:-1,MBC Iraq HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/645986
+#EXTINF:-1,Wanasah AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14838
+#EXTINF:-1,Rotana Aflam AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14831
+#EXTINF:-1,Rotana Cinema AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5795
+#EXTINF:-1,Rotana Cinema EGY AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14830
+#EXTINF:-1,Sada ElBalad Drama TV EG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14690
+#EXTINF:-1,Rotana Cinema HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14828
+#EXTINF:-1,Rotana Cinema KSA ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14829
+#EXTINF:-1,Rotana Classic AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5796
+#EXTINF:-1,Rotana Classic HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14827
+#EXTINF:-1,Rotana Clip AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5798
+#EXTINF:-1,Rotana Khalijiah AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5797
+#EXTINF:-1,Rotana Khalyjia AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8942
+#EXTINF:-1,Rotana Masria HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14826
+#EXTINF:-1,Rotana Masriya AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5793
+#EXTINF:-1,Rotana Music HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5799
+#EXTINF:-1,Rotana Kids AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14768
+#EXTINF:-1,Abu Dhabi Nat Geo AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5891
+#EXTINF:-1,National Geo Abu Dhabi AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8939
+#EXTINF:-1,Abu Dhabi TV HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8958
+#EXTINF:-1,Abu Dhabi Sports 1 FHD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5890
+#EXTINF:-1,Abu Dhabi Sports 2 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5889
+#EXTINF:-1,Yas Sports HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/623172
+#EXTINF:-1,Dubai TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8915
+#EXTINF:-1,Dubai One AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5856
+#EXTINF:-1,Dubai Sports AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5855
+#EXTINF:-1,Dubai Sports 3 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5854
+#EXTINF:-1,Dubai Sports 4 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5853
+#EXTINF:-1,Dubai Racing AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5852
+#EXTINF:-1,Dubai Racing 2 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8914
+#EXTINF:-1,Dubai Zaman AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14834
+#EXTINF:-1,Fatafeat HD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14840
+#EXTINF:-1,Funoon TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8941
+#EXTINF:-1,Noor Dubai AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5791
+#EXTINF:-1,Emagine Movies HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8836
+#EXTINF:-1,Sama Dubai AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5850
+#EXTINF:-1,Sama TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/17466
+#EXTINF:-1,Spacetoon AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8949
+#EXTINF:-1,Ajman TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14677
+#EXTINF:-1,Al Arabiya ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8895
+#EXTINF:-1,Al Arabiya Al Hadath FHD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8896
+#EXTINF:-1,Al Emarat TV HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14833
+#EXTINF:-1,Al Jazeera Documentary AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4112
+#EXTINF:-1,Al Jazeera [En] ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14868
+#EXTINF:-1,Al Jazeera HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4113
+#EXTINF:-1,Al Shareyyah TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/15919
+#EXTINF:-1,Majid Kids AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8931
+#EXTINF:-1,Al Majd Educational AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/50211
+#EXTINF:-1,CNBC HD Arabia AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14859
+#EXTINF:-1,CNN Arabic AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14858
+#EXTINF:-1,DW Arabic TV ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14864
+#EXTINF:-1,France 24 Arabic AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5767
+#EXTINF:-1,France 24 Arabic HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4109
+#EXTINF:-1,Fox Family Movies HD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8843
+#EXTINF:-1,RT Arabic AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4145
+#EXTINF:-1,Sky News Arabia AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5830
+#EXTINF:-1,------- Saudi Arabia -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685749
+#EXTINF:-1,Saudi 1 HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5828
+#EXTINF:-1,Saudi 2 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5827
+#EXTINF:-1,Saudi 24 HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5826
+#EXTINF:-1,Saudi Sports AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5829
+#EXTINF:-1,SBC Saudi HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685726
+#EXTINF:-1,KSA Sport 1 FHD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/623168
+#EXTINF:-1,KSA Sport 2 HD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/623167
+#EXTINF:-1,KSA Sport 3 HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/679666
+#EXTINF:-1,KSA Sport 4 FHD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/679667
+#EXTINF:-1,ART Cinema ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14825
+#EXTINF:-1,Al Ekhbariya HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8898
+#EXTINF:-1,Al Resalah AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8902
+#EXTINF:-1,Iqraa TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8925
+#EXTINF:-1,Makkah TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8936
+#EXTINF:-1,Nabaa TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8937
+#EXTINF:-1,Quest Arabiya ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14848
+#EXTINF:-1,Saudia Sunna AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8950
+#EXTINF:-1,Saudia Quran AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/637346
+#EXTINF:-1,Wesal TV HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8955
+#EXTINF:-1,------- Qatar -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685750
+#EXTINF:-1,Baraem AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8911
+#EXTINF:-1,Jeem HD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14765
+#EXTINF:-1,Qatar TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5815
+#EXTINF:-1,Qatar Today AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14687
+#EXTINF:-1,------- Egypt -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685751
+#EXTINF:-1,Nile Cinema AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5861
+#EXTINF:-1,Nile Culture AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5857
+#EXTINF:-1,Nile Drama AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5864
+#EXTINF:-1,Nile Family AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5862
+#EXTINF:-1,Nile Life AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5858
+#EXTINF:-1,Nile News AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5859
+#EXTINF:-1,Nile Sport AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5860
+#EXTINF:-1,Panorama Film AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5820
+#EXTINF:-1,Panorama Drama AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5822
+#EXTINF:-1,Panorama Drama 2 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5821
+#EXTINF:-1,Panorama Food AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5823
+#EXTINF:-1,Cairo Cinema AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5836
+#EXTINF:-1,Cairo Drama AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5835
+#EXTINF:-1,Melody Classic AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/18655
+#EXTINF:-1,Apple Hekayat ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14820
+#EXTINF:-1,Mekameleen TV ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/648467
+#EXTINF:-1,Aghapy TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14679
+#EXTINF:-1,Al Araby HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/638823
+#EXTINF:-1,Al Ahly TV HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14675
+#EXTINF:-1,Al Basira AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14745
+#EXTINF:-1,Al Ghad Al Mushreq AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14692
+#EXTINF:-1,Al Ghad Araby ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14693
+#EXTINF:-1,Al Hayat FHD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5788
+#EXTINF:-1,Al Hayat AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/22696
+#EXTINF:-1,Al Hayat 2 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5787
+#EXTINF:-1,Al Hayat Cinema AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5786
+#EXTINF:-1,Darbaka Action AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14790
+#EXTINF:-1,Al Kahera Wal Nas AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/21082
+#EXTINF:-1,Al Majd Hadith AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/16528
+#EXTINF:-1,Al Majd Kids Besma AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/16526
+#EXTINF:-1,Al Majd Quran ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/16529
+#EXTINF:-1,Al Majd TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/16530
+#EXTINF:-1,Al Malakoot Sat AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/22700
+#EXTINF:-1,Al Nada TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14656
+#EXTINF:-1,Al Nahar Drama ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14789
+#EXTINF:-1,Nahar Drama AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8938
+#EXTINF:-1,Al Nahar One ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14655
+#EXTINF:-1,Al Qamar AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14712
+#EXTINF:-1,Al Thanya ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14788
+#EXTINF:-1,Azhari ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14698
+#EXTINF:-1,CBC AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5834
+#EXTINF:-1,CBC Drama AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5832
+#EXTINF:-1,CBC Extra AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5833
+#EXTINF:-1,CBC Sofra AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5831
+#EXTINF:-1,CTV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/16346
+#EXTINF:-1,Cinema Pro AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5818
+#EXTINF:-1,DMC AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5772
+#EXTINF:-1,DMC Drama AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5771
+#EXTINF:-1,Time Sports AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5770
+#EXTINF:-1,Dream 1 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14801
+#EXTINF:-1,El Moled AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14694
+#EXTINF:-1,Shabab TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14721
+#EXTINF:-1,El Sharq ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/648468
+#EXTINF:-1,Mazzika TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/18650
+#EXTINF:-1,Maspero Zaman AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/32383
+#EXTINF:-1,ME Sat AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/32384
+#EXTINF:-1,------- Kuwait -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685753
+#EXTINF:-1,KTV Al Arabi HD KW
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14776
+#EXTINF:-1,KTV CH1 HD KW
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14778
+#EXTINF:-1,KTV CH 2 HD KW
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14777
+#EXTINF:-1,KTV Ethraa HD KW
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14775
+#EXTINF:-1,KTV Sport Plus HD KW
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14774
+#EXTINF:-1,Kuwait TV1 FHD KW
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5810
+#EXTINF:-1,Kuwait Sport KW
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5808
+#EXTINF:-1,Kuwait Sport Plus KW
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4115
+#EXTINF:-1,Kuwait Sport TV KW
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4114
+#EXTINF:-1,Al Rai HD KW
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8906
+#EXTINF:-1,------- Morocco -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685754
+#EXTINF:-1,Aloula Maroc FHD MR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8851
+#EXTINF:-1,Aloula Maroc HD MR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8908
+#EXTINF:-1,2m Maroc MR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8825
+#EXTINF:-1,Arrabiaa MR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8822
+#EXTINF:-1,Arryadia HD MR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8845
+#EXTINF:-1,Assadissa MR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8820
+#EXTINF:-1,Tamazight MR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8951
+#EXTINF:-1,Al Aoula MR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8826
+#EXTINF:-1,Al Aoula Inter MR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14875
+#EXTINF:-1,Al Aoula Laayoune MR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8894
+#EXTINF:-1,Tele Maroc MR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/629075
+#EXTINF:-1,Medi 1 HD MR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8824
+#EXTINF:-1,Nour El Sham MR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14755
+#EXTINF:-1,------- Tunisia -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685755
+#EXTINF:-1,Tunisia National 1 TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5785
+#EXTINF:-1,Tunisia National 2 TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5784
+#EXTINF:-1,Tunisna TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14888
+#EXTINF:-1,AL Hiwar Tunisia TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8922
+#EXTINF:-1,Al Hiwar Ettounsi TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8893
+#EXTINF:-1,Al Insen TV TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14887
+#EXTINF:-1,Al Moutawaset TV TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8901
+#EXTINF:-1,Al Mustakillah TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14886
+#EXTINF:-1,Al Janoubia TV TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687577
+#EXTINF:-1,Attessia TV TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8909
+#EXTINF:-1,Beur TV TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14882
+#EXTINF:-1,Carthage TV TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14889
+#EXTINF:-1,Hannibal TV TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8924
+#EXTINF:-1,M Tunisia TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5783
+#EXTINF:-1,Nessma TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8940
+#EXTINF:-1,Telvza TV TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14890
+#EXTINF:-1,Sahel TV HD TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/18651
+#EXTINF:-1,Zitouna TUN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8956
+#EXTINF:-1,------- Algerie -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685756
+#EXTINF:-1,Al Magharibia 1 ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14874
+#EXTINF:-1,Al Magharibia 2 ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14873
+#EXTINF:-1,Al Maghribia ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8821
+#EXTINF:-1,Algeria TV ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14885
+#EXTINF:-1,Canal Algerie ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5805
+#EXTINF:-1,Algerie 3 ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/680850
+#EXTINF:-1,Algerie 4 ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8899
+#EXTINF:-1,Berbere TV ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14883
+#EXTINF:-1,Dzair TV ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14881
+#EXTINF:-1,ENTV Algerie ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14878
+#EXTINF:-1,Echorouk TV ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8917
+#EXTINF:-1,ONE Algeria ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8920
+#EXTINF:-1,El Fadjr TV ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14877
+#EXTINF:-1,El Heddaf TV ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8919
+#EXTINF:-1,Ennahar TV Alg ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8921
+#EXTINF:-1,Samira TV ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8946
+#EXTINF:-1,Bahia TV ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/680853
+#EXTINF:-1,El Bilad TV ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/680852
+#EXTINF:-1,------- Lebanon -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685757
+#EXTINF:-1,LBC TV FHD LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5777
+#EXTINF:-1,LBC TV HD LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687544
+#EXTINF:-1,LBC [International] FHD LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/693072
+#EXTINF:-1,LBC [International] HD LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5773
+#EXTINF:-1,Lebanon LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8928
+#EXTINF:-1,Taha Kids LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14678
+#EXTINF:-1,AL Manar LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8932
+#EXTINF:-1,Al Saeedah YE
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/15922
+#EXTINF:-1,Al Jadeed FHD LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5774
+#EXTINF:-1,Al Jadeed HD LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/687545
+#EXTINF:-1,Al Mayadeen LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8905
+#EXTINF:-1,Al Waad Channel LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14710
+#EXTINF:-1,Future TV LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8923
+#EXTINF:-1,Hawacom LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14683
+#EXTINF:-1,MTV Lebanon HD LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14786
+#EXTINF:-1,MTV Lebanon FHD LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5775
+#EXTINF:-1,MTV Lebanon +2 HD LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14785
+#EXTINF:-1,NBN Lebanon FHD LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14783
+#EXTINF:-1,NBN Lebanon LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5778
+#EXTINF:-1,NBN Lebanon +4 LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14780
+#EXTINF:-1,Noursat LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/22699
+#EXTINF:-1,Noursat Alchabab LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14753
+#EXTINF:-1,Numidia News LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14879
+#EXTINF:-1,OTV Lebanon HD LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5807
+#EXTINF:-1,Sada El Balad LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8944
+#EXTINF:-1,Sada Elbalad Drama LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8945
+#EXTINF:-1,Tele Liban LB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5779
+#EXTINF:-1,------- Yemen -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685758
+#EXTINF:-1,Yemen Shabab YE
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14717
+#EXTINF:-1,Yemen Today YE
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/15918
+#EXTINF:-1,Aden TV YE
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/15917
+#EXTINF:-1,Al Iman TV YE
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14706
+#EXTINF:-1,Belqees YE
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14697
+#EXTINF:-1,Belqees TV YE
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14720
+#EXTINF:-1,------- Iraq -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685759
+#EXTINF:-1,Lana TV IRQ
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/648284
+#EXTINF:-1,Al Anbar AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14665
+#EXTINF:-1,Al Anwar AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14663
+#EXTINF:-1,Al Ghadeer AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14691
+#EXTINF:-1,Al Hurra Iraq ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14671
+#EXTINF:-1,Al Rasheed TV ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14667
+#EXTINF:-1,Al Sharqiya AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8903
+#EXTINF:-1,Al Sumaria TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14666
+#EXTINF:-1,Al Taleaa TV ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14652
+#EXTINF:-1,Alhurra ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14707
+#EXTINF:-1,Hona Baghdad ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14689
+#EXTINF:-1,Iraqia TV ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14740
+#EXTINF:-1,Iraqi EDU AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14779
+#EXTINF:-1,Iraqia Sport AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14741
+#EXTINF:-1,Asia TV IRQ
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14699
+#EXTINF:-1,------- Syria -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685760
+#EXTINF:-1,Syria TV SY
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5803
+#EXTINF:-1,Syria Aloula AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5800
+#EXTINF:-1,Syria Drama AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5801
+#EXTINF:-1,Syria News SY
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5802
+#EXTINF:-1,Suryoyo Sat AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/21322
+#EXTINF:-1,Sham FM AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/50702
+#EXTINF:-1,------- Jordan -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685761
+#EXTINF:-1,Jordan HD JO
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14770
+#EXTINF:-1,Jordan Today JO
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/624943
+#EXTINF:-1,Jordan Sport JO
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14681
+#EXTINF:-1,Semsem JO
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8947
+#EXTINF:-1,Toyor Al Janah JO
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/624942
+#EXTINF:-1,Aghanina JO
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/18652
+#EXTINF:-1,Roya TV HD JO
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/50969
+#EXTINF:-1,Amman TV JO
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/624944
+#EXTINF:-1,------- Bahrain -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685762
+#EXTINF:-1,Bahrain TV BH
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8910
+#EXTINF:-1,Al Maaref BH
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14657
+#EXTINF:-1,Toyor AL Janah BH
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8954
+#EXTINF:-1,------- Indian Arabic -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685763
+#EXTINF:-1,Zee Aflam AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8959
+#EXTINF:-1,Zee Alwan AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8960
+#EXTINF:-1,B4U Aflam AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5769
+#EXTINF:-1,B4U AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14836
+#EXTINF:-1,B4U Plus AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5768
+#EXTINF:-1,------- Libya -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685764
+#EXTINF:-1,Libya TV LY
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14857
+#EXTINF:-1,Libya 1 LY
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8929
+#EXTINF:-1,Libya AL Mostakbal LY
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14854
+#EXTINF:-1,Libya ALrasmia TV LY
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14853
+#EXTINF:-1,Libya Al Ahrar TV LY
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14855
+#EXTINF:-1,Libya Al Hadath LY
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14852
+#EXTINF:-1,Libya El Watan LY
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14850
+#EXTINF:-1,Libyas Channel LY
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14851
+#EXTINF:-1,218 TV Libye LY
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8889
+#EXTINF:-1,Al Jamahiria TV LY
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14856
+#EXTINF:-1,Tanasuh TV LY
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8952
+#EXTINF:-1,------- Oman -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685768
+#EXTINF:-1,Oman Sport HD OM
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5811
+#EXTINF:-1,Oman TV HD OM
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5812
+#EXTINF:-1,------- Palestine -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685769
+#EXTINF:-1,Palestine Live PS
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14761
+#EXTINF:-1,Palestine Today PS
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14762
+#EXTINF:-1,------- Cyprus -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685770
+#EXTINF:-1,Sat 7 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/22698
+#EXTINF:-1,Sat 7 Kids AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/22697
+#EXTINF:-1,------- General Arabic -------
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/685772
+#EXTINF:-1,Belody Aflam AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14795
+#EXTINF:-1,Star Cinema 1 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5825
+#EXTINF:-1,Star Cinema 2 AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5824
+#EXTINF:-1,Art Cinema AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5839
+#EXTINF:-1,M Cinema TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14793
+#EXTINF:-1,Time Cinema AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5843
+#EXTINF:-1,ON Drama ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14803
+#EXTINF:-1,ON E HD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14802
+#EXTINF:-1,ON Live HD ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14804
+#EXTINF:-1,ON Sport AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/21080
+#EXTINF:-1,Al Horreya ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/626611
+#EXTINF:-1,Al Quran ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14813
+#EXTINF:-1,CNA TV ALG
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/692151
+#EXTINF:-1,Cima ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14824
+#EXTINF:-1,Cima Ali Baba AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14823
+#EXTINF:-1,Echorouk News AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14880
+#EXTINF:-1,Hareem Al Sultan AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14837
+#EXTINF:-1,Karameesh AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8926
+#EXTINF:-1,Karbala TV ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14738
+#EXTINF:-1,Mazazik TV ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14731
+#EXTINF:-1,Miracle TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14688
+#EXTINF:-1,Mosalsalat Tube AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14805
+#EXTINF:-1,SeeVii Al Aoula HD AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8827
+#EXTINF:-1,Ten AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/8953
+#EXTINF:-1,Toktok Aflam ARB
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14811
+#EXTINF:-1,Toktok Cima AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/14812
+#EXTINF:-1,Baby TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/33493
+#EXTINF:-1,Koogi TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/625941
+#EXTINF:-1,AL Sirat TV AR
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/641397
