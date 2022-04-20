@@ -1,61 +1,910 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Syria",======Syria=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1,SYR.Sama TV
-https://list.iptvcat.com/my_list/s/d3629e6a65e831b7db2861ae7b288317.m3u8
-#EXTINF:-1,SYR.LANA
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
-#EXTINF:-1,SYR.SATELLITE TV
-https://list.iptvcat.com/my_list/s/ab9d323b3396c6025272f8a55f15a079.m3u8
-#EXTINF:-1,SYR.DRAMA
-https://list.iptvcat.com/my_list/s/f29ded1cd9a06e02ef42f407eceb17c5.m3u8
-#EXTINF:-1,SYR.SHAM FM
-https://list.iptvcat.com/my_list/s/742ae7426bf930574ec400db52727d07.m3u8
-#EXTINF:-1,SYR.Syria TV
-https://list.iptvcat.com/my_list/s/2dae5b641a88d63a5a76804a399ead39.m3u8
-#EXTINF:-1,SYR.Al Khabar TV
-https://list.iptvcat.com/my_list/s/9d2f77f782fea3c92630c4a749f8e033.m3u8
-#EXTINF:-1,SYR.Syria News TV
-https://list.iptvcat.com/my_list/s/946b163f949e5426b56d6ae0a657fb2f.m3u8
-#EXTINF:-1,SYR.Souryana
-https://list.iptvcat.com/my_list/s/0e4592e7766a4301b044254c6352cd3a.m3u8
-#EXTINF:-1,SYR.Al Alam Syria TV
-https://list.iptvcat.com/my_list/s/d916c5543fe30294bfd05f4a3e519b76.m3u8
-#EXTINF:-1,SYR.EDUCATION
-https://list.iptvcat.com/my_list/s/e894b172e22d8070c13f8dbf386e8fc2.m3u8
-#EXTINF:-1,SYR.HALAB Al YAOUM
-https://list.iptvcat.com/my_list/s/ad8a419d6501eeec9719379f1bc91d9d.m3u8
-#EXTINF:-1,SYR.Noor Al Sham TV
-https://list.iptvcat.com/my_list/s/add0182b5549136fb3a3c4cef4b918fc.m3u8
+#EXTINF:-1,Sy: Sama TV
+http://new-pro.tv:8080/Fernando/123321/7189
+#EXTINF:-1,Sy: Sama TV Plus
+http://new-pro.tv:8080/Fernando/123321/36459
+#EXTINF:-1,Sy: Lana TV HD
+http://new-pro.tv:8080/Fernando/123321/10980
+#EXTINF:-1,Sy: Lana TV 4K
+http://new-pro.tv:8080/Fernando/123321/36460
+#EXTINF:-1,Sy: Lana TV SD
+http://new-pro.tv:8080/Fernando/123321/69847
+#EXTINF:-1,Sy: Al Khabar TV
+http://new-pro.tv:8080/Fernando/123321/179872
+#EXTINF:-1,Sy: Syria Drama
+http://new-pro.tv:8080/Fernando/123321/7188
+#EXTINF:-1,Sy: Syria Drama Plus
+http://new-pro.tv:8080/Fernando/123321/36462
+#EXTINF:-1,Sy: Syria TV
+http://new-pro.tv:8080/Fernando/123321/20913
+#EXTINF:-1,Sy: Syria TV Plus
+http://new-pro.tv:8080/Fernando/123321/28811
+#EXTINF:-1,Sy: Syria News TV
+http://new-pro.tv:8080/Fernando/123321/6887
+#EXTINF:-1,Sy: Syria News
+http://new-pro.tv:8080/Fernando/123321/99706
+#EXTINF:-1,Sy: Syria HD
+http://new-pro.tv:8080/Fernando/123321/7186
+#EXTINF:-1,Sy: Syria HD Plus
+http://new-pro.tv:8080/Fernando/123321/79039
+#EXTINF:-1,Sy: Halab Today Tv
+http://new-pro.tv:8080/Fernando/123321/101212
+#EXTINF:-1,Sy: Syrian TV 4K
+http://new-pro.tv:8080/Fernando/123321/20949
+#EXTINF:-1,Sy: Noor Al Sham TV
+http://new-pro.tv:8080/Fernando/123321/7191
+#EXTINF:-1,Sy: Syria Education
+http://new-pro.tv:8080/Fernando/123321/14258
+#EXTINF:-1,Sy: Al Qanat 9
+http://new-pro.tv:8080/Fernando/123321/60021
+#EXTINF:-1,Sy: Al Yaum TV
+http://new-pro.tv:8080/Fernando/123321/10609
+#EXTINF:-1,Sy: Souryana
+http://new-pro.tv:8080/Fernando/123321/99694
+#EXTINF:-1,Sy: Rojava HD
+http://new-pro.tv:8080/Fernando/123321/92227
+#EXTINF:-1,Sy: Sham FM TV
+http://new-pro.tv:8080/Fernando/123321/92224
+#EXTINF:-1,Sy: Minbij TV
+http://new-pro.tv:8080/Fernando/123321/100357
+#EXTINF:-1,Sy: Al Alam Syria TV
+http://new-pro.tv:8080/Fernando/123321/155219
 #EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Lebanon",======Lebanon=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
-#EXTINF:-1,LBN.Al Jadeed HD
-https://list.iptvcat.com/my_list/s/903ffd3f7db13f818028ea1734f0bd36.m3u8
-#EXTINF:-1,LBN.MTV Lebanon HD
-https://list.iptvcat.com/my_list/s/bc8e62da3a1eca11160433ffb7cc1682.m3u8
-#EXTINF:-1,LBN.LBC TV Plus
-http://stariptv.org:8080/wael2021/123456/112487
-#EXTINF:-1,LBN.LBCI International HD
-https://list.iptvcat.com/my_list/s/91b01f5a364401c3732dbf440ac30513.m3u8
-#EXTINF:-1,LBN.OTV  Lebonan  HD
-https://list.iptvcat.com/my_list/s/1b428a84f0ce6867b6baaecfa91617ba.m3u8
-#EXTINF:-1,LBN.NBN  HD
-https://list.iptvcat.com/my_list/s/9ca3564cba9af9db96604ddbfd2abcd9.m3u8
-#EXTINF:-1,LBN.AL Manar TV
-https://list.iptvcat.com/my_list/s/760fe5b26bb19e8461f72fb3a0355e8c.m3u8
-#EXTINF:-1,LBN.LBC 2
-https://list.iptvcat.com/my_list/s/54f4287e26caa665b872fad9d57ad982.m3u8
-#EXTINF:-1,LBN.LBC- 7H HD
-http://stariptv.org:8080/wael2021/123456/97859
-#EXTINF:-1,LBN.Tele Liban
-https://list.iptvcat.com/my_list/s/84cda6dda784203a81809d98ab1fd282.m3u8
-#EXTINF:-1,LBN.Al Mayadeen TV Plus
-https://list.iptvcat.com/my_list/s/d1e1bb2c247cb4201db1f2ca64cf5c63.m3u8
-#EXTINF:-1,LBN.FUTURE TV
-https://list.iptvcat.com/my_list/s/601c85ba270a0f163f2222e35db42126.m3u8
-#EXTINF:-1,LBN.AGHANI
-https://list.iptvcat.com/my_list/s/ef8017c49f70d342ca55c26d0c0f7e70.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Various",======Various=======
+#EXTINF:-1,Lb: Al-Jadeed TV HD
+http://new-pro.tv:8080/Fernando/123321/2242
+#EXTINF:-1,Lb: Al-Jadeed TV HD+
+http://new-pro.tv:8080/Fernando/123321/28238
+#EXTINF:-1,Lb: MTV Lebanon HD
+http://new-pro.tv:8080/Fernando/123321/2677
+#EXTINF:-1,Lb: MTV Lebanon 4K
+http://new-pro.tv:8080/Fernando/123321/36671
+#EXTINF:-1,Lb: LBC HD
+http://new-pro.tv:8080/Fernando/123321/2264
+#EXTINF:-1,Lb: LBC TV 4K
+http://new-pro.tv:8080/Fernando/123321/28234
+#EXTINF:-1,Lb: LBC International HD
+http://new-pro.tv:8080/Fernando/123321/28233
+#EXTINF:-1,Lb: LBC International 4K
+http://new-pro.tv:8080/Fernando/123321/28239
+#EXTINF:-1,Lb: LBC Sat
+http://new-pro.tv:8080/Fernando/123321/99083
+#EXTINF:-1,Lb: NBN HD
+http://new-pro.tv:8080/Fernando/123321/6893
+#EXTINF:-1,Lb: NBN 4K
+http://new-pro.tv:8080/Fernando/123321/67463
+#EXTINF:-1,Lb: Lebanon TV [ Tele Liban ] HD
+http://new-pro.tv:8080/Fernando/123321/99080
+#EXTINF:-1,Lb: OTV Lebanon HD
+http://new-pro.tv:8080/Fernando/123321/1177
+#EXTINF:-1,Lb: Future TV
+http://new-pro.tv:8080/Fernando/123321/2673
+#EXTINF:-1,lb: Al Mayadeen TV
+http://new-pro.tv:8080/Fernando/123321/297299
+#EXTINF:-1,Lb: Al Manar TV
+http://new-pro.tv:8080/Fernando/123321/5870
+#EXTINF:-1,Lb: Al Manar TV+
+http://new-pro.tv:8080/Fernando/123321/28237
+#EXTINF:-1,Lb: Al Iman TV
+http://new-pro.tv:8080/Fernando/123321/99087
+#EXTINF:-1,Lb: One TV
+http://new-pro.tv:8080/Fernando/123321/20914
+#EXTINF:-1,Lb: Al Aan TV
+http://new-pro.tv:8080/Fernando/123321/33756
+#EXTINF:-1,Lb: Al Alam News TV
+http://new-pro.tv:8080/Fernando/123321/1949
+#EXTINF:-1,Lb: Canadian Arab
+http://new-pro.tv:8080/Fernando/123321/98242
+#EXTINF:-1,Lb: Hala London
+http://new-pro.tv:8080/Fernando/123321/98247
+#EXTINF:-1,Lb: Aghani
+http://new-pro.tv:8080/Fernando/123321/99082
+#EXTINF:-1,Lb: Arabica
+http://new-pro.tv:8080/Fernando/123321/99081
+#EXTINF:-1,Lb: Hawacom HD
+http://new-pro.tv:8080/Fernando/123321/92229
+#EXTINF:-1,Lb: Ifilm TV
+http://new-pro.tv:8080/Fernando/123321/81943
+#EXTINF:-1,Lb: Seventeen TV
+http://new-pro.tv:8080/Fernando/123321/114366
+#EXTINF:-1,Lb: Al Ettihad TV
+http://new-pro.tv:8080/Fernando/123321/14238
+#EXTINF:-1,Lb: Taha TV
+http://new-pro.tv:8080/Fernando/123321/99425
+#EXTINF:-1,Lb: LBC DRAMA LIVE
+http://new-pro.tv:8080/Fernando/123321/297708
+#EXTINF:-1,Lb: New Vision Lebanon
+http://new-pro.tv:8080/Fernando/123321/297709
+#EXTINF:-1,Lb: Taqallyn TV
+http://new-pro.tv:8080/Fernando/123321/297722
+#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Rotana",======Rotana=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1,Rotana + HD
+http://new-pro.tv:8080/Fernando/123321/69513
+#EXTINF:-1,Rotana M+ HD
+http://new-pro.tv:8080/Fernando/123321/69514
+#EXTINF:-1,Rotana Aflam + HD
+http://new-pro.tv:8080/Fernando/123321/69515
+#EXTINF:-1,Rotana Clip HD
+http://new-pro.tv:8080/Fernando/123321/2743
+#EXTINF:-1,Rotana Music HD
+http://new-pro.tv:8080/Fernando/123321/184
+#EXTINF:-1,Rotana Classic HD
+http://new-pro.tv:8080/Fernando/123321/183
+#EXTINF:-1,Rotana Drama HD
+http://new-pro.tv:8080/Fernando/123321/182
+#EXTINF:-1,Rotana Khalijiah HD
+http://new-pro.tv:8080/Fernando/123321/181
+#EXTINF:-1,Rotana Comedy HD
+http://new-pro.tv:8080/Fernando/123321/985
+#EXTINF:-1,Rotana Cinema Egy HD
+http://new-pro.tv:8080/Fernando/123321/36672
+#EXTINF:-1,Rotana Cinema KSA HD
+http://new-pro.tv:8080/Fernando/123321/180
+#EXTINF:-1,Rotana Comedy FHD
+http://new-pro.tv:8080/Fernando/123321/69574
+#EXTINF:-1,Rotana Classic FHD
+http://new-pro.tv:8080/Fernando/123321/69576
+#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="MBC",======MBC=======
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1,MBC 1 HD
+http://new-pro.tv:8080/Fernando/123321/46
+#EXTINF:-1,MBC 1 Canada HD
+http://new-pro.tv:8080/Fernando/123321/98243
+#EXTINF:-1,MBC 2 HD
+http://new-pro.tv:8080/Fernando/123321/26
+#EXTINF:-1,MBC 3 HD
+http://new-pro.tv:8080/Fernando/123321/47
+#EXTINF:-1,MBC 3 FHD
+http://new-pro.tv:8080/Fernando/123321/99842
+#EXTINF:-1,MBC 4 HD
+http://new-pro.tv:8080/Fernando/123321/27
+#EXTINF:-1,MBC 5 HD
+http://new-pro.tv:8080/Fernando/123321/28422
+#EXTINF:-1,MBC 5 FHD
+http://new-pro.tv:8080/Fernando/123321/99843
+#EXTINF:-1,MBC Action HD
+http://new-pro.tv:8080/Fernando/123321/24
+#EXTINF:-1,MBC Bollywood HD
+http://new-pro.tv:8080/Fernando/123321/9301
+#EXTINF:-1,MBC Max HD
+http://new-pro.tv:8080/Fernando/123321/29
+#EXTINF:-1,MBC Variety HD
+http://new-pro.tv:8080/Fernando/123321/2001
+#EXTINF:-1,MBC Drama HD
+http://new-pro.tv:8080/Fernando/123321/48
+#EXTINF:-1,MBC Drama FHD
+http://new-pro.tv:8080/Fernando/123321/99844
+#EXTINF:-1,MBC Drama+ HD
+http://new-pro.tv:8080/Fernando/123321/2690
+#EXTINF:-1,MBC Iraq HD
+http://new-pro.tv:8080/Fernando/123321/14444
+#EXTINF:-1,MBC Iraq FHD
+http://new-pro.tv:8080/Fernando/123321/99847
+#EXTINF:-1,MBC Masr 1 HD
+http://new-pro.tv:8080/Fernando/123321/2186
+#EXTINF:-1,MBC Masr 1 FHD
+http://new-pro.tv:8080/Fernando/123321/99845
+#EXTINF:-1,MBC Masr 2 HD
+http://new-pro.tv:8080/Fernando/123321/178
+#EXTINF:-1,MBC Masr 2 FHD
+http://new-pro.tv:8080/Fernando/123321/99846
+#EXTINF:-1,MBC Persia FHD
+http://new-pro.tv:8080/Fernando/123321/133851
+#EXTINF:-1,MBC Wanasah HD
+http://new-pro.tv:8080/Fernando/123321/78569
+#EXTINF:-1,MBC Wanasah FHD
+http://new-pro.tv:8080/Fernando/123321/99850
+#EXTINF:-1,MBC Panorama HD
+http://new-pro.tv:8080/Fernando/123321/78567
+#EXTINF:-1,MBC FM HD
+http://new-pro.tv:8080/Fernando/123321/78573
+#EXTINF:-1,MBC FM FHD
+http://new-pro.tv:8080/Fernando/123321/99848
+#EXTINF:-1,Panorama FM FHD
+http://new-pro.tv:8080/Fernando/123321/99851
+#EXTINF:-1,MBC 1 4K
+http://new-pro.tv:8080/Fernando/123321/33164
+#EXTINF:-1,MBC 2 4K
+http://new-pro.tv:8080/Fernando/123321/33165
+#EXTINF:-1,MBC 3 4K
+http://new-pro.tv:8080/Fernando/123321/39226
+#EXTINF:-1,MBC 4 4K
+http://new-pro.tv:8080/Fernando/123321/33166
+#EXTINF:-1,MBC 5 4K
+http://new-pro.tv:8080/Fernando/123321/33167
+#EXTINF:-1,MBC Action 4K
+http://new-pro.tv:8080/Fernando/123321/33169
+#EXTINF:-1,MBC Bollywood 4K
+http://new-pro.tv:8080/Fernando/123321/51232
+#EXTINF:-1,MBC Drama + 4K
+http://new-pro.tv:8080/Fernando/123321/33172
+#EXTINF:-1,MBC Drama 4K
+http://new-pro.tv:8080/Fernando/123321/33171
+#EXTINF:-1,MBC Iraq 4K
+http://new-pro.tv:8080/Fernando/123321/33170
+#EXTINF:-1,MBC Masr 1 4K
+http://new-pro.tv:8080/Fernando/123321/33173
+#EXTINF:-1,MBC Masr 2 4K
+http://new-pro.tv:8080/Fernando/123321/33174
+#EXTINF:-1,MBC Max 4K
+http://new-pro.tv:8080/Fernando/123321/33168
+#EXTINF:-1,MBC Panorama 4K
+http://new-pro.tv:8080/Fernando/123321/78566
+#EXTINF:-1,MBC Persian 4K
+http://new-pro.tv:8080/Fernando/123321/78570
+#EXTINF:-1,MBC Variety 4K
+http://new-pro.tv:8080/Fernando/123321/74789
+#EXTINF:-1,MBC Wanasah 4K
+http://new-pro.tv:8080/Fernando/123321/78568
+#EXTINF:-1,MBC 1 SD
+http://new-pro.tv:8080/Fernando/123321/20920
+#EXTINF:-1,MBC 2 SD
+http://new-pro.tv:8080/Fernando/123321/20919
+#EXTINF:-1,MBC 3 SD
+http://new-pro.tv:8080/Fernando/123321/20918
+#EXTINF:-1,MBC 4 SD
+http://new-pro.tv:8080/Fernando/123321/20917
+#EXTINF:-1,MBC 5 SD
+http://new-pro.tv:8080/Fernando/123321/78572
+#EXTINF:-1,MBC Action SD
+http://new-pro.tv:8080/Fernando/123321/20925
+#EXTINF:-1,MBC Bollywood SD
+http://new-pro.tv:8080/Fernando/123321/20924
+#EXTINF:-1,MBC Drama SD
+http://new-pro.tv:8080/Fernando/123321/20923
+#EXTINF:-1,MBC Iraq SD
+http://new-pro.tv:8080/Fernando/123321/20922
+#EXTINF:-1,MBC Max SD
+http://new-pro.tv:8080/Fernando/123321/20921
+#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Egypt",======Egypt=======
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1,Eg: Al Nahar HD
+http://new-pro.tv:8080/Fernando/123321/2703
+#EXTINF:-1,Eg: Al Nahar Drama HD
+http://new-pro.tv:8080/Fernando/123321/2701
+#EXTINF:-1,Eg: Al Masryia
+http://new-pro.tv:8080/Fernando/123321/20964
+#EXTINF:-1,Eg: Masir AL Oula HD
+http://new-pro.tv:8080/Fernando/123321/99727
+#EXTINF:-1,Eg: Al Thanya
+http://new-pro.tv:8080/Fernando/123321/99712
+#EXTINF:-1,Eg: Watan TV
+http://new-pro.tv:8080/Fernando/123321/24466
+#EXTINF:-1,Eg: Egyptian TV HD
+http://new-pro.tv:8080/Fernando/123321/36874
+#EXTINF:-1,Eg: Mekameleen TV
+http://new-pro.tv:8080/Fernando/123321/14293
+#EXTINF:-1,Eg: Al Ahly TV
+http://new-pro.tv:8080/Fernando/123321/27793
+#EXTINF:-1,Eg: Zamalek Sports
+http://new-pro.tv:8080/Fernando/123321/2293
+#EXTINF:-1,Eg: ON Drama HD
+http://new-pro.tv:8080/Fernando/123321/10168
+#EXTINF:-1,Eg: ON E HD
+http://new-pro.tv:8080/Fernando/123321/6932
+#EXTINF:-1,Eg: On Time Sport HD 1
+http://new-pro.tv:8080/Fernando/123321/33348
+#EXTINF:-1,Eg: On Time Sport HD 2
+http://new-pro.tv:8080/Fernando/123321/67442
+#EXTINF:-1,Eg: On Time Sport HD 3
+http://new-pro.tv:8080/Fernando/123321/105056
+#EXTINF:-1,Eg: Nile Sport
+http://new-pro.tv:8080/Fernando/123321/33675
+#EXTINF:-1,Eg: Nile News
+http://new-pro.tv:8080/Fernando/123321/4134
+#EXTINF:-1,Eg: Nile Life
+http://new-pro.tv:8080/Fernando/123321/4135
+#EXTINF:-1,Eg: Nile TV International
+http://new-pro.tv:8080/Fernando/123321/32786
+#EXTINF:-1,Eg: Nile Cinema
+http://new-pro.tv:8080/Fernando/123321/4140
+#EXTINF:-1,Eg: Nile Education
+http://new-pro.tv:8080/Fernando/123321/174736
+#EXTINF:-1,Eg: Nile Comedy
+http://new-pro.tv:8080/Fernando/123321/4139
+#EXTINF:-1,Eg: Nile Culture
+http://new-pro.tv:8080/Fernando/123321/20696
+#EXTINF:-1,Eg: Nile Drama
+http://new-pro.tv:8080/Fernando/123321/4137
+#EXTINF:-1,Eg: Nile Family
+http://new-pro.tv:8080/Fernando/123321/4136
+#EXTINF:-1,Eg: DMC HD
+http://new-pro.tv:8080/Fernando/123321/28008
+#EXTINF:-1,Eg: DMC Drama
+http://new-pro.tv:8080/Fernando/123321/28009
+#EXTINF:-1,Eg: Al Kahera 3
+http://new-pro.tv:8080/Fernando/123321/14179
+#EXTINF:-1,Eg: Al Kanal Masr 4
+http://new-pro.tv:8080/Fernando/123321/69850
+#EXTINF:-1,Eg: Al Askandaria TV 5
+http://new-pro.tv:8080/Fernando/123321/69851
+#EXTINF:-1,Eg: Al Delta TV 6
+http://new-pro.tv:8080/Fernando/123321/69852
+#EXTINF:-1,Eg: Al Saeed TV 5
+http://new-pro.tv:8080/Fernando/123321/69853
+#EXTINF:-1,Eg: Al Hayat HD
+http://new-pro.tv:8080/Fernando/123321/14414
+#EXTINF:-1,Eg: Al Hhayat Drama
+http://new-pro.tv:8080/Fernando/123321/14214
+#EXTINF:-1,Eg: Al Hayat Muslsalat TV
+http://new-pro.tv:8080/Fernando/123321/65250
+#EXTINF:-1,Eg: Al Kahera Wal Nas 1
+http://new-pro.tv:8080/Fernando/123321/10480
+#EXTINF:-1,Eg: Al Kahera Wal Nas 2
+http://new-pro.tv:8080/Fernando/123321/14219
+#EXTINF:-1,Eg: Al Basira TV
+http://new-pro.tv:8080/Fernando/123321/99649
+#EXTINF:-1,Eg: Al Mahaba TV
+http://new-pro.tv:8080/Fernando/123321/99655
+#EXTINF:-1,Eg: Al Nas
+http://new-pro.tv:8080/Fernando/123321/99710
+#EXTINF:-1,Eg: Al Seha Wal Jamal TV
+http://new-pro.tv:8080/Fernando/123321/14127
+#EXTINF:-1,Eg: CBC TV
+http://new-pro.tv:8080/Fernando/123321/173
+#EXTINF:-1,Eg: CBC Drama TV
+http://new-pro.tv:8080/Fernando/123321/2903
+#EXTINF:-1,Eg: CBC Extra News TV
+http://new-pro.tv:8080/Fernando/123321/2902
+#EXTINF:-1,Eg: CBC Sofra TV
+http://new-pro.tv:8080/Fernando/123321/2904
+#EXTINF:-1,Eg: Sada El Balad
+http://new-pro.tv:8080/Fernando/123321/7200
+#EXTINF:-1,Eg: Sada El Balad+ 2
+http://new-pro.tv:8080/Fernando/123321/99725
+#EXTINF:-1,Eg: Sada El Balad Drama
+http://new-pro.tv:8080/Fernando/123321/7199
+#EXTINF:-1,Eg: Al Hadath Al Youm [ Al Hadath Today ]
+http://new-pro.tv:8080/Fernando/123321/14415
+#EXTINF:-1,Eg: TeN TV
+http://new-pro.tv:8080/Fernando/123321/14256
+#EXTINF:-1,Eُg: Madrastna 1
+http://new-pro.tv:8080/Fernando/123321/99705
+#EXTINF:-1,Eُg: Madrastna 2
+http://new-pro.tv:8080/Fernando/123321/99704
+#EXTINF:-1,Eg: Panorama Drama PNC 1
+http://new-pro.tv:8080/Fernando/123321/2275
+#EXTINF:-1,Eg: Panorama Drama PNC 2
+http://new-pro.tv:8080/Fernando/123321/2276
+#EXTINF:-1,Eg: Menhag Al Nbowa
+http://new-pro.tv:8080/Fernando/123321/99653
+#EXTINF:-1,Eg: Panorama Film PNC
+http://new-pro.tv:8080/Fernando/123321/10029
+#EXTINF:-1,Eg: Panorama Food PNC
+http://new-pro.tv:8080/Fernando/123321/4750
+#EXTINF:-1,Eg: Apple Aflam
+http://new-pro.tv:8080/Fernando/123321/14206
+#EXTINF:-1,Eg: Apple Cinema
+http://new-pro.tv:8080/Fernando/123321/14205
+#EXTINF:-1,Eg: Apple Comedy
+http://new-pro.tv:8080/Fernando/123321/14204
+#EXTINF:-1,Eg: Apple Hekayat
+http://new-pro.tv:8080/Fernando/123321/14202
+#EXTINF:-1,Eg: Apple Mosalsalat
+http://new-pro.tv:8080/Fernando/123321/14201
+#EXTINF:-1,Eg: Apple Today
+http://new-pro.tv:8080/Fernando/123321/14200
+#EXTINF:-1,Eg: Al Shasha Drama TV
+http://new-pro.tv:8080/Fernando/123321/14149
+#EXTINF:-1,Eg: Al Shasha Film
+http://new-pro.tv:8080/Fernando/123321/14148
+#EXTINF:-1,Eg: AL Shasha Hakayat
+http://new-pro.tv:8080/Fernando/123321/71203
+#EXTINF:-1,Eg: AL Shasha Classic
+http://new-pro.tv:8080/Fernando/123321/71202
+#EXTINF:-1,Eg: TokTok Aflam TV
+http://new-pro.tv:8080/Fernando/123321/14255
+#EXTINF:-1,Eg: Star Cinema 1
+http://new-pro.tv:8080/Fernando/123321/1945
+#EXTINF:-1,Eg: Star Cinema 2
+http://new-pro.tv:8080/Fernando/123321/174746
+#EXTINF:-1,Eg: Cinema 2
+http://new-pro.tv:8080/Fernando/123321/8096
+#EXTINF:-1,Eg: Zilzal Cinema TV
+http://new-pro.tv:8080/Fernando/123321/14276
+#EXTINF:-1,Eg: ZILZAL ALYOOM
+http://new-pro.tv:8080/Fernando/123321/32787
+#EXTINF:-1,Eg: Zilzal Classic TV
+http://new-pro.tv:8080/Fernando/123321/14275
+#EXTINF:-1,Eg: ZILZAL Mosalasat
+http://new-pro.tv:8080/Fernando/123321/14273
+#EXTINF:-1,Eg: AL SA3A Masra7
+http://new-pro.tv:8080/Fernando/123321/14155
+#EXTINF:-1,Eg: AL SA3AA Cinema
+http://new-pro.tv:8080/Fernando/123321/14154
+#EXTINF:-1,Eg: AL SA3AA Classic
+http://new-pro.tv:8080/Fernando/123321/14153
+#EXTINF:-1,Eg: AL SA3AA Drama
+http://new-pro.tv:8080/Fernando/123321/14151
+#EXTINF:-1,Eg: Al Sa3aa Mosalsalate
+http://new-pro.tv:8080/Fernando/123321/14150
+#EXTINF:-1,Eg: Mosalsalat Tube
+http://new-pro.tv:8080/Fernando/123321/14281
+#EXTINF:-1,Eg: Mix Hollywood Tv
+http://new-pro.tv:8080/Fernando/123321/101754
+#EXTINF:-1,Eg: Njoom Hollywood
+http://new-pro.tv:8080/Fernando/123321/14280
+#EXTINF:-1,Eg: Hollywood Horror
+http://new-pro.tv:8080/Fernando/123321/14230
+#EXTINF:-1,Eg: BAIT Baitak Cinema
+http://new-pro.tv:8080/Fernando/123321/14124
+#EXTINF:-1,Eg: Family cinema
+http://new-pro.tv:8080/Fernando/123321/14237
+#EXTINF:-1,Eg: AL Yoom Drama
+http://new-pro.tv:8080/Fernando/123321/71204
+#EXTINF:-1,Eg: Nogoum FM TV
+http://new-pro.tv:8080/Fernando/123321/99723
+#EXTINF:-1,Eg: Teba TV 8
+http://new-pro.tv:8080/Fernando/123321/99423
+#EXTINF:-1,Eg: Misr Al Zera3eya
+http://new-pro.tv:8080/Fernando/123321/69631
+#EXTINF:-1,Eg: AL Yoom Hakayat
+http://new-pro.tv:8080/Fernando/123321/14279
+#EXTINF:-1,Eg: Melody Classic
+http://new-pro.tv:8080/Fernando/123321/2270
+#EXTINF:-1,Eg: Melody Drama
+http://new-pro.tv:8080/Fernando/123321/174741
+#EXTINF:-1,Eg: ZILZAL Drama
+http://new-pro.tv:8080/Fernando/123321/71190
+#EXTINF:-1,Eg: MIX TV
+http://new-pro.tv:8080/Fernando/123321/69831
+#EXTINF:-1,Eg: EDUC 1
+http://new-pro.tv:8080/Fernando/123321/69629
+#EXTINF:-1,Eg: Family Hikayat
+http://new-pro.tv:8080/Fernando/123321/14236
+#EXTINF:-1,Eg: Hareem Al Sultan
+http://new-pro.tv:8080/Fernando/123321/14234
+#EXTINF:-1,Eg: Misr Al Balad
+http://new-pro.tv:8080/Fernando/123321/10687
+#EXTINF:-1,Eg: Al-Mehwar TV
+http://new-pro.tv:8080/Fernando/123321/27792
+#EXTINF:-1,Eg: Tatt7 TV
+http://new-pro.tv:8080/Fernando/123321/14257
+#EXTINF:-1,Eg: AL Ostora TV
+http://new-pro.tv:8080/Fernando/123321/14158
+#EXTINF:-1,Eg: Azhari TV
+http://new-pro.tv:8080/Fernando/123321/14196
+#EXTINF:-1,Eg: El Sharq TV
+http://new-pro.tv:8080/Fernando/123321/14241
+#EXTINF:-1,Eg: Maspero Zaman
+http://new-pro.tv:8080/Fernando/123321/20695
+#EXTINF:-1,Eg: Al Fath Sonnah TV
+http://new-pro.tv:8080/Fernando/123321/155236
+#EXTINF:-1,Eg: Al Prince Drama
+http://new-pro.tv:8080/Fernando/123321/155220
+#EXTINF:-1,Eg: AL YOOM AFLAM
+http://new-pro.tv:8080/Fernando/123321/155233
+#EXTINF:-1,Eg: AL YOOM COMEDY
+http://new-pro.tv:8080/Fernando/123321/155234
+#EXTINF:-1,Eg: Al Yoom Zaman
+http://new-pro.tv:8080/Fernando/123321/155237
+#EXTINF:-1,Eg: APPLE DRAMA
+http://new-pro.tv:8080/Fernando/123321/155235
+#EXTINF:-1,Eg: Dolly Mosalsalat
+http://new-pro.tv:8080/Fernando/123321/155238
+#EXTINF:-1,Eg: DR. Abo Elnas
+http://new-pro.tv:8080/Fernando/123321/155221
+#EXTINF:-1,Eg: Family classic
+http://new-pro.tv:8080/Fernando/123321/155240
+#EXTINF:-1,Eg: Family Drama
+http://new-pro.tv:8080/Fernando/123321/155239
+#EXTINF:-1,Eg: Hekaya Hindi TV
+http://new-pro.tv:8080/Fernando/123321/155222
+#EXTINF:-1,Eg: M Classic
+http://new-pro.tv:8080/Fernando/123321/155241
+#EXTINF:-1,Eg: Otlop Hikayat
+http://new-pro.tv:8080/Fernando/123321/155224
+#EXTINF:-1,Eg: PANORAMA YOM TV
+http://new-pro.tv:8080/Fernando/123321/155242
+#EXTINF:-1,Eg: Sharo5an Hindi
+http://new-pro.tv:8080/Fernando/123321/155243
+#EXTINF:-1,Eg: Cinema Pro
+http://new-pro.tv:8080/Fernando/123321/174738
+#EXTINF:-1,Eg: El Mold
+http://new-pro.tv:8080/Fernando/123321/174739
+#EXTINF:-1,Eg: Halaba TV
+http://new-pro.tv:8080/Fernando/123321/174740
+#EXTINF:-1,Eg: Oscar TV
+http://new-pro.tv:8080/Fernando/123321/174742
+#EXTINF:-1,Eg: Kanat Keef
+http://new-pro.tv:8080/Fernando/123321/279123
+#EXTINF:-1,Eg: Cima
+http://new-pro.tv:8080/Fernando/123321/297726
+#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="News",======News=======
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1,News | Ar: Al Jazeera HD
+http://new-pro.tv:8080/Fernando/123321/2243
+#EXTINF:-1,News | Ar: Al Jazeera 4K
+http://new-pro.tv:8080/Fernando/123321/10979
+#EXTINF:-1,News | Ar: Al jazeera SD
+http://new-pro.tv:8080/Fernando/123321/265139
+#EXTINF:-1,News | Ar: Al Jazeera Mubasher
+http://new-pro.tv:8080/Fernando/123321/66126
+#EXTINF:-1,News | Ar: Al Jazeera Mubasher 2
+http://new-pro.tv:8080/Fernando/123321/13436
+#EXTINF:-1,News | En: Al Jazeera English
+http://new-pro.tv:8080/Fernando/123321/6940
+#EXTINF:-1,News | Ar: Al Arabiya HD
+http://new-pro.tv:8080/Fernando/123321/2288
+#EXTINF:-1,News | Ar: Al Arabiya 4K
+http://new-pro.tv:8080/Fernando/123321/33177
+#EXTINF:-1,News | Ar: Al Hadath HD
+http://new-pro.tv:8080/Fernando/123321/3523
+#EXTINF:-1,News | Ar: Al Hadath FHD
+http://new-pro.tv:8080/Fernando/123321/99849
+#EXTINF:-1,News | Ar: Al Hadath SD
+http://new-pro.tv:8080/Fernando/123321/69841
+#EXTINF:-1,News | Ar: Al Hadath 4K
+http://new-pro.tv:8080/Fernando/123321/33176
+#EXTINF:-1,News | Ar: Sky News Arabic HD
+http://new-pro.tv:8080/Fernando/123321/3522
+#EXTINF:-1,News | Ar: Sky News Arabic SD
+http://new-pro.tv:8080/Fernando/123321/265142
+#EXTINF:-1,News | Ar: Al Mayadeen TV
+http://new-pro.tv:8080/Fernando/123321/2281
+#EXTINF:-1,News | Ar: Al Mayadeen TV Plus
+http://new-pro.tv:8080/Fernando/123321/28236
+#EXTINF:-1,News | Ar: Al Araby TV
+http://new-pro.tv:8080/Fernando/123321/1989
+#EXTINF:-1,News | Ar: RT Arabic HD
+http://new-pro.tv:8080/Fernando/123321/2669
+#EXTINF:-1,News | Ar: RT Arabic SD
+http://new-pro.tv:8080/Fernando/123321/265146
+#EXTINF:-1,News | Ar: TRT News Arabic HD
+http://new-pro.tv:8080/Fernando/123321/69643
+#EXTINF:-1,News | Ar: Al Ghad Al Araby HD
+http://new-pro.tv:8080/Fernando/123321/6892
+#EXTINF:-1,News | Ar: BBC World News Arabic
+http://new-pro.tv:8080/Fernando/123321/1063
+#EXTINF:-1,News | En: BBC World News HD
+http://new-pro.tv:8080/Fernando/123321/3239
+#EXTINF:-1,News | En: CNN International
+http://new-pro.tv:8080/Fernando/123321/285678
+#EXTINF:-1,News | Ar: France 24 Arabic HD
+http://new-pro.tv:8080/Fernando/123321/2748
+#EXTINF:-1,News | Ar: France 24 Arabic SD
+http://new-pro.tv:8080/Fernando/123321/265143
+#EXTINF:-1,News | En: France 24 English
+http://new-pro.tv:8080/Fernando/123321/297789
+#EXTINF:-1,News | Ar: Al Sharqiya News
+http://new-pro.tv:8080/Fernando/123321/265148
+#EXTINF:-1,News | Ar: DW Arabic HD
+http://new-pro.tv:8080/Fernando/123321/3241
+#EXTINF:-1,News | En: DW English
+http://new-pro.tv:8080/Fernando/123321/299276
+#EXTINF:-1,News | Ar: Al Haqeqa Dawalah
+http://new-pro.tv:8080/Fernando/123321/179896
+#EXTINF:-1,News | Ar: Asharq News HD
+http://new-pro.tv:8080/Fernando/123321/132679
+#EXTINF:-1,News | Ar: Nabaa News
+http://new-pro.tv:8080/Fernando/123321/132680
+#EXTINF:-1,News | Ar: Al Qanat 9
+http://new-pro.tv:8080/Fernando/123321/99852
+#EXTINF:-1,News | Ar: Al Mustakila
+http://new-pro.tv:8080/Fernando/123321/1987
+#EXTINF:-1,News | Ar: CNBC Arabiya
+http://new-pro.tv:8080/Fernando/123321/13451
+#EXTINF:-1,News | Ar: Al Hiwar TV
+http://new-pro.tv:8080/Fernando/123321/9010
+#EXTINF:-1,News | Ar: Al Aan HD
+http://new-pro.tv:8080/Fernando/123321/299049
+#EXTINF:-1,News | Ar: Al Ayam TV
+http://new-pro.tv:8080/Fernando/123321/299052
+#EXTINF:-1,News | Ar: Al Hadath Al Youm
+http://new-pro.tv:8080/Fernando/123321/299053
+#EXTINF:-1,News | Ar: Al Hurra HD
+http://new-pro.tv:8080/Fernando/123321/299050
+#EXTINF:-1,News | Ar: Al Yaum TV
+http://new-pro.tv:8080/Fernando/123321/299055
+#EXTINF:-1,News | Ar: CBC Extra News TV
+http://new-pro.tv:8080/Fernando/123321/299054
+#EXTINF:-1,News | Ar: i24 News Arabic
+http://new-pro.tv:8080/Fernando/123321/20943
+#EXTINF:-1,News | En: i24 News English
+http://new-pro.tv:8080/Fernando/123321/299278
+#EXTINF:-1,News | Fr: i24 News French
+http://new-pro.tv:8080/Fernando/123321/299277
+#EXTINF:-1,News | Ar: Russia Today Arabic 4K
+http://new-pro.tv:8080/Fernando/123321/297717
+#EXTINF:-1,News | En: Russia Today English 4K
+http://new-pro.tv:8080/Fernando/123321/297716
+#EXTINF:-1,News | Ar: Saudia Al Ekhbariya
+http://new-pro.tv:8080/Fernando/123321/299056
+#EXTINF:-1,News | EN: Press TV HD
+http://new-pro.tv:8080/Fernando/123321/1965
+#EXTINF:-1,News | Ar: Al Alam News TV
+http://new-pro.tv:8080/Fernando/123321/265147
+#EXTINF:-1,News | Ar: Hadramout TV News
+http://new-pro.tv:8080/Fernando/123321/299279
+#EXTINF:-1,News | Ar: iNews HD
+http://new-pro.tv:8080/Fernando/123321/299051
+#EXTINF:-1,News | En: Wion TV
+http://new-pro.tv:8080/Fernando/123321/299280
+#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Kids",======Kids=======
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1,Kids: PUBG Arabic
+http://new-pro.tv:8080/Fernando/123321/178897
+#EXTINF:-1,Kids:  Pat & Mat 1
+http://new-pro.tv:8080/Fernando/123321/233646
+#EXTINF:-1,Kids:  Pat & Mat 2
+http://new-pro.tv:8080/Fernando/123321/233647
+#EXTINF:-1,Kids:  Cartoon Network Arabia HD
+http://new-pro.tv:8080/Fernando/123321/6551
+#EXTINF:-1,Kids: Toyor Aljana
+http://new-pro.tv:8080/Fernando/123321/71208
+#EXTINF:-1,Kids:  BeIN Baraem HD
+http://new-pro.tv:8080/Fernando/123321/2715
+#EXTINF:-1,Kids:  BeIN Jeem HD
+http://new-pro.tv:8080/Fernando/123321/2713
+#EXTINF:-1,Kids:  Rotana Kids HD
+http://new-pro.tv:8080/Fernando/123321/13384
+#EXTINF:-1,Kids:  SpaceToon TV
+http://new-pro.tv:8080/Fernando/123321/7053
+#EXTINF:-1,Kids: Rotana Kids HD
+http://new-pro.tv:8080/Fernando/123321/78574
+#EXTINF:-1,Kids:  Sanafir
+http://new-pro.tv:8080/Fernando/123321/59897
+#EXTINF:-1,Kids:  Karamesh
+http://new-pro.tv:8080/Fernando/123321/20960
+#EXTINF:-1,Kids: Oggy 1 TV
+http://new-pro.tv:8080/Fernando/123321/37127
+#EXTINF:-1,Kids: Oggy 2 TV
+http://new-pro.tv:8080/Fernando/123321/37128
+#EXTINF:-1,Kids: Shaun the Sheep 1
+http://new-pro.tv:8080/Fernando/123321/36867
+#EXTINF:-1,Kids: Shun The Sheep 2
+http://new-pro.tv:8080/Fernando/123321/37126
+#EXTINF:-1,Kids: Little Baby Bum 2 TV
+http://new-pro.tv:8080/Fernando/123321/202184
+#EXTINF:-1,Kids: Little Baby Bum 1 TV
+http://new-pro.tv:8080/Fernando/123321/202183
+#EXTINF:-1,Kids:  OSN Kids Zone HD
+http://new-pro.tv:8080/Fernando/123321/37031
+#EXTINF:-1,Kids:  Disney Junior HD
+http://new-pro.tv:8080/Fernando/123321/37029
+#EXTINF:-1,Kids | Ar: NickToons HD
+http://new-pro.tv:8080/Fernando/123321/37027
+#EXTINF:-1,Kids: Nick Jr. HD
+http://new-pro.tv:8080/Fernando/123321/37026
+#EXTINF:-1,Kids:  Disney Channel HD
+http://new-pro.tv:8080/Fernando/123321/37025
+#EXTINF:-1,Kids: OSN Nickelodeon HD
+http://new-pro.tv:8080/Fernando/123321/37024
+#EXTINF:-1,Kids: Rotana Kids FHD
+http://new-pro.tv:8080/Fernando/123321/69573
+#EXTINF:-1,Kids:  Nels TV
+http://new-pro.tv:8080/Fernando/123321/31572
+#EXTINF:-1,Kids:  Baby TV
+http://new-pro.tv:8080/Fernando/123321/13454
+#EXTINF:-1,Kids:  HodHod  TV
+http://new-pro.tv:8080/Fernando/123321/14231
+#EXTINF:-1,Kids:  Taha TV
+http://new-pro.tv:8080/Fernando/123321/20954
+#EXTINF:-1,Kids: Majid Kids TV
+http://new-pro.tv:8080/Fernando/123321/17596
+#EXTINF:-1,Kids:  Ar: Shehab TV
+http://new-pro.tv:8080/Fernando/123321/99670
+#EXTINF:-1,Kids:  Atfal & Mawaheb
+http://new-pro.tv:8080/Fernando/123321/14197
+#EXTINF:-1,Kids | En: NickToons HD
+http://new-pro.tv:8080/Fernando/123321/279124
+#EXTINF:-1,Kids | VIP: PUBG English
+http://new-pro.tv:8080/Fernando/123321/178410
+#EXTINF:-1,Kids | VIP: Fortnite
+http://new-pro.tv:8080/Fernando/123321/180091
+#EXTINF:-1,Kids | VIP: Tom And Jerry HD
+http://new-pro.tv:8080/Fernando/123321/134620
+#EXTINF:-1,Kids | VIP: Shaun the Sheep 1
+http://new-pro.tv:8080/Fernando/123321/134657
+#EXTINF:-1,Kids | VIP: Shun The Sheep 2
+http://new-pro.tv:8080/Fernando/123321/134621
+#EXTINF:-1,Kids | VIP: Oggy 1 TV
+http://new-pro.tv:8080/Fernando/123321/134658
+#EXTINF:-1,Kids | VIP: Oggy 2 TV
+http://new-pro.tv:8080/Fernando/123321/134622
+#EXTINF:-1,Kids | VIP: Boomerang HD
+http://new-pro.tv:8080/Fernando/123321/134634
+#EXTINF:-1,Kids | VIP: HBO Family
+http://new-pro.tv:8080/Fernando/123321/134625
+#EXTINF:-1,Kids | VIP: Cartoon Network HD
+http://new-pro.tv:8080/Fernando/123321/134623
+#EXTINF:-1,Kids | VIP: Cartoon Network Arabia HD
+http://new-pro.tv:8080/Fernando/123321/134645
+#EXTINF:-1,Kids | VIP: Nick HD
+http://new-pro.tv:8080/Fernando/123321/134629
+#EXTINF:-1,Kids | VIP: Disney Channel HD
+http://new-pro.tv:8080/Fernando/123321/134624
+#EXTINF:-1,Kids | VIP: Nick Jr Too
+http://new-pro.tv:8080/Fernando/123321/134630
+#EXTINF:-1,Kids | VIP: Nick Jr. HD
+http://new-pro.tv:8080/Fernando/123321/134632
+#EXTINF:-1,Kids | VIP: Nickelodeon HD
+http://new-pro.tv:8080/Fernando/123321/134631
+#EXTINF:-1,Kids | VIP: NickToons HD
+http://new-pro.tv:8080/Fernando/123321/134633
+#EXTINF:-1,Kids | VIP: Treehouse HD
+http://new-pro.tv:8080/Fernando/123321/134627
+#EXTINF:-1,Kids | VIP: BeIN Baraem HD
+http://new-pro.tv:8080/Fernando/123321/134641
+#EXTINF:-1,Kids | VIP: OSN Disney Channel HD
+http://new-pro.tv:8080/Fernando/123321/134639
+#EXTINF:-1,Kids | VIP: OSN Disney Junior HD
+http://new-pro.tv:8080/Fernando/123321/134640
+#EXTINF:-1,Kids | VIP: OSN Kids HD
+http://new-pro.tv:8080/Fernando/123321/134635
+#EXTINF:-1,Kids | VIP: OSN Kids Zone HD
+http://new-pro.tv:8080/Fernando/123321/134636
+#EXTINF:-1,Kids | VIP: OSN Nick Jr HD
+http://new-pro.tv:8080/Fernando/123321/134638
+#EXTINF:-1,Kids | VIP: OSN NickToons HD
+http://new-pro.tv:8080/Fernando/123321/134637
+#EXTINF:-1,Kids | VIP: Sanafir
+http://new-pro.tv:8080/Fernando/123321/134643
+#EXTINF:-1,Kids | VIP: Shehab TV
+http://new-pro.tv:8080/Fernando/123321/134649
+#EXTINF:-1,Kids | VIP: Toyor Aljana
+http://new-pro.tv:8080/Fernando/123321/134647
+#EXTINF:-1,Kids | VIP: Majid Kids TV
+http://new-pro.tv:8080/Fernando/123321/134642
+#EXTINF:-1,Kids | VIP: Nels TV
+http://new-pro.tv:8080/Fernando/123321/134659
+#EXTINF:-1,Kids | VIP: Rotana Kids HD
+http://new-pro.tv:8080/Fernando/123321/134650
+#EXTINF:-1,Kids | VIP: SpaceToon TV
+http://new-pro.tv:8080/Fernando/123321/134644
+#EXTINF:-1,Kids | VIP: Baby TV
+http://new-pro.tv:8080/Fernando/123321/134646
+#EXTINF:-1,Kids | VIP: Karamesh
+http://new-pro.tv:8080/Fernando/123321/134648
+#EXTINF:-1,Kids | VIP: Gem Junior HD
+http://new-pro.tv:8080/Fernando/123321/134655
+#EXTINF:-1,Kids | VIP: HodHod TV HD
+http://new-pro.tv:8080/Fernando/123321/134653
+#EXTINF:-1,Kids | VIP: PBS Kids
+http://new-pro.tv:8080/Fernando/123321/134628
+#EXTINF:-1,Kids | VIP: Persiana Junior
+http://new-pro.tv:8080/Fernando/123321/134654
+#EXTINF:-1,Kids | VIP: POOYA & NAHAL
+http://new-pro.tv:8080/Fernando/123321/134652
+#EXTINF:-1,Kids | VIP: Afarin Kids ᴴᴰ
+http://new-pro.tv:8080/Fernando/123321/134651
+#EXTINF:-1,Kids | VIP: NRT 3 Kids HD
+http://new-pro.tv:8080/Fernando/123321/134656
+#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Music",======Music=======
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1,Music: Arabica TV
+http://new-pro.tv:8080/Fernando/123321/14023
+#EXTINF:-1,Music: Arabica TV
+http://new-pro.tv:8080/Fernando/123321/63684
+#EXTINF:-1,Music: Free TV
+http://new-pro.tv:8080/Fernando/123321/67620
+#EXTINF:-1,Music: Music Alhanen
+http://new-pro.tv:8080/Fernando/123321/275555
+#EXTINF:-1,Music: Mazzika TV
+http://new-pro.tv:8080/Fernando/123321/1947
+#EXTINF:-1,Music: Nogoum FM TV
+http://new-pro.tv:8080/Fernando/123321/27787
+#EXTINF:-1,Music: Hawacom TV
+http://new-pro.tv:8080/Fernando/123321/28426
+#EXTINF:-1,Music: Dijlah Tarab TV
+http://new-pro.tv:8080/Fernando/123321/33769
+#EXTINF:-1,Music: MBC FM HD
+http://new-pro.tv:8080/Fernando/123321/33175
+#EXTINF:-1,Music: Panorama FM 4K
+http://new-pro.tv:8080/Fernando/123321/33178
+#EXTINF:-1,Music: Wanasah TV
+http://new-pro.tv:8080/Fernando/123321/10030
+#EXTINF:-1,Music: Aghani
+http://new-pro.tv:8080/Fernando/123321/110737
+#EXTINF:-1,Music: Rotana Clip HD
+http://new-pro.tv:8080/Fernando/123321/312107
+#EXTINF:-1,Music: Rotana Music HD
+http://new-pro.tv:8080/Fernando/123321/312101
+#EXTINF:-1,Music: Music Iraq
+http://new-pro.tv:8080/Fernando/123321/312111
+#EXTINF:-1,Music: Music 2 HD
+http://new-pro.tv:8080/Fernando/123321/312110
+#EXTINF:-1,Music: One TV
+http://new-pro.tv:8080/Fernando/123321/312109
+#EXTINF:-1,Music: OSN Music Now HD
+http://new-pro.tv:8080/Fernando/123321/13367
+#EXTINF:-1,Music: Al Moled
+http://new-pro.tv:8080/Fernando/123321/155245
+#EXTINF:-1,Music:  Mosaique FM
+http://new-pro.tv:8080/Fernando/123321/279126
+#EXTINF:-1,Music: Radio FM 90
+http://new-pro.tv:8080/Fernando/123321/33809
+#EXTINF:-1,Music: Iraq Music
+http://new-pro.tv:8080/Fernando/123321/151282
+#EXTINF:-1,Music: Om kalthum أم كلثوم‎
+http://new-pro.tv:8080/Fernando/123321/99658
+#EXTINF:-1,Music: Om Kalthoum أم كلثوم‎
+http://new-pro.tv:8080/Fernando/123321/34274
+#EXTINF:-1,Music: Sudan Music
+http://new-pro.tv:8080/Fernando/123321/312108
+#EXTINF:-1,Music: Fairuz TV
+http://new-pro.tv:8080/Fernando/123321/34273
+#EXTINF:-1,Music: Fairuz TV 2
+http://new-pro.tv:8080/Fernando/123321/155200
+#EXTINF:-1,Music: Tarab Fayroz
+http://new-pro.tv:8080/Fernando/123321/309132
+#EXTINF:-1,Music: Tarab George Wassouf
+http://new-pro.tv:8080/Fernando/123321/309133
+#EXTINF:-1,Music: Tarab Music TV
+http://new-pro.tv:8080/Fernando/123321/283137
+#EXTINF:-1,Music: Tarab Abd Alhalem
+http://new-pro.tv:8080/Fernando/123321/309246
+#EXTINF:-1,Music: Tarab Yas Khidr
+http://new-pro.tv:8080/Fernando/123321/309245
+#EXTINF:-1,Music: Tarab Wael Kfoury
+http://new-pro.tv:8080/Fernando/123321/309244
+#EXTINF:-1,Music: Tarab Tamer Hosny
+http://new-pro.tv:8080/Fernando/123321/309243
+#EXTINF:-1,Music: Tarab Sherine
+http://new-pro.tv:8080/Fernando/123321/309215
+#EXTINF:-1,Music: Tarab Samira Said
+http://new-pro.tv:8080/Fernando/123321/309214
+#EXTINF:-1,Music: Tarab Sabah Fakhri
+http://new-pro.tv:8080/Fernando/123321/309213
+#EXTINF:-1,Music: Tarab Sabah Fakhri
+http://new-pro.tv:8080/Fernando/123321/309212
+#EXTINF:-1,Music: Tarab Saadoun Jaber
+http://new-pro.tv:8080/Fernando/123321/309211
+#EXTINF:-1,Music: Tarab Ragheb Alama
+http://new-pro.tv:8080/Fernando/123321/309210
+#EXTINF:-1,Music: Tarab Amr Diab
+http://new-pro.tv:8080/Fernando/123321/309209
+#EXTINF:-1,Music: Tarab Umm Kulthum
+http://new-pro.tv:8080/Fernando/123321/309208
+#EXTINF:-1,Music: Tarab Nancy Ajram
+http://new-pro.tv:8080/Fernando/123321/309207
+#EXTINF:-1,Music: Tarab Najwa Karam
+http://new-pro.tv:8080/Fernando/123321/309206
+#EXTINF:-1,Music: Tarab Majid Al Muhandis
+http://new-pro.tv:8080/Fernando/123321/309188
+#EXTINF:-1,Music: Tarab Kadim Al Sahir
+http://new-pro.tv:8080/Fernando/123321/309187
+#EXTINF:-1,Music: Tarab Hussain Al Jassmi
+http://new-pro.tv:8080/Fernando/123321/309186
+#EXTINF:-1,Music: Tarab Hussam AlRassam
+http://new-pro.tv:8080/Fernando/123321/309185
+#EXTINF:-1,Music: Tarab Haitham Yousif
+http://new-pro.tv:8080/Fernando/123321/309184
+#EXTINF:-1,Music: Tarab Hatem Al Iraqi
+http://new-pro.tv:8080/Fernando/123321/309154
+#EXTINF:-1,Music: Tarab Asala Nasry
+http://new-pro.tv:8080/Fernando/123321/309131
+#EXTINF:-1,Music: Tarab Alisa
+http://new-pro.tv:8080/Fernando/123321/309094
+#EXTINF:-1,Music: Abdulhalim Hafez
+http://new-pro.tv:8080/Fernando/123321/193124
+#EXTINF:-1,Music: Al Remas TV
+http://new-pro.tv:8080/Fernando/123321/58753
+#EXTINF:-1,Music: Assyrian  Music
+http://new-pro.tv:8080/Fernando/123321/219377
+#EXTINF:-1,Music: Melody Music
+http://new-pro.tv:8080/Fernando/123321/155275
+#EXTINF:-1,Music: Trace Africa
+http://new-pro.tv:8080/Fernando/123321/294617
+#EXTINF:-1,Music: Trace Caribbean
+http://new-pro.tv:8080/Fernando/123321/294614
+#EXTINF:-1,Music: Trace Gospel
+http://new-pro.tv:8080/Fernando/123321/294619
+#EXTINF:-1,Music: Trace Kitoko
+http://new-pro.tv:8080/Fernando/123321/294620
+#EXTINF:-1,Music: Trace Vault
+http://new-pro.tv:8080/Fernando/123321/294621
+#EXTINF:-1,Music: Trace Muzika
+http://new-pro.tv:8080/Fernando/123321/294615
+#EXTINF:-1,Music: Trace Naija
+http://new-pro.tv:8080/Fernando/123321/294616
+#EXTINF:-1,Music: Trace Toca
+http://new-pro.tv:8080/Fernando/123321/294618
+#EXTINF:-1,Music: Trace Urban
+http://new-pro.tv:8080/Fernando/123321/294613
+
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="Undefined",12 Arabia
 http://new-pro.tv:8080/Fernando/123321/99652?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",2M MAROC
