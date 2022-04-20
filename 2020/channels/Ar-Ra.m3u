@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Syria",======Syria=======
+#EXTINF:-1 tvg-logo="" group-title="Syria",======Syria=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,Sy: Sama TV
 http://new-pro.tv:8080/Fernando/123321/7189
@@ -50,7 +50,7 @@ http://new-pro.tv:8080/Fernando/123321/92224
 http://new-pro.tv:8080/Fernando/123321/100357
 #EXTINF:-1,Sy: Al Alam Syria TV
 http://new-pro.tv:8080/Fernando/123321/155219
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Lebanon",======Lebanon=======
+#EXTINF:-1 tvg-logo="" group-title="Lebanon",======Lebanon=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,Lb: Al-Jadeed TV HD
 http://new-pro.tv:8080/Fernando/123321/2242
@@ -118,7 +118,7 @@ http://new-pro.tv:8080/Fernando/123321/297708
 http://new-pro.tv:8080/Fernando/123321/297709
 #EXTINF:-1,Lb: Taqallyn TV
 http://new-pro.tv:8080/Fernando/123321/297722
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Rotana",======Rotana=======
+#EXTINF:-1 tvg-logo="" group-title="Rotana",======Rotana=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,Rotana + HD
 http://new-pro.tv:8080/Fernando/123321/69513
@@ -146,7 +146,7 @@ http://new-pro.tv:8080/Fernando/123321/180
 http://new-pro.tv:8080/Fernando/123321/69574
 #EXTINF:-1,Rotana Classic FHD
 http://new-pro.tv:8080/Fernando/123321/69576
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="MBC",======MBC=======
+#EXTINF:-1 tvg-logo="" group-title="MBC",======MBC=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,MBC 1 HD
 http://new-pro.tv:8080/Fernando/123321/46
@@ -258,7 +258,7 @@ http://new-pro.tv:8080/Fernando/123321/20923
 http://new-pro.tv:8080/Fernando/123321/20922
 #EXTINF:-1,MBC Max SD
 http://new-pro.tv:8080/Fernando/123321/20921
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Egypt",======Egypt=======
+#EXTINF:-1 tvg-logo="" group-title="Egypt",======Egypt=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,Eg: Al Nahar HD
 http://new-pro.tv:8080/Fernando/123321/2703
@@ -512,7 +512,7 @@ http://new-pro.tv:8080/Fernando/123321/174742
 http://new-pro.tv:8080/Fernando/123321/279123
 #EXTINF:-1,Eg: Cima
 http://new-pro.tv:8080/Fernando/123321/297726
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="News",======News=======
+#EXTINF:-1 tvg-logo="" group-title="News",======News=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,News | Ar: Al Jazeera HD
 http://new-pro.tv:8080/Fernando/123321/2243
@@ -622,7 +622,7 @@ http://new-pro.tv:8080/Fernando/123321/299279
 http://new-pro.tv:8080/Fernando/123321/299051
 #EXTINF:-1,News | En: Wion TV
 http://new-pro.tv:8080/Fernando/123321/299280
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Kids",======Kids=======
+#EXTINF:-1 tvg-logo="" group-title="Kids",======Kids=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,Kids: PUBG Arabic
 http://new-pro.tv:8080/Fernando/123321/178897
@@ -772,7 +772,7 @@ http://new-pro.tv:8080/Fernando/123321/134652
 http://new-pro.tv:8080/Fernando/123321/134651
 #EXTINF:-1,Kids | VIP: NRT 3 Kids HD
 http://new-pro.tv:8080/Fernando/123321/134656
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Music",======Music=======
+#EXTINF:-1 tvg-logo="" group-title="Music",======Music=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,Music: Arabica TV
 http://new-pro.tv:8080/Fernando/123321/14023
@@ -904,7 +904,424 @@ http://new-pro.tv:8080/Fernando/123321/294616
 http://new-pro.tv:8080/Fernando/123321/294618
 #EXTINF:-1,Music: Trace Urban
 http://new-pro.tv:8080/Fernando/123321/294613
-
+#EXTINF:-1 tvg-logo="" group-title="UAE",======UAE=======
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1,Uae: B4U Aflam
+http://new-pro.tv:8080/Fernando/123321/20961
+#EXTINF:-1,Uae: B4U Plus HD
+http://new-pro.tv:8080/Fernando/123321/10630
+#EXTINF:-1,Uae: Zee Alwan
+http://new-pro.tv:8080/Fernando/123321/2287
+#EXTINF:-1,Uae: Zee Aflam
+http://new-pro.tv:8080/Fernando/123321/2286
+#EXTINF:-1,Uae: Al Emarat TV
+http://new-pro.tv:8080/Fernando/123321/99098
+#EXTINF:-1,Uae: Dubai TV
+http://new-pro.tv:8080/Fernando/123321/10027
+#EXTINF:-1,Uae: Dubai One
+http://new-pro.tv:8080/Fernando/123321/10028
+#EXTINF:-1,Uae: Dubai Zaman
+http://new-pro.tv:8080/Fernando/123321/10026
+#EXTINF:-1,Uae: Abu Dhabi SD
+http://new-pro.tv:8080/Fernando/123321/21489
+#EXTINF:-1,Uae: Abu Dhabi HD
+http://new-pro.tv:8080/Fernando/123321/21490
+#EXTINF:-1,Uae: Abu Dhabi Al Emarat SD
+http://new-pro.tv:8080/Fernando/123321/161
+#EXTINF:-1,Uae: Abu Dhabi Al Emarat HD
+http://new-pro.tv:8080/Fernando/123321/21493
+#EXTINF:-1,Uae: Nat Geo Abu Dhabi
+http://new-pro.tv:8080/Fernando/123321/67458
+#EXTINF:-1,Uae: Sama Dubai
+http://new-pro.tv:8080/Fernando/123321/10024
+#EXTINF:-1,Uae: Noor Dubai TV
+http://new-pro.tv:8080/Fernando/123321/10025
+#EXTINF:-1,Uae: Al Dhafra
+http://new-pro.tv:8080/Fernando/123321/145627
+#EXTINF:-1,Uae: Sharjah HD
+http://new-pro.tv:8080/Fernando/123321/99090
+#EXTINF:-1,Uae: Sharjah Sport HD
+http://new-pro.tv:8080/Fernando/123321/99093
+#EXTINF:-1,Uae: Sharqiya from Kalba HD
+http://new-pro.tv:8080/Fernando/123321/99095
+#EXTINF:-1,Uae: Al Wousta TV
+http://new-pro.tv:8080/Fernando/123321/42186
+#EXTINF:-1,Uae: Al Khalij TV
+http://new-pro.tv:8080/Fernando/123321/47664
+#EXTINF:-1,Uae: Ajman TV HD
+http://new-pro.tv:8080/Fernando/123321/179877
+#EXTINF:-1,Uae: Dafrah
+http://new-pro.tv:8080/Fernando/123321/179875
+#EXTINF:-1,Uae: Fujairah TV
+http://new-pro.tv:8080/Fernando/123321/179874
+#EXTINF:-1,Uae: Alittihad TV
+http://new-pro.tv:8080/Fernando/123321/24472
+#EXTINF:-1,Uae: Baynounah
+http://new-pro.tv:8080/Fernando/123321/270446
+#EXTINF:-1,Uae: Citruss TV
+http://new-pro.tv:8080/Fernando/123321/69641
+#EXTINF:-1,Uae: Majid Kids TV
+http://new-pro.tv:8080/Fernando/123321/99699
+#EXTINF:-1,Uae: SpaceToon TV
+http://new-pro.tv:8080/Fernando/123321/169598
+#EXTINF:-1,Uae: Hawas TV
+http://new-pro.tv:8080/Fernando/123321/279133
+#EXTINF:-1 tvg-logo="" group-title="Iraq",======Iraq=======
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1,Iq: Al Rabiaa Iraq
+http://new-pro.tv:8080/Fernando/123321/180296
+#EXTINF:-1,Iq: UTV Iraq HD
+http://new-pro.tv:8080/Fernando/123321/39062
+#EXTINF:-1,Iq: Iraqia Sport HD
+http://new-pro.tv:8080/Fernando/123321/99682
+#EXTINF:-1,Iq: Shabab Iraq Sport 1 HD
+http://new-pro.tv:8080/Fernando/123321/91891
+#EXTINF:-1,Iq: Al Sharqiya HD
+http://new-pro.tv:8080/Fernando/123321/2292
+#EXTINF:-1,Iq: Al Sharqiya News HD
+http://new-pro.tv:8080/Fernando/123321/2291
+#EXTINF:-1,Iq: Al Wilayah TV
+http://new-pro.tv:8080/Fernando/123321/179887
+#EXTINF:-1,Iq: Ahlulbayt TV
+http://new-pro.tv:8080/Fernando/123321/179885
+#EXTINF:-1,Iq: Iraq Kids
+http://new-pro.tv:8080/Fernando/123321/179884
+#EXTINF:-1,Iq: Al Fallujah TV
+http://new-pro.tv:8080/Fernando/123321/179882
+#EXTINF:-1,Iq: Al Iraqia HD
+http://new-pro.tv:8080/Fernando/123321/33812
+#EXTINF:-1,Iq: Iraqia News HD
+http://new-pro.tv:8080/Fernando/123321/31009
+#EXTINF:-1,Iq: Iraq 24 HD
+http://new-pro.tv:8080/Fernando/123321/47428
+#EXTINF:-1,Iq: Iraq Future TV
+http://new-pro.tv:8080/Fernando/123321/10688
+#EXTINF:-1,Iq: Iraqia Turkuman
+http://new-pro.tv:8080/Fernando/123321/2738
+#EXTINF:-1,Iq: TurkmenEli TV
+http://new-pro.tv:8080/Fernando/123321/98245
+#EXTINF:-1,Iq: Al Hurra Iraq
+http://new-pro.tv:8080/Fernando/123321/67438
+#EXTINF:-1,Iq: Al Hurra HD
+http://new-pro.tv:8080/Fernando/123321/67443
+#EXTINF:-1,Iq: Al Ahd Iraq TV
+http://new-pro.tv:8080/Fernando/123321/30473
+#EXTINF:-1,Iq: Iraqi Education
+http://new-pro.tv:8080/Fernando/123321/69834
+#EXTINF:-1,Iq: ANB Iraq
+http://new-pro.tv:8080/Fernando/123321/99418
+#EXTINF:-1,Iq: Al Mostashara
+http://new-pro.tv:8080/Fernando/123321/71559
+#EXTINF:-1,Iq: Karbala TV
+http://new-pro.tv:8080/Fernando/123321/20676
+#EXTINF:-1,Iq: Beladi TV
+http://new-pro.tv:8080/Fernando/123321/270448
+#EXTINF:-1,Iq: WTV Watan TV
+http://new-pro.tv:8080/Fernando/123321/270447
+#EXTINF:-1,Iq: Al Mawsleya
+http://new-pro.tv:8080/Fernando/123321/14395
+#EXTINF:-1,Iq: Al Mustakila
+http://new-pro.tv:8080/Fernando/123321/100353
+#EXTINF:-1,Iq: Hona Baghdad
+http://new-pro.tv:8080/Fernando/123321/7054
+#EXTINF:-1,Iq: Al Forat TV
+http://new-pro.tv:8080/Fernando/123321/14221
+#EXTINF:-1,Iq: Al Baghdadia TV
+http://new-pro.tv:8080/Fernando/123321/53943
+#EXTINF:-1,Iq: Al Sumaria TV
+http://new-pro.tv:8080/Fernando/123321/5273
+#EXTINF:-1,Iq: Al Rasheed TV
+http://new-pro.tv:8080/Fernando/123321/168
+#EXTINF:-1,Iq: Al Rafidain TV
+http://new-pro.tv:8080/Fernando/123321/6532
+#EXTINF:-1,Iq: Afaq TV
+http://new-pro.tv:8080/Fernando/123321/10978
+#EXTINF:-1,Iq: Samarra TV
+http://new-pro.tv:8080/Fernando/123321/10976
+#EXTINF:-1,Iq: Al Qamar
+http://new-pro.tv:8080/Fernando/123321/14157
+#EXTINF:-1,Iq: MBN Alhura
+http://new-pro.tv:8080/Fernando/123321/69662
+#EXTINF:-1,Iq: 12 Arabia
+http://new-pro.tv:8080/Fernando/123321/99652
+#EXTINF:-1,Iq: Al Nojaba TV
+http://new-pro.tv:8080/Fernando/123321/100341
+#EXTINF:-1,Iq: iNews HD
+http://new-pro.tv:8080/Fernando/123321/100350
+#EXTINF:-1,Iq: Shehab TV
+http://new-pro.tv:8080/Fernando/123321/99669
+#EXTINF:-1,Iq: Salahaden TV
+http://new-pro.tv:8080/Fernando/123321/14399
+#EXTINF:-1,Iq: Dijlah Tarab TV
+http://new-pro.tv:8080/Fernando/123321/100349
+#EXTINF:-1,Iq: Dijleh TV
+http://new-pro.tv:8080/Fernando/123321/71221
+#EXTINF:-1,Iq: Turkmeneli TV HD
+http://new-pro.tv:8080/Fernando/123321/272853
+#EXTINF:-1,Iq: Al Nabaa HD
+http://new-pro.tv:8080/Fernando/123321/14131
+#EXTINF:-1,Iq: Al Anbar TV
+http://new-pro.tv:8080/Fernando/123321/14142
+#EXTINF:-1,Iq: Al Aqila TV
+http://new-pro.tv:8080/Fernando/123321/11172
+#EXTINF:-1,Iq: Al Etejah TV
+http://new-pro.tv:8080/Fernando/123321/30524
+#EXTINF:-1,Iq: Al Awhad TV
+http://new-pro.tv:8080/Fernando/123321/14217
+#EXTINF:-1,Iq: Altaghier
+http://new-pro.tv:8080/Fernando/123321/14210
+#EXTINF:-1,Iq: Al Ebaa TV
+http://new-pro.tv:8080/Fernando/123321/11171
+#EXTINF:-1,Iq: Al Anwar 1
+http://new-pro.tv:8080/Fernando/123321/14397
+#EXTINF:-1,Iq: Al Shaaer TV
+http://new-pro.tv:8080/Fernando/123321/11169
+#EXTINF:-1,Iq: Al Salam TV
+http://new-pro.tv:8080/Fernando/123321/14141
+#EXTINF:-1,Iq: Al Ayam TV
+http://new-pro.tv:8080/Fernando/123321/14167
+#EXTINF:-1,Iq: Al Anwar 2
+http://new-pro.tv:8080/Fernando/123321/100342
+#EXTINF:-1,Iq: Al Taleaa TV
+http://new-pro.tv:8080/Fernando/123321/100344
+#EXTINF:-1,Iq: Iraqia Syriac
+http://new-pro.tv:8080/Fernando/123321/100347
+#EXTINF:-1,Iq: Al maaref TV
+http://new-pro.tv:8080/Fernando/123321/99855
+#EXTINF:-1,Iq: Suroyo TV
+http://new-pro.tv:8080/Fernando/123321/99681
+#EXTINF:-1,Iq: The Savior
+http://new-pro.tv:8080/Fernando/123321/100343
+#EXTINF:-1,Iq: Saout Al Aqila
+http://new-pro.tv:8080/Fernando/123321/69635
+#EXTINF:-1,Iq: Marjaeyat 2
+http://new-pro.tv:8080/Fernando/123321/14286
+#EXTINF:-1,Iq: Imam Ali 1 FA TV
+http://new-pro.tv:8080/Fernando/123321/105052
+#EXTINF:-1,Iq: Al Ghadeer TV
+http://new-pro.tv:8080/Fernando/123321/10975
+#EXTINF:-1,Iq: Alanes TV
+http://new-pro.tv:8080/Fernando/123321/155216
+#EXTINF:-1,Iq: Diwan
+http://new-pro.tv:8080/Fernando/123321/155226
+#EXTINF:-1,Iq: Imam Hussein 1
+http://new-pro.tv:8080/Fernando/123321/46336
+#EXTINF:-1,Iq: Imam HUssein 2
+http://new-pro.tv:8080/Fernando/123321/7657
+#EXTINF:-1,Iq: Imam Hussein 3
+http://new-pro.tv:8080/Fernando/123321/14130
+#EXTINF:-1,Iq: Al Naeem TV
+http://new-pro.tv:8080/Fernando/123321/279134
+#EXTINF:-1,Iq: AlKomail Channel
+http://new-pro.tv:8080/Fernando/123321/297711
+#EXTINF:-1,Iq: OM Al Baneen TV
+http://new-pro.tv:8080/Fernando/123321/297710
+#EXTINF:-1 tvg-logo="" group-title="Tunisia",======Tunisia=======
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1,Tn: Watania 1 [ Tunisia Nat 1 ]
+http://new-pro.tv:8080/Fernando/123321/71187
+#EXTINF:-1,Tn: Watania 2 [ Tunisia Nat 2 ]
+http://new-pro.tv:8080/Fernando/123321/71188
+#EXTINF:-1,Tn: Tunisie Immobilier TV
+http://new-pro.tv:8080/Fernando/123321/33758
+#EXTINF:-1,Tn: JAWHARA-TV
+http://new-pro.tv:8080/Fernando/123321/265136
+#EXTINF:-1,Tn: Jawhara FM
+http://new-pro.tv:8080/Fernando/123321/21481
+#EXTINF:-1,Tn: Sahel Tunisian Voice HD
+http://new-pro.tv:8080/Fernando/123321/179881
+#EXTINF:-1,Tn: Al Insen TV
+http://new-pro.tv:8080/Fernando/123321/21487
+#EXTINF:-1,Tn: Al Hiwar Al Tounsi TV
+http://new-pro.tv:8080/Fernando/123321/21484
+#EXTINF:-1,Tn: Carthage TV
+http://new-pro.tv:8080/Fernando/123321/21485
+#EXTINF:-1,Tn: Attessia TV
+http://new-pro.tv:8080/Fernando/123321/71949
+#EXTINF:-1,Tn: Tunisna TV
+http://new-pro.tv:8080/Fernando/123321/21479
+#EXTINF:-1,Tn: Al Janoubia TV
+http://new-pro.tv:8080/Fernando/123321/14185
+#EXTINF:-1,Tn: Telvza TV
+http://new-pro.tv:8080/Fernando/123321/21480
+#EXTINF:-1,Tn: Al Zaytoona TV
+http://new-pro.tv:8080/Fernando/123321/1977
+#EXTINF:-1,Tn: Hannibal TV
+http://new-pro.tv:8080/Fernando/123321/71210
+#EXTINF:-1,Tn: Nessma Ejdida
+http://new-pro.tv:8080/Fernando/123321/313206
+#EXTINF:-1,Tn: M Tunisia TV
+http://new-pro.tv:8080/Fernando/123321/21483
+#EXTINF:-1,Tn: Baya TV HD
+http://new-pro.tv:8080/Fernando/123321/265135
+#EXTINF:-1,Tn: Radio Nationale
+http://new-pro.tv:8080/Fernando/123321/265138
+#EXTINF:-1 tvg-logo="" group-title="Morocco",======Morocco=======
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1,Mor: Al Aoula Inter
+http://new-pro.tv:8080/Fernando/123321/69840
+#EXTINF:-1,Mor: Al Aoula HD
+http://new-pro.tv:8080/Fernando/123321/2745
+#EXTINF:-1,Mor: Al Aoula Al Eyoon HD
+http://new-pro.tv:8080/Fernando/123321/53168
+#EXTINF:-1,Mor: Laayoune TV
+http://new-pro.tv:8080/Fernando/123321/99408
+#EXTINF:-1,Mor: 2M Maroc TV [ 2M Monde ]
+http://new-pro.tv:8080/Fernando/123321/5800
+#EXTINF:-1,Mor: Arryadia HD
+http://new-pro.tv:8080/Fernando/123321/99409
+#EXTINF:-1,Mor: Arryadia SD
+http://new-pro.tv:8080/Fernando/123321/2746
+#EXTINF:-1,Mor: Arrabiaa [ Athaqafia ]
+http://new-pro.tv:8080/Fernando/123321/72183
+#EXTINF:-1,Mor: Assadissa 6
+http://new-pro.tv:8080/Fernando/123321/86716
+#EXTINF:-1,Mor: M24 TV
+http://new-pro.tv:8080/Fernando/123321/33711
+#EXTINF:-1,Mor: Al Magharibia
+http://new-pro.tv:8080/Fernando/123321/10023
+#EXTINF:-1,Mor: Al magharibia TV
+http://new-pro.tv:8080/Fernando/123321/10022
+#EXTINF:-1,Mor: Tamazight
+http://new-pro.tv:8080/Fernando/123321/73533
+#EXTINF:-1,Mor: Medi 1 TV [ Arabic ]
+http://new-pro.tv:8080/Fernando/123321/13997
+#EXTINF:-1,Mor: Medi 1 TV [ Afrique ]
+http://new-pro.tv:8080/Fernando/123321/36870
+#EXTINF:-1,Mor: Tele Maroc HD
+http://new-pro.tv:8080/Fernando/123321/33710
+#EXTINF:-1,Mor: Chada TV
+http://new-pro.tv:8080/Fernando/123321/67626
+#EXTINF:-1,Mor: Canal Atlas
+http://new-pro.tv:8080/Fernando/123321/100158
+#EXTINF:-1,Mor: Aflam 7
+http://new-pro.tv:8080/Fernando/123321/100157
+#EXTINF:-1,Mor: Al Haqiqa
+http://new-pro.tv:8080/Fernando/123321/297761
+#EXTINF:-1,Mor: Tv5 Monde Style
+http://new-pro.tv:8080/Fernando/123321/297714
+#EXTINF:-1 tvg-logo="" group-title="Jordan",======Jordan=======
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1,Jo: Sama Jordan
+http://new-pro.tv:8080/Fernando/123321/179888
+#EXTINF:-1,Jo: Jordan HD
+http://new-pro.tv:8080/Fernando/123321/2263
+#EXTINF:-1,Jo: Jordan Amen
+http://new-pro.tv:8080/Fernando/123321/100335
+#EXTINF:-1,Jo: Jordan Now
+http://new-pro.tv:8080/Fernando/123321/100334
+#EXTINF:-1,Jo: Jordan Sport HD
+http://new-pro.tv:8080/Fernando/123321/71186
+#EXTINF:-1,Jo: Jorden FA TV
+http://new-pro.tv:8080/Fernando/123321/36842
+#EXTINF:-1,Jo: Al Mamlaka HD
+http://new-pro.tv:8080/Fernando/123321/33764
+#EXTINF:-1,Jo: Roya HD
+http://new-pro.tv:8080/Fernando/123321/11112
+#EXTINF:-1,Jo: Karamesh
+http://new-pro.tv:8080/Fernando/123321/99407
+#EXTINF:-1,Jo: Amman TV
+http://new-pro.tv:8080/Fernando/123321/31010
+#EXTINF:-1,Jo: Al Ghad Al Araby HD
+http://new-pro.tv:8080/Fernando/123321/100336
+#EXTINF:-1,Jo: Darsak 1 Tawjihi
+http://new-pro.tv:8080/Fernando/123321/99719
+#EXTINF:-1,Jo: Darsak 2
+http://new-pro.tv:8080/Fernando/123321/99718
+#EXTINF:-1,Jo: Yarmouk TV
+http://new-pro.tv:8080/Fernando/123321/99677
+#EXTINF:-1,Jo: Kaifa TV
+http://new-pro.tv:8080/Fernando/123321/99417
+#EXTINF:-1,Jo: Aude TV
+http://new-pro.tv:8080/Fernando/123321/36841
+#EXTINF:-1,Jo: Asharq Business
+http://new-pro.tv:8080/Fernando/123321/28842
+#EXTINF:-1,Jo: Oman TV Sport HD
+http://new-pro.tv:8080/Fernando/123321/100333
+#EXTINF:-1 tvg-logo="" group-title="Palestine",======Palestine=======
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1,Ps: Al Najah HD
+http://new-pro.tv:8080/Fernando/123321/114369
+#EXTINF:-1,Ps: Maan Tv
+http://new-pro.tv:8080/Fernando/123321/74970
+#EXTINF:-1,Ps: Palestine TV
+http://new-pro.tv:8080/Fernando/123321/64978
+#EXTINF:-1,Ps: Palestine Mubashir [ Live ]
+http://new-pro.tv:8080/Fernando/123321/14456
+#EXTINF:-1,Ps: Palestine Al Yawm HD
+http://new-pro.tv:8080/Fernando/123321/36847
+#EXTINF:-1,Ps: Palestine Sport
+http://new-pro.tv:8080/Fernando/123321/100356
+#EXTINF:-1,Ps: Falastini TV
+http://new-pro.tv:8080/Fernando/123321/99733
+#EXTINF:-1,Ps: Wattan TV
+http://new-pro.tv:8080/Fernando/123321/36839
+#EXTINF:-1,Ps: Al Kofiya
+http://new-pro.tv:8080/Fernando/123321/99667
+#EXTINF:-1,Ps: Al Quds Today
+http://new-pro.tv:8080/Fernando/123321/100355
+#EXTINF:-1,Ps: Al Seraj TV
+http://new-pro.tv:8080/Fernando/123321/99735
+#EXTINF:-1,Ps: Hebron Sat [ Al Khaleel ]
+http://new-pro.tv:8080/Fernando/123321/99734
+#EXTINF:-1,Ps: Hala TV
+http://new-pro.tv:8080/Fernando/123321/47663
+#EXTINF:-1,Ps: Ajiyal TV
+http://new-pro.tv:8080/Fernando/123321/66266
+#EXTINF:-1,Ps: Al Salam TV
+http://new-pro.tv:8080/Fernando/123321/66268
+#EXTINF:-1,Ps: Musawa TV
+http://new-pro.tv:8080/Fernando/123321/28844
+#EXTINF:-1,Ps: Makan TV
+http://new-pro.tv:8080/Fernando/123321/14450
+#EXTINF:-1,Ps: Awdah TV
+http://new-pro.tv:8080/Fernando/123321/297728
+#EXTINF:-1,Ps: Palestine EDU
+http://new-pro.tv:8080/Fernando/123321/297758
+#EXTINF:-1 tvg-logo="" group-title="Lybia",======Lybia=======
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
+#EXTINF:-1,Ly: Libya TV
+http://new-pro.tv:8080/Fernando/123321/21383
+#EXTINF:-1,Ly: Libya Al Hadath
+http://new-pro.tv:8080/Fernando/123321/21394
+#EXTINF:-1,Ly: Libya Al Rasmia
+http://new-pro.tv:8080/Fernando/123321/21391
+#EXTINF:-1,Ly: Libya Al Wataniya
+http://new-pro.tv:8080/Fernando/123321/21390
+#EXTINF:-1,Ly: Libya Al Ahrar TV
+http://new-pro.tv:8080/Fernando/123321/21381
+#EXTINF:-1,Ly: Libya Al Mostakbal TV
+http://new-pro.tv:8080/Fernando/123321/21382
+#EXTINF:-1,Lb: Al Wasat TV
+http://new-pro.tv:8080/Fernando/123321/176220
+#EXTINF:-1,Ly: Libya Febrayer TV
+http://new-pro.tv:8080/Fernando/123321/21388
+#EXTINF:-1,Ly: Libya Sport 1
+http://new-pro.tv:8080/Fernando/123321/99702
+#EXTINF:-1,Ly: Libya Sport 2
+http://new-pro.tv:8080/Fernando/123321/100340
+#EXTINF:-1,Ly: Libya Panorama [ LPC ]
+http://new-pro.tv:8080/Fernando/123321/21387
+#EXTINF:-1,Ly: Libya Education
+http://new-pro.tv:8080/Fernando/123321/302572
+#EXTINF:-1,Ly: Libya WTV
+http://new-pro.tv:8080/Fernando/123321/302573
+#EXTINF:-1,Ly: LIbya 218 TV
+http://new-pro.tv:8080/Fernando/123321/8227
+#EXTINF:-1,Ly: Salam TV
+http://new-pro.tv:8080/Fernando/123321/36697
+#EXTINF:-1,Ly: Al Tanasuh TV
+http://new-pro.tv:8080/Fernando/123321/33813
+#EXTINF:-1,Ly: Sahel 2 TV
+http://new-pro.tv:8080/Fernando/123321/64998
+#EXTINF:-1,Ly: Al Salam TV
+http://new-pro.tv:8080/Fernando/123321/106128
+#EXTINF:-1,Ly: Al Jamahiria TV
+http://new-pro.tv:8080/Fernando/123321/177574
+#EXTINF:-1,Ly: Libya 218 News HD
+http://new-pro.tv:8080/Fernando/123321/14289
+#EXTINF:-1 tvg-logo="" group-title="Others",======Others=======
+https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="Undefined",12 Arabia
 http://new-pro.tv:8080/Fernando/123321/99652?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",2M MAROC
@@ -1163,7 +1580,7 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Jordan",======Jordan=======
+#EXTINF:-1 tvg-logo="" group-title="Jordan",======Jordan=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,Jo: A ONE TV
 http://stariptv.org:8080/wael2021/123456/112477
@@ -1217,7 +1634,7 @@ http://stariptv.org:8080/wael2021/123456/111545
 http://stariptv.org:8080/wael2021/123456/111546
 #EXTINF:-1,Jo: Aude TV
 http://stariptv.org:8080/wael2021/123456/111547
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Palestine",======Palestine=======
+#EXTINF:-1 tvg-logo="" group-title="Palestine",======Palestine=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,PSE.PNN TV
 http://stariptv.org:8080/wael2021/123456/62039
@@ -1281,7 +1698,7 @@ http://stariptv.org:8080/wael2021/123456/14944
 http://stariptv.org:8080/wael2021/123456/14919
 #EXTINF:-1,PSE.MAAN
 http://stariptv.org:8080/wael2021/123456/21199
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="MBC",======MBC=======
+#EXTINF:-1 tvg-logo="" group-title="MBC",======MBC=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,AR: MBC 1 4K
 http://stariptv.org:8080/wael2021/123456/45165
@@ -1361,7 +1778,7 @@ http://stariptv.org:8080/wael2021/123456/92760
 http://stariptv.org:8080/wael2021/123456/92759
 #EXTINF:-1,AR: MBC FM 4K
 http://stariptv.org:8080/wael2021/123456/92755
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="Rotana",======Rotana=======
+#EXTINF:-1 tvg-logo="" group-title="Rotana",======Rotana=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,AR.Rotana + HD
 http://stariptv.org:8080/wael2021/123456/97852
@@ -1387,7 +1804,7 @@ http://stariptv.org:8080/wael2021/123456/15117
 http://stariptv.org:8080/wael2021/123456/15115
 #EXTINF:-1,AR.ROTANA DRAMA
 http://stariptv.org:8080/wael2021/123456/55592
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="MOVIES",======MOVIES=======
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",======MOVIES=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,Ostora Arabic 1
 http://stariptv.org:8080/wael2021/123456/130481
@@ -1549,7 +1966,7 @@ http://stariptv.org:8080/wael2021/123456/43619
 http://stariptv.org:8080/wael2021/123456/43618
 #EXTINF:-1,AR: beoutQ AFALAM HD H265
 http://stariptv.org:8080/wael2021/123456/43694
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="MOROCCO",======MOROCCO=======
+#EXTINF:-1 tvg-logo="" group-title="MOROCCO",======MOROCCO=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,MAR.ELAAYOUN
 http://stariptv.org:8080/wael2021/123456/14981
@@ -1613,7 +2030,7 @@ http://stariptv.org:8080/wael2021/123456/100522
 http://stariptv.org:8080/wael2021/123456/100525
 #EXTINF:-1,MAR.Al Oula TV FHD hevc
 http://stariptv.org:8080/wael2021/123456/100529
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="ALGERIA",======ALGERIA=======
+#EXTINF:-1 tvg-logo="" group-title="ALGERIA",======ALGERIA=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,DZ.El Badil TV
 http://stariptv.org:8080/wael2021/123456/66411
@@ -1677,7 +2094,7 @@ http://stariptv.org:8080/wael2021/123456/14941
 http://stariptv.org:8080/wael2021/123456/43600
 #EXTINF:-1,DZ.PROGRAMME NATIONAL
 http://stariptv.org:8080/wael2021/123456/43599
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="TUNISIA",======TUNISIA=======
+#EXTINF:-1 tvg-logo="" group-title="TUNISIA",======TUNISIA=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,TUN.SAHEL TV
 http://stariptv.org:8080/wael2021/123456/66379
@@ -1707,7 +2124,7 @@ http://stariptv.org:8080/wael2021/123456/21200
 http://stariptv.org:8080/wael2021/123456/14986
 #EXTINF:-1,TUN.CARTHAGE +
 http://stariptv.org:8080/wael2021/123456/43597
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="LYBIA",======LYBIA=======
+#EXTINF:-1 tvg-logo="" group-title="LYBIA",======LYBIA=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,LBY.AL JAMAHIRIA
 http://stariptv.org:8080/wael2021/123456/60509
@@ -1743,7 +2160,7 @@ http://stariptv.org:8080/wael2021/123456/21202
 http://stariptv.org:8080/wael2021/123456/21162
 #EXTINF:-1,LBY.ALNABAA
 http://stariptv.org:8080/wael2021/123456/21201
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="SUDAN",======SUDAN=======
+#EXTINF:-1 tvg-logo="" group-title="SUDAN",======SUDAN=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,SU: Sudan Now 24
 http://stariptv.org:8080/wael2021/123456/122823
@@ -1797,7 +2214,7 @@ http://stariptv.org:8080/wael2021/123456/122847
 http://stariptv.org:8080/wael2021/123456/122848
 #EXTINF:-1,SU: Africa TV 3
 http://stariptv.org:8080/wael2021/123456/122849
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="ARABIC",======ARABIC=======
+#EXTINF:-1 tvg-logo="" group-title="ARABIC",======ARABIC=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,AR.Al-Istiqama TV
 http://stariptv.org:8080/wael2021/123456/67764
@@ -1951,7 +2368,7 @@ http://stariptv.org:8080/wael2021/123456/66388
 http://stariptv.org:8080/wael2021/123456/66389
 #EXTINF:-1,AR: al ahed
 http://stariptv.org:8080/wael2021/123456/112639
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="KSA",======KSA=======
+#EXTINF:-1 tvg-logo="" group-title="KSA",======KSA=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,KSA.SSC 1 HD
 http://stariptv.org:8080/wael2021/123456/142041
@@ -2025,7 +2442,7 @@ http://stariptv.org:8080/wael2021/123456/112573
 http://stariptv.org:8080/wael2021/123456/112574
 #EXTINF:-1,KSA.IEN DOROS 8
 http://stariptv.org:8080/wael2021/123456/112575
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="KWAIT",======KWAIT=======
+#EXTINF:-1 tvg-logo="" group-title="KWAIT",======KWAIT=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,KWT.ETHRAA
 http://stariptv.org:8080/wael2021/123456/66480
@@ -2041,7 +2458,7 @@ http://stariptv.org:8080/wael2021/123456/66486
 http://stariptv.org:8080/wael2021/123456/66488
 #EXTINF:-1,KWT.Al Arabi HD
 http://stariptv.org:8080/wael2021/123456/66487
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="UAE",======UAE=======
+#EXTINF:-1 tvg-logo="" group-title="UAE",======UAE=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,UAE.AJMAN TV
 http://stariptv.org:8080/wael2021/123456/66361
@@ -2089,7 +2506,7 @@ http://stariptv.org:8080/wael2021/123456/15025
 http://stariptv.org:8080/wael2021/123456/15024
 #EXTINF:-1,UAE.Dubai Racing 2
 http://stariptv.org:8080/wael2021/123456/15015
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="BAHRAIN",======BAHRAIN=======
+#EXTINF:-1 tvg-logo="" group-title="BAHRAIN",======BAHRAIN=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,BHR.QURAN
 http://stariptv.org:8080/wael2021/123456/66380
@@ -2099,7 +2516,7 @@ http://stariptv.org:8080/wael2021/123456/66381
 http://stariptv.org:8080/wael2021/123456/66385
 #EXTINF:-1,BHR.Bahrain Lawal
 http://stariptv.org:8080/wael2021/123456/66386
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="OMAN",======OMAN=======
+#EXTINF:-1 tvg-logo="" group-title="OMAN",======OMAN=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,OMAN.SPORT HD
 http://stariptv.org:8080/wael2021/123456/66496
@@ -2109,7 +2526,7 @@ http://stariptv.org:8080/wael2021/123456/66497
 http://stariptv.org:8080/wael2021/123456/66498
 #EXTINF:-1,OMAN.TV LIVE HD
 http://stariptv.org:8080/wael2021/123456/66499
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="QATAR",======QATAR=======
+#EXTINF:-1 tvg-logo="" group-title="QATAR",======QATAR=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,QAT.QATAR TV
 http://stariptv.org:8080/wael2021/123456/66505
@@ -2117,7 +2534,7 @@ http://stariptv.org:8080/wael2021/123456/66505
 http://stariptv.org:8080/wael2021/123456/122567
 #EXTINF:-1,QAT.AL RAYYAN
 http://stariptv.org:8080/wael2021/123456/66504
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="IRAQ",======IRAQ=======
+#EXTINF:-1 tvg-logo="" group-title="IRAQ",======IRAQ=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,IRQ.Iraqia
 http://stariptv.org:8080/wael2021/123456/107036
@@ -2231,7 +2648,7 @@ http://stariptv.org:8080/wael2021/123456/112703
 http://stariptv.org:8080/wael2021/123456/112704
 #EXTINF:-1,IRQ.Al Basira
 http://stariptv.org:8080/wael2021/123456/107064
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="YEMEN",======YEMEN=======
+#EXTINF:-1 tvg-logo="" group-title="YEMEN",======YEMEN=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,YEM.BELQEES
 http://stariptv.org:8080/wael2021/123456/66528
@@ -2258,7 +2675,7 @@ http://stariptv.org:8080/wael2021/123456/21216
 #EXTINF:-1,YEM.SUHAIL TV
 http://stariptv.org:8080/wael2021/123456/21181
 
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="ART",======ART=======
+#EXTINF:-1 tvg-logo="" group-title="ART",======ART=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,AR.ART AFLAM 1
 http://stariptv.org:8080/wael2021/123456/15148
@@ -2292,7 +2709,7 @@ http://stariptv.org:8080/wael2021/123456/150157
 http://stariptv.org:8080/wael2021/123456/150158
 #EXTINF:-1,Al Majd Taghareed
 http://stariptv.org:8080/wael2021/123456/150159
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="ISLAM",======ISLAM=======
+#EXTINF:-1 tvg-logo="" group-title="ISLAM",======ISLAM=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,Islam.Quran TV 2
 http://stariptv.org:8080/wael2021/123456/97878
@@ -2390,7 +2807,7 @@ http://stariptv.org:8080/wael2021/123456/45189
 http://stariptv.org:8080/wael2021/123456/45188
 #EXTINF:-1,Islam.Al Fath TV
 http://stariptv.org:8080/wael2021/123456/88050
-#EXTINF:-1 tvg-logo="https://goo.gl/XvJak7" group-title="NEWS",======NEWS=======
+#EXTINF:-1 tvg-logo="" group-title="NEWS",======NEWS=======
 https://raw.githubusercontent.com/safwan-nj/satcom/master/2020/SatcomIntro.mp4
 #EXTINF:-1,NEWS.AL ARABIYA HD
 http://stariptv.org:8080/wael2021/123456/14961
