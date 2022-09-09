@@ -1,0 +1,430 @@
+#EXTM3U
+#EXTINF:0,mp3quran main radio
+http://live.mp3quran.net:8006/;
+http://178.33.122.39:8000/stream
+http://radio.ddns.me:8010/stream?1479846770894
+http://94.23.0.178:8002/stream
+#EXTINF:0,RadioBOSS Stream
+http://s2.voscast.com:11326/;stream/1
+#EXTINF:0,Stream Name
+http://radio.ddns.me:8002/stream
+#EXTINF:0,Radio coran
+http://coran.ice.infomaniak.ch/coran.aac
+http://andromeda.shoutca.st:8189/stream
+#EXTINF:0,Quraan
+http://uk5.internet-radio.com:8079/stream
+#EXTINF:0,Salafway
+http://www.salafwayfm.ly:8000/fm
+http://162.244.80.118:5678/stream
+http://radio.ddns.me:8110/stream
+#EXTINF:0,Quran Radio Station-Nablus
+http://www.quran-radio.org:8080/;stream.mp3
+#EXTINF:0,Eman Live Radio
+http://www.emanlive.com:8000/;stream.nsv/;stream.mp3
+#EXTINF:0,Albayan Radio
+http://s9.viastreaming.net:9645/;stream/1
+#EXTINF:0,RADIO QURAN TUNISIE
+http://5.135.194.225:8000/live
+#EXTINF:0,MB RECASTER (MB RECASTER)
+http://streamer3.rightclickitservices.com:9755/stream
+http://quraan.us:9944/;*.mp3
+#EXTINF:0,Roqiah
+http://live.mp3quran.net:9936/;
+#EXTINF:0,FATAWA
+http://live.mp3quran.net:8014/;
+#EXTINF:0,Salafigroup Stream
+http://184.154.202.243:8089/stream
+#EXTINF:0,AlienWare
+http://server2.quraan.us:9330/;*.mp3
+#EXTINF:0,Quran Abu Bakr Shatri by EDC
+http://quraan.us:9892/;*.mp3
+#EXTINF:0,Mohd Al tablawi by EDC
+http://quraan.us:9882/;*.mp3
+#EXTINF:0,Quran Ali Jabir by EDC
+http://quraan.us:9912/;*.mp3
+#EXTINF:0,Quran Muhammad alLuhaidan EDC
+http://server2.quraan.us:9898/;*.mp3
+#EXTINF:0,Quran Muhammad Ayyub by EDC
+http://server2.quraan.us:9896/;*.mp3
+#EXTINF:0,Quran Al Minshaawee by EDC
+http://server2.quraan.us:9918/;*.mp3
+#EXTINF:0,Quran Al Husary by EDC
+http://quraan.us:9920/;*.mp3
+#EXTINF:0,Quran Fares abad by EDC
+http://server2.quraan.us:9904/;*.mp3
+#EXTINF:0,Quran Abdullah Awad alJuhani by EDC
+http://server2.quraan.us:9910/;*.mp3
+#EXTINF:0,Quran iHani arRifai by EDC
+http://quraan.us:9902/;*.mp3
+#EXTINF:0,Quran Khalid alQahtani by EDC
+http://quraan.us:9900/;*.mp3
+#EXTINF:0,NasserAl Qatami by EDC
+http://server2.quraan.us:9886/;*.mp3
+#EXTINF:0,QuranYasser Aldosari  by EDC
+http://quraan.us:9884/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Ibrahim AlAkhdar
+http://server2.quraan.us:9840/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Khalifah AlTunaiji
+http://server2.quraan.us:9838/;*.mp3
+#EXTINF:0,Sheikh Abdul Mohsin AlQasim
+http://quraan.us:9842/;*.mp3
+#EXTINF:0,Quran AbdulAzeez alAhmad by EDC
+http://quraan.us:9914/;*.mp3
+#EXTINF:0,Quran Abdul Baset by EDC
+http://quraan.us:9916/;*.mp3
+#EXTINF:0,Quran Abdullah Khayat  by EDC
+http://server2.quraan.us:9908/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Tawfiq AlSaigh
+http://quraan.us:9796/;*.mp3
+#EXTINF:0,AlMoshaf AlMoallim by Sheikh Muhammad Siddiq AlMinshawi
+http://server2.quraan.us:9308/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Maher Al Muaiqly
+http://server2.quraan.us:9856/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Sad AlGhamidi
+http://server2.quraan.us:9854/;*.mp3
+#EXTINF:0,Quran Recitation by Abdul Rahman AlSudais
+http://quraan.us:9850/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Saud AlShuraim
+http://quraan.us:9848/;*.mp3
+#EXTINF:0,Quran al afasy by EDC
+http://server2.quraan.us:9922/;*.mp3
+#EXTINF:0,Quran Muhammad Jibreel by EDC
+http://quraan.us:9894/;*.mp3
+#EXTINF:0,Quran Recitation by AbdulRahman AlUsi
+http://quraan.us:9778/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Abdulwali AlArkani
+http://quraan.us:9304/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Shaya AlTamimi
+http://server2.quraan.us:9320/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Fahd AlKandari
+http://server2.quraan.us:9306/;*.mp3
+#EXTINF:0,Quran Recitation by Jaza AlSuweilih
+http://server2.quraan.us:9780/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Zaki Daghistani
+http://server2.quraan.us:9792/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Khalid ALJalil
+http://server2.quraan.us:9794/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Abdulbari AlThubayti
+http://server2.quraan.us:9790/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Ali AlHudhaifi
+http://quraan.us:9844/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Ahmad alAjmi
+http://server2.quraan.us:9852/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Mustafa Ismail
+http://quraan.us:9786/;*.mp3
+#EXTINF:0,Quran Recitation by Muhammad Siddiq ALMinshawi AlMushaf AlMujawwad
+http://quraan.us:9776/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Mahmud Ali AlBanna
+http://server2.quraan.us:9788/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Abdullah Basfar
+http://quraan.us:9846/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Idris Bakr
+http://server2.quraan.us:9300/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Wadi AlYamani
+http://server2.quraan.us:9784/;*.mp3
+#EXTINF:0,Quran Recitation by Sheikh Abdulaziz AzZahrani
+http://server2.quraan.us:9302/;*.mp3
+#EXTINF:0,Quran Sh Meftah Muhammad AsSultanis Recitation Rauh  Yaqub AlHadrami
+http://server2.quraan.us:9872/;*.mp3
+#EXTINF:0,Reading of Qalun from Nafi by Ali lHudhaifi
+http://server2.quraan.us:9816/;*.mp3
+#EXTINF:0,Reading of Ibn Jummaz from Abu Jafar by AlSultani
+http://server2.quraan.us:9942/;*.mp3
+#EXTINF:0,al kouchi by EDC
+http://quraan.us:9876/;*.mp3
+#EXTINF:0,Yusuf ibn Nooh Ahmads Recitation of the Quran Bazzi  Ibn Kathir by EDC
+http://quraan.us:9868/;*.mp3
+#EXTINF:0,Recited Mushaf for Reciter Majdi AlBaltaji from Ibn Zakwan by EDC
+http://quraan.us:9864/;*.mp3
+#EXTINF:0,Quran AlHosari through AdDouris narration by EDC
+http://quraan.us:9870/;*.mp3
+#EXTINF:0,Sh AbderRasheed Sufis Recitation of the Quran Shuba  Asem by EDC
+http://quraan.us:9866/;*.mp3
+#EXTINF:0,Reading of Abu AlHarith from AlKisai
+http://quraan.us:9836/;*.mp3
+#EXTINF:0,Reading of Warsh from Nafi by Yasin AlJazairi
+http://server2.quraan.us:9802/;*.mp3
+#EXTINF:0,Reading of Warsh from Nafi by AbdulBasit AbdulSamad
+http://server2.quraan.us:9810/;*.mp3
+#EXTINF:0,Reading of Warsh from Nafi by Mustafa Gharbi
+http://server2.quraan.us:9804/;*.mp3
+#EXTINF:0,Reading of Warsh from Nafi by Umar AlQazabri
+http://server2.quraan.us:9808/;*.mp3
+#EXTINF:0,Reading of AlDuri from Abu Amr by AbulRashid AlSufi
+http://server2.quraan.us:9830/;*.mp3
+#EXTINF:0,Reading of AlDuri from Abu Amr by AlFatih Muhammad AzZubayr
+http://server2.quraan.us:9832/;*.mp3
+#EXTINF:0,Reading of AlDuri from Abu Amr by Muftah AlSaltani
+http://server2.quraan.us:9828/;*.mp3
+#EXTINF:0,Reading of Warsh from Nafi by Ibrahim AlDusari
+http://server2.quraan.us:9812/;*.mp3
+#EXTINF:0,Reading of Ruways from Yaqub AlHadrami by Yasir AlMazrui
+http://server2.quraan.us:9822/;*.mp3
+#EXTINF:0,Reading of Ruways from Yaqub alHadrami by Muftah Muhammad AlSaltani
+http://server2.quraan.us:9800/;*.mp3
+#EXTINF:0,Reading of Warsh from Nafi by Muhammad AlTayyib Himdan
+http://server2.quraan.us:9806/;*.mp3
+#EXTINF:0,Reading of Qalun from Nafi by AlDukali Muhammad AlAlim
+http://server2.quraan.us:9818/;*.mp3
+#EXTINF:0,Reading of Qalun from Nafi by Mahmoud Khalil AlHusari
+http://server2.quraan.us:9814/;*.mp3
+#EXTINF:0,Reading of AlSusi from Abu Amr by AbdulRashid AlSufi
+http://server2.quraan.us:9826/;*.mp3
+#EXTINF:0,Reading of Khalaf from Hamzah by AbdulRashid AlSufi
+http://server2.quraan.us:9824/;*.mp3
+#EXTINF:0,Reading of Qalun from Nafi by Ahmad Khidr AlTarabulsi
+http://server2.quraan.us:9820/;*.mp3
+http://quraan.us:9944/;*.mp3
+#EXTINF:0,Listen to AlRuqyah alShariyyah from the Quran by Sheikh Mishari alIfasi
+http://quraan.us:9798/;*.mp3
+#EXTINF:0,AlTafseer alMawdui ilayat alTawheed fi alQuran
+http://server2.quraan.us:9318/;*.mp3
+#EXTINF:0,Bin othaimeen by EDC
+http://server2.quraan.us:9890/;*.mp3
+#EXTINF:0,sharawy by EDC
+http://quraan.us:9888/;*.mp3
+#EXTINF:0,Mabahith fi Ulum alQuran
+http://server2.quraan.us:9310/;*.mp3
+#EXTINF:0,AlAmeed fi Ilm alTajweed
+http://server2.quraan.us:9316/;*.mp3
+#EXTINF:0,Funun alAfnan fi Ajaib Ulum alQuran
+http://server2.quraan.us:9312/;*.mp3
+#EXTINF:0,Ghayat alMureed fi Ilm alTajweed
+http://server2.quraan.us:9314/;*.mp3
+#EXTINF:0,Eman Live Radio
+http://www.emanlive.com:8000/;stream.mp3
+#EXTINF:0,all nashed
+http://www.emanlive.com:9990
+#EXTINF:0,mp3quran main radio
+http://live.mp3quran.net:8006/;
+http://live.mp3quran.net:9702/;
+#EXTINF:0,Ahmad AlHawashi Radio
+http://live.mp3quran.net:9928/;
+#EXTINF:0,Ahmed Altrabulsi Radio
+http://live.mp3quran.net:9926/;
+#EXTINF:0,Ahmad Al ajmi Radio
+http://live.mp3quran.net:8008/;
+#EXTINF:0,Ahmad Saber Radio
+http://live.mp3quran.net:9922/;
+#EXTINF:0,Ahmed Amer Radio
+http://live.mp3quran.net:9920/;
+#EXTINF:0,Ahmad Nauina Radio
+http://live.mp3quran.net:9904/;
+#EXTINF:0,Akram Alalaqmi Radio
+http://live.mp3quran.net:9918/;
+#EXTINF:0,Ibrahim AlAkdar Radio
+http://live.mp3quran.net:9946/;
+#EXTINF:0,Idrees Abkr Radio
+http://live.mp3quran.net:9968/;
+#EXTINF:0,Ibrahim Aldosari Rewayat Warsh An Nafi Radio
+http://live.mp3quran.net:9902/;
+#EXTINF:0,Addokali Mohammad Alalim Radio
+http://live.mp3quran.net:9916/;
+#EXTINF:0,Alzain Mohammad Ahmad Radio
+http://live.mp3quran.net:9914/;
+#EXTINF:0,Aloyoon AlKoshi Rewayat Warsh An Nafi Radio
+http://live.mp3quran.net:9912/;
+#EXTINF:0,Alfateh Alzubair Rewayat Aldori An Abi Amr Radio
+http://live.mp3quran.net:9910/;
+#EXTINF:0,AlQaria Yassen Rewayat Warsh An Nafi Radio
+http://live.mp3quran.net:9908/;
+#EXTINF:0,Tawfeeq AsSayegh Radio
+http://live.mp3quran.net:9906/;
+#EXTINF:0,Jamal Shaker Abdullah Radio
+http://live.mp3quran.net:9900/;
+#EXTINF:0,Jamaan Alosaimi Radio
+http://live.mp3quran.net:9950/;
+#EXTINF:0,Hatem Fareed Alwaer Radio
+http://live.mp3quran.net:9898/;
+#EXTINF:0,Khaled AlQahtani Radio
+http://live.mp3quran.net:9970/;
+#EXTINF:0,Khalid Almohana Radio
+http://live.mp3quran.net:9896/;
+#EXTINF:0,Khalid Abdulkafi Radio
+http://live.mp3quran.net:9894/;
+#EXTINF:0,Khalifa Altunaiji Radio
+http://live.mp3quran.net:9892/;
+#EXTINF:0,Zaki Daghistani Radio
+http://live.mp3quran.net:9890/;
+#EXTINF:0,Saad AlGhamdi Radio
+http://live.mp3quran.net:8004/;
+#EXTINF:0,Saud Alshuraim Radio
+http://live.mp3quran.net:9986/;
+#EXTINF:0,Sahl Yassin Radio
+http://live.mp3quran.net:9888/;
+#EXTINF:0,Sayeed Ramadan Radio
+http://live.mp3quran.net:9886/;
+#EXTINF:0,Shaik Abu Bakr Al Shatri Radio
+http://live.mp3quran.net:9966/;
+#EXTINF:0,Shirazad Taher Radio
+http://live.mp3quran.net:9884/;
+#EXTINF:0,Saber Abdulhakm Radio
+http://live.mp3quran.net:9952/;
+#EXTINF:0,Salah Albudair Radio
+http://live.mp3quran.net:9882/;
+#EXTINF:0,Salah Alhashim Radio
+http://live.mp3quran.net:9880/;
+#EXTINF:0,Tareq Abdulgani daawob Radio
+http://live.mp3quran.net:9876/;
+#EXTINF:0,Adel AlKhalbany Radio
+http://live.mp3quran.net:9874/;
+#EXTINF:0,Adel Ryyan Radio
+http://live.mp3quran.net:9872/;
+#EXTINF:0,Abdelbari AlToubayti Radio
+http://live.mp3quran.net:9870/;
+#EXTINF:0,Abdulbari Mohammad Radio
+http://live.mp3quran.net:9868/;
+#EXTINF:0,Abdulbasit Abdulsamad MJAWWAD Radio
+http://live.mp3quran.net:9974/;
+#EXTINF:0,Abdulbasit Abdulsamad WARSH Radio
+http://live.mp3quran.net:9956/;
+#EXTINF:0,bdulbasit Abdulsamad Radio
+http://live.mp3quran.net:9980/;
+#EXTINF:0,Abdulrahman Alsudaes Radio
+http://live.mp3quran.net:9988/;
+#EXTINF:0,Abdulrahman AlMajed
+http://live.mp3quran.net:9726/;
+#EXTINF:0,Abdulrasheed Soufi Rewayat Assosi An Abi Amr Radio
+http://live.mp3quran.net:9866/;
+#EXTINF:0,Abdulrasheed Soufi Rewayat Khalaf An Hamzah Radio
+http://live.mp3quran.net:9864/;
+#EXTINF:0,Abdul Aziz AlAhmad Radio
+http://live.mp3quran.net:9862/;
+#EXTINF:0,Abdullah AlKandari Radio
+http://live.mp3quran.net:9860/;
+#EXTINF:0,Abdullah AlMattrod Radio
+http://live.mp3quran.net:9858/;
+#EXTINF:0,Abdullah Basfer Radio
+http://live.mp3quran.net:9954/;
+#EXTINF:0,Abdullah Khayyat Radio
+http://live.mp3quran.net:9948/;
+#EXTINF:0,Abdullah AlJohany Radio
+http://live.mp3quran.net:9944/;
+#EXTINF:0,Abdulmohsin AlHarthy Radio
+http://live.mp3quran.net:9856/;
+#EXTINF:0,Abdulmohsin AlObaikan Radio
+http://live.mp3quran.net:9854/;
+#EXTINF:0,Abdulmohsen AlQasim Radio
+http://live.mp3quran.net:9852/;
+#EXTINF:0,Abdulhadi Kanakeri Radio
+http://live.mp3quran.net:9850/;
+#EXTINF:0,Abdulwadood Haneef Radio
+http://live.mp3quran.net:9848/;
+#EXTINF:0,Ali Alhuthaifi Rewayat Qalon An Nafi Radio
+http://live.mp3quran.net:9846/;
+#EXTINF:0,Ali Alhuthaifi Radio
+http://live.mp3quran.net:9844/;
+#EXTINF:0,Ali Jaber Radio
+http://live.mp3quran.net:9964/;
+#EXTINF:0,Ali Hajjaj Alsouasi Radio
+http://live.mp3quran.net:9842/;
+#EXTINF:0,Emad Hafez Radio
+http://live.mp3quran.net:9840/;
+#EXTINF:0,Omar AlQazabri Rewayat Warsh An Nafi Radio
+http://live.mp3quran.net:9838/;
+#EXTINF:0,Fares Abbad Radio
+http://live.mp3quran.net:9972/;
+#EXTINF:0,Maher Al Meaqli Radio
+http://live.mp3quran.net:8002/;
+#EXTINF:0,Maher Shakhashero Radio
+http://live.mp3quran.net:9836/;
+#EXTINF:0,Mohammad Ayyub Radio
+http://live.mp3quran.net:9960/;
+#EXTINF:0,Mohammad AlTablaway Radio
+http://live.mp3quran.net:9834/;
+#EXTINF:0,Mohammed AlLohaidan Radio
+http://live.mp3quran.net:9832/;
+#EXTINF:0,Mohammad Jibrel Radio
+http://live.mp3quran.net:9962/;
+#EXTINF:0,Mohammad Rashad Alshareef Radio
+http://live.mp3quran.net:9830/;
+#EXTINF:0,Mohammad Saleh Alim Shah Radio
+http://live.mp3quran.net:9828/;
+#EXTINF:0,Mohammed Siddiq AlMinshawi Radio
+http://live.mp3quran.net:9978/;
+#EXTINF:0,Mohammed Siddiq AlMinshawi Almusshaf Al Mojawwad Radio
+http://live.mp3quran.net:9826/;
+#EXTINF:0,Mohammad AlAbdullah Rewayat Albizi and Qunbol An Ibn Katheer Radio
+http://live.mp3quran.net:9814/;
+#EXTINF:0,Mohammad AlAbdullah Rewayat AlDorai An AlKisaai Radio
+http://live.mp3quran.net:9816/;
+#EXTINF:0,Mohammad Abdullkarem Radio
+http://live.mp3quran.net:9824/;
+#EXTINF:0,Mohammad Abdullkarem Rewayat Warsh An Nafi Men Tariq Abi Baker Alasbahani Radio
+http://live.mp3quran.net:9822/;
+#EXTINF:0,Mohammed Osman Khan from India Radio
+http://live.mp3quran.net:9820/;
+#EXTINF:0,Mahmood Al rifai Radio
+http://live.mp3quran.net:9818/;
+#EXTINF:0,Mahmood AlSheimy Rewayat AlDorai An AlKisaai Radio
+http://live.mp3quran.net:9812/;
+#EXTINF:0,Mahmoud Khalil AlHussary Radio
+http://live.mp3quran.net:9958/;
+#EXTINF:0,Mahmoud Khalil AlHussary Almusshaf Al Mojawwad Radio
+http://live.mp3quran.net:9806/;
+#EXTINF:0,Mahmoud Khalil AlHussary Rewayat Warsh An Nafi Radio
+http://live.mp3quran.net:9804/;
+#EXTINF:0,Mahmoud Ali Albanna Radio
+http://live.mp3quran.net:9808/;
+#EXTINF:0,Mahmoud Ali Albanna Almusshaf Al Mojawwad Radio
+http://live.mp3quran.net:9810/;
+#EXTINF:0,Mishary Alafasi Radio
+http://live.mp3quran.net:8010/;
+#EXTINF:0,Mustafa Ismail Radio
+http://live.mp3quran.net:9800/;
+#EXTINF:0,Mustafa AlLahoni Radio
+http://live.mp3quran.net:9798/;
+#EXTINF:0,Mustafa raad Alazawy Radio
+http://live.mp3quran.net:9796/;
+#EXTINF:0,Moeedh Alharthi Radio
+http://live.mp3quran.net:9802/;
+#EXTINF:0,Muftah Alsaltany Rewayat Aldori An Abi Am Radio
+http://live.mp3quran.net:9790/;
+#EXTINF:0,Muftah Alsaltany Rewayat AlDorai An AlKisaai Radio
+http://live.mp3quran.net:9788/;
+#EXTINF:0,Muftah Alsaltany Radio
+http://live.mp3quran.net:9792/;
+#EXTINF:0,Muftah Alsaltany Ibn Thakwan An Ibn Amer Radio
+http://live.mp3quran.net:9794/;
+#EXTINF:0,Mousa Bilal Radio
+http://live.mp3quran.net:9786/;
+#EXTINF:0,Nasser Alqatami Radio
+http://live.mp3quran.net:9994/;
+#EXTINF:0,Nabil Al Rifay Radio
+http://live.mp3quran.net:9784/;
+#EXTINF:0,Neamah AlHassan Radio
+http://live.mp3quran.net:9782/;
+#EXTINF:0,Hani Arrifai Radio
+http://live.mp3quran.net:9780/;
+#EXTINF:0,Waleed Alnaehi Rewayat Qalon An Nafi Men Tariq Abi Nasheet Radio
+http://live.mp3quran.net:9778/;
+#EXTINF:0,Yasser AlDosari Radio
+http://live.mp3quran.net:9984/;
+#EXTINF:0,Yasser AlQurashi Radio
+http://live.mp3quran.net:9776/;
+#EXTINF:0,Yasser AlMazroyee Rewayat Rowis and Rawh An Yakoob Al Hadrami Radio
+http://live.mp3quran.net:9774/;
+#EXTINF:0,Yahya Hawwa Radio
+http://live.mp3quran.net:9772/;
+#EXTINF:0,Yousef Alshoaey Radio
+http://live.mp3quran.net:9770/;
+#EXTINF:0,Yousef Bin Noah Ahmad Radio
+http://live.mp3quran.net:9768/;
+#EXTINF:0,Tafseer Radio
+http://live.mp3quran.net:9718/;
+http://live.mp3quran.net:9722/;
+#EXTINF:0,Surat Albaqarah Radio
+http://live.mp3quran.net:9722/;
+#EXTINF:0,mp3quran main radio
+http://live.mp3quran.net:8006/;
+#EXTINF:0,Beautiful Recitations
+http://live.mp3quran.net:9992/;
+#EXTINF:0,AlienWare
+http://live.mp3quran.net:9710/;
+http://live.mp3quran.net:9708/;
+#EXTINF:0,Nasser Almajed Radio
+http://live.mp3quran.net:9712/;
+#EXTINF:0,AlienWare
+http://live.mp3quran.net:9714/;
+#EXTINF:0,Abdullah Alkhalaf Radio
+http://live.mp3quran.net:9704/;
